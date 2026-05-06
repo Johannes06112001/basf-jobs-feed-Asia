@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-05-06T01:57:03Z",
-  "total_active": 41,
+  "last_updated": "2026-05-06T06:24:57Z",
+  "total_active": 42,
   "jobs": [
+    {
+      "job_id": "138100",
+      "title": "Sales Manager - Rigids PU (Construction)",
+      "url": "https://basf.jobs/job-invite/138100/?locale=en_US",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "company": "BASF India Limited",
+      "business_unit": "Asia Pacific",
+      "department": "A-PMA",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-06T05:55:35Z",
+      "description": "Objectives of the Position Sales: To plan and direct sales and marketing activities in a specific Zone (major geographic area)/ construction segment in order to achieve agreed sales volume, pricing, margins and selling cost objectives by implementing consistently the overall sales strategy, using technical, organizational and customer knowledge. To ensure timely payment of receivables from customers In addition, provide inputs and participate in the marketing, market planning and technical devel",
+      "recruiter": {
+        "name": "Sue Yan Ng",
+        "email": "sue-yan.ng@basf.com"
+      }
+    },
     {
       "job_id": "135806",
       "title": "Trainee Officer-Process Lab",
