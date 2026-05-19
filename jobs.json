@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-05-18T21:03:12Z",
-  "total_active": 40,
+  "last_updated": "2026-05-19T02:27:46Z",
+  "total_active": 41,
   "jobs": [
+    {
+      "job_id": "138544",
+      "title": "Frontend Developer",
+      "url": "https://basf.jobs/job-invite/138544/?locale=en_US",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "company": "BASF India Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GP/C Controlling, Strategy & Governance",
+      "job_field": "Procurement",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-19T01:11:06Z",
+      "description": "We are seeking a Frontend Engineer (JavaScript / React) to design and build intuitive, high-quality user interfaces for our applications. In this role, you will be responsible for developing responsive and maintainable frontend solutions, working closely with backend engineers, designers, and other stakeholders to deliver cohesive and user-focused products. Main Tasks: Develop and maintain modern web applications using JavaScript and React Build reusable, well-structured, and maintainable UI com",
+      "recruiter": {
+        "name": "Barkha Dawra",
+        "email": "barkha.dawra@partners.basf.com"
+      }
+    },
     {
       "job_id": "138441",
       "title": "Regional Product Manager",
