@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-05-19T17:58:30Z",
-  "total_active": 46,
+  "last_updated": "2026-05-19T21:11:50Z",
+  "total_active": 47,
   "jobs": [
+    {
+      "job_id": "138697",
+      "title": "GDD/PH - Test Automation Engineer (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138697/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDD/PH",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-19T17:51:26Z",
+      "description": "Main tasks • As a test automation engineer for the Operational EHS Platform and Integration team, you will be part of a global, multidisciplinary team responsible for the development of an internal platform for daily use globally at BASF production facilities. • You will develop programs that will test the accuracy and reliability of internally developed software solutions for each module during its initial development and on an ongoing basis, especially in advance of major updates/deployments. ",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
     {
       "job_id": "138694",
       "title": "GDE/EB - Solution Designer (m/f/d)",
