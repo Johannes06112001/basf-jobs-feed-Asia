@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T07:42:06Z",
-  "total_active": 53,
+  "last_updated": "2026-05-21T10:59:18Z",
+  "total_active": 56,
   "jobs": [
     {
       "job_id": "138765",
@@ -21,6 +21,69 @@
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138770",
+      "title": "GDF/AF - Solution Consultant System Integration (EDI, Order-to-Invoice) (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138770/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDF/AF Business Process Integration",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-21T10:11:52Z",
+      "description": "Main Tasks / Scope of Work The Solution Consultant provides customized integration solutions for internal partners and external partners via EDI, API, Micro Services, AI Agents, and similar technologies. The Solution Consultant supports our internal (SAP ERP and Satellite Systems) and external partners to specify their requirements and translates those into best-in-class solution designs based on technical and business process knowledge, aligned with process design and architecture. The consulta",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138715",
+      "title": "Deputy Manager - Engineering & Maintenance",
+      "url": "https://basf.jobs/job-invite/138715/?locale=en_US",
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "company": "BASF India Coatings Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "ECP/AI",
+      "job_field": "Engineering",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-21T07:52:44Z",
+      "description": "O bjectives of the Position Shift + Enter proceeds to the next line without bullet; Enter inserts new bullet Lead, coordinate and monitor engineering projects and maintenance function as per the agreed norms under the direction of production head. Ensuring smooth functioning of production Paint CED plant with minimum breakdowns by developing, implementing and sustaining best plant maintenance. To provide Maintenance services to Coatings Technology centre (CTC), ECR labs. Lead, coordinate and mon",
+      "recruiter": {
+        "name": "Vishmitha Bangera",
+        "email": "vishmitha.bangera@basf.com"
+      }
+    },
+    {
+      "job_id": "138711",
+      "title": "Manager - Business/Site Controller 1",
+      "url": "https://basf.jobs/job-invite/138711/?locale=en_US",
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "company": "BASF India Coatings Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "ECP/OCI",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-21T07:46:34Z",
+      "description": "O bjecti v es of t h e P osi t ion In charge of controlling tasks of EC Automotive Coatings in India, i.e. planning and performance management, product costing in production site, business analysis, governance and compliance As trusted business partner to local business and site management team to provide reliable data for management decision making Participate in business steering projects/initiatives within the business unit and structurally evaluate financial scenarios/ models M ain T as k s ",
+      "recruiter": {
+        "name": "Vishmitha Bangera",
+        "email": "vishmitha.bangera@basf.com"
       }
     },
     {
