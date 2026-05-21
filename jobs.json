@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T17:50:44Z",
-  "total_active": 57,
+  "last_updated": "2026-05-21T21:22:01Z",
+  "total_active": 63,
   "jobs": [
     {
       "job_id": "138765",
@@ -18,6 +18,132 @@
       "hybrid": false,
       "date_posted": "2026-05-24T18:30:00Z",
       "description": "Main Tasks / Scope of Work The Solution Consultant provides customized integration solutions for internal partners and external partners via EDI, API, Micro Services, AI Agents, and similar technologies. The Solution Consultant supports our internal (SAP ERP and Satellite Systems) and external partners to specify their requirements and translates those into best-in-class solution designs based on technical and business process knowledge, aligned with process design and architecture. The consulta",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138815",
+      "title": "GDD/GA - Full Stack Mobile Developer (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138815/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDD/GA",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-21T18:30:00Z",
+      "description": "Responsibilities: • Working in a global agile Development and Operations environment, you need to have good communication skills to keep intensively aligned with our stakeholders and our team of technical and functional experts. • You will strongly cooperate with logistics consultants and other developers, mainly taking care about the further improvement and development of our mobile solutions within Site Logistics. • As a service provider it is our ultimate target to enable and support our inte",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138817",
+      "title": "GDD/BA - SAP Production Consultant (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138817/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDD/BA Manufacturing Management",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-21T18:30:00Z",
+      "description": "Your main responsibilities: • Being part of a diverse global team and working with colleagues on complex IT projects in the Manufacturing area delivering crucial solutions to businesses, functions, and operations across BASF • Consulting, implementing, and supporting the full lifecycle of our products globally with focus on SAP PP PP/PI • Leading IT project manufacturing workstreams and performing all required workstream tasks from requirement engineering till after go live tasks • Understand an",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138819",
+      "title": "GDD/PE - Digital Solution Designer (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138819/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDD/PE",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-21T18:30:00Z",
+      "description": "Your main responsibilities: • Being part of a diverse global team and working with colleagues on complex IT projects in the Manufacturing area delivering crucial solutions to businesses, functions, and operations across BASF • Consulting, implementing, and supporting the full lifecycle of our products globally with focus on SAP PP PP/PI • Leading IT project manufacturing workstreams and performing all required workstream tasks from requirement engineering till after go live tasks • Understand an",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138821",
+      "title": "GD/C - Specialist for Digitalization in the Area of Service Charging and Data Analysis (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138821/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GD/C Digitalization Controlling & Finance",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-21T18:30:00Z",
+      "description": "Responsibilities: `you will act as a competent advisor to management and BASF internal customers regarding the service charging of the Global Digital Services unit and other service units. You are a trusted contact person for all questions related to charging and, together with the team, responsible for ensuring the monthly service charging through the operation and further development of the system landscape used. This also includes carrying out, coordinating, and troubleshooting the regular mo",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138812",
+      "title": "GDF/AF - Middleware Engineer - System Integration (EDI, SAP CPI) (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138812/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDF/AF Business Process Integration",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-21T18:02:09Z",
+      "description": "Main Tasks / Scope of Work Consulting tasks  Consults the BPI team in technical application questions during the solution design and functional specification phase  Provides effort estimation for realization and contributes to project planning  Creates Technical Design Document supported by the Business  Performs configuration and development in systems (e.g. customizing in SAP and / or KAFKA and SAP HANA DB, or in technology stack e.g. java)  Manages development activities (internal and ex",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138804",
+      "title": "GDF/AF - Middleware Product Owner - System Integration (EDI, SAP CPI) (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138804/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDF/AF Business Process Integration",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-21T17:33:23Z",
+      "description": "Main Tasks / Scope of Work Consulting tasks  Guides the middleware DevOps team together with the product manager and product architect  Create the Product Roadmap and align it with the organizational and internal Business Partner goals  Tackle with the Product Manager product-related impediments to provide the best possible environment for the team to perform at its best.  Consults the BPI team in technical application questions during the solution design and functional specification phase ",
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
