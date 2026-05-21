@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T10:59:18Z",
-  "total_active": 56,
+  "last_updated": "2026-05-21T14:42:13Z",
+  "total_active": 57,
   "jobs": [
     {
       "job_id": "138765",
@@ -17,6 +17,27 @@
       "job_type": "Permanent",
       "hybrid": false,
       "date_posted": "2026-05-24T18:30:00Z",
+      "description": "Main Tasks / Scope of Work The Solution Consultant provides customized integration solutions for internal partners and external partners via EDI, API, Micro Services, AI Agents, and similar technologies. The Solution Consultant supports our internal (SAP ERP and Satellite Systems) and external partners to specify their requirements and translates those into best-in-class solution designs based on technical and business process knowledge, aligned with process design and architecture. The consulta",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138802",
+      "title": "GDF/AF - Solution Consultant System Integration (EDI, Logistics & Transport) (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138802/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDF/AF Business Process Integration",
+      "job_field": "Digitalization",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-21T13:31:15Z",
       "description": "Main Tasks / Scope of Work The Solution Consultant provides customized integration solutions for internal partners and external partners via EDI, API, Micro Services, AI Agents, and similar technologies. The Solution Consultant supports our internal (SAP ERP and Satellite Systems) and external partners to specify their requirements and translates those into best-in-class solution designs based on technical and business process knowledge, aligned with process design and architecture. The consulta",
       "recruiter": {
         "name": "Senthil Kumar",
