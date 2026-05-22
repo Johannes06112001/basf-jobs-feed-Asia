@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T14:17:29Z",
-  "total_active": 68,
+  "last_updated": "2026-05-22T17:45:17Z",
+  "total_active": 74,
   "jobs": [
     {
       "job_id": "138765",
@@ -18,6 +18,132 @@
       "hybrid": false,
       "date_posted": "2026-05-24T18:30:00Z",
       "description": "Main Tasks / Scope of Work The Solution Consultant provides customized integration solutions for internal partners and external partners via EDI, API, Micro Services, AI Agents, and similar technologies. The Solution Consultant supports our internal (SAP ERP and Satellite Systems) and external partners to specify their requirements and translates those into best-in-class solution designs based on technical and business process knowledge, aligned with process design and architecture. The consulta",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138867",
+      "title": "GDE/DD - SAP Consultant- FI/CO (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138867/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/DD Legal, Tax & Compliance",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-22T17:16:06Z",
+      "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138864",
+      "title": "GDE/EA - SAP Consultant HR Payroll (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138864/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/EA HR Devops",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-22T17:04:55Z",
+      "description": "Key Responsibilities • Consult European HR and payroll stakeholders on SAP Payroll European (Spain, Belgium) requirements • Design and implement Europe specific payroll schemas, rules, and calculations • Customize SAP Payroll and develop enhancements using ABAP / ABAP OO • Ensure solution quality via testing, payroll validation, and production support • Work in an Agile / DevOps setup within a global HR Solutions product team • Support S/4HANA Payroll evolution and automation initiatives _______",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138863",
+      "title": "GDE/FF - SAP Consultant (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138863/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/FF Business Partner & Finance Master Data",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-22T16:53:38Z",
+      "description": "Responsibilities: \"You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you wil",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138860",
+      "title": "GDE/AE - Platform Engineer (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138860/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/AE",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-22T14:27:49Z",
+      "description": "Responsibilities: • Design, develop, operate, and maintain applications, platforms, and infrastructure systems to support BASF’s digital transformation • Steer platform delivery by providers, including request fulfillment, escalation management, and controls platform operations (ensuring SLA adherence) • Ensure operational security and compliance of platforms, troubleshooting and resolving platform issues as needed • Optimize efficiency, performance, and implement cost-effective solutions, focus",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138859",
+      "title": "GDE/DB - SAP Consultant (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138859/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/DB",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-22T14:16:00Z",
+      "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138855",
+      "title": "GDE/ED - SAP Consultant HR Time Management",
+      "url": "https://basf.jobs/job-invite/138855/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/ED Personnel Administration&Time Management",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-22T14:13:14Z",
+      "description": "Key Responsibilities • Consult European HR and payroll stakeholders on SAP Payroll European (Spain, Belgium) requirements • Design and implement Europe specific payroll schemas, rules, and calculations • Customize SAP Payroll and develop enhancements using ABAP / ABAP OO • Ensure solution quality via testing, payroll validation, and production support • Work in an Agile / DevOps setup within a global HR Solutions product team • Support S/4HANA Payroll evolution and automation initiatives _______",
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
