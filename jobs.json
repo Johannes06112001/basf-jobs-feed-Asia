@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T02:29:44Z",
-  "total_active": 63,
+  "last_updated": "2026-05-22T07:36:48Z",
+  "total_active": 64,
   "jobs": [
     {
       "job_id": "138765",
@@ -18,6 +18,27 @@
       "hybrid": false,
       "date_posted": "2026-05-24T18:30:00Z",
       "description": "Main Tasks / Scope of Work The Solution Consultant provides customized integration solutions for internal partners and external partners via EDI, API, Micro Services, AI Agents, and similar technologies. The Solution Consultant supports our internal (SAP ERP and Satellite Systems) and external partners to specify their requirements and translates those into best-in-class solution designs based on technical and business process knowledge, aligned with process design and architecture. The consulta",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138835",
+      "title": "GD/C - Finance Manager (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138835/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GD/C Digitalization Controlling & Finance",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-22T06:38:07Z",
+      "description": "Responsibilities: `We are establishing a Global Capability Center (GCC) in Hyderabad to support our company’s digitalization initiatives. As part of this strategic expansion, we seek a highly skilled and experienced Finance, Controlling Tax Manager to manage all financial operations, statutory compliance, and tax-related matters for the GCC. This is a critical role requiring a self-driven professional who can independently handle end-to-end finance and compliance responsibilities. Key Responsibi",
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
@@ -397,7 +418,7 @@
       "date_posted": "2026-05-19T10:35:38Z",
       "description": "Objective: We are looking for a highly dynamic, motivated, and collaborative person to join our team. We are focused on the modernization of legacy systems and development of new capabilities of digital solutions in the Operations Platform team. There is a growing global need within BASF to leverage digitalization to continue BASF's journey of excellence and continuously improving our capabilities especially through digitalization. In this role, you will work alongside a global development team ",
       "recruiter": {
-        "name": "Santhosh Kumar S G",
+        "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
       }
     },
@@ -460,7 +481,7 @@
       "date_posted": "2026-05-19T06:55:09Z",
       "description": "Main tasks Drive and own the further development of the data product layer of our Enterprise Datalake to meet both user and internal needs. Align with local and global stakeholders to ensure the platform's scalability, reliability and security Together with your team ensure high quality of the services you are responsible for and initiate improvement measures as well as functionality Stay abreast of the newest technologies and trends in the big data and data mesh domain Act as the point of conta",
       "recruiter": {
-        "name": "Santhosh Kumar S G",
+        "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
       }
     },
@@ -815,7 +836,7 @@
       "job_type": "Permanent",
       "hybrid": false,
       "date_posted": "2026-03-31T09:52:05Z",
-      "description": "About The Role Ensure that statutory reporting is completed in compliance manner and on timely basis. Ensure that group reporting is completed in compliant manner and on timely basis. Ensure completion of limited review and audits with quality and controls on a timely basis. Perform basic analysis on the financial statement How Will You Do It Finalize of accounts Statutory audit of BIL on quarterly basis and on yearly basis (including liaison with PwC) Explain the financial performance of BIL to",
+      "description": "About The Role Ensure that statutory reporting is completed in compliance manner and on timely basis. Ensure that group reporting is completed in compliant manner and on timely basis. Ensure completion of limited review and audits with quality and controls on a timely basis. Perform basic analysis on the financial statement How Will You Do It Finalize the results statutory audit of BIL on quarterly basis and on yearly basis (including liaison with Deloitte) Prepare for Board meeting, ACM, AGM, A",
       "recruiter": {
         "name": "Barkha Dawra",
         "email": "barkha.dawra@partners.basf.com"
