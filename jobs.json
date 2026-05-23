@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-23T09:43:49Z",
-  "total_active": 103,
+  "last_updated": "2026-05-23T16:51:32Z",
+  "total_active": 125,
   "jobs": [
     {
       "job_id": "138765",
@@ -21,6 +21,468 @@
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138925",
+      "title": "GDB/Z - SAP Datasphere Platform Engineer (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138925/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDB/Z Data Foundation",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T13:28:37Z",
+      "description": "5+ years in enterprise data architecture or analytics platform design. Proven experience with SAP BW/4, SAP Datasphere / Data Warehouse Cloud setup and operations. Expertise in SAP BTP, Cloud Connector, Spaces, Connections, and Data Flows. Strong understanding of semantic modeling, business layers, and data lineage. Hands-on with SAP Analytics Cloud integration and self-service enablement. Familiarity with cloud services (Azure, AWS, GCP) and federated query architectures. Strong communication s",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138924",
+      "title": "GDD/EN - Platform engineer CAE solutions  (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138924/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDD/EN CAE & Gastronomy Solutions",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T13:18:29Z",
+      "description": "Very good experience with current Microsoft Windows client and server operating systems Very good system integration knowledge with Microsoft Active Directory / Entra ID structures, Group management, policies, roles and rights Very good infrastructure understanding for client-/server applications, database-, webserver-, security -integration -, saas /cloud . Analytic thinking skills independent way of working and direct customer support Experience in Software evaluation, SW packaging and enterpr",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138923",
+      "title": "GDD/EN - Solution designer 3rd party SW solutions (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138923/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDD/EN CAE & Gastronomy Solutions",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T13:11:00Z",
+      "description": "Experience in heterogeneous enterprise IT environments (Windows, Linux, Networks) Technical security IAM understanding according to corporate standards Third-party software integration (design, infrastructure, security, connectivity) Lifecycle management, updates, end of life (EoL) At least 4 years of service experience with Microsoft SQL servers (DML DDL) Basic knowledge of PostgreSQL databases At least 4 years of service experience with Oracle databases (DML DDL) (including the latest versions",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138922",
+      "title": "GDA/JK - IT Asset Management, Monitoring & Workload Management Specialist (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138922/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDA/JK Monitoring & Workload Management",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T13:04:01Z",
+      "description": "IT Asset Management Handle Incidents, Service Requests, and Changes related to IT Asset and Configuration Management Perform data correction, maintenance, and cleanup activities in the ServiceNow CMDB Support CI data quality management , including validation, health checks, mass updates, and structural corrections Create and maintain CI and asset reports for internal stakeholders and operational teams Support asset lifecycle processes by collaborating with CI Owners, CI Coordinators, and Asset O",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138921",
+      "title": "GDB/X - Agentic AI Architect (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138921/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GBI/UP-D Data Analytics & AI",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T12:55:46Z",
+      "description": "Architect the Agent Backbone: Define and maintain the enterprise reference architecture for autonomous agents, ensuring seamless interoperability between managed services (Azure AI Foundry) and custom open-source runtimes on AKS. - Define Agentic Standards: Own the technical standards for the ecosystem, including the Model Context Protocol (MCP) for tool interoperability and the Agent-to-Agent (A2A) communication protocol. - Design the Orchestration Layer: Lead the architectural design of our ce",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138920",
+      "title": "GDB/X - Junior Agentic AI Engineer (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138920/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GBI/UP-D Data Analytics & AI",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T12:49:27Z",
+      "description": "Responsibilities: - Create Agent Tools: Write Python functions and API wrappers that allow our agents to perform actions (e.g., \"Look up material price in SAP\"), following the MCP standard. - Maintain Quality: Write comprehensive unit tests and \"Evals\" (using LLM-as-a-Judge) to ensure our agents are accurate, safe, and helpful. - Support Operations: Monitor agent performance using our observability tools, helping to identify and fix issues like hallucinations or failed API calls. - Build Test Ag",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138919",
+      "title": "GDF/CR - DevOps Engineer Integration (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138919/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDF/CR Integration Foundation",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T12:40:52Z",
+      "description": "Main Tasks/Responsibilities: Shape BASF’s future planning landscape by further developing our Supply Chain Planning Framework on OMP Develop, maintain monitor interfaces for different on-premise and cloud integration scenarios Manage Data Integration infrastructures and facilitate development for functional squads in the Product Family Live end-to-end-responsibility, being able to adopt to new requirements and learning new technologies within a virtual global agile team Recognize impediments wit",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138918",
+      "title": "GDF/CN - DevOps Engineer OMP SnOP (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138918/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDF/CN S&OP & Supply Plann. (Adv.: EU, AP)",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T12:33:15Z",
+      "description": "Minimum 5years’ experience in supply chain with good understanding of system background (SAP APO, IBP, OMP or others) Excellent communication skills in English with customers/Internal business partners Supply chain system functional design, configuration and debugging experience Technical Professional Knowledge: Solid DevOps knowledge of supply chain planning related solutions Process knowledge of supply chain planning at least in one of below area: Demand Planning, S OP, Supply Planning, Detail",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138917",
+      "title": "GDB/X - Senior Agentic AI Engineer (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138917/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GBI/UP-D Data Analytics & AI",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T11:28:25Z",
+      "description": "Responsibilities: - Engineer Core Components: Lead the development of the orchestration service and Agent-to-Agent (A2A) bus, writing high-performance Python code that routes thousands of requests per minute. - Build Complex Agents: Implement \"Horizon 3/4\" autonomous agents (e.g., self-correcting coding agents, complex supply chain optimizers) using LangGraph or AutoGen hosted on AKS. - Integrate Data AI: Build robust integrations between Databricks (Unity Catalog) and our agent runtime, ensurin",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138916",
+      "title": "GDB/X - RPA Administrator (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138916/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GBI/UP-D Data Analytics & AI",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T11:27:35Z",
+      "description": "Responsibilities: In this role you will be responsible for among others setting, managing UIPath automation platform, integration, governance, upgrades, bot management and orchestration. Work with other automation teams to understand requirements and develop roadmap • Quality and sustainability assurance o Technical steering and quality management o Assure compliance to global processes, guidelines and policies • Trainings, exchange, and support on best practices, supporting the BASF organizatio",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138913",
+      "title": "GDB/X - RPA Engineer (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138913/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GBI/UP-D Data Analytics & AI",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T10:50:54Z",
+      "description": "Responsibilities: In this role you will be responsible for among others setting, reviewing scripts and enhancing global RPA standards, scripts and bot-configuration with UiPath and boosting digitalization at BASF • Quality and sustainability assurance o Technical steering and quality management o Assure compliance to global processes, guidelines and policies • Automation o Manage and deliver scripting and automation as a service o Defining and developing of libraries, frameworks and custom activ",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138915",
+      "title": "GDF/BF - Digital Pricing Expert (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138915/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDF/BF Digital Pricing",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T10:30:06Z",
+      "description": "Required ( Education, Additional Qualifications and experience ) Bachelor’s or master’s degree in Computer science, Software Engineering or comparable from an accredited college or university is required Minimum 3+ years’ experience in working with Salesforce Experience in agile Software development Passion for working in a team Analytical capabilities Experiences in working in global / virtual teams/projects An entrepreneurial spirit and the ability to foster a positive and energized culture Ex",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138914",
+      "title": "GDE/MC - SAP Developer (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138914/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/MC Order Management & Advisory SA",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T10:18:21Z",
+      "description": "Senior technical profile with 6+ years SAP development and integration experience On Premise/Cloud, RAP development. Modern ABAP development, ODATA, CDS Views, CPI, Fiori, Cloud Compliance with strong focus on Clean Core. Proficiency in interface technologies and development (API management, Kafka)Functional knowledge of SAP S/4HANA SD, other modules are beneficial (MM, TM, ..)Preferable knowledge: Datasphere and Data Products. Condition technique (pricing, surcharges, discounts). E-Invoicing.",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138912",
+      "title": "GDE/MC - Senior DevOps Engineer SAP SD (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138912/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/MC Order Management & Advisory SA",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T10:06:42Z",
+      "description": "Minimum 4-6 years related working experience with complex SAP applications. Hands ‑ on experience in SAP Settlement Management / CCM, with strong knowledge of rebate and commission processes, condition contracts, accruals, settlement flows, and FI integration Experience with S/4HANA, supported by functional knowledge of SAP SD Order-to-Cash processes, including sales orders, invoicing, pricing conditions, and related SD configuration/customizing. Strong understanding of SAP pricing procedures, c",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138911",
+      "title": "GDE/AD - SAP Authorization Specialist (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138911/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/AD",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T10:03:45Z",
+      "description": "Responsibilities • Design, implement, and operate compliant SAP authorization roles and user access to support BASF’s digital transformation • Ensure secure and compliant platform operations through accurate authorization design and issue resolution • Govern and steer authorization delivery by suppliers, including request fulfillment, escalation management, and SLA compliance • Develop, enhance, and maintain SAP authorization concepts, guidelines, and security requirements • Monitor existing aut",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138910",
+      "title": "GDE/FE - Software Engineer (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138910/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/FE Material & Substance Master Data",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T09:57:38Z",
+      "description": "Bachelor’s or master’s degree in Business, IT, or a related field, combined with 2–5 years of relevant professional experience. - Strong technical and functional expertise in STIBO Systems STEP software. - Proven experience in data model adaptations and the creation of business rules. - Hands‑on experience in the analysis and implementation of integration scenarios with SAP S/4. - A technical background in SAP S/4 is considered a strong advantage. - Strong collaboration and communication skills ",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138909",
+      "title": "GDE/ME - SAP Developer (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138909/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/ME Order Management & Advisory NA",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T09:50:08Z",
+      "description": "Senior technical profile with 6+ years SAP development and integration experience Proficiency in interface technologies and development (API management, kafka) Modern ABAP development, ODATA, CDS, ASAPIOFunctional knowledge of SAP S/4 SD and additional modules (MM, TM...)",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138908",
+      "title": "GDE/A - Product Manager SAP Authorization (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138908/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/A Core Systems (ERP) & Foundation",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T09:40:20Z",
+      "description": "Completed university degree in Business Informatics, Business Administration or Computer Science with several years of professional experience Several years of professional experience in various areas in the IT/digital environment, including SAP, as well as experience in application projects Practiced leadership skills (orchestration and management of cross-functional topics), entrepreneurial thinking and organizational awareness Ability to critically question the status quo and openness for new",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138907",
+      "title": "GDB/DC - DevOps Engineer (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138907/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDB/DC DevHub Development Capabilities",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T09:39:15Z",
+      "description": "Responsibilities: We are seeking a highly motivated and detail-oriented Infrastructure Engineer to join our dynamic team. In this role, you will be responsible for developing and maintaining the infrastructure components. You will work closely with our senior developers to create high quality, scalable, and responsive software solutions. Develop, run, and automate CI/CD pipelines – Infrastructure as code. Monitoring of cloud PaaS and IaaS components – Availability, Performance, Security. Ensure ",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138906",
+      "title": "GDE/DA - SAP Consultant (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138906/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/DA Financial Accounting & Reporting",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T09:33:27Z",
+      "description": "SAP FI/CO Financial functional expertise, including strong FI customizing (main subject area general accoutning Asset Management and process knowledge. Experience in S/4HANA environments with 6+ years working on complex SAP applications. Experience working in global AMS support teams providing capabilities in ticket resolution, maintenance troubleshooting Agile DevOps mindset with hands‑on experience in Scrum, self‑organized work, user stories, testing documentation. Integration cross‑module awa",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138904",
+      "title": "GDB/DC - Senior Full-Stack Engineer (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138904/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDB/DC",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T09:28:39Z",
+      "description": "Responsibilities: We are seeking a highly motivated and detail-oriented Full-Stack Engineer to join our dynamic team. In this role, you will be responsible for developing and maintaining the infrastructure components. You will work closely with our senior developers to create high quality, scalable, and responsive software solutions. Template Development: Design and build reusable templates and components for web teams to streamline their development processes. - User Experience Enhancement: Enh",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138905",
+      "title": "GDE/EC - SAP Developer - HR Authorizations in SAP HCM (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138905/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/EC Global HR Master Data & HR Self Services",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-23T09:26:54Z",
+      "description": "SAP Security Fundamentals (Mandatory) Role and authorization concepts (least privilege, segregation of duties) Role maintenance with PFCG User administration (SU01) Authorization troubleshooting (SU53, ST01, STAUTHTRACE) HCM-Specific Authorization Expertise Infotype - and subtype-based authorization logic Understanding HR master data sensitivities Knowledge of personnel areas, groups, and payroll relevance Understanding core HR processes (hire, transfer, termination) Structural Authorizations in",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
       }
     },
     {
