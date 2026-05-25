@@ -1,7 +1,70 @@
 {
-  "last_updated": "2026-05-25T02:33:42Z",
-  "total_active": 125,
+  "last_updated": "2026-05-25T08:11:58Z",
+  "total_active": 128,
   "jobs": [
+    {
+      "job_id": "138946",
+      "title": "GDE/MA - SAP Consultant - ATP (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138946/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/MA Order Management & Advisory EU1",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-25T07:48:01Z",
+      "description": "Senior functional expert around ATP aATP expertise preferred PAC, BOP, PAL, ABC/SBC experience Technical and architectural understandingFunctional and process knowledge in S4 Sales, Manufacturing and Source-to-Pay",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138945",
+      "title": "GDE/MA - Solution Architect (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138945/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/MA Order Management & Advisory EU1",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-25T07:38:11Z",
+      "description": "Deep understanding of SAP S/4HANA end to end Supply Chain processes • Strong knowledge of SAP standard vs. custom development and the ability to make design decisions accordingly with a focus on SAP SD • Solid understanding of SAP architecture principles, including S/4HANA, BTP, integration, and extension patterns • Good technical foundation (e.g. ABAP basics, APIs, integrations), without necessarily being a developer• Experience with ERP transformations or large SAP programs",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "138845",
+      "title": "Assistant Manager QC",
+      "url": "https://basf.jobs/job-invite/138845/?locale=en_US",
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "company": "BASF India Coatings Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "ECP/AI",
+      "job_field": "Quality Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-25T05:19:23Z",
+      "description": "O bjectives of the Position Responsible for the efficiency and enhancement of routine inspection by improving test methods and procedures, or via recipe optimization in collaboration with Product Owner to reduce systematic adjustment. Responsible for the asset management of laboratory testing equipment and facility by ensuring that they are maintained, calibrated, or replaced for optimal performance. Act as the gatekeeper to ensure the technical feasibility, repeatability and reproducibility of ",
+      "recruiter": {
+        "name": "Sunita Choudhary",
+        "email": "sunita.choudhary@partners.basf.com"
+      }
+    },
     {
       "job_id": "138765",
       "title": "GDF/AF - Solution Consultant System Integration (EDI, Purchase-to-Pay) (M/F/D)",
