@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-05-29T11:20:06Z",
-  "total_active": 148,
+  "last_updated": "2026-05-29T14:41:06Z",
+  "total_active": 149,
   "jobs": [
+    {
+      "job_id": "138941",
+      "title": "Sales Manager - Animal Nutrition, Vitamins and Carotenoids",
+      "url": "https://basf.jobs/job-invite/138941/?locale=en_US",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "company": "BASF India Limited",
+      "business_unit": "Asia Pacific",
+      "department": "EN Nutrition & Health",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-29T10:55:53Z",
+      "description": "About The Role To drive profitable growth of business in India. How You Will Do It Plan and direct sales activities in India to achieve agreed sales volume, pricing and selling cost objectives by implementing consistently the overall sales strategy, using technical, organizational and customer knowledge. Be responsible for business top line, bottom line and volume growth as per annual targets. Develop and maintain strategic long-term business relationships with respective accounts (all decision-",
+      "recruiter": {
+        "name": "Sejal Sandeep Singh",
+        "email": "sejal.sandeep-singh@partners.basf.com"
+      }
+    },
     {
       "job_id": "138977",
       "title": "GDB/ZF - External data management specialist (m/f/d)",
