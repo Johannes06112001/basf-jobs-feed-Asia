@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-06-02T08:20:33Z",
-  "total_active": 148,
+  "last_updated": "2026-06-02T16:01:06Z",
+  "total_active": 152,
   "jobs": [
+    {
+      "job_id": "139292",
+      "title": "GDA/AH - Senior Digital Experience Engineer (m/f/d)",
+      "url": "https://basf.jobs/job-invite/139292/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDA/AH Experience Management",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-02T11:54:20Z",
+      "description": "About the Role As Senior Digital Experience Engineer , you will play a key role in scaling and operationalizing Nexthink as a core Digital Experience Intelligence platform within BASF’s global digital workplace. Your mission is to identify, shape, and implement high ‑ value use cases and quality improvements across the workplace ecosystem – translating data and insights into measurable improvements for end users, IT operations, and business outcomes. Working closely with Product Owners, Workplac",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "139291",
+      "title": "GD/IC - Digital Portfolio Steering Specialist (m/f/d)",
+      "url": "https://basf.jobs/job-invite/139291/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GD/IC Portfolio Steering",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-02T11:43:27Z",
+      "description": "Responsibilities: Support and continuously improve portfolio steering processes for Business Applications and IT Services (intake, prioritization, planning, and governance) Support demand management by collecting, clarifying, qualifying, and structuring incoming initiatives and service requests (incl. value hypotheses and sizing) Facilitate prioritization discussions with business and IT stakeholders by providing structured input on value, risk, architecture fit, capacity, and financial constrai",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "139289",
+      "title": "GDB/DH - Scrum Master (m/f/d)",
+      "url": "https://basf.jobs/job-invite/139289/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDB/DH Digital Capabilities Enablement",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-02T11:01:47Z",
+      "description": "Responsibilities and Key Outcomes • Guiding and coaching the Scrum Team and DevHub in the effective use of Agile practices, creating an environment that enables teams to become self-managed and sustainably high performing. • Supporting and coaching the Product Owner by providing techniques to refine and prioritize the backlog, ensuring alignment with broader product and organizational priorities. • Assessing the agile maturity of teams and the platform and actively guiding them toward higher lev",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
+    {
+      "job_id": "139281",
+      "title": "GDE/MA - SAP Developer (m/f/d)",
+      "url": "https://basf.jobs/job-invite/139281/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDE/MA Order Management & Advisory EU1",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-02T09:10:02Z",
+      "description": "2nd Level Support Analyst Order-to-Cash (SAP S/4HANA) Support Analyst with foundational knowledge in SAP S/4HANA Order-to-Invoice processes and a strong aptitude for structured troubleshooting across application, integration, and process layers. The role is part of the growing S/4 AMS team in Hyderabad and is designed for professionals who bring analytical thinking, process understanding, and a willingness to strengthen expertise in an ITIL-aligned support environment. The focus is on incident a",
+      "recruiter": {
+        "name": "Santhosh Kumar SG",
+        "email": "santhosh.2183711@infosys.com"
+      }
+    },
     {
       "job_id": "139014",
       "title": "Sales Manager PU - Footwear, Sports & Leisure 1",
