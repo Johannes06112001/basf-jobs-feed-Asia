@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-06-03T02:49:48Z",
-  "total_active": 152,
+  "last_updated": "2026-06-03T08:47:49Z",
+  "total_active": 153,
   "jobs": [
+    {
+      "job_id": "139276",
+      "title": "Assistant Research Scientist I",
+      "url": "https://basf.jobs/job-invite/139276/?locale=en_US",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "state": "Maharashtra",
+      "country": "India",
+      "company": "BASF Chemicals India Pvt. Ltd.",
+      "business_unit": "Asia Pacific",
+      "department": "APR/PD",
+      "job_field": "Research & Development",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-03T06:48:09Z",
+      "description": "Objectives of the position: Analytical testing characterization of chemical compounds Representative Main tasks: Conduct analytical testing and characterization of chemical compounds/materials Performing qualitative quantitative analysis using techniques like UPLC, GC Performing GCMS LCMS analysis Supporting R D projects with data generation, interpretation with high accuracy precision Maintaining and calibrating instruments to ensure optimal performance UpToDate documentation ( e.g., ELN writin",
+      "recruiter": {
+        "name": "Anishka Naik",
+        "email": "anishka.naik@basf.com"
+      }
+    },
+    {
+      "job_id": "139271",
+      "title": "Assistant Research Scientist I",
+      "url": "https://basf.jobs/job-invite/139271/?locale=en_US",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "state": "Maharashtra",
+      "country": "India",
+      "company": "BASF Chemicals India Pvt. Ltd.",
+      "business_unit": "Asia Pacific",
+      "department": "APR/PD",
+      "job_field": "Research & Development",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-03T06:46:36Z",
+      "description": "Objectives of the position: Analytical testing characterization of chemical compounds Representative Main tasks: Conduct analytical testing and characterization of chemical compounds/materials Performing qualitative quantitative analysis using techniques like UPLC, GC Performing GCMS LCMS analysis Supporting R D projects with data generation, interpretation with high accuracy precision Maintaining and calibrating instruments to ensure optimal performance UpToDate documentation ( e.g., ELN writin",
+      "recruiter": {
+        "name": "Anishka Naik",
+        "email": "anishka.naik@basf.com"
+      }
+    },
     {
       "job_id": "139292",
       "title": "GDA/AH - Senior Digital Experience Engineer (m/f/d)",
@@ -19,8 +61,8 @@
       "date_posted": "2026-06-02T11:54:20Z",
       "description": "About the Role As Senior Digital Experience Engineer , you will play a key role in scaling and operationalizing Nexthink as a core Digital Experience Intelligence platform within BASF’s global digital workplace. Your mission is to identify, shape, and implement high ‑ value use cases and quality improvements across the workplace ecosystem – translating data and insights into measurable improvements for end users, IT operations, and business outcomes. Working closely with Product Owners, Workplac",
       "recruiter": {
-        "name": "Santhosh Kumar SG",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -40,8 +82,8 @@
       "date_posted": "2026-06-02T11:43:27Z",
       "description": "Responsibilities: Support and continuously improve portfolio steering processes for Business Applications and IT Services (intake, prioritization, planning, and governance) Support demand management by collecting, clarifying, qualifying, and structuring incoming initiatives and service requests (incl. value hypotheses and sizing) Facilitate prioritization discussions with business and IT stakeholders by providing structured input on value, risk, architecture fit, capacity, and financial constrai",
       "recruiter": {
-        "name": "Santhosh Kumar SG",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -61,8 +103,8 @@
       "date_posted": "2026-06-02T11:01:47Z",
       "description": "Responsibilities and Key Outcomes • Guiding and coaching the Scrum Team and DevHub in the effective use of Agile practices, creating an environment that enables teams to become self-managed and sustainably high performing. • Supporting and coaching the Product Owner by providing techniques to refine and prioritize the backlog, ensuring alignment with broader product and organizational priorities. • Assessing the agile maturity of teams and the platform and actively guiding them toward higher lev",
       "recruiter": {
-        "name": "Santhosh Kumar SG",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -82,8 +124,8 @@
       "date_posted": "2026-06-02T09:10:02Z",
       "description": "2nd Level Support Analyst Order-to-Cash (SAP S/4HANA) Support Analyst with foundational knowledge in SAP S/4HANA Order-to-Invoice processes and a strong aptitude for structured troubleshooting across application, integration, and process layers. The role is part of the growing S/4 AMS team in Hyderabad and is designed for professionals who bring analytical thinking, process understanding, and a willingness to strengthen expertise in an ITIL-aligned support environment. The focus is on incident a",
       "recruiter": {
-        "name": "Santhosh Kumar SG",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -313,8 +355,8 @@
       "date_posted": "2026-05-25T10:11:28Z",
       "description": "Bachelor’s degree in computer science, Information Technology, or related field. Minimum of 3 years of experience in Software Development and DevOps (incl. Agile Working) Familiarity with programming languages such as C#, .NET, SQL, and Angular which are commonly used in One Identity Manager development Experience in Identity Management Experience with One Identity Manager Excellent communication (written and verbal) skills in English are essential Strong analytical and problem-solving skills to",
       "recruiter": {
-        "name": "Santhosh Kumar SG",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -649,8 +691,8 @@
       "date_posted": "2026-05-25T07:48:01Z",
       "description": "Senior functional expert around ATP aATP expertise preferred PAC, BOP, PAL, ABC/SBC experience Technical and architectural understandingFunctional and process knowledge in S4 Sales, Manufacturing and Source-to-Pay",
       "recruiter": {
-        "name": "Santhosh Kumar SG",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -774,27 +816,6 @@
       "hybrid": false,
       "date_posted": "2026-05-23T13:11:00Z",
       "description": "Experience in heterogeneous enterprise IT environments (Windows, Linux, Networks) Technical security IAM understanding according to corporate standards Third-party software integration (design, infrastructure, security, connectivity) Lifecycle management, updates, end of life (EoL) At least 4 years of service experience with Microsoft SQL servers (DML DDL) Basic knowledge of PostgreSQL databases At least 4 years of service experience with Oracle databases (DML DDL) (including the latest versions",
-      "recruiter": {
-        "name": "Santhosh Kumar SG",
-        "email": "santhosh.2183711@infosys.com"
-      }
-    },
-    {
-      "job_id": "138922",
-      "title": "GDA/JK - IT Asset Management, Monitoring & Workload Management Specialist (m/f/d)",
-      "url": "https://basf.jobs/job-invite/138922/?locale=en_US",
-      "city": "Hyderabad",
-      "state": "Andhra Pradesh",
-      "country": "India",
-      "company": "BASF Digital Solutions Private Limited",
-      "business_unit": "Asia Pacific",
-      "department": "GDA/JK Monitoring & Workload Management",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-23T13:04:01Z",
-      "description": "IT Asset Management Handle Incidents, Service Requests, and Changes related to IT Asset and Configuration Management Perform data correction, maintenance, and cleanup activities in the ServiceNow CMDB Support CI data quality management , including validation, health checks, mass updates, and structural corrections Create and maintain CI and asset reports for internal stakeholders and operational teams Support asset lifecycle processes by collaborating with CI Owners, CI Coordinators, and Asset O",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -2056,8 +2077,8 @@
       "date_posted": "2026-05-21T18:30:00Z",
       "description": "Your main responsibilities: • Being part of a diverse global team and working with colleagues on complex IT projects in the Manufacturing area delivering crucial solutions to businesses, functions, and operations across BASF • Consulting, implementing, and supporting the full lifecycle of our products globally with focus on SAP PP PP/PI • Leading IT project manufacturing workstreams and performing all required workstream tasks from requirement engineering till after go live tasks • Understand an",
       "recruiter": {
-        "name": "Senthil Kumar",
-        "email": "senthil.kumar@careernet.in"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -2350,8 +2371,8 @@
       "date_posted": "2026-05-19T16:33:44Z",
       "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will",
       "recruiter": {
-        "name": "Santhosh Kumar SG",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -2371,8 +2392,8 @@
       "date_posted": "2026-05-19T10:35:38Z",
       "description": "Objective: We are looking for a highly dynamic, motivated, and collaborative person to join our team. We are focused on the modernization of legacy systems and development of new capabilities of digital solutions in the Operations Platform team. There is a growing global need within BASF to leverage digitalization to continue BASF's journey of excellence and continuously improving our capabilities especially through digitalization. In this role, you will work alongside a global development team ",
       "recruiter": {
-        "name": "Santhosh Kumar SG",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -2392,8 +2413,8 @@
       "date_posted": "2026-05-19T08:16:44Z",
       "description": "DevOps Engineer OMP OPR Your main responsibilities include: • You are responsible for designing, implementing, and supporting OMP related developments using OPAL. • Build and deploy the templates using GIT version control system. • Experience in implementing pyramids/solvers/conflicts in OPAL programming language. • Understanding in software development lifecycle including automated testing and working on the development and operational topics • Skills in programming language python, Java, C++ E",
       "recruiter": {
-        "name": "Santhosh Kumar S G",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -2413,8 +2434,8 @@
       "date_posted": "2026-05-19T08:14:42Z",
       "description": "Fullstack Developer / Engineer Main Requirenents: A Master degree in the field of computer science, mathematics, life sciences, chemistry, business administration, or related discipline with at least 1 year of experience in a similar role A Bachelor degree in the field of computer science, mathematics, life sciences, chemistry, business administration, or related discipline with at least 3 years of experience in a similar role Provide expertise in the technical stack development of complex scena",
       "recruiter": {
-        "name": "Santhosh Kumar S G",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -2434,8 +2455,8 @@
       "date_posted": "2026-05-19T06:55:09Z",
       "description": "Main tasks Drive and own the further development of the data product layer of our Enterprise Datalake to meet both user and internal needs. Align with local and global stakeholders to ensure the platform's scalability, reliability and security Together with your team ensure high quality of the services you are responsible for and initiate improvement measures as well as functionality Stay abreast of the newest technologies and trends in the big data and data mesh domain Act as the point of conta",
       "recruiter": {
-        "name": "Santhosh Kumar SG",
-        "email": "santhosh.2183711@infosys.com"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -2455,8 +2476,8 @@
       "date_posted": "2026-05-19T06:55:06Z",
       "description": "Main tasks • Develop, extend and optimize the data product layer of our Enterprise Datalake with high code standards, tests and suitable documentation to meet both user and internal needs. • Collaborate with the product owner and architect to understand data requirements and provide suitable solutions. • Troubleshoot data and software related issues and optimize pipelines for performance and scalability. • Work with Azure Databricks, Azure Data Factory/Synapse keeping up to date with the latest ",
       "recruiter": {
-        "name": "Senthil Kumar",
-        "email": "senthil.kumar@careernet.in"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
@@ -2476,8 +2497,8 @@
       "date_posted": "2026-05-19T06:50:21Z",
       "description": "Education ▪ Bachelor's degree in computer science, Information Technology, Engineering, Business, or related fields. Work experience ▪ Minimum 7-8 years related working experience as a Dataengineer using Azure, Databricks, Python, Azure Data Factory or Synapse Technical Professional Knowledge (mandatory) ▪ Experience in Agile way of working with a DevOps mindset ▪ In-depth know how with Lakehouse concepts, Databricks and Unity Catalog. ▪ Strong data engineering and development skills to maintain",
       "recruiter": {
-        "name": "Nibedita Sahoo",
-        "email": "nibedita.sahoo@careernet.in"
+        "name": "Luis Rodriguez Rizk",
+        "email": "luis.a.rodriguez@basf.com"
       }
     },
     {
