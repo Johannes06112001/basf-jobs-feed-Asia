@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-06-04T02:45:07Z",
-  "total_active": 155,
+  "last_updated": "2026-06-04T08:12:33Z",
+  "total_active": 156,
   "jobs": [
+    {
+      "job_id": "139239",
+      "title": "Assistant Manager - Pigment and Paste",
+      "url": "https://basf.jobs/job-invite/139239/?locale=en_US",
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "company": "BASF India Coatings Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "G-ECO/DBP",
+      "job_field": "Research & Development",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-04T03:55:10Z",
+      "description": "O bjectives of the Position Support the local Pigment Paste Owner in managing and executing pigment and paste-related activities in India. The role focuses on operational support, coordination, data transparency, and implementation of agreed actions across production, C-Labs, procurement, and suppliers, contributing to robust quality, cost competitiveness, and sustainable local operations. M ain Areas of Responsibilities and Key Activities Support to Pigment Paste Ownership Support the local Pig",
+      "recruiter": {
+        "name": "Sunita Choudhary",
+        "email": "sunita.choudhary@partners.basf.com"
+      }
+    },
     {
       "job_id": "139245",
       "title": "Executive - Customer Service, Demand Planner",
