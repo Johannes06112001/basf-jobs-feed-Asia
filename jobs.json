@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-06-04T08:12:33Z",
-  "total_active": 156,
+  "last_updated": "2026-06-04T14:35:34Z",
+  "total_active": 158,
   "jobs": [
+    {
+      "job_id": "139331",
+      "title": "Head of HR Services",
+      "url": "https://basf.jobs/job-invite/139331/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Global Business Services Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GB/G",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-04T16:00:00Z",
+      "description": "Head of HR Services India will lead all HR Services activities for the Service Delivery Unit (SDU) in India, strategic and operational HR services owning delivery of transactional, strategic and platform-based HR services (HR operations, HRIS, payroll interfaces, service management, case resolution, and vendor management). This role combines strategic leadership, operational HR management, process optimization, and people leadership to enable data-driven decisions and alignment with global HR st",
+      "recruiter": {
+        "name": "Sue Yan Ng",
+        "email": "sue-yan.ng@basf.com"
+      }
+    },
+    {
+      "job_id": "139329",
+      "title": "Head of Finance Services",
+      "url": "https://basf.jobs/job-invite/139329/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Global Business Services Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GB/G",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-04T16:00:00Z",
+      "description": "Head of Finance India will lead all finance activities for the Service Delivery Unit (SDU) in India, ensuring strong financial control, insightful business partnering, and effective delivery of finance services that support the SDU’s growth and operational excellence. This role combines strategic leadership, operational finance management, process optimization, and people leadership to enable data-driven decisions and alignment with global finance standards. Key Responsibilities Financial leader",
+      "recruiter": {
+        "name": "Sue Yan Ng",
+        "email": "sue-yan.ng@basf.com"
+      }
+    },
     {
       "job_id": "139239",
       "title": "Assistant Manager - Pigment and Paste",
@@ -330,9 +372,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T10:49:00Z",
-      "description": "Completed university degree in Business IT, Business Economics, Business SCM, Information Science, Engineering or Natural Science (Bachelor) with at least five years of professional experience in: Active Directory administration Windows Server environments (2016/2019/2022/2025) Solution architecture or infrastructure design Troubleshooting complex enterprise environments Second-level or third-level support roles Strong understanding of identity and access management , security principles, and be",
+      "description": "Directory Services – Senior Active Directory Engineer (Job Grade 4) About Us At BASF’s Global Digital Services (GD), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-performance culture",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -1506,7 +1548,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-23T07:24:55Z",
       "description": "Architectural Design Strategy Develop and maintain the overarching architecture for Salesforce and CRM digital solutions, ensuring alignment with business objectives. Define standards, guidelines, and best practices for Salesforce implementations. Create architectural blueprints, roadmaps, and technical documentation. Program Leadership Support the planning, execution, and delivery of large ‑ scale Salesforce programs. Collaborate with business stakeholders, developers, and IT teams to ensure su",
       "recruiter": {
@@ -1527,7 +1569,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-23T07:08:06Z",
       "description": "A Bachelor or master degree in relevant Business/IT studies You are experienced with the salesforce.com sales cloud administration Certified salesforce administrator with deployment know-how An entrepreneurial spirit and the ability to foster a positive and energized culture A growth mindset with a curiosity to learn and improve. Team player with strong interpersonal, written, and verbal communication skills. You can demonstrate fluent communication skills in English (spoken and written)",
       "recruiter": {
@@ -1569,7 +1611,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-23T05:51:25Z",
       "description": "Responsibilities: Formular to success: - Demonstrating your proficiency in the SAP Modules Plant Maintenance, Project Systems or Project and Portfolio Management, where you will support our system and its related mobile Apps. - Your main tasks will be error and problem solving, debugging and testing of SAP standard functions as well as own developed programs. - Act as a Global / Regional representative of BASF Digital community, supporting BASF Digital roadmap, helping Global Digital Services to",
       "recruiter": {
@@ -2082,27 +2124,6 @@
       }
     },
     {
-      "job_id": "138817",
-      "title": "GDD/BA - SAP Production Consultant (M/F/D)",
-      "url": "https://basf.jobs/job-invite/138817/?locale=en_US",
-      "city": "Hyderabad",
-      "state": "Andhra Pradesh",
-      "country": "India",
-      "company": "BASF Digital Solutions Private Limited",
-      "business_unit": "Asia Pacific",
-      "department": "GDD/BA Manufacturing Management",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-21T18:30:00Z",
-      "description": "Your main responsibilities: • Being part of a diverse global team and working with colleagues on complex IT projects in the Manufacturing area delivering crucial solutions to businesses, functions, and operations across BASF • Consulting, implementing, and supporting the full lifecycle of our products globally with focus on SAP PP PP/PI • Leading IT project manufacturing workstreams and performing all required workstream tasks from requirement engineering till after go live tasks • Understand an",
-      "recruiter": {
-        "name": "Senthil Kumar",
-        "email": "senthil.kumar@careernet.in"
-      }
-    },
-    {
       "job_id": "138815",
       "title": "GDD/GA - Full Stack Mobile Developer (M/F/D)",
       "url": "https://basf.jobs/job-invite/138815/?locale=en_US",
@@ -2118,6 +2139,27 @@
       "hybrid": false,
       "date_posted": "2026-05-21T18:30:00Z",
       "description": "Responsibilities: • Working in a global agile Development and Operations environment, you need to have good communication skills to keep intensively aligned with our stakeholders and our team of technical and functional experts. • You will strongly cooperate with logistics consultants and other developers, mainly taking care about the further improvement and development of our mobile solutions within Site Logistics. • As a service provider it is our ultimate target to enable and support our inte",
+      "recruiter": {
+        "name": "Senthil Kumar",
+        "email": "senthil.kumar@careernet.in"
+      }
+    },
+    {
+      "job_id": "138817",
+      "title": "GDD/BA - SAP Production Consultant (M/F/D)",
+      "url": "https://basf.jobs/job-invite/138817/?locale=en_US",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "company": "BASF Digital Solutions Private Limited",
+      "business_unit": "Asia Pacific",
+      "department": "GDD/BA Manufacturing Management",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": true,
+      "date_posted": "2026-05-21T18:30:00Z",
+      "description": "What you can expect In Manufacturing Integration and Management, we are globally responsible for the Production processes and their implementations in the SAP landscape of BASF. Furthermore, we connect underlying commercial and proprietary Manufacturing Execution Systems (MES). In addition, we provide an own inhouse MES solution. The corresponding end-to-end solutions are rolled out to our internal business partners globally in corresponding projects. Our product Manufacturing Management deliver",
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
@@ -2157,9 +2199,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-21T18:30:00Z",
-      "description": "Responsibilities: `you will act as a competent advisor to management and BASF internal customers regarding the service charging of the Global Digital Services unit and other service units. You are a trusted contact person for all questions related to charging and, together with the team, responsible for ensuring the monthly service charging through the operation and further development of the system landscape used. This also includes carrying out, coordinating, and troubleshooting the regular mo",
+      "description": "Specialist for Digitalization in the Area of Service Charging and Data Analysis with a Focus on SQL OrgCode: GD/CG Product Team: Controlling Processes and Charging Responsibilities: `you will act as a competent advisor to management and BASF internal customers regarding the service charging of the Global Digital Services unit and other service units. You are a trusted contact person for all questions related to charging and, together with the team, responsible for ensuring the monthly service ch",
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
@@ -2325,7 +2367,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-20T18:30:00Z",
       "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will guide, coach and train other team members build competencies for the respective modules. - You wil",
       "recruiter": {
@@ -2346,7 +2388,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-20T18:30:00Z",
       "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will",
       "recruiter": {
@@ -2388,7 +2430,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-20T18:06:21Z",
       "description": "Responsibilities: \"You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you wil",
       "recruiter": {
@@ -2409,7 +2451,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-19T17:51:26Z",
       "description": "Main tasks • As a test automation engineer for the Operational EHS Platform and Integration team, you will be part of a global, multidisciplinary team responsible for the development of an internal platform for daily use globally at BASF production facilities. • You will develop programs that will test the accuracy and reliability of internally developed software solutions for each module during its initial development and on an ongoing basis, especially in advance of major updates/deployments. ",
       "recruiter": {
@@ -2430,7 +2472,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-19T16:33:44Z",
       "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will",
       "recruiter": {
@@ -2451,7 +2493,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-19T10:35:38Z",
       "description": "Objective: We are looking for a highly dynamic, motivated, and collaborative person to join our team. We are focused on the modernization of legacy systems and development of new capabilities of digital solutions in the Operations Platform team. There is a growing global need within BASF to leverage digitalization to continue BASF's journey of excellence and continuously improving our capabilities especially through digitalization. In this role, you will work alongside a global development team ",
       "recruiter": {
@@ -2472,9 +2514,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-19T08:16:44Z",
-      "description": "DevOps Engineer OMP OPR Your main responsibilities include: • You are responsible for designing, implementing, and supporting OMP related developments using OPAL. • Build and deploy the templates using GIT version control system. • Experience in implementing pyramids/solvers/conflicts in OPAL programming language. • Understanding in software development lifecycle including automated testing and working on the development and operational topics • Skills in programming language python, Java, C++ E",
+      "description": "DevOps Engineer OMP OPR Your main responsibilities include: You are responsible for designing, implementing, and supporting OMP related developments using OPAL. Build and deploy the templates using GIT version control system. Experience in implementing pyramids/solvers/conflicts in OPAL programming language. Understanding in software development lifecycle including automated testing and working on the development and operational topics Skills in programming language python, Java, C++ Education B",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -2493,7 +2535,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-19T08:14:42Z",
       "description": "Fullstack Developer / Engineer Main Requirenents: A Master degree in the field of computer science, mathematics, life sciences, chemistry, business administration, or related discipline with at least 1 year of experience in a similar role A Bachelor degree in the field of computer science, mathematics, life sciences, chemistry, business administration, or related discipline with at least 3 years of experience in a similar role Provide expertise in the technical stack development of complex scena",
       "recruiter": {
@@ -2514,7 +2556,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-19T06:55:09Z",
       "description": "Main tasks Drive and own the further development of the data product layer of our Enterprise Datalake to meet both user and internal needs. Align with local and global stakeholders to ensure the platform's scalability, reliability and security Together with your team ensure high quality of the services you are responsible for and initiate improvement measures as well as functionality Stay abreast of the newest technologies and trends in the big data and data mesh domain Act as the point of conta",
       "recruiter": {
@@ -2535,7 +2577,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-19T06:55:06Z",
       "description": "Main tasks • Develop, extend and optimize the data product layer of our Enterprise Datalake with high code standards, tests and suitable documentation to meet both user and internal needs. • Collaborate with the product owner and architect to understand data requirements and provide suitable solutions. • Troubleshoot data and software related issues and optimize pipelines for performance and scalability. • Work with Azure Databricks, Azure Data Factory/Synapse keeping up to date with the latest ",
       "recruiter": {
@@ -2556,7 +2598,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-19T06:50:21Z",
       "description": "Education ▪ Bachelor's degree in computer science, Information Technology, Engineering, Business, or related fields. Work experience ▪ Minimum 7-8 years related working experience as a Dataengineer using Azure, Databricks, Python, Azure Data Factory or Synapse Technical Professional Knowledge (mandatory) ▪ Experience in Agile way of working with a DevOps mindset ▪ In-depth know how with Lakehouse concepts, Databricks and Unity Catalog. ▪ Strong data engineering and development skills to maintain",
       "recruiter": {
