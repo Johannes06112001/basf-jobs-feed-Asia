@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T14:26:06Z",
-  "total_active": 158,
+  "last_updated": "2026-06-05T21:17:36Z",
+  "total_active": 156,
   "jobs": [
     {
       "job_id": "139331",
@@ -108,48 +108,6 @@
       }
     },
     {
-      "job_id": "139276",
-      "title": "Assistant Research Scientist I",
-      "url": "https://basf.jobs/job-invite/139276/?locale=en_US",
-      "city": "Navi Mumbai - HO (Innovation Campus)",
-      "state": "Maharashtra",
-      "country": "India",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "business_unit": "Asia Pacific",
-      "department": "APR/PD",
-      "job_field": "Research & Development",
-      "job_level": "Graduate",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-06-03T06:48:09Z",
-      "description": "Objectives of the position: Analytical testing characterization of chemical compounds Representative Main tasks: Conduct analytical testing and characterization of chemical compounds/materials Performing qualitative quantitative analysis using techniques like UPLC, GC Performing GCMS LCMS analysis Supporting R D projects with data generation, interpretation with high accuracy precision Maintaining and calibrating instruments to ensure optimal performance UpToDate documentation ( e.g., ELN writin",
-      "recruiter": {
-        "name": "Anishka Naik",
-        "email": "anishka.naik@basf.com"
-      }
-    },
-    {
-      "job_id": "139271",
-      "title": "Assistant Research Scientist I",
-      "url": "https://basf.jobs/job-invite/139271/?locale=en_US",
-      "city": "Navi Mumbai - HO (Innovation Campus)",
-      "state": "Maharashtra",
-      "country": "India",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "business_unit": "Asia Pacific",
-      "department": "APR/PD",
-      "job_field": "Research & Development",
-      "job_level": "Graduate",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-06-03T06:46:36Z",
-      "description": "Objectives of the position: Analytical testing characterization of chemical compounds Representative Main tasks: Conduct analytical testing and characterization of chemical compounds/materials Performing qualitative quantitative analysis using techniques like UPLC, GC Performing GCMS LCMS analysis Supporting R D projects with data generation, interpretation with high accuracy precision Maintaining and calibrating instruments to ensure optimal performance UpToDate documentation ( e.g., ELN writin",
-      "recruiter": {
-        "name": "Anishka Naik",
-        "email": "anishka.naik@basf.com"
-      }
-    },
-    {
       "job_id": "139292",
       "title": "GDA/AH - Senior Digital Experience Engineer (m/f/d)",
       "url": "https://basf.jobs/job-invite/139292/?locale=en_US",
@@ -162,9 +120,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-06-02T11:54:20Z",
-      "description": "About the Role As Senior Digital Experience Engineer , you will play a key role in scaling and operationalizing Nexthink as a core Digital Experience Intelligence platform within BASF’s global digital workplace. Your mission is to identify, shape, and implement high ‑ value use cases and quality improvements across the workplace ecosystem – translating data and insights into measurable improvements for end users, IT operations, and business outcomes. Working closely with Product Owners, Workplac",
+      "description": "Job Description Senior Digital Experience Engineer Workspace Solutions / Experience Management Location: Hyderabad, India Business Area: Workspace Solutions / Experience Management About the Role As Senior Digital Experience Engineer , you will play a key role in scaling and operationalizing Nexthink as a core Digital Experience Intelligence platform within BASF’s global digital workplace. Your mission is to identify, shape, and implement high ‑ value use cases and quality improvements across th",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -183,9 +141,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-06-02T11:43:27Z",
-      "description": "Responsibilities: Support and continuously improve portfolio steering processes for Business Applications and IT Services (intake, prioritization, planning, and governance) Support demand management by collecting, clarifying, qualifying, and structuring incoming initiatives and service requests (incl. value hypotheses and sizing) Facilitate prioritization discussions with business and IT stakeholders by providing structured input on value, risk, architecture fit, capacity, and financial constrai",
+      "description": "(Digital) Portfolio Steering Senior Specialist – Business Applications IT Services About Us At BASF’s Global Digital Services (GD), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-perf",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -204,9 +162,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-06-02T11:01:47Z",
-      "description": "Responsibilities and Key Outcomes • Guiding and coaching the Scrum Team and DevHub in the effective use of Agile practices, creating an environment that enables teams to become self-managed and sustainably high performing. • Supporting and coaching the Product Owner by providing techniques to refine and prioritize the backlog, ensuring alignment with broader product and organizational priorities. • Assessing the agile maturity of teams and the platform and actively guiding them toward higher lev",
+      "description": "Summary Digitalization will be a true part of BASF’s DNA that creates new exciting customer experiences and business growth as well as drives efficiencies in processes. Global Digital Services is supporting BASF business in Digitalization transformation. Our mission is to drive forward the digital transformation of BASF, providing innovative, global and high-quality digital products and services through a strong agile culture. The Digital Hub Hyderabad is one of our global key locations to deliv",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -225,9 +183,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-06-02T09:10:02Z",
-      "description": "2nd Level Support Analyst Order-to-Cash (SAP S/4HANA) Support Analyst with foundational knowledge in SAP S/4HANA Order-to-Invoice processes and a strong aptitude for structured troubleshooting across application, integration, and process layers. The role is part of the growing S/4 AMS team in Hyderabad and is designed for professionals who bring analytical thinking, process understanding, and a willingness to strengthen expertise in an ITIL-aligned support environment. The focus is on incident a",
+      "description": "Job Description 2nd Level Support Analyst Order-to-Cash (SAP S/4HANA) Support Analyst with foundational knowledge in SAP S/4HANA Order-to-Invoice processes and a strong aptitude for structured troubleshooting across application, integration, and process layers. The role is part of the growing S/4 AMS team in Hyderabad and is designed for professionals who bring analytical thinking, process understanding, and a willingness to strengthen expertise in an ITIL-aligned support environment. The focus ",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -288,9 +246,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T11:59:18Z",
-      "description": "University degree in Business Administration, Business Informatics, or a comparable field. Strong interest in external data management, data provisioning, or data-related procurement processes. Structured and analytical working style with a high level of ownership and reliability. Working knowledge of Microsoft tools, especially Excel and Power BI and ideally first experience in SAP. Strong communication skills and the ability to interact confidently with technical and non-technical stakeholders",
+      "description": "External Data Management Specialist (m/f/d) As part of our Data Products Semantics Team, you play a key role in the management of external data at BASF. You are responsible for ensuring that high-quality external data is selected, procured, managed, and made available across the organization in a transparent and cost-efficient way. With a current portfolio of 11 major external data providers, the team streamlines data demand across Sales Market functions, with a strong focus on pricing, company,",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -309,9 +267,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T11:49:28Z",
-      "description": "Bachelor’s or master’s degree in Business, IT, or a related field, combined with 5–8 years of relevant professional experience. - Strong functional expertise and hands‑on experience in SAP Transportation Management (LE‑TRA, TM 9.x, or SAP S/4HANA TM). - Strong self‑organization skills, including a high sense of responsibility, creative problem‑solving, and sound decision‑making. - High level of personal commitment and passion, characterized by an entrepreneurial mindset, empathy, perseverance, a",
+      "description": "SAP Consultant OrgCode: GDE/D Product Team: Click or tap here to enter text. Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of n",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -351,9 +309,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T10:55:05Z",
-      "description": "Degree in business administration, science, IT or a comparable qualification Several years of professional experience in data-related roles (e.g. data governance, data stewardship, data management) Practical experience with governance topics, ideally in complex or federated organizations Structured and pragmatic working style in complex environments Initial experience in project or change initiatives is an advantage Strong communication and facilitation skills Ability to work with diverse stakeh",
+      "description": "Senior Specialist Data Governance (m/f/d) Location: Hyderabad Unit: GDB/XD Contract: Permanent Job Grade: TBD Why this role matters Within the Data AI Office, we implement BASF’s Data AI Governance Framework. Your role is focused on implementing the data strategy and enabling efficient, secure and compliant use of data across the company. Our goal is to make data easy to find, easy to use and safe – while supporting business value, innovation and AI use cases. You play a key part in federated da",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -458,7 +416,7 @@
       "job_type": "Permanent",
       "hybrid": true,
       "date_posted": "2026-05-25T10:11:28Z",
-      "description": "Solution Architect (Job Grade 4) About Us At BASF’s Global Digital Services (GD), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-performance culture inspired by our Winning Ways: enab",
+      "description": "About Us At BASF’s Global Digital Services (GD), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-performance culture inspired by our Winning Ways: enabling our customers’ green transfo",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -540,9 +498,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T09:45:42Z",
-      "description": "Completed Master's degree or comparable in the field of IT, e.g.: Business Informatics Industrial Engineering Computer Science IT Security Professional experience: At least 5 years in comparable positions Practical experience: Fast comprehension, strong conceptual and analytical skills and a sense for situational solutions Experience with relevant data protection regulations Strong technical knowledge and fundamentals of IT/OT security e.g. network segmentation, firewalls, endpoint security, ano",
+      "description": "Objectives of the Position Cyber Security Architec ture and Strategy develop s strategies and coordinate s solutions to improve the security and data privacy level of BASF . This role advises executives, consults and coordinates the implementation of improvements and monitors progress of the data privacy cyber security landscape. Main Tasks Consultation on projects and initiatives to ensure that appropriate security measures are taken in relation to the criticality of processing personal data. I",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -561,9 +519,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T09:39:07Z",
-      "description": "Bachelor’s or master’s degree in Business, IT, or a related field, combined with 5–8 years of relevant professional experience. - Strong functional expertise and hands‑on experience in SAP Transportation Management (LE‑TRA, TM 9.x, or SAP S/4HANA TM). - Strong self‑organization skills, including a high sense of responsibility, creative problem‑solving, and sound decision‑making. - High level of personal commitment and passion, characterized by an entrepreneurial mindset, empathy, perseverance, a",
+      "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -582,9 +540,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T09:32:27Z",
-      "description": "A completed bachelor’s degree in computer science, information technology, cybersecurity or related field is required, along with a minimum of three years’ relevant professional experience. Candidates should possess familiarity with Microsoft Data Security tools such as Purview, Elastic XDR suite or comparable security platforms. Demonstrated expertise in technical and design development using Python, SQL, and the Microsoft Platform—including Copilot—is essential, accompanied by strong communica",
+      "description": "Solution Architect (Job Grade 4) About Us At BASF’s Global Digital Services (GD), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-performance culture inspired by our Winning Ways: enab",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -666,9 +624,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T09:02:22Z",
-      "description": "Degree in computer science, data engineering, analytics, or comparable technical qualification 5 years of experience with Salesforce (Sales/Service Cloud) as a developer and architect, solid understanding of complex data models and system architectures, and ideally Salesforce certifications (e.g., System Administrator, AI Specialist) Strong experience with data platforms, particularly Azure Databricks. Well proficient in the uses of Azure DevOps (or similar tools such as Jira) as part of SDLC. S",
+      "description": "Salesforce Power BI / Databricks Architect In your new role, you will be the technical architecture expert for our Sales Reporting team and combine deep technical expertise with a strategic view on architecture, development, and integration. You will focus on the technical foundations that enable scalable, secure, and high-performing reporting and data-driven actionable insights solutions, with a strong emphasis on Power BI integrations, data connections, and embedding scenarios. You define and ",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -687,9 +645,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T08:55:12Z",
-      "description": "A completed degree in business informatics, computer science, or a comparable qualification 5 years of experience with Salesforce (Sales/Service Cloud) as a developer and architect, solid understanding of complex data models and system architectures, and ideally Salesforce certifications (e.g., System Administrator, AI Specialist) Strong knowledge of Apex, Lightning Web Components, Flow Builder, and Salesforce setup, Prompt Templates and Agents as well as experience with API integrations and mid",
+      "description": "Salesforce Senior Specialist Digitalization In your new role as Salesforce Senior Specialist Digitalization within our Digitalization of Sales team - Development Operations (DevOps) you will design and implement new technical solutions for BASF’s global CRM system built on the Salesforce platform. You will actively shape the further development of our Digitalization of Sales products and ensure a stable, scalable, and futureproof digital service delivery. You will focus on designing scalable sol",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -708,9 +666,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T08:48:44Z",
-      "description": "Bachelor’s or Master’s degree in Business, Finance, Controlling, or Accounting. Several years of relevant experience in business or controlling functions is preferred. Strong proficiency in controlling IT tools such as MS Office, SAP BW, SAP CO/CI, and PowerBI. Excellent analytical and numerical skills, with a strong ability to learn and work independently as well as in a team. Team player with a high service orientation and a proactive, continuous improvement mindset. Strong communication skill",
+      "description": "Role Overview We are excited to announce the establishment of our Global Capability Center (GCC) in Hyderabad, supporting our company’s digital transformation journey. We are looking for experienced and motivated Controlling Professionals to join our team and play a key role in supporting our delivery organization from a finance and compliance perspective. This position is ideal for self-driven individuals who can independently manage end-to-end finance responsibilities and contribute to our gro",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -729,9 +687,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T08:10:32Z",
-      "description": "Core technical profile with 4+ years SAP development and integration experience Application development experience in S/4HANA, Technical knowledge in OO ABAP, BAPI and CDS cloud compliant development Preferably with experiences / knowledge with, integration patterns (e.g. APIs) OData services, optional BTP/RAP Preferable functional knowledge of SAP S/4 MM an sourrounding modules like SD, TM and FI/CO",
+      "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will guide, coach and train other team members build competencies for the respective modules. - You wil",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -750,9 +708,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T08:02:58Z",
-      "description": "SAP MM / Procurement functional expertise, including strong MM customizing and process knowledge. Experience in S/4HANA environments with 6+ years working on complex SAP applications. Experience working in global AMS support teams providing capabilities in ticket resolution, maintenance troubleshooting Agile DevOps mindset with hands‑on experience in Scrum, self‑organized work, user stories, testing documentation. Integration cross‑module awareness, e.g., collaboration with technical experts and",
+      "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -771,9 +729,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T07:55:35Z",
-      "description": "Core technical profile with 4+ years S/4 and integration experience Application development experience in S/4HANA, Technical knowledge inCPI, APIs, OData services, data/event streaming like Kafka, SAP data msh Agile DevOps mindset with hands‑on experience in Scrum, self‑organized work, user stories, testing documentation.",
+      "description": "Responsibilities: Shape BASF’s future ERP backend Architecture o Develop, maintain monitor interfaces for different on-premise and cloud integration scenarios o Manage Data Integration infrastructures and facilitate developments o Live end-to-end-responsibility, being able to adopt to new requirements and learning new technologies within a virtual global agile team o Recognize impediments within the team, identify root causes, promote discussions and drive solving the issue o Bring in new ideas ",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -792,9 +750,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T07:48:01Z",
-      "description": "Senior functional expert around ATP aATP expertise preferred PAC, BOP, PAL, ABC/SBC experience Technical and architectural understandingFunctional and process knowledge in S4 Sales, Manufacturing and Source-to-Pay",
+      "description": "Job Description 2nd Level Support Analyst Order-to-Cash (SAP S/4HANA) Support Analyst with foundational knowledge in SAP S/4HANA Order-to-Invoice processes and a strong aptitude for structured troubleshooting across application, integration, and process layers. The role is part of the growing S/4 AMS team in Hyderabad and is designed for professionals who bring analytical thinking, process understanding, and a willingness to strengthen expertise in an ITIL-aligned support environment. The focus ",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -813,9 +771,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-25T07:38:11Z",
-      "description": "Deep understanding of SAP S/4HANA end to end Supply Chain processes • Strong knowledge of SAP standard vs. custom development and the ability to make design decisions accordingly with a focus on SAP SD • Solid understanding of SAP architecture principles, including S/4HANA, BTP, integration, and extension patterns • Good technical foundation (e.g. ABAP basics, APIs, integrations), without necessarily being a developer• Experience with ERP transformations or large SAP programs",
+      "description": "Responsibilities: Deep understanding of SAP S/4HANA end to end Supply Chain processes • Strong knowledge of SAP standard vs. custom development and the ability to make design decisions accordingly with a focus on SAP SD • Solid understanding of SAP architecture principles, including S/4HANA, BTP, integration, and extension patterns • Good technical foundation (e.g. ABAP basics, APIs, integrations), without necessarily being a developer• Experience with ERP transformations or large SAP programs Q",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -855,9 +813,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-24T18:30:00Z",
-      "description": "Main Tasks / Scope of Work The Solution Consultant provides customized integration solutions for internal partners and external partners via EDI, API, Micro Services, AI Agents, and similar technologies. The Solution Consultant supports our internal (SAP ERP and Satellite Systems) and external partners to specify their requirements and translates those into best-in-class solution designs based on technical and business process knowledge, aligned with process design and architecture. The consulta",
+      "description": "Objectives BASF’s Business Process Integration (BPI) team provides and supports digital solutions for B2B integrations with external partners through a variety of systems and processes within the BASF’s architectural landscape. BPI is considered a strategic tool to digitalize processes and enable seamless exchange of data between applications, businesses, customers and partners in real-time. Describe the objectives of the role here (2 - 3 sentences only) In this role, you will focus on consultin",
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
@@ -981,9 +939,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-23T12:40:52Z",
-      "description": "Main Tasks/Responsibilities: Shape BASF’s future planning landscape by further developing our Supply Chain Planning Framework on OMP Develop, maintain monitor interfaces for different on-premise and cloud integration scenarios Manage Data Integration infrastructures and facilitate development for functional squads in the Product Family Live end-to-end-responsibility, being able to adopt to new requirements and learning new technologies within a virtual global agile team Recognize impediments wit",
+      "description": "DevOps Engineer Integration: Main Tasks/Responsibilities: Shape BASF’s future planning landscape by further developing our Supply Chain Planning Framework on OMP Develop, maintain monitor interfaces for different on-premise and cloud integration scenarios Manage Data Integration infrastructures and facilitate development for functional squads in the Product Family Live end-to-end-responsibility, being able to adopt to new requirements and learning new technologies within a virtual global agile t",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -1002,7 +960,7 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-23T12:33:15Z",
       "description": "DevOps Engineer OMP SnOP Main Areas of Responsibilities and Key Activities You are responsible for designing, implementing, and supporting OMP related developments using OPAL. Deep-dive into the supply chain planning environment and focus on Sales Operational planning and Supply Planning Be part of supply chain planning system squads to work on functional development, supply chain planning solutions design, system configuration as well as on-going support after roll out in BUs/ODs. Build and dep",
       "recruiter": {
@@ -1044,9 +1002,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-23T10:30:06Z",
-      "description": "Required ( Education, Additional Qualifications and experience ) Bachelor’s or master’s degree in Computer science, Software Engineering or comparable from an accredited college or university is required Minimum 3+ years’ experience in working with Salesforce Experience in agile Software development Passion for working in a team Analytical capabilities Experiences in working in global / virtual teams/projects An entrepreneurial spirit and the ability to foster a positive and energized culture Ex",
+      "description": "Digital Pricing – Senior Technical Expert Digital Pricng Role specific activities (what is expected of you as an employee) Technical support contact for our Salesforce integrated Configure-Price-Quote (CPQ) Pricing Framework (based on PROS software) combining deep technical expertise with a strategic view on architecture, development, administration, and integration Shape the further development of our CPQ Pricing Framework and ensure a stable, scalable, and future‑proof platform Support upcomin",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -1128,9 +1086,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-23T09:57:38Z",
-      "description": "Bachelor’s or master’s degree in Business, IT, or a related field, combined with 2–5 years of relevant professional experience. - Strong technical and functional expertise in STIBO Systems STEP software. - Proven experience in data model adaptations and the creation of business rules. - Hands‑on experience in the analysis and implementation of integration scenarios with SAP S/4. - A technical background in SAP S/4 is considered a strong advantage. - Strong collaboration and communication skills ",
+      "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will guide, coach and train other team members build competencies for the respective modules. - You wil",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -1149,9 +1107,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-23T09:50:08Z",
-      "description": "Senior technical profile with 6+ years SAP development and integration experience Proficiency in interface technologies and development (API management, kafka) Modern ABAP development, ODATA, CDS, ASAPIOFunctional knowledge of SAP S/4 SD and additional modules (MM, TM...)",
+      "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will guide, coach and train other team members build competencies for the respective modules. - You wil",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -1170,9 +1128,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-23T09:40:20Z",
-      "description": "Completed university degree in Business Informatics, Business Administration or Computer Science with several years of professional experience Several years of professional experience in various areas in the IT/digital environment, including SAP, as well as experience in application projects Practiced leadership skills (orchestration and management of cross-functional topics), entrepreneurial thinking and organizational awareness Ability to critically question the status quo and openness for new",
+      "description": "Responsibilities You are part of a global leadership team who is ensuring BASF ‘s business continuity by providing stable platforms for the very large global SAP landscape of BASF group based on innovative technologies and state of the art operation for a leading chemical company. We are in the middle of our S/4 transformation project and are ramping up a significant team in our new Digital Hub in Hyderabad, India. This position offers the opportunity to build something new and become a cornerst",
       "recruiter": {
         "name": "Santhosh Kumar SG",
         "email": "santhosh.2183711@infosys.com"
@@ -1842,9 +1800,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-22T17:47:00Z",
-      "description": "End-to-End responsibility and accountability on building up a product that balances a good level of standardization and scalability with a reasonable level of customization. • Consultancy o Translates functional requirements into technical specifications o Leverage the business/process knowledge in the teams and define the best technical design of new functionalities o Drive for sustainable solutions o Leverages the use of standard functionalities to reduce non-standard development • Development",
+      "description": "Yard Management DevOps – Back-End Role main activities. What is expected of you? End-to-End responsibility and accountability on building up a product that balances a good level of standardization and scalability with a reasonable level of customization. • Consultancy o Translates functional requirements into technical specifications o Leverage the business/process knowledge in the teams and define the best technical design of new functionalities o Drive for sustainable solutions o Leverages the",
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
@@ -2010,9 +1968,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-22T14:13:14Z",
-      "description": "Key Responsibilities • Consult European HR and payroll stakeholders on SAP Payroll European (Spain, Belgium) requirements • Design and implement Europe specific payroll schemas, rules, and calculations • Customize SAP Payroll and develop enhancements using ABAP / ABAP OO • Ensure solution quality via testing, payroll validation, and production support • Work in an Agile / DevOps setup within a global HR Solutions product team • Support S/4HANA Payroll evolution and automation initiatives _______",
+      "description": "About the Role We are seeking a highly skilled SAP S/4HANA Time Management Expert who combines strong technical know how with deep functional HR Time Management expertise. In this hybrid role, you will act as a trusted advisor to our HR Business Partners and support our global Time Management processes end to end—from requirements analysis and solution design to technical implementation and operational excellence. Your mission is to ensure stable system operations, deliver high-quality solutions",
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
@@ -2409,9 +2367,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "hybrid": false,
+      "hybrid": true,
       "date_posted": "2026-05-20T18:30:00Z",
-      "description": "• Strong experience with Python for backend and AI development. • Hands-on experience with FastAPI (or similar Python web frameworks). • Practical experience with LLM frameworks such as: o OpenAI Agents SDK o LangChain o Or equivalent agent orchestration frameworks • Solid understanding of prompt engineering techniques. • Experience with memory management and context strategies for GenAI applications. • Experience deploying applications to Azure Cloud. • Familiarity with Docker and containerized",
+      "description": "Strong experience with Python for backend and AI development. Hands-on experience with FastAPI (or similar Python web frameworks). Practical experience with LLM frameworks such as: OpenAI Agents SDK LangChain Or equivalent agent orchestration frameworks Solid understanding of prompt engineering techniques. Experience with memory management and context strategies for GenAI applications. Experience deploying applications to Azure Cloud . Familiarity with Docker and containerized deployments. Exper",
       "recruiter": {
         "name": "Senthil Kumar",
         "email": "senthil.kumar@careernet.in"
