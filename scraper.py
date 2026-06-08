@@ -194,7 +194,6 @@ async def fetch_raw_jobs(api_key):
         while True:
             search_body = {
                 "search": "*",
-                "filter": "addresses/any(a: a/country ne null)",
                 "select": "*",
                 "top": PAGE_SIZE,
                 "skip": skip,
