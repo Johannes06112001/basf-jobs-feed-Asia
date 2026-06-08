@@ -12,10 +12,12 @@ from playwright.async_api import TimeoutError as PlaywrightTimeoutError
 from playwright.async_api import async_playwright
 
 # The initial BASF page is only used to capture the Azure Search API key.
-# The actual data request below fetches all jobs and filters them locally for Asia.
+# The actual data request below fetches all jobs and filters them locally for Asia/APAC.
 SEARCH_URL = "https://basf.jobs/?currentPage=1&pageSize=1000&addresses%2Fcountry=India"
 AZURE_URL = "https://searchui.search.windows.net/indexes/basf-prod/docs/search?api-version=2020-06-30"
-BASE_URL = "https://johannes06112001.github.io/basf-jobs-feed-Asia"
+
+# Public GitHub Pages base URL used inside generated HTML/JSON.
+BASE_URL = "https://zr-jt.github.io/basf-jobs-feed-Asia"
 
 ASIA_COUNTRIES = {
     "Afghanistan",
@@ -81,12 +83,23 @@ COUNTRY_ALIASES = {
 PREFERRED_LOCALES = ["en_US", "en_IN", "en_SG", "en_MY", "en_CN", "en_JP", "de_DE", "de_AT", "de_CH"]
 PAGE_SIZE = 1000
 
+INVALID_URL_TOKENS = [
+    "%E2%80%94",
+    "—",
+    "undefined",
+    "null",
+    "[NUMBER]",
+    "XXXXXX",
+    "REQ_",
+]
+
 
 def strip_html(text):
     if not text:
         return ""
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"&[a-zA-Z]+;", " ", text)
+    text = html.unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
@@ -108,6 +121,23 @@ def safe(text):
 def normalize_country(country):
     country = (country or "").strip()
     return COUNTRY_ALIASES.get(country, country)
+
+
+def country_sort_key(country):
+    # Keep India first because the assistant is India-primary, then alphabetical.
+    return (0 if country == "India" else 1, country.lower())
+
+
+def is_valid_basf_url(url):
+    if not isinstance(url, str):
+        return False
+    url = url.strip()
+    if not url.startswith("https://basf.jobs/"):
+        return False
+    lower_url = url.lower()
+    if any(token.lower() in lower_url for token in INVALID_URL_TOKENS):
+        return False
+    return True
 
 
 def is_asia_job(job):
@@ -139,37 +169,59 @@ def locale_rank(job):
     return PREFERRED_LOCALES.index(language) if language in PREFERRED_LOCALES else 999
 
 
-def build_job_card(j):
-    recruiter_str = ""
-    if j.get("recruiter"):
-        r = j["recruiter"]
-        recruiter_str = " | ".join(
-            value for value in [r.get("name", ""), r.get("email", ""), r.get("phone", "")] if value
-        )
+def slim_job(j, include_description=True):
+    entry = {
+        "job_id": j.get("job_id", ""),
+        "title": j.get("title", ""),
+        "url": j.get("url", ""),
+        "country": j.get("country", ""),
+        "city": j.get("city", ""),
+        "state": j.get("state", ""),
+        "job_field": j.get("job_field", ""),
+        "job_level": j.get("job_level", ""),
+        "job_type": j.get("job_type", ""),
+        "company": j.get("company", ""),
+        "department": j.get("department", ""),
+        "business_unit": j.get("business_unit", ""),
+        "hybrid": j.get("hybrid", False),
+        "date_posted": j.get("date_posted", ""),
+    }
+    if include_description:
+        entry["description"] = j.get("description", "")
+    return {k: v for k, v in entry.items() if v not in ("", None, {})}
 
-    return f"""<div class="job" data-job-id="{safe(j.get('job_id'))}" data-country="{safe(j.get('country'))}">
-  <h2><a href="{safe(j.get('url'))}">{safe(j.get('title'))}</a></h2>
-  <p><strong>Country:</strong> {safe(j.get('country'))}</p>
-  <p><strong>Location:</strong> {safe(j.get('city'))}, {safe(j.get('state'))}</p>
-  <p><strong>Link:</strong> {safe(j.get('url'))}</p>
-  <p><strong>Company:</strong> {safe(j.get('company'))}</p>
-  <p><strong>Field:</strong> {safe(j.get('job_field'))}</p>
-  <p><strong>Department:</strong> {safe(j.get('department'))}</p>
-  <p><strong>Level:</strong> {safe(j.get('job_level'))}</p>
-  <p><strong>Type:</strong> {safe(j.get('job_type'))}</p>
-  <p><strong>Hybrid:</strong> {'Yes' if j.get('hybrid') else 'No'}</p>
-  <p><strong>Posted:</strong> {safe(j.get('date_posted', '')[:10])}</p>
-  <p><strong>Description:</strong> {safe(j.get('description'))}</p>
-  {f'<p><strong>Contact:</strong> {safe(recruiter_str)}</p>' if recruiter_str else ''}
-</div>
-"""
+
+def build_country_job_line(j):
+    job_field = j.get("job_field", "")
+    field_tag = f"[{safe(job_field)}] " if job_field else ""
+    job_level = j.get("job_level", "")
+    level_tag = f"[{safe(job_level)}] " if job_level else ""
+    job_type = j.get("job_type", "")
+    type_tag = f"[{safe(job_type)}] " if job_type else ""
+    posted = safe(j.get("date_posted", "")[:10])
+    city = safe(j.get("city", ""))
+    state = safe(j.get("state", ""))
+
+    return (
+        f'<li data-job-id="{safe(j.get("job_id"))}" data-field="{safe(job_field)}" '
+        f'data-city="{city}" data-state="{state}">'
+        f'{posted} – {field_tag}{level_tag}{type_tag}'
+        f'<a href="{safe(j.get("url"))}">{safe(j.get("title"))}</a>'
+        f' — {city}, {state}</li>\n'
+    )
 
 
 async def capture_api_key():
     api_key = None
     async with async_playwright() as p:
-        browser = await p.chromium.launch()
-        context = await browser.new_context()
+        browser = await p.chromium.launch(args=["--no-sandbox", "--disable-dev-shm-usage"])
+        context = await browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/148.0.0.0 Safari/537.36"
+            )
+        )
         page = await context.new_page()
 
         async def handle_request(request):
@@ -245,7 +297,14 @@ def deduplicate_jobs(raw_jobs):
 
 def transform_jobs(job_map):
     jobs = []
+    skipped_without_valid_url = 0
+
     for numeric_id, job in job_map.items():
+        url = (job.get("link") or "").strip()
+        if not is_valid_basf_url(url):
+            skipped_without_valid_url += 1
+            continue
+
         addr, country = first_asia_address(job)
 
         recruiter_raw = job.get("recruiter") or {}
@@ -260,106 +319,204 @@ def transform_jobs(job_map):
 
         city = addr.get("city") or addr.get("locationCity") or "Unknown"
         state = addr.get("state") or "Unknown"
+        description = strip_html(job.get("description") or "")
 
         entry = {
             "job_id": numeric_id,
             "title": (job.get("title") or "").strip(),
-            "url": job.get("link") or f"https://basf.jobs/job/{numeric_id}/",
+            "url": url,
             "city": city,
             "state": state,
             "country": country,
             "company": job.get("legalEntity") or "BASF",
             "business_unit": job.get("businessUnit") or "",
             "department": job.get("department") or "",
-            "job_field": job.get("jobField") or job.get("category") or "",
+            "job_field": job.get("jobField") or job.get("category") or "Other",
             "job_level": job.get("jobLevel") or job.get("customfield1") or "",
             "job_type": job.get("jobType") or job.get("customfield5") or "",
             "hybrid": job.get("hybrid") or False,
             "date_posted": job.get("datePosted") or "",
-            "description": strip_html(job.get("description") or "")[:700],
+            # Keep details in country-specific JSON, not on the root HTML page.
+            "description": description[:1200],
             "recruiter": recruiter if recruiter else None,
         }
         entry = {k: v for k, v in entry.items() if v is not None and v != "" and v != {}}
         jobs.append(entry)
+
+    if skipped_without_valid_url:
+        print(f"⚠️ {skipped_without_valid_url} jobs skipped because no verified basf.jobs URL was present.")
 
     jobs.sort(key=lambda j: j.get("date_posted", ""), reverse=True)
     return jobs
 
 
 def prepare_output_dirs():
-    for directory in ["countries", "regions"]:
+    # Remove old generated folders, including the now deprecated region pages.
+    for directory in ["countries", "regions", "data"]:
         if os.path.isdir(directory):
             shutil.rmtree(directory)
-        os.makedirs(directory, exist_ok=True)
+
+    os.makedirs("countries", exist_ok=True)
+    os.makedirs("data/countries", exist_ok=True)
 
 
-def generate_region_pages(grouped_by_region, region_slugs):
-    for (country, state, city), region_jobs in sorted(
-        grouped_by_region.items(), key=lambda item: (item[0][0].lower(), item[0][1].lower(), item[0][2].lower())
-    ):
-        slug = region_slugs[(country, state, city)]
-        rows = "".join(build_job_card(j) for j in region_jobs)
+def field_counts(jobs):
+    counts = defaultdict(int)
+    for job in jobs:
+        counts[job.get("job_field", "Other")] += 1
+    return dict(sorted(counts.items(), key=lambda item: (-item[1], item[0].lower())))
+
+
+def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
+    timestamp = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    country_routes = []
+    for country in sorted(grouped_by_country.keys(), key=country_sort_key):
         country_slug = slugify(country)
+        country_jobs = grouped_by_country[country]
+        fields = field_counts(country_jobs)
 
-        html_content = f"""<!DOCTYPE html>
-<html lang="en">
-<head><meta charset="UTF-8"><title>BASF Jobs – {safe(city)}, {safe(country)}</title></head>
-<body>
-<p><a href="{BASE_URL}/countries/{country_slug}.html">← Back to {safe(country)}</a> | <a href="{BASE_URL}/index_lite.html">Asia overview</a></p>
-<h1>BASF Jobs – {safe(city)}, {safe(state)}, {safe(country)}</h1>
-<p>{len(region_jobs)} position(s)</p>
-{rows}
-</body>
-</html>"""
+        field_routes = []
+        for field in fields:
+            field_slug = slugify(field)
+            field_jobs = grouped_by_country_field[(country, field)]
+            field_dir = f"data/countries/{country_slug}/fields"
+            os.makedirs(field_dir, exist_ok=True)
 
-        with open(f"regions/{slug}.html", "w", encoding="utf-8") as f:
-            f.write(html_content)
+            field_payload = {
+                "last_updated": timestamp,
+                "scope": "country_field",
+                "country": country,
+                "job_field": field,
+                "total_active": len(field_jobs),
+                "llm_instruction": (
+                    "Use this small file for country-and-function-specific matching. "
+                    "Copy job URLs exactly. Never construct basf.jobs links."
+                ),
+                "jobs": [slim_job(job, include_description=True) for job in field_jobs],
+            }
+            field_path = f"{field_dir}/{field_slug}.json"
+            with open(field_path, "w", encoding="utf-8") as f:
+                json.dump(field_payload, f, ensure_ascii=False, indent=2)
 
+            field_routes.append(
+                {
+                    "job_field": field,
+                    "count": len(field_jobs),
+                    "json_url": f"{BASE_URL}/{field_path}",
+                }
+            )
 
-def generate_country_pages(grouped_by_country, grouped_by_region, region_slugs):
-    for country, country_jobs in sorted(grouped_by_country.items(), key=lambda item: item[0].lower()):
-        country_slug = slugify(country)
-        country_regions = sorted(
-            [key for key in grouped_by_region if key[0] == country],
-            key=lambda key: (key[1].lower(), key[2].lower()),
+        country_payload = {
+            "last_updated": timestamp,
+            "scope": "country",
+            "country": country,
+            "total_active": len(country_jobs),
+            "fields": fields,
+            "llm_instruction": (
+                f"This file contains only BASF jobs in {country}. "
+                "Filter this file before loading wider Asia data. "
+                "For role-specific searches, use the field JSON files when available. "
+                "Copy job URLs exactly and never generate basf.jobs links."
+            ),
+            "jobs": [slim_job(job, include_description=True) for job in country_jobs],
+        }
+
+        country_json_path = f"data/countries/{country_slug}.json"
+        with open(country_json_path, "w", encoding="utf-8") as f:
+            json.dump(country_payload, f, ensure_ascii=False, indent=2)
+
+        country_routes.append(
+            {
+                "country": country,
+                "count": len(country_jobs),
+                "html_url": f"{BASE_URL}/countries/{country_slug}.html",
+                "json_url": f"{BASE_URL}/{country_json_path}",
+                "fields": field_routes,
+            }
         )
 
+    routing_payload = {
+        "last_updated": timestamp,
+        "scope": "Asia/APAC",
+        "total_active": len(jobs),
+        "llm_instruction": (
+            "Start here only to route the search. Do not load the full Asia dataset first. "
+            "Pick the requested country, then fetch that country's JSON. "
+            "If the user asks for a function, prefer the matching country/function JSON. "
+            "Default to India when no country is specified. "
+            "Use wider Asia/APAC only as fallback. Copy URLs exactly from source."
+        ),
+        "countries": country_routes,
+    }
+    with open("data/llm-routing.json", "w", encoding="utf-8") as f:
+        json.dump(routing_payload, f, ensure_ascii=False, indent=2)
+
+    # Backward-compatible aggregate file. Agents should prefer data/llm-routing.json.
+    aggregate_payload = {
+        "last_updated": timestamp,
+        "scope": "Asia/APAC",
+        "total_active": len(jobs),
+        "llm_instruction": (
+            "Large aggregate file. Prefer data/llm-routing.json and country JSON files "
+            "to keep context small."
+        ),
+        "countries": sorted(grouped_by_country.keys(), key=country_sort_key),
+        "jobs": [slim_job(job, include_description=True) for job in jobs],
+    }
+    with open("jobs.json", "w", encoding="utf-8") as f:
+        json.dump(aggregate_payload, f, ensure_ascii=False, indent=2)
+
+
+def generate_country_pages(grouped_by_country, grouped_by_country_field):
+    for country in sorted(grouped_by_country.keys(), key=country_sort_key):
+        country_jobs = grouped_by_country[country]
+        country_slug = slugify(country)
+        fields = field_counts(country_jobs)
+
+        field_nav = "<ul>\n"
+        for field, count in fields.items():
+            field_slug = slugify(field)
+            field_nav += (
+                f'<li><a href="#field-{field_slug}">{safe(field)}</a> ({count}) '
+                f'| <a href="{BASE_URL}/data/countries/{country_slug}/fields/{field_slug}.json">'
+                f'JSON</a></li>\n'
+            )
+        field_nav += "</ul>\n"
+
         rows = ""
-        current_state = None
-        for _, state, city in country_regions:
-            if state != current_state:
-                if current_state is not None:
-                    rows += "</ul>\n"
-                rows += f"<h2>{safe(state)}</h2>\n<ul>\n"
-                current_state = state
-
-            slug = region_slugs[(country, state, city)]
-            region_jobs = grouped_by_region[(country, state, city)]
-            region_url = f"{BASE_URL}/regions/{slug}.html"
-            rows += f'<li><a href="{region_url}">{safe(city)}</a> ({len(region_jobs)} position(s))<ul>\n'
-            for j in region_jobs:
-                job_field = j.get("job_field", "")
-                field_tag = f"[{safe(job_field)}] " if job_field else ""
-                job_level = j.get("job_level", "")
-                level_tag = f"[{safe(job_level)}] " if job_level else ""
-                rows += (
-                    f'  <li>{safe(j.get("date_posted", "")[:10])} – '
-                    f'{field_tag}{level_tag}'
-                    f'<a href="{safe(j.get("url", ""))}">{safe(j.get("title", ""))}</a></li>\n'
-                )
-            rows += "</ul></li>\n"
-
-        if current_state is not None:
-            rows += "</ul>\n"
+        for field in fields:
+            field_slug = slugify(field)
+            field_jobs = grouped_by_country_field[(country, field)]
+            rows += f'<section id="field-{field_slug}">\n'
+            rows += f"<h2>{safe(field)} ({len(field_jobs)})</h2>\n<ul>\n"
+            for job in field_jobs:
+                rows += build_country_job_line(job)
+            rows += "</ul>\n</section>\n"
 
         html_content = f"""<!DOCTYPE html>
 <html lang="en">
-<head><meta charset="UTF-8"><title>BASF Jobs {safe(country)} – Overview</title></head>
+<head>
+  <meta charset="UTF-8">
+  <title>BASF Jobs {safe(country)} – LLM Country Page</title>
+</head>
 <body>
-<p><a href="{BASE_URL}/index_lite.html">← Asia overview</a></p>
-<h1>BASF Job Openings {safe(country)}</h1>
-<p>Total: {len(country_jobs)} positions | {len(country_regions)} locations</p>
-{rows}
+  <p><a href="{BASE_URL}/index_lite.html">← Asia/APAC country index</a></p>
+  <h1>BASF Job Openings {safe(country)}</h1>
+  <p>Total: {len(country_jobs)} active position(s).</p>
+
+  <h2>LLM usage</h2>
+  <p>This page contains ONLY jobs in {safe(country)}. Use it when the user explicitly asks for {safe(country)}, or when {safe(country)} is the India-first/default country.</p>
+  <p>For a smaller context window, use the country JSON first:
+    <a href="{BASE_URL}/data/countries/{country_slug}.json">{BASE_URL}/data/countries/{country_slug}.json</a>
+  </p>
+  <p>For function-specific searches, use the matching field JSON below. Copy every BASF job URL exactly from the source. Never construct job links from titles or IDs.</p>
+
+  <h2>Fields in {safe(country)}</h2>
+  {field_nav}
+
+  <h2>Jobs by field</h2>
+  {rows}
 </body>
 </html>"""
 
@@ -367,57 +524,54 @@ def generate_country_pages(grouped_by_country, grouped_by_region, region_slugs):
             f.write(html_content)
 
 
-def generate_index_pages(jobs, grouped_by_country, grouped_by_region):
-    index_rows = "<h2>Countries</h2>\n<ul>\n"
-    lite_rows = "<h2>Countries</h2>\n<ul>\n"
-
-    for country, country_jobs in sorted(grouped_by_country.items(), key=lambda item: item[0].lower()):
-        country_slug = slugify(country)
-        country_url = f"{BASE_URL}/countries/{country_slug}.html"
-        location_count = len([key for key in grouped_by_region if key[0] == country])
-        index_rows += f'<li><a href="{country_url}">{safe(country)}</a> ({len(country_jobs)} position(s), {location_count} location(s))<ul>\n'
-        lite_rows += f'<li><a href="{country_url}">{safe(country)}</a> ({len(country_jobs)} positions, {location_count} locations)</li>\n'
-
-        for j in country_jobs[:100]:
-            job_field = j.get("job_field", "")
-            field_tag = f"[{safe(job_field)}] " if job_field else ""
-            job_level = j.get("job_level", "")
-            level_tag = f"[{safe(job_level)}] " if job_level else ""
-            index_rows += (
-                f'  <li>{safe(j.get("date_posted", "")[:10])} – '
-                f'{safe(j.get("city", ""))} – {field_tag}{level_tag}'
-                f'<a href="{safe(j.get("url", ""))}">{safe(j.get("title", ""))}</a></li>\n'
-            )
-
-        if len(country_jobs) > 100:
-            index_rows += f'  <li>More positions available on the dedicated <a href="{country_url}">{safe(country)} page</a>.</li>\n'
-        index_rows += "</ul></li>\n"
-
-    index_rows += "</ul>\n"
-    lite_rows += "</ul>\n"
-
+def generate_index_pages(jobs, grouped_by_country):
+    timestamp = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
     country_count = len(grouped_by_country)
-    location_count = len(grouped_by_region)
+
+    rows = "<ul>\n"
+    for country in sorted(grouped_by_country.keys(), key=country_sort_key):
+        country_slug = slugify(country)
+        country_jobs = grouped_by_country[country]
+        fields = field_counts(country_jobs)
+        top_fields = ", ".join(f"{field} ({count})" for field, count in list(fields.items())[:5])
+
+        rows += (
+            f'<li><strong>{safe(country)}</strong> — {len(country_jobs)} position(s) '
+            f'| <a href="{BASE_URL}/countries/{country_slug}.html">HTML</a> '
+            f'| <a href="{BASE_URL}/data/countries/{country_slug}.json">JSON</a>'
+        )
+        if top_fields:
+            rows += f"<br>Top fields: {safe(top_fields)}"
+        rows += "</li>\n"
+    rows += "</ul>\n"
+
+    shared_body = f"""
+<h1>BASF Job Openings Asia/APAC</h1>
+<p>Last updated: {safe(timestamp)}</p>
+<p>Total: {len(jobs)} positions | {country_count} countries.</p>
+
+<h2>LLM routing instruction</h2>
+<p>Do not load the full Asia job list into the context first. Start with the routing JSON, select the requested country, then fetch only that country or country/function file.</p>
+<p><strong>Routing JSON:</strong> <a href="{BASE_URL}/data/llm-routing.json">{BASE_URL}/data/llm-routing.json</a></p>
+<p>Default behavior for the agent: India first when no country is specified. If the user names a country, use that country first. Wider Asia/APAC is fallback only.</p>
+
+<h2>Country pages</h2>
+{rows}
+"""
 
     index_html = f"""<!DOCTYPE html>
 <html lang="en">
-<head><meta charset="UTF-8"><title>BASF Jobs Asia – Overview</title></head>
+<head><meta charset="UTF-8"><title>BASF Jobs Asia/APAC – LLM Routing Index</title></head>
 <body>
-<h1>BASF Job Openings Asia</h1>
-<p>Total: {len(jobs)} positions | {country_count} countries | {location_count} locations</p>
-<p>This page is optimized for LLM discovery. Each Asian country has its own readable country page in <code>/countries/</code>; detailed city/location pages are available in <code>/regions/</code>.</p>
-{index_rows}
+{shared_body}
 </body>
 </html>"""
 
     lite_index_html = f"""<!DOCTYPE html>
 <html lang="en">
-<head><meta charset="UTF-8"><title>BASF Jobs Asia – Country Overview</title></head>
+<head><meta charset="UTF-8"><title>BASF Jobs Asia/APAC – Country Index</title></head>
 <body>
-<h1>BASF Job Openings Asia</h1>
-<p>Total: {len(jobs)} positions | {country_count} countries | {location_count} locations</p>
-<p>Country pages use the same structure as the India page and are intentionally simple for LLM parsing.</p>
-{lite_rows}
+{shared_body}
 </body>
 </html>"""
 
@@ -427,58 +581,38 @@ def generate_index_pages(jobs, grouped_by_country, grouped_by_region):
         f.write(lite_index_html)
 
 
-def write_jobs_json(jobs):
-    timestamp = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-    output = {
-        "last_updated": timestamp,
-        "scope": "Asia",
-        "total_active": len(jobs),
-        "countries": sorted({j.get("country", "Unknown") for j in jobs}),
-        "jobs": jobs,
-    }
-    with open("jobs.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-
-
 async def scrape_jobs():
     api_key = await capture_api_key()
     if not api_key:
-        print("❌ Kein API Key gefunden!")
-        return
+        raise RuntimeError("No BASF Search API key found. The feed was not updated.")
 
     print("✅ API Key gefunden")
     raw_jobs = await fetch_raw_jobs(api_key)
     print(f"Rohdaten: {len(raw_jobs)} Jobs aus allen Ländern und Locales")
 
     job_map = deduplicate_jobs(raw_jobs)
-    print(f"Nach Asia-Filter und Deduplizierung: {len(job_map)} unique Jobs")
+    print(f"Nach Asia/APAC-Filter und Deduplizierung: {len(job_map)} unique Jobs")
 
     jobs = transform_jobs(job_map)
     prepare_output_dirs()
-    write_jobs_json(jobs)
-    print(f"✅ jobs.json gespeichert — {len(jobs)} Asia Jobs!")
 
     grouped_by_country = defaultdict(list)
-    grouped_by_region = defaultdict(list)
+    grouped_by_country_field = defaultdict(list)
+
     for job in jobs:
         country = job.get("country", "Unknown")
-        state = job.get("state", "Unknown")
-        city = job.get("city", "Unknown")
+        field = job.get("job_field", "Other")
         grouped_by_country[country].append(job)
-        grouped_by_region[(country, state, city)].append(job)
+        grouped_by_country_field[(country, field)].append(job)
 
-    region_slugs = {
-        key: f"region-{slugify(key[0])}-{slugify(key[1])}-{slugify(key[2])}"
-        for key in grouped_by_region
-    }
+    write_json_files(jobs, grouped_by_country, grouped_by_country_field)
+    print("✅ JSON routing files generated!")
+    print(f"✅ jobs.json gespeichert — {len(jobs)} verified Asia/APAC Jobs!")
 
-    generate_region_pages(grouped_by_region, region_slugs)
-    print(f"✅ {len(grouped_by_region)} region pages generated!")
-
-    generate_country_pages(grouped_by_country, grouped_by_region, region_slugs)
+    generate_country_pages(grouped_by_country, grouped_by_country_field)
     print(f"✅ {len(grouped_by_country)} country pages generated!")
 
-    generate_index_pages(jobs, grouped_by_country, grouped_by_region)
+    generate_index_pages(jobs, grouped_by_country)
     print("✅ index.html und index_lite.html saved!")
 
 
