@@ -8,6 +8,7 @@ from collections import defaultdict
 from datetime import datetime
 
 import aiohttp
+from playwright.async_api import TimeoutError as PlaywrightTimeoutError
 from playwright.async_api import async_playwright
 
 # The initial BASF page is only used to capture the Azure Search API key.
@@ -180,8 +181,11 @@ async def capture_api_key():
                     api_key = found_key
 
         context.on("request", handle_request)
-        await page.goto(SEARCH_URL, timeout=60000, wait_until="domcontentloaded")
-        await page.wait_for_timeout(5000)
+        try:
+            await page.goto(SEARCH_URL, timeout=30000, wait_until="domcontentloaded")
+        except PlaywrightTimeoutError:
+            print("⚠️ BASF jobs page timed out while loading. Continuing with captured network requests.")
+        await page.wait_for_timeout(10000)
         await browser.close()
     return api_key
 
