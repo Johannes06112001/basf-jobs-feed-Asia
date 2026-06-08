@@ -1,0 +1,362 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "Asia/APAC",
+  "total_active": 281,
+  "llm_instruction": "Start here only to route the search. Do not load the full Asia dataset first. Pick the requested country, then fetch that country's JSON. If the user asks for a function, prefer the matching country/function JSON. Default to India when no country is specified. Use wider Asia/APAC only as fallback. Copy URLs exactly from source.",
+  "countries": [
+    {
+      "country": "India",
+      "count": 159,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/india.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india.json",
+      "fields": [
+        {
+          "job_field": "Digitalization",
+          "count": 112,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/digitalization.json"
+        },
+        {
+          "job_field": "Marketing & Sales",
+          "count": 12,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/marketing-sales.json"
+        },
+        {
+          "job_field": "Research & Development",
+          "count": 11,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/research-development.json"
+        },
+        {
+          "job_field": "Production, Maintenance & Technical Services",
+          "count": 9,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/production-maintenance-technical-services.json"
+        },
+        {
+          "job_field": "Finance, Controlling & Audit",
+          "count": 4,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/finance-controlling-audit.json"
+        },
+        {
+          "job_field": "Engineering",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/engineering.json"
+        },
+        {
+          "job_field": "Environment, Health & Safety",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/environment-health-safety.json"
+        },
+        {
+          "job_field": "Logistics & Supply Chain Management",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/logistics-supply-chain-management.json"
+        },
+        {
+          "job_field": "Applications Technology",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/applications-technology.json"
+        },
+        {
+          "job_field": "Human Resources",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/human-resources.json"
+        },
+        {
+          "job_field": "Information Technology & Services",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/information-technology-services.json"
+        },
+        {
+          "job_field": "Procurement",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/procurement.json"
+        },
+        {
+          "job_field": "Quality Management",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/india/fields/quality-management.json"
+        }
+      ]
+    },
+    {
+      "country": "China",
+      "count": 40,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/china.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china.json",
+      "fields": [
+        {
+          "job_field": "Research & Development",
+          "count": 9,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/research-development.json"
+        },
+        {
+          "job_field": "Digitalization",
+          "count": 6,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"
+        },
+        {
+          "job_field": "Marketing & Sales",
+          "count": 6,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/marketing-sales.json"
+        },
+        {
+          "job_field": "Procurement",
+          "count": 5,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/procurement.json"
+        },
+        {
+          "job_field": "Production, Maintenance & Technical Services",
+          "count": 4,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/production-maintenance-technical-services.json"
+        },
+        {
+          "job_field": "Environment, Health & Safety",
+          "count": 3,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/environment-health-safety.json"
+        },
+        {
+          "job_field": "Legal, Tax & Insurance",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/legal-tax-insurance.json"
+        },
+        {
+          "job_field": "Public Relations / Communications",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/public-relations-communications.json"
+        },
+        {
+          "job_field": "Finance, Controlling & Audit",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/finance-controlling-audit.json"
+        },
+        {
+          "job_field": "General Management",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/general-management.json"
+        },
+        {
+          "job_field": "Other",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/other.json"
+        }
+      ]
+    },
+    {
+      "country": "Hong Kong",
+      "count": 1,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/hong-kong.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/hong-kong.json",
+      "fields": [
+        {
+          "job_field": "Finance, Controlling & Audit",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/hong-kong/fields/finance-controlling-audit.json"
+        }
+      ]
+    },
+    {
+      "country": "Indonesia",
+      "count": 8,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/indonesia.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/indonesia.json",
+      "fields": [
+        {
+          "job_field": "Production, Maintenance & Technical Services",
+          "count": 5,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/indonesia/fields/production-maintenance-technical-services.json"
+        },
+        {
+          "job_field": "Marketing & Sales",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/indonesia/fields/marketing-sales.json"
+        },
+        {
+          "job_field": "Engineering",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/indonesia/fields/engineering.json"
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "count": 4,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/japan.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/japan.json",
+      "fields": [
+        {
+          "job_field": "Production, Maintenance & Technical Services",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/japan/fields/production-maintenance-technical-services.json"
+        },
+        {
+          "job_field": "Logistics & Supply Chain Management",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/japan/fields/logistics-supply-chain-management.json"
+        },
+        {
+          "job_field": "Procurement",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/japan/fields/procurement.json"
+        }
+      ]
+    },
+    {
+      "country": "Malaysia",
+      "count": 51,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/malaysia.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/malaysia.json",
+      "fields": [
+        {
+          "job_field": "Logistics & Supply Chain Management",
+          "count": 22,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/logistics-supply-chain-management.json"
+        },
+        {
+          "job_field": "Finance, Controlling & Audit",
+          "count": 14,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/finance-controlling-audit.json"
+        },
+        {
+          "job_field": "Human Resources",
+          "count": 6,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/human-resources.json"
+        },
+        {
+          "job_field": "Applications Technology",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/applications-technology.json"
+        },
+        {
+          "job_field": "Information Technology & Services",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/information-technology-services.json"
+        },
+        {
+          "job_field": "Legal, Tax & Insurance",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/legal-tax-insurance.json"
+        },
+        {
+          "job_field": "Production, Maintenance & Technical Services",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/production-maintenance-technical-services.json"
+        },
+        {
+          "job_field": "Environment, Health & Safety",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/environment-health-safety.json"
+        }
+      ]
+    },
+    {
+      "country": "Philippines",
+      "count": 2,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/philippines.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/philippines.json",
+      "fields": [
+        {
+          "job_field": "Finance, Controlling & Audit",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/philippines/fields/finance-controlling-audit.json"
+        },
+        {
+          "job_field": "Research & Development",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/philippines/fields/research-development.json"
+        }
+      ]
+    },
+    {
+      "country": "Singapore",
+      "count": 1,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/singapore.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/singapore.json",
+      "fields": [
+        {
+          "job_field": "Marketing & Sales",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/singapore/fields/marketing-sales.json"
+        }
+      ]
+    },
+    {
+      "country": "South Korea",
+      "count": 1,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/south-korea.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/south-korea.json",
+      "fields": [
+        {
+          "job_field": "Administration & Office Support",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/south-korea/fields/administration-office-support.json"
+        }
+      ]
+    },
+    {
+      "country": "Taiwan",
+      "count": 6,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/taiwan.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/taiwan.json",
+      "fields": [
+        {
+          "job_field": "Logistics & Supply Chain Management",
+          "count": 3,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/taiwan/fields/logistics-supply-chain-management.json"
+        },
+        {
+          "job_field": "Production, Maintenance & Technical Services",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/taiwan/fields/production-maintenance-technical-services.json"
+        },
+        {
+          "job_field": "Quality Management",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/taiwan/fields/quality-management.json"
+        }
+      ]
+    },
+    {
+      "country": "Thailand",
+      "count": 3,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/thailand.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/thailand.json",
+      "fields": [
+        {
+          "job_field": "Research & Development",
+          "count": 2,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/thailand/fields/research-development.json"
+        },
+        {
+          "job_field": "Marketing & Sales",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/thailand/fields/marketing-sales.json"
+        }
+      ]
+    },
+    {
+      "country": "Turkey",
+      "count": 1,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/turkey.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/turkey.json",
+      "fields": [
+        {
+          "job_field": "Logistics & Supply Chain Management",
+          "count": 1,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/turkey/fields/logistics-supply-chain-management.json"
+        }
+      ]
+    },
+    {
+      "country": "Vietnam",
+      "count": 4,
+      "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/vietnam.html",
+      "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/vietnam.json",
+      "fields": [
+        {
+          "job_field": "Marketing & Sales",
+          "count": 4,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/vietnam/fields/marketing-sales.json"
+        }
+      ]
+    }
+  ]
+}

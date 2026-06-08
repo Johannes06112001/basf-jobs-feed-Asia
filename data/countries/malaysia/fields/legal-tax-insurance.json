@@ -1,0 +1,44 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "Malaysia",
+  "job_field": "Legal, Tax & Insurance",
+  "total_active": 2,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "138838",
+      "title": "Counsel, Legal & Compliance Services Hub (Thai Speaker)",
+      "url": "https://basf.jobs/job-invite/138838/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+      "department": "CL/OK",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-06-05T07:53:31Z",
+      "description": "Main Tasks You will draft, review, and negotiate local or international legal and intellectual property contracts, using templates and playbooks within defined limits. You will provide legal and compliance support on various matters, including due diligence, merger and acquisition projects, audits, and legal investigations. You will manage the contract lifecycle, ensure process efficiency, and contribute to the maintenance and improvement of contract templates and knowledge management systems. You will interact with internal clients and external customers as required for your assigned tasks. You will perform ancillary tasks such as preparing presentations, using legal tech tools, and handling translations. Requirements University degree in Law, preferably with a focus on commercial law Experience in draft and legal review of contracts, preferably with commercial law emphasis At least 3 years of professional experience in legal and commercial contract management, preferably wit h knowledge or practice of both common-law and civil-law systems Experienced in drafting and performing legal review of contracts, preferably with an emphasis on commercial law Fluent in English (and Thai and"
+    },
+    {
+      "job_id": "138582",
+      "title": "Corporate Insurance (Specialist)",
+      "url": "https://basf.jobs/job-invite/138582/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+      "department": "CL Legal, Compliance, Insurance & Security",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-28T10:37:25Z",
+      "description": "The Corporate Insurance (CLI) Specialist will serve as the gatekeeper and central coordination point for insurance related governance activities across countries. The role ensures consistency, accuracy, compliance, and clear accountability for all insurance data, reporting, and coordination activities within the CLI scope.‑related governance activities across countries. Functional Tasks (Inclusive but not limited): Insurance Governance Data Management Collect and consolidate data required for governance related insurance activities (e.g., asset values, stock values, turnover). ‑related insurance activities (e.g., asset values, stock values, turnover). Input and maintain insurance data in the relevant insurance systems and platforms. Collect local insurance policies and coordinate premium payment processes. Claims Management Investigation Report, track, and manage insurance claims. Attend on‑site visits to assess and understand damages when required. Liaise with internal and external stakeholders to ensure claims are handled promptly and accurately. Stakeholder Broker Management Manage and communicate with local insurance brokers and insurers. Explain insurance arrangements to local"
+    }
+  ]
+}

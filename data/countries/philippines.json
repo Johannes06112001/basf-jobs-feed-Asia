@@ -1,0 +1,47 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country",
+  "country": "Philippines",
+  "total_active": 2,
+  "fields": {
+    "Finance, Controlling & Audit": 1,
+    "Research & Development": 1
+  },
+  "llm_instruction": "This file contains only BASF jobs in Philippines. Filter this file before loading wider Asia data. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "134247",
+      "title": "Country Controller",
+      "url": "https://basf.jobs/job-invite/134247/?locale=en_US",
+      "country": "Philippines",
+      "city": "Muntinlupa",
+      "state": "Metro Manila (NCR, National Capital Region)",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "company": "BASF Philippines, Inc.",
+      "department": "A-APA/OG",
+      "business_unit": "Asia Pacific",
+      "hybrid": true,
+      "date_posted": "2026-03-15T16:00:00Z",
+      "description": "Objectives of the Position In charge of financial planning, forecasting, reporting and business analysis and commercial controlling support for APA business in country. Act as financial advisor, challenger and business partner to the APA Local Business Manager (LBM) in all matters of financial relevance including business steering and projects/initiatives. Be the go-to person for Compliance questions. Be member of the country and business area APA management team Main Tasks Financial Reporting and Forecasting Operational Planning: Responsible for monthly actual reporting and full year forecasting of P L, specific balance sheet items and sales. Conduct forecasting processes as part of the integrated planning process (supply FC, demand FC, financial FC). Accountable for developing, tracking and reporting financial scenarios (risks opportunities). Develop business commentary for corporate management. Identify risks/downsides and opportunities/upsides to sales plan. Document and track risks and opportunities including likelihood and decision time and review on a monthly basis. Commercial and Operational Controlling: Collect and review calendarized articles including volumes and prices."
+    },
+    {
+      "job_id": "131884",
+      "title": "Field Operations Assistant",
+      "url": "https://basf.jobs/job-invite/131884/?locale=en_US",
+      "country": "Philippines",
+      "city": "Bay",
+      "state": "Calabarzon",
+      "job_field": "Research & Development",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "company": "BASF Philippines, Inc.",
+      "department": "A-APA/OD",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-01-10T11:55:29Z",
+      "description": "In the Philippines, BASF has been supporting manufacturers from various industries since 1963. Today, BASF is a leading supplier of chemicals for industries, including Construction and Coatings, Automotive, Nutrition Health, Home Personal Care, and Agriculture. BASF also operates an Agricultural Research Station in the country which conducts research, laboratory studies and field testing of novel technologies. In 2024, BASF posted sales to customers in the Philippines of approximately €100 million and employed 92 people as of the end of the year. Further information is available at www.basf.com/ph . Field Operations Assistant O bjectives of the Position: Assist and help the Field Operations Manager in the smooth implementation of in-house and off-site “Farm Operation Activities” of the Agricultural Research Station (ARS) – Bay Laguna. Main Areas of Responsibilities and Key Activities Assist the Field Operations Manager in the planning, organizing and allocating of resources for the efficient execution of trials/ experiment of the customers: Field Biology Indications (Fungicide, Herbicide and Insecticide) and Insecticide Research (Insectary Team, CTI Team and advance Testing/Micropl"
+    }
+  ]
+}

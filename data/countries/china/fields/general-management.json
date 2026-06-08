@@ -1,0 +1,27 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "China",
+  "job_field": "General Management",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139092",
+      "title": "Assistant Manager, Sales (Lubricant Components China)",
+      "url": "https://basf.jobs/job-invite/139092/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "General Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF (China) Company Ltd.",
+      "department": "G-EVO/YA",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-29T03:47:21Z",
+      "description": "Objective • The Sales Account Manager for Lubricant Components in China is responsible for driving sales growth, managing assigned accounts, and developing new business opportunities within the lubricant components segment. This role ensures strong customer relationship, executes account strategies, leverages pricing, and collaborates with cross-functional teams to deliver value-added solutions. Main Tasks • Manage and grow assigned customer accounts, ensuring high satisfaction and profitability. • Develop and execute account plans aligned with business objectives. • Identify new opportunities in the Chinese market for lubricant components. • Promote new products and applications to expand market share. • Build strong relationships with OEMs, distributors, and key stakeholders. • Negotiate contracts and commercial terms in line with company policies. Main Requirements • Possesses at least a Bachelor's Degree in business, Chemistry, or related field. • Minimum 3–5 years of experience in sales or account management within chemical or lubricant industries. • Fluent in Mandarin and English. • Strong negotiation and sales skills with proven track record in B2B environments. • Understand"
+    }
+  ]
+}

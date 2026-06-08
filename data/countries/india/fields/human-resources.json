@@ -1,0 +1,27 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "India",
+  "job_field": "Human Resources",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139331",
+      "title": "GB/G Head of HR Services",
+      "url": "https://basf.jobs/job-invite/139331/?locale=en_US",
+      "country": "India",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF Global Business Services Private Limited",
+      "department": "GB/G",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-06-04T16:00:00Z",
+      "description": "Head of HR Services India will lead all HR Services activities for the Service Delivery Unit (SDU) in India, strategic and operational HR services owning delivery of transactional, strategic and platform-based HR services (HR operations, HRIS, payroll interfaces, service management, case resolution, and vendor management). This role combines strategic leadership, operational HR management, process optimization, and people leadership to enable data-driven decisions and alignment with global HR standards. Key Responsibilities Service delivery leadership Own end-to-end HR Services delivery for the SDU Ensure consistent, high-quality service through defined SLAs, KPIs, and service-level reporting. Operations process excellence Design, implement, and optimize standardized, scalable HR processes and operating procedures aligned with global HR policies. Drive continuous improvement initiatives (automation, RPA, workflow redesign) to increase efficiency, reduce error rates, and shorten turnaround times. Manage capacity planning, workload balancing, and operational resilience for peak cycles (e.g., payroll, year-end processes). HRIS technology stewardship Champion adoption of HR technology,"
+    }
+  ]
+}

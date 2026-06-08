@@ -1,0 +1,27 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "India",
+  "job_field": "Procurement",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "138544",
+      "title": "Frontend Developer",
+      "url": "https://basf.jobs/job-invite/138544/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "Procurement",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF India Limited",
+      "department": "GP/C Controlling, Strategy & Governance",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-19T01:11:06Z",
+      "description": "We are seeking a Frontend Engineer (JavaScript / React) to design and build intuitive, high-quality user interfaces for our applications. In this role, you will be responsible for developing responsive and maintainable frontend solutions, working closely with backend engineers, designers, and other stakeholders to deliver cohesive and user-focused products. Main Tasks: Develop and maintain modern web applications using JavaScript and React Build reusable, well-structured, and maintainable UI components Collaborate with backend engineers to integrate APIs and services Translate design concepts into functional, high-quality user interfaces Ensure performance, accessibility, and cross-browser compatibility Contribute to frontend architecture and best practices Participate in code reviews and collaborative development processes Support testing, debugging, and continuous improvement of frontend applications Requirements: B.E. / B. Tech in Computer Science / Software Engineering / Information Technology, MCA or an equivalent degree Candidates with minimum of 4 years of relevant experience in the above-mentioned technologies Strong experience with JavaScript (ES6+) and React Solid underst"
+    }
+  ]
+}

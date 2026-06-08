@@ -1,0 +1,27 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "Philippines",
+  "job_field": "Research & Development",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "131884",
+      "title": "Field Operations Assistant",
+      "url": "https://basf.jobs/job-invite/131884/?locale=en_US",
+      "country": "Philippines",
+      "city": "Bay",
+      "state": "Calabarzon",
+      "job_field": "Research & Development",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "company": "BASF Philippines, Inc.",
+      "department": "A-APA/OD",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-01-10T11:55:29Z",
+      "description": "In the Philippines, BASF has been supporting manufacturers from various industries since 1963. Today, BASF is a leading supplier of chemicals for industries, including Construction and Coatings, Automotive, Nutrition Health, Home Personal Care, and Agriculture. BASF also operates an Agricultural Research Station in the country which conducts research, laboratory studies and field testing of novel technologies. In 2024, BASF posted sales to customers in the Philippines of approximately €100 million and employed 92 people as of the end of the year. Further information is available at www.basf.com/ph . Field Operations Assistant O bjectives of the Position: Assist and help the Field Operations Manager in the smooth implementation of in-house and off-site “Farm Operation Activities” of the Agricultural Research Station (ARS) – Bay Laguna. Main Areas of Responsibilities and Key Activities Assist the Field Operations Manager in the planning, organizing and allocating of resources for the efficient execution of trials/ experiment of the customers: Field Biology Indications (Fungicide, Herbicide and Insecticide) and Insecticide Research (Insectary Team, CTI Team and advance Testing/Micropl"
+    }
+  ]
+}

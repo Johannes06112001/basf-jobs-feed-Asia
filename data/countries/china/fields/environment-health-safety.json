@@ -1,0 +1,61 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "China",
+  "job_field": "Environment, Health & Safety",
+  "total_active": 3,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139201",
+      "title": "Customs Classification Specialist",
+      "url": "https://basf.jobs/job-invite/139201/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Fengxian",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+      "department": "EC Coatings",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-29T08:29:07Z",
+      "description": "About The Role Join our company as a key expert in customs classification of chemical products. In this role, you will ensure compliance with customs regulations and support efficient processes across Asia Pacific while being connected to a global community. How You Will Do It • Act as the primary contact for customs classification requests in the Asia Pacific region. • Perform accurate and timely customs classification for products, raw materials, and merchandise according to local and international regulations. • Monitor and analyze customs regulations in China and Asia Pacific; implement compliant processes proactively. • Support process improvements with a focus on simplification and digitalization. • Collaborate closely with Supply Chain, Sales, and Procurement teams to ensure seamless operations. • Participate in global customs classification communities and share best practices. • Additional tasks may include handling Dangerous Goods requests, packaging consulting and article release for the Asia Pacific region. What We Look For • Bachelor’s or Master’s degree in Chemistry, Chemical Engineering, or a related scientific field. • Proven experience in customs classification of "
+    },
+    {
+      "job_id": "139179",
+      "title": "Senior Officer, New Substance Notification",
+      "url": "https://basf.jobs/job-invite/139179/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Fengxian",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+      "department": "EC/ES Product Stewardship",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-29T08:27:00Z",
+      "description": "About The Role Our EC/ES Product Stewardship APAC unit plays a crucial role in ensuring compliance with national and international chemical legislation. As the first point of contact for Product Stewardship topics, we actively engage with stakeholders, monitor regulatory developments, and promote responsible chemical management throughout the lifecycle of our products. By sharing our knowledge and expertise, we aim to ensure that Product Stewardship is integrated into all aspects of our operations. How You Will Do It • You are together with the Chemical Regulations Manager the primary contact for ECs business units for Asian chemical regulations. In close cooperation with the EC global regulatory team, you stay up to date with the latest regulations and requirements. This helps us to ensure compliance with the legal regulations for EC operations (ECO, ECR, ECT) for finished products in APAC. • Conducting hazard assessments and risk evaluations of our products from a chemical and regulatory perspective is another important task for you. By strategically identifying emerging regulatory issues and opportunities, you assess product and marketing risks and proactively develop risk manag"
+    },
+    {
+      "job_id": "139197",
+      "title": "Manager, Regional EHS",
+      "url": "https://basf.jobs/job-invite/139197/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF Polyurethane Specialties (China) Co. Ltd.",
+      "department": "A-CMA/XE",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-29T07:10:57Z",
+      "description": "About The Role - Support improvement on EHS management of A-CMA(Monomers Asia Pacific) sites. - Support A-CMA(Monomers Asia Pacific) business with product stewardship activities. How You Will Do It - Follow up the latest development of EHSQ regulations and BASF Group requirements and coordinate the implementation within A-CMA sites by promoting experience exchange and practice sharing. - Monitor the EHS performance in A-CMA by collecting and evaluating indicator data required by BASF global reporting tools incl. safety KPIs, leading indicators, carbon emission etc., - Support to drive the continuous improvement of EHS management in A-CMA by initiating or contributing, and facilitating appropriate EHS improvement activities based on analysis on the overall performance trend; - Support the site EHS by sharing the best practice on common topics among A-CMA plants, coordinating conducting gap analysis or internal audit for RCMS implementation, - Support the competence development of EHS team in A-CMA incl. coaching the new EHS staff on specific EHS topics, - Follow up on investigation of EHSQ incidents in sites, esp. the high severity (potential) ones, focused on the quality and effect"
+    }
+  ]
+}

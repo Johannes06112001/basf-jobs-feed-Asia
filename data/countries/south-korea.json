@@ -1,0 +1,29 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country",
+  "country": "South Korea",
+  "total_active": 1,
+  "fields": {
+    "Administration & Office Support": 1
+  },
+  "llm_instruction": "This file contains only BASF jobs in South Korea. Filter this file before loading wider Asia data. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139255",
+      "title": "Customer Service Officer for Nutrition and Health (Contractor)",
+      "url": "https://basf.jobs/job-invite/139255/?locale=en_US",
+      "country": "South Korea",
+      "city": "Seoul",
+      "state": "Seoul-teukbyeolsi",
+      "job_field": "Administration & Office Support",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "company": "BASF Company Ltd.",
+      "department": "EN/LA",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-06-04T22:36:12Z",
+      "description": "Contract Period : 1 Aug 2026 - 31 Dec 2027 * Position summary: -A Customer Service Officer (CSO) plays a critical operational role in ensuring both customer experience and supply reliability by maintaining accuracy and efficiency across the entire Order-to-Delivery process. -Through close collaboration with overseas manufacturing sites and internal stakeholders, the CSO minimizes supply risks and systematically manages customer order processing, invoicing, and returns. -This role requires strong SAP-based operational capabilities and a high level of data accuracy, along with the ability to continuously improve ways of working in an AI and digital automation environment. The position also demands effective problem-solving skills in complex situations involving multiple stakeholders. *Qualifications required: -Demonstrate SAP knowledge especially on MM and VA module -Strong problem-solving skills in situations involving multiple stakeholders -Ability to work flexibly across time zones -High attention to details, and quickly adapt to change in AI automation -Business communication in English language for liaising with global interfaces *Key Responsibility: -Coordinate with oversea fac"
+    }
+  ]
+}

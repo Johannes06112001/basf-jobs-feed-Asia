@@ -1,0 +1,42 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "Thailand",
+  "job_field": "Research & Development",
+  "total_active": 2,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "136081",
+      "title": "Lab Assistant Staff (12 months contract)",
+      "url": "https://basf.jobs/job-invite/136081/?locale=en_US",
+      "country": "Thailand",
+      "city": "Chonburi",
+      "state": "Chon Buri",
+      "job_field": "Research & Development",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "company": "BASF (Thai) Ltd.",
+      "department": "G-EMI/AT",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-06T11:13:45Z"
+    },
+    {
+      "job_id": "136084",
+      "title": "Chemist",
+      "url": "https://basf.jobs/job-invite/136084/?locale=en_US",
+      "country": "Thailand",
+      "city": "Chonburi",
+      "state": "Chon Buri",
+      "job_field": "Research & Development",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF (Thai) Ltd.",
+      "department": "G-EMI/AT",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-06T11:11:30Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "Japan",
+  "job_field": "Logistics & Supply Chain Management",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "138633",
+      "title": "Staff of Customer Service,Tokyo,EM",
+      "url": "https://basf.jobs/job-invite/138633/?locale=en_US",
+      "country": "Japan",
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF Japan Ltd.",
+      "department": "A-EMA/AN",
+      "business_unit": "Asia Pacific",
+      "hybrid": true,
+      "date_posted": "2026-05-28T03:06:41Z",
+      "description": "Staff of Customer Service,EM,Tokyo,Japan 本ポジションでは、カスタマーサービスにおける受注から入金までのプロセス（OTC: Order to Cash）を適切に管理し、業務改善や顧客満足の向上を推進します。 また、サプライチェーン指標（KPI）の分析を通じて、業務効率の改善やビジネス成長への貢献を行います。 主な役割： ・プロセスの管理および業務効率の改善 ・SCM KPIの分析および改善施策の実行 ・顧客ニーズに応じたサービス提供による売上・利益への貢献 ・サプライチェーン関連プロジェクトへの参画 In this role, you will manage the Order-to-Cash (OTC) processes within Customer Service and drive operational improvements to enhance efficiency and customer satisfaction. You will also analyze Supply Chain KPIs and contribute to business growth by improving processes and delivering high-quality customer services. Key responsibilities include: Managing OTC processes and driving operational efficiency improvements Monitoring and analyzing SCM KPIs and implementing improvement actions Supporting sales, profit, and growth by delivering customer-oriented services Contributing to supply chain-related projects Core Responsibilities（主な職務内容） ・Customer Relationship Management（顧客対応） ・Order-to-Cash Issue Management（受注～入金 / 問題対応） ・KPI Management（KPI管理） ・Process Improvement（業務改善） ・Logistics Provider Monitoring（物流管理） など Requirements（応募要件） 学歴：学士号以上 英語力：面接で英語でコミニュケーションが可能なレベル 経験：サプライチェーン（特にカスタマーサービス）で2年以上 または関連分野で4年以上の実務経験 SAPまたは"
+    }
+  ]
+}

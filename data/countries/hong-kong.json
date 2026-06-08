@@ -1,0 +1,29 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country",
+  "country": "Hong Kong",
+  "total_active": 1,
+  "fields": {
+    "Finance, Controlling & Audit": 1
+  },
+  "llm_instruction": "This file contains only BASF jobs in Hong Kong. Filter this file before loading wider Asia data. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "138541",
+      "title": "Intern, Global Controlling & Strategy, Dispersions & Resins",
+      "url": "https://basf.jobs/job-invite/138541/?locale=en_US",
+      "country": "Hong Kong",
+      "city": "Hong Kong",
+      "state": "Hong Kong",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "company": "BASF East Asia Regional Headquarters Ltd.",
+      "department": "ED/CC",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-19T02:09:47Z",
+      "description": "At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility. Around 112,000 employees contribute to the BASF Group’s success worldwide. Our business comprises the Chemicals, Materials, Industrial Solutions, Surface Technologies, Nutrition Care and Agricultural Solutions segments. We want to contribute to a better world with enhanced quality of life for everyone. That is why we have firmly anchored the three pillars of sustainability – the economy, environment and society – into our corporate purpose, our strategy, our targets and our operations. They are the core of what we do, a driver for growth and an element of our risk management. We believe that chemistry has a critical role to play in achieving greater sustainability. We are determined to move forward in this respect. Our employees are at the forefront of this transformation, across every role and function in the organization. Join us today in shaping a sustainable future together. About The Role This role is within the Performance Management and Strategic Controlling Team of the Dispersions Resins Division. Reporting to the team head, the intern "
+    }
+  ]
+}

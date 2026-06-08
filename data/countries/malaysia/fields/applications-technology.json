@@ -1,0 +1,44 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "Malaysia",
+  "job_field": "Applications Technology",
+  "total_active": 2,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139001",
+      "title": "Full Stack Developer (1 year contract)",
+      "url": "https://basf.jobs/job-invite/139001/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Applications Technology",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+      "department": "GBT/OT-F",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-29T10:38:02Z",
+      "description": "Objectives of the Position BASF Shared Services Center Kuala Lumpur was established in 2005 to provide functional services in Finance, Controlling, Information Services, Human Resources, Environment, Health Safety, Procurement, and Import-Export Order Management to BASF companies in the Asia-Pacific region. The center is part of BASF’s Global Business Services (GB) division, with three other sites in Berlin and Ludwigshafen in Germany and in Montevideo, Uruguay. GB’s Global Technology Unit (GTU) is looking for a Full-Stack Developer with a technical background in building modern IT applications and solutions. The role works closely with GTU’s Global Business Enablement and solutions delivery teams to implement and support IT solutions for other units of the GB division globally. Additionally, it is envisioned for the role to be part of a global Community of Practice to further the awareness and adoption of Citizen Development technologies across the GTU and GB organization in Kuala Lumpur, Berlin and Montevideo. Main Tasks As a Full-Stack Developer in the Global Technology Unit team, your main tasks include: Build responsive, high‑quality front‑end user experiences using modern JS "
+    },
+    {
+      "job_id": "138999",
+      "title": "Automation Engineer (1 year contract)",
+      "url": "https://basf.jobs/job-invite/138999/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Applications Technology",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+      "department": "GBT/OT-F",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-29T10:27:33Z",
+      "description": "Objectives of the Position BASF Shared Services Center Kuala Lumpur was established in 2005 to provide functional services in Finance, Controlling, Information Services, Human Resources, Environment, Health Safety, Procurement, and Import-Export Order Management to BASF companies in the Asia-Pacific region. The center is part of BASF’s Global Business Services (GB) division, with three other sites in Berlin and Ludwigshafen in Germany and in Montevideo, Uruguay. GB’s Global Technology Unit (GTU) is looking for an Automation Engineer with a technical background in in automation technologies. The role works closely with GTU’s Global Business Enablement and solutions delivery teams to implement and support IT solutions for other units of the GB division globally. Additionally, it is envisioned for the role to be part of a global Community of Practice to further the awareness and adoption of Citizen Development technologies across the GTU and GB organization in Kuala Lumpur, Berlin and Montevideo. Main Tasks As an Automation Engineer in the Global Technology Unit team, your main tasks include: Designing, implementing and supporting automated workflows using UiPath RPA, Microsoft Power "
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "Malaysia",
+  "job_field": "Production, Maintenance & Technical Services",
+  "total_active": 2,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "134657",
+      "title": "Team Leader, Utilities & General Facilities",
+      "url": "https://basf.jobs/job-invite/134657/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Pasir Gudang",
+      "state": "Johor",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF (Malaysia) Sdn. Bhd.",
+      "department": "A-PMA/O",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-05-13T02:48:04Z",
+      "description": "Objectives of the Position Responsible for leading the Utilities General Facilities within the site. To manage the operation and care of the utilities plants and their distribution to ensure reliable and quality supply of steam, furnace, compressed air, nitrogen, water (process and potable), demineralized water and cooling water for the plants and facilities use within the site. To manage and take care of the condition of the site general facilities such as non-production buildings, drainage system, sewerage system, fences, firefighting system and utilities pipe racks and empty land spaces within the site. Main Tasks Responsibilities Safety, Health Environment (SHE) Follow and enforce all environmental, health, and safety (EHS) rules to maintain a safe working environment. Ensure safe handling and unloading of hazardous chemicals (e.g. HCl, NaOH) according to approved procedures. Support regular testing and maintenance of fire hydrant systems and emergency generator sets to ensure readiness. Operations Maintenance Support daily operations and maintenance of utility facilities and equipment (e.g. boilers, air compressors, water systems). Assist in identifying, troubleshooting, and r"
+    },
+    {
+      "job_id": "135719",
+      "title": "Production Manager",
+      "url": "https://basf.jobs/job-invite/135719/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuantan",
+      "state": "Pahang",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "Toray BASF PBT Resin Sdn. Bhd.",
+      "department": "A-PMA/OB",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-04-20T09:39:09Z",
+      "description": "O bjectives of the Position Responsible in managing daily production operations to ensure timely, safe, and high-quality production of products, while also focusing on training production personnel, optimizing procedures, and ensuring compliance. Main Responsibilities Ensure all environmental, health and safety rules and guidelines are fully adhered and maintaining high safety standards for a safe working environment. Plan, organize, and manage daily production activities to ensure that production schedules and target quantities are met. Lead, mentor, and develop a team of Production Superintendent, Production Supervisors, Boardmen and technicians fostering a culture of teamwork and accountability. Conduct periodic training, performance evaluations, provide feedback, and identify training needs for team members (including succession planning for roles Boardman and above). Facilitate effective communication within the production team and across departments. Perform internal audits to support ISO9001, ISO14001 and ISO 50001 standards. Implement and uphold quality control measures to maintain product quality requirements and consistency within production team. Coordinate production tr"
+    }
+  ]
+}

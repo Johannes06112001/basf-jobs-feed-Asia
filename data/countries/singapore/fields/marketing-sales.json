@@ -1,0 +1,27 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "Singapore",
+  "job_field": "Marketing & Sales",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139347",
+      "title": "Specialist - Regional Commercial Excellence APAC",
+      "url": "https://basf.jobs/job-invite/139347/?locale=en_US",
+      "country": "Singapore",
+      "city": "Singapore",
+      "state": "Singapore",
+      "job_field": "Marketing & Sales",
+      "job_level": "Other",
+      "job_type": "Permanent",
+      "company": "Chemetall Asia Pte. Ltd.",
+      "department": "G-ECT/AMC",
+      "business_unit": "Asia Pacific",
+      "hybrid": true,
+      "date_posted": "2026-06-05T04:30:04Z",
+      "description": "Overall objective of the position : To drive profitable growth and commercial excellence across the region by translating strategy into execution, optimizing pricing and sales performance and enabling data-driven decision-making through standardized processes, tools and cross-functional collaboration. Main tasks : Strategic Projects Analyses To support definition and implementation of segment strategies together with Regional Key Industry Managers (KIMs) To act as Project Management Office (PMO) for regional and local strategy implementation (OKR roll-out and monitoring) To provide regional update of strategic business plan including deviation analysis To develop business cases and facilitate data-driven decision making for strategic initiatives, go-to-market strategies, commercial policies and incentive plans To conduct Performance Analysis: Analyze sales data, market trends and Key Performance Indicators (KPIs) to identify growth opportunities and areas for improvement To drive and support cross-country and cross-functional collaboration on key business topics, best practises, ensuring cohesive commercial strategies and execution T o conduct analysis together with Controlling, Hu"
+    }
+  ]
+}

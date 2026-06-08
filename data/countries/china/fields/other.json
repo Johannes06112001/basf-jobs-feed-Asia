@@ -1,0 +1,26 @@
+{
+  "last_updated": "2026-06-08T12:23:38Z",
+  "scope": "country_field",
+  "country": "China",
+  "job_field": "Other",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "336401",
+      "title": "Global Category Buyer, Intermediates & Renewables (007284)",
+      "url": "https://basf.jobs/light_blue_AP/job/SHANGHAI-Global-Category-Buyer%2C-Intermediates-&-Renewables-%28007284%29-200000/1381145433/?feedId=111101",
+      "country": "China",
+      "city": "SHANGHAI",
+      "state": "Unknown",
+      "job_field": "Other",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF",
+      "department": "Procurement",
+      "hybrid": false,
+      "date_posted": "2026-04-07T00:00:00Z",
+      "description": "= Objectives = • Global Category Buyer of chemical raw materials in the global team Procurement Functional Intermediates for Direct Procurement department. • Ensure a competitive, sustainable and secured supply of raw materials to the internal business partners within the defined area of responsibility. Negotiate high-spend contracts and generate savings for BASFs divisions. • Responsible for contributing to develop, implement and monitor strategy for regional categories • Prepare and execute Request for Quotation (RfQ), Contract implementation & monitoring • Category Management • Lead sourcing projects and contributes in projects • Execute Supplier Management • Execute Category Risk Management = Main Tasks = Procurement Plan to Strategy: • Responsible for contributing to procurement strategies for Global Categories: • Provide input of Integrated Business Planning (iBP)’s needs and market knowledge (e.g. supply market structure and dynamics, strategies of suppliers, pricing structures, opportunities and threats) to Regional Category Manager • Support Global Category Manager on strategy development (e.g. strategic goals, strategic options, implementation plan) • Strategy implementat"
+    }
+  ]
+}
