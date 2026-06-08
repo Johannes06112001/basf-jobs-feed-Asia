@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T18:21:11Z",
+  "last_updated": "2026-06-08T21:46:33Z",
   "scope": "Asia/APAC",
   "total_active": 281,
   "llm_instruction": "Start here only to route the search. Do not load the full Asia dataset first. Pick the requested country, then fetch that country's JSON. If the user asks for a function, prefer the matching country/function JSON. Default to India when no country is specified. Use wider Asia/APAC only as fallback. Copy URLs exactly from source.",
