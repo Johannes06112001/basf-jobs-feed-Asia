@@ -7,9 +7,18 @@
 <p>Last updated: 2026-06-09T08:25:19Z</p>
 <p>Total: 279 positions | 13 countries.</p>
 
+<h2>Start here for AI job agents</h2>
+<p>Use these files before reading country pages. They explain the intended search logic, intent mapping, and strict application-link rules.</p>
+<ul>
+  <li><strong>Agent guide:</strong> <a href="agent-guide.html">agent-guide.html</a> | <a href="data/agent-guide.json">data/agent-guide.json</a></li>
+  <li><strong>Intent map:</strong> <a href="data/intent-map.json">data/intent-map.json</a></li>
+  <li><strong>Routing JSON:</strong> <a href="data/llm-routing.json">data/llm-routing.json</a></li>
+</ul>
+<p><strong>Critical rule:</strong> Application links must be copied only from JSON <code>job.url</code>. Never construct <code>basf.jobs</code> links from job titles, visible text, or IDs.</p>
+<p><strong>Default search:</strong> If no country is named, search India first. If the user asks for other APAC countries, use the non-India/APAC entrypoints from the intent map.</p>
+
 <h2>LLM routing instruction</h2>
-<p>Do not load the full Asia job list into the context first. Start with the routing JSON, select the requested country, then fetch only that country or country/function file.</p>
-<p><strong>Routing JSON:</strong> <a href="data/llm-routing.json">data/llm-routing.json</a></p>
+<p>Do not load the full Asia job list into the context first. Start with the agent guide and intent map, then load only the smallest relevant country/function JSON.</p>
 <p><strong>Search index:</strong> <a href="data/search-index.jsonl">data/search-index.jsonl</a></p>
 <p>Default behavior for the agent: India first when no country is specified. If the user names a country, use that country first. Wider Asia/APAC is fallback only.</p>
 <p>Links on this page are relative on purpose, so the site remains portable when the repository is copied to another GitHub account.</p>
@@ -30,7 +39,6 @@
 <li><strong>Turkey</strong> — 1 position(s) | <a href="countries/turkey.html">HTML</a> | <a href="data/countries/turkey.json">JSON</a><br>Top fields: Logistics &amp; Supply Chain Management (1)</li>
 <li><strong>Vietnam</strong> — 4 position(s) | <a href="countries/vietnam.html">HTML</a> | <a href="data/countries/vietnam.json">JSON</a><br>Top fields: Marketing &amp; Sales (4)</li>
 </ul>
-
 
 </body>
 </html>
