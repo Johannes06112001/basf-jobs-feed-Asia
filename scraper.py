@@ -17,7 +17,8 @@ SEARCH_URL = "https://basf.jobs/?currentPage=1&pageSize=1000&addresses%2Fcountry
 AZURE_URL = "https://searchui.search.windows.net/indexes/basf-prod/docs/search?api-version=2020-06-30"
 
 # Public GitHub Pages base URL used inside generated HTML/JSON.
-BASE_URL = "https://zr-jt.github.io/basf-jobs-feed-Asia"
+# Change this single value when the repository is moved to another account.
+BASE_URL = "https://johannes06112001.github.io/basf-jobs-feed-Asia"
 
 ASIA_COUNTRIES = {
     "Afghanistan",
