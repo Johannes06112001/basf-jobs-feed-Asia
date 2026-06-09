@@ -1,0 +1,23 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "Quality Management",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "115450",
+      "title": "Supervisor, Quality Management_PS&R",
+      "url": "https://basf.jobs/job-invite/115450/?locale=en_US",
+      "country": "Taiwan",
+      "city": "Taoyuan City",
+      "state": "Taoyuan",
+      "job_field": "Quality Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2025-01-13T06:12:12Z",
+      "description_preview": "1. Process Improvement Digitalization - NGBA steering associated improvements: As the global point of contact for G-EDM Quality Management and PS R processes, lead participate in the development, optimization and automation of processes related to QM and PS R. Guide functional leads across countries to define the NGBA...",
+      "detail_path": "data/jobs/115450.json"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "human-resources",
+  "display_name": "Human Resources / Talent",
+  "aliases": [
+    "hr",
+    "human resources",
+    "talent",
+    "recruiting",
+    "recruitment",
+    "people",
+    "learning",
+    "payroll"
+  ],
+  "primary_fields": [
+    "Human Resources"
+  ],
+  "adjacent_fields": [
+    "Administration & Office Support"
+  ],
+  "title_keywords": [
+    "hr",
+    "human resources",
+    "talent",
+    "recruit",
+    "people",
+    "learning",
+    "payroll"
+  ],
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "139347",
+      "title": "Specialist - Regional Commercial Excellence APAC",
+      "url": "https://basf.jobs/job-invite/139347/?locale=en_US",
+      "country": "Singapore",
+      "city": "Singapore",
+      "state": "Singapore",
+      "job_field": "Marketing & Sales",
+      "job_level": "Other",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-05T04:30:04Z",
+      "description_preview": "Overall objective of the position : To drive profitable growth and commercial excellence across the region by translating strategy into execution, optimizing pricing and sales performance and enabling data-driven decision-making through standardized processes, tools and cross-functional collaboration. Main tasks :...",
+      "detail_path": "data/jobs/139347.json"
+    }
+  ],
+  "country": "Singapore"
+}

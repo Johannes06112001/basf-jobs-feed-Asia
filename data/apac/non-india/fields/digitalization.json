@@ -1,0 +1,65 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "Digitalization",
+  "total_active": 4,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139386",
+      "title": "Intern, Application Tester",
+      "url": "https://basf.jobs/job-invite/139386/?locale=en_US",
+      "country": "China",
+      "city": "Nanjing",
+      "state": "Unknown",
+      "job_field": "Digitalization",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-06-08T08:53:15Z",
+      "description_preview": "About The Role Within G-ECO/MD team, you will be responsible for testing our digital applications used in coatings industry. Your role involves manual testing of new features alongside the DevOps team, ensuring readiness for release. You'll facilitate both DevOps team and Product Owners by identifying, reporting, and...",
+      "detail_path": "data/jobs/139386.json"
+    },
+    {
+      "job_id": "139189",
+      "title": "Full Stack Engineer",
+      "url": "https://basf.jobs/job-invite/139189/?locale=en_US",
+      "country": "China",
+      "city": "Nanjing",
+      "state": "Unknown",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-03T06:03:45Z",
+      "description_preview": "About The Role Within Global Digital Factory ECO (G‑ECO/MD), you will contribute to the development of a modern web application as part of an agile DevOps team. The team builds and operates solutions that are jointly used by BASF Coatings and external customers, ensuring high quality, reliability, and continuous...",
+      "detail_path": "data/jobs/139189.json"
+    },
+    {
+      "job_id": "139313",
+      "title": "Senior Backend Engineer",
+      "url": "https://basf.jobs/job-invite/139313/?locale=en_US",
+      "country": "China",
+      "city": "Nanjing",
+      "state": "Unknown",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-03T02:21:09Z",
+      "description_preview": "About The Role Within Global Digital Factory ECO (G ‑ ECO/MD), you will contribute to the development of a modern web application as part of an agile DevOps team. The team builds and operates solutions that are jointly used by BASF Coatings and external customers, ensuring high quality, reliability, and continuous...",
+      "detail_path": "data/jobs/139313.json"
+    },
+    {
+      "job_id": "139171",
+      "title": "Intern, Operations APAC_Onboarding",
+      "url": "https://basf.jobs/job-invite/139171/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "Digitalization",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-05-29T04:05:27Z",
+      "description_preview": "Job Descriptions: • Support process scale up using pilot data and modeling to enable full scale production. • Develop and apply data driven and hybrid models to predict process performance. • Partner with engineers to support technology transfer to commercial operations....",
+      "detail_path": "data/jobs/139171.json"
+    }
+  ]
+}

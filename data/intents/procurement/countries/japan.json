@@ -1,0 +1,79 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "procurement",
+  "display_name": "Procurement / Purchasing",
+  "aliases": [
+    "procurement",
+    "purchasing",
+    "buyer",
+    "sourcing",
+    "category manager",
+    "supplier",
+    "vendor"
+  ],
+  "primary_fields": [
+    "Procurement"
+  ],
+  "adjacent_fields": [
+    "Logistics & Supply Chain Management",
+    "Finance, Controlling & Audit"
+  ],
+  "title_keywords": [
+    "procurement",
+    "purchasing",
+    "buyer",
+    "sourcing",
+    "category",
+    "supplier",
+    "vendor"
+  ],
+  "total_active": 3,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "138238",
+      "title": "Regional Category Buyer  - Tokyo",
+      "url": "https://basf.jobs/job-invite/138238/?locale=en_US",
+      "country": "Japan",
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "job_field": "Procurement",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-15T09:24:33Z",
+      "description_preview": "Regional Category Buyer （Assistant Manager but non-manager Role ） ■ポジション概要 本ポジションは、日本市場向けパフォーマンスケミカル（スチレン、グリコール類など）および原材料およびエネルギー（天然ガス・工業用ガス・電力・再生可能エネルギー等）の調達戦略を担い、競争力ある調達と安定供給の実現に貢献いただく重要な役割です。サプライヤーとの戦略的交渉・契約管理・関係構築を通じてコスト最適化を推進しながら、日本市場における市場の分析（政策、料金体系、インセンティブ、主要プレイヤー、投資動向等）を行い、持続可能かつ効率的な調達体制の構築をリードいただきます。...",
+      "detail_path": "data/jobs/138238.json"
+    },
+    {
+      "job_id": "138633",
+      "title": "Staff of Customer Service,Tokyo,EM",
+      "url": "https://basf.jobs/job-invite/138633/?locale=en_US",
+      "country": "Japan",
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-28T03:06:41Z",
+      "description_preview": "Staff of Customer Service,EM,Tokyo,Japan 本ポジションでは、カスタマーサービスにおける受注から入金までのプロセス（OTC: Order to Cash）を適切に管理し、業務改善や顧客満足の向上を推進します。 また、サプライチェーン指標（KPI）の分析を通じて、業務効率の改善やビジネス成長への貢献を行います。 主な役割： ・プロセスの管理および業務効率の改善 ・SCM KPIの分析および改善施策の実行 ・顧客ニーズに応じたサービス提供による売上・利益への貢献 ・サプライチェーン関連プロジェクトへの参画 In this role, you will manage the...",
+      "detail_path": "data/jobs/138633.json"
+    },
+    {
+      "job_id": "135408",
+      "title": "Manufacturing Manager,ED,Mie-Rokuromi Plant 1",
+      "url": "https://basf.jobs/job-invite/135408/?locale=en_US",
+      "country": "Japan",
+      "city": "Yokkaichi-shi",
+      "state": "Mie",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-04-29T06:18:38Z",
+      "description_preview": "Objectives of the Position This role is responsible for designing and installing optimal equipment in collaboration with the Engineering Maintenance (E M) team to support efficient and safe plant operations. It also involves training plant personnel to perform self-maintenance of equipment. Under the guidance of the...",
+      "detail_path": "data/jobs/135408.json"
+    }
+  ],
+  "country": "Japan"
+}

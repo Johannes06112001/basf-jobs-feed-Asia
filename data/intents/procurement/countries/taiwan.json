@@ -1,0 +1,65 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "procurement",
+  "display_name": "Procurement / Purchasing",
+  "aliases": [
+    "procurement",
+    "purchasing",
+    "buyer",
+    "sourcing",
+    "category manager",
+    "supplier",
+    "vendor"
+  ],
+  "primary_fields": [
+    "Procurement"
+  ],
+  "adjacent_fields": [
+    "Logistics & Supply Chain Management",
+    "Finance, Controlling & Audit"
+  ],
+  "title_keywords": [
+    "procurement",
+    "purchasing",
+    "buyer",
+    "sourcing",
+    "category",
+    "supplier",
+    "vendor"
+  ],
+  "total_active": 2,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "115452",
+      "title": "Manager, Order to Invoice (OTI)",
+      "url": "https://basf.jobs/job-invite/115452/?locale=en_US",
+      "country": "Taiwan",
+      "city": "Taoyuan City",
+      "state": "Taoyuan",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2025-01-13T06:12:50Z",
+      "description_preview": "1. Strategic business engagement: Participate in the development and implementation of G-EDM's business strategy, process improvements, and digitalization initiatives. Enhance business competitiveness by introducing new concepts and establishing expert networks. Advocate for process improvements and digitalization to...",
+      "detail_path": "data/jobs/115452.json"
+    },
+    {
+      "job_id": "115451",
+      "title": "Supervisor, Transport Management",
+      "url": "https://basf.jobs/job-invite/115451/?locale=en_US",
+      "country": "Taiwan",
+      "city": "Taoyuan City",
+      "state": "Taoyuan",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2025-01-13T06:12:29Z",
+      "description_preview": "1. Strategic business engagement: Participate in the development and implementation of G-EDM's business strategy, process improvements, and digitalization initiatives. Enhance business competitiveness by introducing new concepts and establishing expert networks. Advocate for process improvements and digitalization to...",
+      "detail_path": "data/jobs/115451.json"
+    }
+  ],
+  "country": "Taiwan"
+}

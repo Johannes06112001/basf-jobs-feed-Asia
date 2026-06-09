@@ -1,0 +1,55 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "engineering",
+  "display_name": "Engineering / Technical Services",
+  "aliases": [
+    "engineering",
+    "engineer",
+    "technical services",
+    "process engineer",
+    "mechanical",
+    "electrical",
+    "chemical engineer",
+    "maintenance"
+  ],
+  "primary_fields": [
+    "Engineering",
+    "Production, Maintenance & Technical Services",
+    "Applications Technology"
+  ],
+  "adjacent_fields": [
+    "Environment, Health & Safety",
+    "Research & Development"
+  ],
+  "title_keywords": [
+    "engineer",
+    "engineering",
+    "technical",
+    "process",
+    "maintenance",
+    "mechanical",
+    "electrical",
+    "chemical"
+  ],
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "138541",
+      "title": "Intern, Global Controlling & Strategy, Dispersions & Resins",
+      "url": "https://basf.jobs/job-invite/138541/?locale=en_US",
+      "country": "Hong Kong",
+      "city": "Hong Kong",
+      "state": "Hong Kong",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-05-19T02:09:47Z",
+      "description_preview": "At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility. Around 112,000 employees contribute to the BASF Group’s success worldwide. Our business comprises the Chemicals, Materials, Industrial Solutions, Surface Technologies, Nutrition...",
+      "detail_path": "data/jobs/138541.json"
+    }
+  ],
+  "country": "Hong Kong"
+}

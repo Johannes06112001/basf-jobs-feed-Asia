@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T08:25:19Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "country",
   "country": "India",
   "total_active": 159,
@@ -18,7 +18,8 @@
     "Procurement": 1,
     "Quality Management": 1
   },
-  "llm_instruction": "This file contains only BASF jobs in India. Descriptions are short previews. Fetch detail_path only for shortlisted roles. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "This file contains only BASF jobs in India. Descriptions are short previews. Fetch detail_path only for shortlisted roles. For role-specific searches, use data/intent-map.json or the field JSON files when available. Copy job URLs exactly from job.url and never generate basf.jobs links.",
   "jobs": [
     {
       "job_id": "139489",
@@ -221,8 +222,8 @@
       "title": "Sales Manager - Animal Nutrition, Vitamins and Carotenoids",
       "url": "https://basf.jobs/job-invite/138941/?locale=en_US",
       "country": "India",
-      "city": "Godrej One - Mumbai",
-      "state": "Maharashtra",
+      "city": "Hyderabad",
+      "state": "Telangana",
       "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
@@ -2164,7 +2165,7 @@
     },
     {
       "job_id": "130215",
-      "title": "Chemist - Application Technology Rinse-off",
+      "title": "Assistant Manager - Application Technology Skin Rinse Off",
       "url": "https://basf.jobs/job-invite/130215/?locale=en_US",
       "country": "India",
       "city": "Navi Mumbai - HO (Innovation Campus)",

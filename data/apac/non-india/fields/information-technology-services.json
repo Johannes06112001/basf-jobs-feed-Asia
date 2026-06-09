@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "Information Technology & Services",
+  "total_active": 2,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "138560",
+      "title": "Executive Secretary",
+      "url": "https://basf.jobs/job-invite/138560/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Information Technology & Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-20T08:37:58Z",
+      "description_preview": "Objectives of the Position According to company procedures, perform clerical, administrative, and general office duties of confidential nature with limited supervision, typically for teams by discipline, with the aim to facilitate operations, information flow, and formal people interactions (e.g. meetings, workshops,...",
+      "detail_path": "data/jobs/138560.json"
+    },
+    {
+      "job_id": "133620",
+      "title": "Intern, Digitalization",
+      "url": "https://basf.jobs/job-invite/133620/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuantan",
+      "state": "Pahang",
+      "job_field": "Information Technology & Services",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-03-04T03:08:21Z",
+      "description_preview": "Main Tasks: 1. Involved in software development as well as maintenance and improvement of citizen development tools. i.e. Microsoft Power Apps, Power BI and other Microsoft products. 2. Engage, enable and collaborate with stakeholders. 3. Review current processes and identify opportunities for improvement. 4. Assist...",
+      "detail_path": "data/jobs/133620.json"
+    }
+  ]
+}

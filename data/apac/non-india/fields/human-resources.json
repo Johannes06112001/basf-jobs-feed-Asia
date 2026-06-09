@@ -1,0 +1,93 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "Human Resources",
+  "total_active": 6,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "138986",
+      "title": "Payroll & People Data Analyst - Mandarin Speaker (Leasing, 9 month contract)",
+      "url": "https://basf.jobs/job-invite/138986/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-06-05T08:41:09Z",
+      "description_preview": "Objectives of the Position Seek to understand business needs and provide support, services and solution on payroll, HR data, HR systems and processes. Offer day-to-day support to service recipients on HR inquiries, work collaboratively with others and perform research on payroll and HR data practices by staying...",
+      "detail_path": "data/jobs/138986.json"
+    },
+    {
+      "job_id": "138967",
+      "title": "HR Specialist, Projects (6 months leasing contract)",
+      "url": "https://basf.jobs/job-invite/138967/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-05-28T11:04:15Z",
+      "description_preview": "Objectives of the Position Effectively manage special projects assigned in HR area in line with the project deliverables and manage all stakeholders to ensure project deliverables are communicated effectively Responsibilities 1) Project Management Develop working relationships with the project owners and involved...",
+      "detail_path": "data/jobs/138967.json"
+    },
+    {
+      "job_id": "138595",
+      "title": "Talent Acquisition Partner (Contract Role)",
+      "url": "https://basf.jobs/job-invite/138595/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-05-21T05:58:59Z",
+      "description_preview": "Role Summary The Talent Acquisition Partner manages the full recruitment lifecycle from Job Requisition (JR) approval to candidate offer acceptance. This role acts as a strategic advisor to the business, partnering closely with hiring managers and HR stakeholders to ensure effective talent delivery. The TA Partner is...",
+      "detail_path": "data/jobs/138595.json"
+    },
+    {
+      "job_id": "138540",
+      "title": "Intern, Learning and Development",
+      "url": "https://basf.jobs/job-invite/138540/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Human Resources",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-05-20T07:17:06Z",
+      "description_preview": "O bjectives of the Position To support the design, coordination, and delivery of employee learning initiatives Contribute to creating engaging learning experiences Main Responsibilities Assist in the planning and coordination of training programs, workshops, and learning events Support the creation and editing of...",
+      "detail_path": "data/jobs/138540.json"
+    },
+    {
+      "job_id": "133935",
+      "title": "Payroll & People Data (Analyst) - Mandarin Speaker (12 month leasing)",
+      "url": "https://basf.jobs/job-invite/133935/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-04-21T09:04:19Z",
+      "description_preview": "Objectives of the Position Seek to understand business needs and provide support, services and solution on payroll, HR data, HR systems and processes. Offer day-to-day support to service recipients on HR inquiries, work collaboratively with others and perform research on payroll and HR data practices by staying...",
+      "detail_path": "data/jobs/133935.json"
+    },
+    {
+      "job_id": "134412",
+      "title": "Compensation & Benefits (Specialist)",
+      "url": "https://basf.jobs/job-invite/134412/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-03-10T03:45:09Z",
+      "description_preview": "Objectives of the Position • Understand business needs and provide best suited support on Compensation and Benefits for specific assigned Country in the APAC region. • Support respective countries assigned in the region by engaging with the stakeholders, from HRBPs to country C B teams in Compensation Benefits matters...",
+      "detail_path": "data/jobs/134412.json"
+    }
+  ]
+}

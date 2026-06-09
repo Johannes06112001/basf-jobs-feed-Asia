@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly from job.url; never construct job links.",
+  "job": {
+    "job_id": "132786",
+    "title": "Intern, Environmental, Health, and Safety",
+    "url": "https://basf.jobs/job-invite/132786/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Pasir Gudang",
+    "state": "Johor",
+    "job_field": "Environment, Health & Safety",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF (Malaysia) Sdn. Bhd.",
+    "department": "A-PMA/OS",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-09T09:40:02Z",
+    "description": "Objectives of the Position Preparation for Responsible Care (RC) Audit Preparedness, Global Safety Day and upcoming RC Audit for Pasir Gudang Site On-demand EHS services related to EHS Management System (EHSMS) Helping and maintain site EHS requirements Main Tasks EHS Management System : Assist in updating and maintaining EHS S documentation and filing Support implementation of EHSS standards, Responsible Care Management System (RCMS), and promotion of related programs Update and monitor Occupational Health (OH) and medical records Collaborating with IT on digitalization projects (e.g., MS Teams, online training systems) Perform other assigned duties as required Audit / Inspection : Follow do Safety Inspection on site/plant To assist for preparation on next Medical Audit and GU/RA Audit 2024 To assist on preparing close the pre-GU/RA audit/Gaps People’s Development : Willing to learn new things Can deliver results fast, accurate, active follow-up Requirements Able to commit to minimum of 6 month full time internship Diploma or Degree in Science, Occupational Safety Health, Environment, Chemical or equivalent. Excellent communication and computer skills. Must have a good understanding of scope and function of EHS units. Able to do internship onsite at Pasir Gudang"
+  }
+}

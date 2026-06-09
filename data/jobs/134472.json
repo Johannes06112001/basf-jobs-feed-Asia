@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-09T08:25:19Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "job_detail",
-  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly from job.url; never construct job links.",
   "job": {
     "job_id": "134472",
     "title": "Intern - Invoice to Cash",

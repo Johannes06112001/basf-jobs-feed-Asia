@@ -1,72 +1,61 @@
 {
-  "last_updated": "2026-06-09T11:45:00Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "agent_guide",
-  "purpose": "Minimal retrieval instructions for LLM job agents using this BASF Asia/APAC feed.",
-  "active_source": "https://johannes06112001.github.io/basf-jobs-feed-Asia/",
-  "start_here": [
+  "purpose": "Minimal retrieval instructions for an LLM job agent using this BASF Asia/APAC feed.",
+  "active_source": "https://johannes06112001.github.io/basf-jobs-feed-Asia",
+  "mandatory_behavior": [
+    "If the user does not name a country, search India first. Do not ask whether they mean India or APAC.",
+    "If the user asks for other APAC countries or outside India, use non-India APAC entrypoints.",
+    "If the user names a country, search that country first when present in the feed.",
+    "For job application links, copy only the exact job.url value from JSON. Never construct BASF links.",
+    "Do not use LinkedIn, beBee, JoinImagine, external job boards, or generic web search for job results.",
+    "Do not show internal GitHub/JSON/source paths to the end user."
+  ],
+  "recommended_retrieval_order": [
     {
       "step": 1,
       "fetch": "data/agent-guide.json",
-      "reason": "Understand mandatory retrieval and link rules."
+      "reason": "Read agent behavior and link rules."
     },
     {
       "step": 2,
       "fetch": "data/intent-map.json",
-      "reason": "Map the user's wording to an intent and load the listed JSON sources."
+      "reason": "Map user wording to a job intent and choose the smallest entrypoint."
     },
     {
       "step": 3,
-      "fetch": "the JSON sources listed in the selected intent entrypoint",
-      "reason": "Use small country/field files instead of the full database."
+      "fetch": "data/intents/{intent}/india.json OR data/intents/{intent}/non-india-apac.json OR data/intents/{intent}/countries/{country}.json",
+      "reason": "Use intent-specific files instead of large country or aggregate files."
+    },
+    {
+      "step": 4,
+      "fetch": "job.detail_path only for shortlisted roles",
+      "reason": "Retrieve detailed descriptions only for final candidates or comparisons."
     }
   ],
-  "mandatory_behavior": [
-    "If the user does not name a country, search India first. Do not ask whether they mean India or APAC.",
-    "If the user asks for other APAC countries, outside India, China, or another named country, search that scope directly.",
-    "Use JSON files for job retrieval and job links. HTML pages are only fallback reading aids, not the source of application URLs.",
-    "For application links, copy only the exact job.url value from JSON. Never construct BASF links.",
-    "Do not use LinkedIn, beBee, JoinImagine, external job boards, or generic web search for job results.",
-    "Do not show internal GitHub/JSON/source paths to the end user."
-  ],
   "link_validation": {
-    "source_of_truth": "job.url in JSON",
     "allowed": "A URL copied exactly from job.url and starting with https://basf.jobs/.",
     "not_allowed": [
       "Constructing /job-invite/ URLs from numbers or titles.",
       "Constructing /job/Job-Title/ URLs from titles.",
-      "Constructing /india/job/... URLs from titles or locations.",
       "Using numbers in parentheses such as (007326) as job IDs.",
       "Using third-party URLs.",
       "Using country HTML pages as application links."
     ],
-    "reject_if_contains": ["%E2%80%94", "—", "undefined", "null", "[NUMBER]", "XXXXXX", "REQ_"]
+    "reject_if_contains": [
+      "%E2%80%94",
+      "—",
+      "undefined",
+      "null",
+      "[NUMBER]",
+      "XXXXXX",
+      "REQ_"
+    ]
   },
-  "retrieval_logic": {
-    "no_country_named": "Use the selected intent's india_first entrypoint.",
-    "other_apac_requested": "Reuse the last intent and use the non_india_apac entrypoint.",
-    "china_requested": "Use the selected intent's china entrypoint.",
-    "other_country_requested": "Use the selected intent's country entrypoint if available; otherwise use the country JSON from routing."
-  },
-  "important_examples": [
-    {
-      "user_request": "Ich will Software Engineer werden",
-      "intent": "software-engineering",
-      "entrypoint": "india_first"
-    },
-    {
-      "user_request": "gibt es das auch in anderen APAC Ländern?",
-      "intent": "reuse_previous_intent",
-      "entrypoint": "non_india_apac"
-    },
-    {
-      "user_request": "Ich will welche aus China sehen mit den richtigen Links",
-      "intent": "reuse_or_infer_intent",
-      "entrypoint": "china"
-    }
-  ],
   "entrypoints": {
     "intent_map": "data/intent-map.json",
     "routing": "data/llm-routing.json",
+    "non_india_apac": "data/apac/non-india.json",
     "aggregate_last_resort": "jobs.json"
   }
 }

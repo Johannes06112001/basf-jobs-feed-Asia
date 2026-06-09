@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-06-09T08:25:19Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "Asia/APAC",
-  "total_active": 279,
-  "llm_instruction": "Start here only to route the search. Do not load the full Asia dataset first. Pick the requested country, then fetch that country's JSON. If the user asks for a function, prefer the matching country/function JSON. Default to India when no country is specified. Use wider Asia/APAC only as fallback. Use json_path for portable same-repository navigation; use json_url when an absolute URL is required. Copy BASF job URLs exactly from source.",
+  "total_active": 281,
+  "link_rule": "Application links must be copied only from job.url in JSON. Never construct basf.jobs links.",
+  "llm_instruction": "For most role searches, start with data/agent-guide.json and data/intent-map.json. Use this routing file when a country or field is not covered by an intent entrypoint. Default to India when no country is specified. Use wider Asia/APAC only as fallback or when explicitly requested. Copy BASF job URLs exactly from job.url.",
   "countries": [
     {
       "country": "India",
@@ -242,7 +243,7 @@
     },
     {
       "country": "Malaysia",
-      "count": 51,
+      "count": 53,
       "html_path": "countries/malaysia.html",
       "html_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/countries/malaysia.html",
       "json_path": "data/countries/malaysia.json",
@@ -256,7 +257,7 @@
         },
         {
           "job_field": "Finance, Controlling & Audit",
-          "count": 14,
+          "count": 15,
           "json_path": "data/countries/malaysia/fields/finance-controlling-audit.json",
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/finance-controlling-audit.json"
         },
@@ -271,6 +272,12 @@
           "count": 2,
           "json_path": "data/countries/malaysia/fields/applications-technology.json",
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/applications-technology.json"
+        },
+        {
+          "job_field": "Environment, Health & Safety",
+          "count": 2,
+          "json_path": "data/countries/malaysia/fields/environment-health-safety.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/environment-health-safety.json"
         },
         {
           "job_field": "Information Technology & Services",
@@ -289,12 +296,6 @@
           "count": 2,
           "json_path": "data/countries/malaysia/fields/production-maintenance-technical-services.json",
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/production-maintenance-technical-services.json"
-        },
-        {
-          "job_field": "Environment, Health & Safety",
-          "count": 1,
-          "json_path": "data/countries/malaysia/fields/environment-health-safety.json",
-          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/environment-health-safety.json"
         }
       ]
     },

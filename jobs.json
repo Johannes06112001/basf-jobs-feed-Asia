@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-06-09T08:25:19Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "Asia/APAC",
-  "total_active": 279,
-  "llm_instruction": "Large aggregate file. Prefer data/llm-routing.json, country JSON files, field JSON files, and job detail JSON files to keep context small.",
+  "total_active": 281,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Large aggregate file. Prefer data/agent-guide.json, data/intent-map.json, country JSON files, field JSON files, and job detail JSON files to keep context small.",
   "countries": [
     "India",
     "China",
@@ -19,6 +20,32 @@
     "Vietnam"
   ],
   "jobs": [
+    {
+      "job_id": "132786",
+      "title": "Intern, Environmental, Health, and Safety",
+      "url": "https://basf.jobs/job-invite/132786/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Pasir Gudang",
+      "state": "Johor",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-06-09T09:40:02Z",
+      "detail_path": "data/jobs/132786.json"
+    },
+    {
+      "job_id": "139469",
+      "title": "Purchase-to-Pay Freight Cost (Associate Analyst) - Leasing 1",
+      "url": "https://basf.jobs/job-invite/139469/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-06-09T08:44:03Z",
+      "detail_path": "data/jobs/139469.json"
+    },
     {
       "job_id": "134802",
       "title": "Transport Management (Executive)",
@@ -570,8 +597,8 @@
       "title": "Sales Manager - Animal Nutrition, Vitamins and Carotenoids",
       "url": "https://basf.jobs/job-invite/138941/?locale=en_US",
       "country": "India",
-      "city": "Godrej One - Mumbai",
-      "state": "Maharashtra",
+      "city": "Hyderabad",
+      "state": "Telangana",
       "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
@@ -3358,7 +3385,7 @@
     },
     {
       "job_id": "130215",
-      "title": "Chemist - Application Technology Rinse-off",
+      "title": "Assistant Manager - Application Technology Skin Rinse Off",
       "url": "https://basf.jobs/job-invite/130215/?locale=en_US",
       "country": "India",
       "city": "Navi Mumbai - HO (Innovation Campus)",

@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-06-09T08:25:19Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "country_field",
   "country": "Philippines",
   "job_field": "Research & Development",
   "total_active": 1,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "131884",

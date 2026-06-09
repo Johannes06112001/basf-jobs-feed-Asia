@@ -1,0 +1,100 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "finance",
+  "display_name": "Finance / Controlling / Audit",
+  "aliases": [
+    "finance",
+    "controlling",
+    "audit",
+    "accounting",
+    "tax",
+    "treasury",
+    "reporting",
+    "mis",
+    "controller"
+  ],
+  "primary_fields": [
+    "Finance, Controlling & Audit",
+    "Finance",
+    "Controlling",
+    "Accounting"
+  ],
+  "adjacent_fields": [
+    "Administration & Office Support",
+    "Procurement"
+  ],
+  "title_keywords": [
+    "finance",
+    "controlling",
+    "audit",
+    "account",
+    "tax",
+    "treasury",
+    "reporting",
+    "mis",
+    "controller"
+  ],
+  "total_active": 4,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "131544",
+      "title": "Deputy Manager - Sales, Surface Treatment, Coatings",
+      "url": "https://basf.jobs/job-invite/131544/?locale=en_US",
+      "country": "Vietnam",
+      "city": "Hanoi",
+      "state": "Ha Noi",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-04-14T08:25:33Z",
+      "description_preview": "OBJECTIVES THE POSITION Manage sales of surface treatment business unit under the Chemetall® brand via direct and indirect distribution in assigned northern territories of VN aiming to generate sustainable sales growth for G-ECT SEA. Identify and exploit market potential as well as to explore and create customer needs...",
+      "detail_path": "data/jobs/131544.json"
+    },
+    {
+      "job_id": "131779",
+      "title": "Sales Manager - Surface Treatment Vietnam",
+      "url": "https://basf.jobs/job-invite/131779/?locale=en_US",
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "state": "Ho Chi Minh [Sai Gon]",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-01-14T09:01:40Z",
+      "description_preview": "OBJECTIVES OF THE POSITION Segment: Cold forming (wire drawing, tube drawing, cold forging) Region: APAC (mainly China, India and SEA) Provide troubleshooting activities support new line start-ups Survey key/strategic accounts to provide continuous improvement suggestions and support MAIN AREAS OF RESPONSIBILITIES AND...",
+      "detail_path": "data/jobs/131779.json"
+    },
+    {
+      "job_id": "124951",
+      "title": "Deputy Manager - Sales, PU Footwear, Performance Materials",
+      "url": "https://basf.jobs/job-invite/124951/?locale=en_US",
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "state": "Ho Chi Minh [Sai Gon]",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2025-10-01T08:03:48Z",
+      "description_preview": "OBJECTIVES OF THE POSITION This role serves as the sales or local key account manager responsible for implementing the Value Chain hunting strategy, engaging with the VN team to identify potential polyurethane (PU) Footwear projects and secure new approvals. It involves establishing relationships with key shoe...",
+      "detail_path": "data/jobs/124951.json"
+    },
+    {
+      "job_id": "125455",
+      "title": "Deputy Manager - Sales, PU Footwear, Performance Materials",
+      "url": "https://basf.jobs/job-invite/125455/?locale=en_US",
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "state": "Ho Chi Minh [Sai Gon]",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2025-07-28T10:04:26Z",
+      "description_preview": "OBJECTIVES OF THE POSITION This role serves as the sales or local key account manager responsible for implementing the Value Chain hunting strategy, engaging with the VN team to identify potential polyurethane (PU) Footwear projects and secure new approvals. It involves establishing relationships with key shoe...",
+      "detail_path": "data/jobs/125455.json"
+    }
+  ],
+  "country": "Vietnam"
+}

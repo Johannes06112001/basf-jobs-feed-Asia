@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T08:25:19Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "country",
   "country": "Philippines",
   "total_active": 2,
@@ -7,7 +7,8 @@
     "Finance, Controlling & Audit": 1,
     "Research & Development": 1
   },
-  "llm_instruction": "This file contains only BASF jobs in Philippines. Descriptions are short previews. Fetch detail_path only for shortlisted roles. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "This file contains only BASF jobs in Philippines. Descriptions are short previews. Fetch detail_path only for shortlisted roles. For role-specific searches, use data/intent-map.json or the field JSON files when available. Copy job URLs exactly from job.url and never generate basf.jobs links.",
   "jobs": [
     {
       "job_id": "134247",

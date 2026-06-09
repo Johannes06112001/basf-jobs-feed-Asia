@@ -1,11 +1,26 @@
 {
-  "last_updated": "2026-06-09T08:25:19Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Finance, Controlling & Audit",
-  "total_active": 14,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
+  "total_active": 15,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
   "jobs": [
+    {
+      "job_id": "139469",
+      "title": "Purchase-to-Pay Freight Cost (Associate Analyst) - Leasing 1",
+      "url": "https://basf.jobs/job-invite/139469/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-06-09T08:44:03Z",
+      "description_preview": "Objectives of the Position The Purchase To Pay provides invoice verification services for Inbound / Outbound supply chain activities. It is the focal point for the relevant invoice verification activities before payment is initiated to the service providers. The analyst, will execute the process with a consistent high...",
+      "detail_path": "data/jobs/139469.json"
+    },
     {
       "job_id": "138784",
       "title": "Controlling Analyst (Leasing, 9 month contract)",

@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-09T08:25:19Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "job_detail",
-  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly from job.url; never construct job links.",
   "job": {
     "job_id": "138941",
     "title": "Sales Manager - Animal Nutrition, Vitamins and Carotenoids",
     "url": "https://basf.jobs/job-invite/138941/?locale=en_US",
     "country": "India",
-    "city": "Godrej One - Mumbai",
-    "state": "Maharashtra",
+    "city": "Hyderabad",
+    "state": "Telangana",
     "job_field": "Marketing & Sales",
     "job_level": "Professional",
     "job_type": "Permanent",

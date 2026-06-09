@@ -4,15 +4,37 @@
 <body>
 
 <h1>BASF Job Openings Asia/APAC</h1>
-<p>Last updated: 2026-06-09T08:25:19Z</p>
-<p>Total: 279 positions | 13 countries.</p>
+<p>Last updated: 2026-06-09T10:54:08Z</p>
+<p>Total: 281 positions | 13 countries.</p>
 
-<h2>LLM routing instruction</h2>
-<p>Do not load the full Asia job list into the context first. Start with the routing JSON, select the requested country, then fetch only that country or country/function file.</p>
-<p><strong>Routing JSON:</strong> <a href="data/llm-routing.json">data/llm-routing.json</a></p>
-<p><strong>Search index:</strong> <a href="data/search-index.jsonl">data/search-index.jsonl</a></p>
-<p>Default behavior for the agent: India first when no country is specified. If the user names a country, use that country first. Wider Asia/APAC is fallback only.</p>
-<p>Links on this page are relative on purpose, so the site remains portable when the repository is copied to another GitHub account.</p>
+<h2>Start here for AI agents</h2>
+<p><strong>Recommended:</strong> fetch the agent guide first, then the intent map. Use intent-specific JSON files instead of loading the full job database.</p>
+<ul>
+  <li><a href="agent-guide.html">Agent guide HTML</a></li>
+  <li><a href="data/agent-guide.json">Agent guide JSON</a></li>
+  <li><a href="data/intent-map.json">Intent map JSON</a></li>
+  <li><a href="data/llm-routing.json">Country and field routing JSON</a></li>
+  <li><a href="data/apac/non-india.json">Non-India APAC compact JSON</a></li>
+  <li><a href="data/search-index.json">Search index JSON</a></li>
+</ul>
+<p><strong>Critical link rule:</strong> application links must only be copied from JSON <code>job.url</code>. Never construct BASF job links from titles or IDs.</p>
+<p>Default behavior for the agent: India first when no country is specified. If the user names a country, use that country first. Wider Asia/APAC is fallback only unless explicitly requested.</p>
+
+<h2>Intent entrypoints</h2>
+<ul>
+<li><strong>Software Engineering / Developer / Full Stack</strong> | <a href="data/intents/software-engineering/india.json">India</a> | <a href="data/intents/software-engineering/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/software-engineering/china.json">China</a></li>
+<li><strong>Backend Engineering</strong> | <a href="data/intents/backend-engineering/india.json">India</a> | <a href="data/intents/backend-engineering/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/backend-engineering/china.json">China</a></li>
+<li><strong>SAP / Business Applications</strong> | <a href="data/intents/sap-business-applications/india.json">India</a> | <a href="data/intents/sap-business-applications/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/sap-business-applications/china.json">China</a></li>
+<li><strong>Business Informatics / Wirtschaftsinformatik</strong> | <a href="data/intents/business-informatics/india.json">India</a> | <a href="data/intents/business-informatics/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/business-informatics/china.json">China</a></li>
+<li><strong>Digitalization / IT / Data</strong> | <a href="data/intents/digitalization/india.json">India</a> | <a href="data/intents/digitalization/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/digitalization/china.json">China</a></li>
+<li><strong>Finance / Controlling / Audit</strong> | <a href="data/intents/finance/india.json">India</a> | <a href="data/intents/finance/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/finance/china.json">China</a></li>
+<li><strong>Supply Chain / Logistics</strong> | <a href="data/intents/supply-chain-logistics/india.json">India</a> | <a href="data/intents/supply-chain-logistics/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/supply-chain-logistics/china.json">China</a></li>
+<li><strong>Procurement / Purchasing</strong> | <a href="data/intents/procurement/india.json">India</a> | <a href="data/intents/procurement/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/procurement/china.json">China</a></li>
+<li><strong>Engineering / Technical Services</strong> | <a href="data/intents/engineering/india.json">India</a> | <a href="data/intents/engineering/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/engineering/china.json">China</a></li>
+<li><strong>Marketing &amp; Sales / Commercial</strong> | <a href="data/intents/sales-marketing/india.json">India</a> | <a href="data/intents/sales-marketing/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/sales-marketing/china.json">China</a></li>
+<li><strong>Human Resources / Talent</strong> | <a href="data/intents/human-resources/india.json">India</a> | <a href="data/intents/human-resources/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/human-resources/china.json">China</a></li>
+</ul>
+
 
 <h2>Country pages</h2>
 <ul>
@@ -21,7 +43,7 @@
 <li><strong>Hong Kong</strong> — 1 position(s) | <a href="countries/hong-kong.html">HTML</a> | <a href="data/countries/hong-kong.json">JSON</a><br>Top fields: Finance, Controlling &amp; Audit (1)</li>
 <li><strong>Indonesia</strong> — 8 position(s) | <a href="countries/indonesia.html">HTML</a> | <a href="data/countries/indonesia.json">JSON</a><br>Top fields: Production, Maintenance &amp; Technical Services (5), Marketing &amp; Sales (2), Engineering (1)</li>
 <li><strong>Japan</strong> — 4 position(s) | <a href="countries/japan.html">HTML</a> | <a href="data/countries/japan.json">JSON</a><br>Top fields: Production, Maintenance &amp; Technical Services (2), Logistics &amp; Supply Chain Management (1), Procurement (1)</li>
-<li><strong>Malaysia</strong> — 51 position(s) | <a href="countries/malaysia.html">HTML</a> | <a href="data/countries/malaysia.json">JSON</a><br>Top fields: Logistics &amp; Supply Chain Management (22), Finance, Controlling &amp; Audit (14), Human Resources (6), Applications Technology (2), Information Technology &amp; Services (2)</li>
+<li><strong>Malaysia</strong> — 53 position(s) | <a href="countries/malaysia.html">HTML</a> | <a href="data/countries/malaysia.json">JSON</a><br>Top fields: Logistics &amp; Supply Chain Management (22), Finance, Controlling &amp; Audit (15), Human Resources (6), Applications Technology (2), Environment, Health &amp; Safety (2)</li>
 <li><strong>Philippines</strong> — 2 position(s) | <a href="countries/philippines.html">HTML</a> | <a href="data/countries/philippines.json">JSON</a><br>Top fields: Finance, Controlling &amp; Audit (1), Research &amp; Development (1)</li>
 <li><strong>Singapore</strong> — 1 position(s) | <a href="countries/singapore.html">HTML</a> | <a href="data/countries/singapore.json">JSON</a><br>Top fields: Marketing &amp; Sales (1)</li>
 <li><strong>South Korea</strong> — 1 position(s) | <a href="countries/south-korea.html">HTML</a> | <a href="data/countries/south-korea.json">JSON</a><br>Top fields: Administration &amp; Office Support (1)</li>

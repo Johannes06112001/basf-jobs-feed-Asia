@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "Public Relations / Communications",
+  "total_active": 2,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139311",
+      "title": "Manager, Communications",
+      "url": "https://basf.jobs/job-invite/139311/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Fengxian",
+      "job_field": "Public Relations / Communications",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-03T06:07:12Z",
+      "description_preview": "About The Role This role combines corporate communications with ownership of brand and digital communications for China. It offers a high degree of autonomy, combining strategic advisory work, hands-on execution, and effective steering of external agencies. As a communications manager in China, you will support...",
+      "detail_path": "data/jobs/139311.json"
+    },
+    {
+      "job_id": "139203",
+      "title": "Intern, Communications",
+      "url": "https://basf.jobs/job-invite/139203/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "Public Relations / Communications",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-05-29T07:35:47Z",
+      "description_preview": "How You Will Do - Supporting the creation and maintenance of internet CN webpages from Q3 – Q4 2026 - Supporting the organization of exhibitions, internal and customer events in China, e.g., CHINAPLAS 2027 - Supporting the translations of marcom materials and copywriting of CN articles - Any other admin./logistical...",
+      "detail_path": "data/jobs/139203.json"
+    }
+  ]
+}

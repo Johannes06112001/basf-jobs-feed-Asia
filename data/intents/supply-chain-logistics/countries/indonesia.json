@@ -1,0 +1,152 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "supply-chain-logistics",
+  "display_name": "Supply Chain / Logistics",
+  "aliases": [
+    "supply chain",
+    "logistics",
+    "scm",
+    "planning",
+    "warehouse",
+    "inventory",
+    "materials management",
+    "demand planning"
+  ],
+  "primary_fields": [
+    "Logistics & Supply Chain Management",
+    "Supply Chain",
+    "Logistics"
+  ],
+  "adjacent_fields": [
+    "Procurement",
+    "Production, Maintenance & Technical Services"
+  ],
+  "title_keywords": [
+    "supply",
+    "logistics",
+    "planning",
+    "warehouse",
+    "inventory",
+    "material",
+    "demand"
+  ],
+  "total_active": 8,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "138645",
+      "title": "DCS Operator",
+      "url": "https://basf.jobs/job-invite/138645/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Merak",
+      "state": "Banten",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-03T03:06:55Z",
+      "description_preview": "Tujuan Umum Posisi Ini: Bertanggung jawab penuh terhadap kelancaran proses produksi untuk mendapatkan produk sesuai dengan target produksi yang sudah ditetapkan. Target ini baik dalam kuantitas, kualitas, ketepatan waktu dan juga keamanan proses Bertanggung jawab penuh terhadap semua peraturan dan prosedur EHS...",
+      "detail_path": "data/jobs/138645.json"
+    },
+    {
+      "job_id": "138840",
+      "title": "I/E Engineer or Sr I/E Technician",
+      "url": "https://basf.jobs/job-invite/138840/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Merak",
+      "state": "Banten",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-04T07:58:58Z",
+      "description_preview": "Objectives: To support Production, Utility, QC, PPIC, and QC-Lab Department Main Responsibility: EHS Process Safety related: Comply and follow all EHS regulations Work safely in accordance with the occupational safety rules applicable at PT BASF Indonesia, Merak plant. Production related: To install, replace, and...",
+      "detail_path": "data/jobs/138840.json"
+    },
+    {
+      "job_id": "135412",
+      "title": "Production Engineer",
+      "url": "https://basf.jobs/job-invite/135412/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Merak",
+      "state": "Banten",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-04-13T02:03:26Z",
+      "description_preview": "Objectives of the Position: Responsible for and ensuring that the production process runs efficiently and effectively. Comply and follow all EHS regulations Main Tasks: EHS Process Safety related: Comply and follow all EHS regulations Act as the work permit issuer (G1) in the production area according to the work...",
+      "detail_path": "data/jobs/135412.json"
+    },
+    {
+      "job_id": "131778",
+      "title": "Mechanical Technician (Leasing) 1",
+      "url": "https://basf.jobs/job-invite/131778/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "state": "Jakarta Raya",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-01-06T01:09:43Z",
+      "description_preview": "Main Responsibilities: Memastikan bahwa kegiatan pemeliharaan tidak mengganggu atau menimbulkan masalah bagi perusahaan dan lingkungan Memastikan semua peraturan dan ketentuan kesehatan dan keselamatan kerja sesuai dengan undang-undang pemerintah dan protokol perusahaan Menerapkan kebijakan dan standar keselamatan di...",
+      "detail_path": "data/jobs/131778.json"
+    },
+    {
+      "job_id": "131441",
+      "title": "Electrical Technician (Leasing)",
+      "url": "https://basf.jobs/job-invite/131441/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "state": "Jakarta Raya",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2025-12-17T02:05:44Z",
+      "description_preview": "Main Responsibilities: Memastikan bahwa kegiatan pemeliharaan tidak mengganggu atau menimbulkan masalah bagi perusahaan dan lingkungan Memastikan semua peraturan dan ketentuan kesehatan dan keselamatan kerja sesuai dengan undang-undang pemerintah dan protokol perusahaan Menerapkan kebijakan dan standar keselamatan di...",
+      "detail_path": "data/jobs/131441.json"
+    },
+    {
+      "job_id": "139175",
+      "title": "Industry Manager, ASEAN",
+      "url": "https://basf.jobs/job-invite/139175/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "state": "Jakarta Raya",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-29T16:00:00Z",
+      "description_preview": "Job Objectives : Industry Manager, ASEAN is responsible for leading and driving the overall sales strategy, business growth, and market expansion across the ASEAN sub-region for Dispersion Business Unit (Fiber Bonding Adhesive, Paper Carpet Dispersion Industry). This role oversee sub-regional sales operations, key...",
+      "detail_path": "data/jobs/139175.json"
+    },
+    {
+      "job_id": "135123",
+      "title": "Assistant Manager, Technology, Asia Pacific",
+      "url": "https://basf.jobs/job-invite/135123/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "state": "Jakarta Raya",
+      "job_field": "Engineering",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-04-21T01:47:13Z",
+      "description_preview": "Objectives: Responsible for supporting implementation of formulation technology transfer to own sites and contract manufacturers (CM) in APA including consistency check and update of technical database. Responsible for providing technical support and troubleshooting to own sites and contract manufacturers, support as...",
+      "detail_path": "data/jobs/135123.json"
+    },
+    {
+      "job_id": "131922",
+      "title": "Sales Manager",
+      "url": "https://basf.jobs/job-invite/131922/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "state": "Jakarta Raya",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-01-12T01:17:33Z",
+      "description_preview": "Objectives of the Position: Focus on maintaining and developing BASF Chemical Catalysts business in Indonesia. Sales activities to achieve business targets. Collect and analyze market information; develop key account strategies. Build relationships with engineering companies, associations, and producers. Maintain good...",
+      "detail_path": "data/jobs/131922.json"
+    }
+  ],
+  "country": "Indonesia"
+}

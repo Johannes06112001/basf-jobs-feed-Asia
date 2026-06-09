@@ -1,0 +1,96 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "supply-chain-logistics",
+  "display_name": "Supply Chain / Logistics",
+  "aliases": [
+    "supply chain",
+    "logistics",
+    "scm",
+    "planning",
+    "warehouse",
+    "inventory",
+    "materials management",
+    "demand planning"
+  ],
+  "primary_fields": [
+    "Logistics & Supply Chain Management",
+    "Supply Chain",
+    "Logistics"
+  ],
+  "adjacent_fields": [
+    "Procurement",
+    "Production, Maintenance & Technical Services"
+  ],
+  "title_keywords": [
+    "supply",
+    "logistics",
+    "planning",
+    "warehouse",
+    "inventory",
+    "material",
+    "demand"
+  ],
+  "total_active": 4,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "138633",
+      "title": "Staff of Customer Service,Tokyo,EM",
+      "url": "https://basf.jobs/job-invite/138633/?locale=en_US",
+      "country": "Japan",
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-28T03:06:41Z",
+      "description_preview": "Staff of Customer Service,EM,Tokyo,Japan 本ポジションでは、カスタマーサービスにおける受注から入金までのプロセス（OTC: Order to Cash）を適切に管理し、業務改善や顧客満足の向上を推進します。 また、サプライチェーン指標（KPI）の分析を通じて、業務効率の改善やビジネス成長への貢献を行います。 主な役割： ・プロセスの管理および業務効率の改善 ・SCM KPIの分析および改善施策の実行 ・顧客ニーズに応じたサービス提供による売上・利益への貢献 ・サプライチェーン関連プロジェクトへの参画 In this role, you will manage the...",
+      "detail_path": "data/jobs/138633.json"
+    },
+    {
+      "job_id": "138238",
+      "title": "Regional Category Buyer  - Tokyo",
+      "url": "https://basf.jobs/job-invite/138238/?locale=en_US",
+      "country": "Japan",
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "job_field": "Procurement",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-15T09:24:33Z",
+      "description_preview": "Regional Category Buyer （Assistant Manager but non-manager Role ） ■ポジション概要 本ポジションは、日本市場向けパフォーマンスケミカル（スチレン、グリコール類など）および原材料およびエネルギー（天然ガス・工業用ガス・電力・再生可能エネルギー等）の調達戦略を担い、競争力ある調達と安定供給の実現に貢献いただく重要な役割です。サプライヤーとの戦略的交渉・契約管理・関係構築を通じてコスト最適化を推進しながら、日本市場における市場の分析（政策、料金体系、インセンティブ、主要プレイヤー、投資動向等）を行い、持続可能かつ効率的な調達体制の構築をリードいただきます。...",
+      "detail_path": "data/jobs/138238.json"
+    },
+    {
+      "job_id": "135408",
+      "title": "Manufacturing Manager,ED,Mie-Rokuromi Plant 1",
+      "url": "https://basf.jobs/job-invite/135408/?locale=en_US",
+      "country": "Japan",
+      "city": "Yokkaichi-shi",
+      "state": "Mie",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-04-29T06:18:38Z",
+      "description_preview": "Objectives of the Position This role is responsible for designing and installing optimal equipment in collaboration with the Engineering Maintenance (E M) team to support efficient and safe plant operations. It also involves training plant personnel to perform self-maintenance of equipment. Under the guidance of the...",
+      "detail_path": "data/jobs/135408.json"
+    },
+    {
+      "job_id": "135409",
+      "title": "EHS,ED,Yokkaichi-Rokuromi Plant 1",
+      "url": "https://basf.jobs/job-invite/135409/?locale=en_US",
+      "country": "Japan",
+      "city": "Yokkaichi-shi",
+      "state": "Mie",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-04-29T02:05:10Z",
+      "description_preview": "六呂見工場 EHS （環境・健康・安全管理 ）スペシャリスト Job Grade ：４（部下なし/管理職ではない一般職） 勤務地：BASF ジャパン 六呂見工場：三重県四日市市六呂見６５３−２ 職務目的 工場管理職の指導のもと、EHS 活動の計画・調整・推進 グローバル基準や法令の導入 従業員の安全意識向上と職場環境の改善 主な職務内容 EHS 規則の解釈と実施提案 安全・環境保護方針の導入 RC 委員会メンバーとしての指導 業務プロセスの安全性評価と改善提案 教育・研修の企画・実施・評価 法令遵守の監査と報告 災害調査と予防策の提案 文書管理と統計・報告書の作成 応募要件 学士号または同等の資格 EHS...",
+      "detail_path": "data/jobs/135409.json"
+    }
+  ],
+  "country": "Japan"
+}

@@ -1,0 +1,23 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "Administration & Office Support",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139255",
+      "title": "Customer Service Officer for Nutrition and Health (Contractor)",
+      "url": "https://basf.jobs/job-invite/139255/?locale=en_US",
+      "country": "South Korea",
+      "city": "Seoul",
+      "state": "Seoul-teukbyeolsi",
+      "job_field": "Administration & Office Support",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-06-04T22:36:12Z",
+      "description_preview": "Contract Period : 1 Aug 2026 - 31 Dec 2027 * Position summary: -A Customer Service Officer (CSO) plays a critical operational role in ensuring both customer experience and supply reliability by maintaining accuracy and efficiency across the entire Order-to-Delivery process. -Through close collaboration with overseas...",
+      "detail_path": "data/jobs/139255.json"
+    }
+  ]
+}

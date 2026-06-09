@@ -1,0 +1,23 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "Other",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "336401",
+      "title": "Global Category Buyer, Intermediates & Renewables (007284)",
+      "url": "https://basf.jobs/light_blue_AP/job/SHANGHAI-Global-Category-Buyer%2C-Intermediates-&-Renewables-%28007284%29-200000/1381145433/?feedId=111101",
+      "country": "China",
+      "city": "SHANGHAI",
+      "state": "Unknown",
+      "job_field": "Other",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-04-07T00:00:00Z",
+      "description_preview": "= Objectives = • Global Category Buyer of chemical raw materials in the global team Procurement Functional Intermediates for Direct Procurement department. • Ensure a competitive, sustainable and secured supply of raw materials to the internal business partners within the defined area of responsibility. Negotiate...",
+      "detail_path": "data/jobs/336401.json"
+    }
+  ]
+}

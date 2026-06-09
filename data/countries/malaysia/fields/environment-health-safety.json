@@ -1,11 +1,26 @@
 {
-  "last_updated": "2026-06-09T08:25:19Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Environment, Health & Safety",
-  "total_active": 1,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
+  "total_active": 2,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
   "jobs": [
+    {
+      "job_id": "132786",
+      "title": "Intern, Environmental, Health, and Safety",
+      "url": "https://basf.jobs/job-invite/132786/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Pasir Gudang",
+      "state": "Johor",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-06-09T09:40:02Z",
+      "description_preview": "Objectives of the Position Preparation for Responsible Care (RC) Audit Preparedness, Global Safety Day and upcoming RC Audit for Pasir Gudang Site On-demand EHS services related to EHS Management System (EHSMS) Helping and maintain site EHS requirements Main Tasks EHS Management System : Assist in updating and...",
+      "detail_path": "data/jobs/132786.json"
+    },
     {
       "job_id": "138632",
       "title": "Product Safety, Senior Specialist (Japanese Speaker)",

@@ -1,0 +1,74 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "digitalization",
+  "display_name": "Digitalization / IT / Data",
+  "aliases": [
+    "digitalization",
+    "digitalisation",
+    "digital",
+    "it",
+    "information technology",
+    "data",
+    "automation",
+    "ai",
+    "cyber security",
+    "cybersecurity",
+    "cloud",
+    "digitalisierung"
+  ],
+  "primary_fields": [
+    "Digitalization",
+    "Information Technology & Services"
+  ],
+  "adjacent_fields": [
+    "Applications Technology",
+    "Engineering"
+  ],
+  "title_keywords": [
+    "digital",
+    "data",
+    "automation",
+    "ai",
+    "cyber",
+    "cloud",
+    "software",
+    "application",
+    "solution",
+    "architect"
+  ],
+  "total_active": 2,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "134247",
+      "title": "Country Controller",
+      "url": "https://basf.jobs/job-invite/134247/?locale=en_US",
+      "country": "Philippines",
+      "city": "Muntinlupa",
+      "state": "Metro Manila (NCR, National Capital Region)",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "date_posted": "2026-03-15T16:00:00Z",
+      "description_preview": "Objectives of the Position In charge of financial planning, forecasting, reporting and business analysis and commercial controlling support for APA business in country. Act as financial advisor, challenger and business partner to the APA Local Business Manager (LBM) in all matters of financial relevance including...",
+      "detail_path": "data/jobs/134247.json"
+    },
+    {
+      "job_id": "131884",
+      "title": "Field Operations Assistant",
+      "url": "https://basf.jobs/job-invite/131884/?locale=en_US",
+      "country": "Philippines",
+      "city": "Bay",
+      "state": "Calabarzon",
+      "job_field": "Research & Development",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "date_posted": "2026-01-10T11:55:29Z",
+      "description_preview": "In the Philippines, BASF has been supporting manufacturers from various industries since 1963. Today, BASF is a leading supplier of chemicals for industries, including Construction and Coatings, Automotive, Nutrition Health, Home Personal Care, and Agriculture. BASF also operates an Agricultural Research Station in...",
+      "detail_path": "data/jobs/131884.json"
+    }
+  ],
+  "country": "Philippines"
+}

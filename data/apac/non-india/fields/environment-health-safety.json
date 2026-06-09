@@ -1,0 +1,79 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "Environment, Health & Safety",
+  "total_active": 5,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "132786",
+      "title": "Intern, Environmental, Health, and Safety",
+      "url": "https://basf.jobs/job-invite/132786/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Pasir Gudang",
+      "state": "Johor",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-06-09T09:40:02Z",
+      "description_preview": "Objectives of the Position Preparation for Responsible Care (RC) Audit Preparedness, Global Safety Day and upcoming RC Audit for Pasir Gudang Site On-demand EHS services related to EHS Management System (EHSMS) Helping and maintain site EHS requirements Main Tasks EHS Management System : Assist in updating and...",
+      "detail_path": "data/jobs/132786.json"
+    },
+    {
+      "job_id": "139201",
+      "title": "Customs Classification Specialist",
+      "url": "https://basf.jobs/job-invite/139201/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Fengxian",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-29T08:29:07Z",
+      "description_preview": "About The Role Join our company as a key expert in customs classification of chemical products. In this role, you will ensure compliance with customs regulations and support efficient processes across Asia Pacific while being connected to a global community. How You Will Do It • Act as the primary contact for customs...",
+      "detail_path": "data/jobs/139201.json"
+    },
+    {
+      "job_id": "139179",
+      "title": "Senior Officer, New Substance Notification",
+      "url": "https://basf.jobs/job-invite/139179/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Fengxian",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-29T08:27:00Z",
+      "description_preview": "About The Role Our EC/ES Product Stewardship APAC unit plays a crucial role in ensuring compliance with national and international chemical legislation. As the first point of contact for Product Stewardship topics, we actively engage with stakeholders, monitor regulatory developments, and promote responsible chemical...",
+      "detail_path": "data/jobs/139179.json"
+    },
+    {
+      "job_id": "139197",
+      "title": "Manager, Regional EHS",
+      "url": "https://basf.jobs/job-invite/139197/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-29T07:10:57Z",
+      "description_preview": "About The Role - Support improvement on EHS management of A-CMA(Monomers Asia Pacific) sites. - Support A-CMA(Monomers Asia Pacific) business with product stewardship activities. How You Will Do It - Follow up the latest development of EHSQ regulations and BASF Group requirements and coordinate the implementation...",
+      "detail_path": "data/jobs/139197.json"
+    },
+    {
+      "job_id": "138632",
+      "title": "Product Safety, Senior Specialist (Japanese Speaker)",
+      "url": "https://basf.jobs/job-invite/138632/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-20T06:34:43Z",
+      "description_preview": "O bjectives of the Position Deliver expert regulatory and product stewardship support to BASF group companies, ensuring full compliance with corporate policies, guidelines, and global standards. Collaborate effectively with cross-functional stakeholders including supply chain, customer service, and technical teams to...",
+      "detail_path": "data/jobs/138632.json"
+    }
+  ]
+}

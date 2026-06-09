@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "Applications Technology",
+  "total_active": 2,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139001",
+      "title": "Full Stack Developer (1 year contract)",
+      "url": "https://basf.jobs/job-invite/139001/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Applications Technology",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-05-29T10:38:02Z",
+      "description_preview": "Objectives of the Position BASF Shared Services Center Kuala Lumpur was established in 2005 to provide functional services in Finance, Controlling, Information Services, Human Resources, Environment, Health Safety, Procurement, and Import-Export Order Management to BASF companies in the Asia-Pacific region. The center...",
+      "detail_path": "data/jobs/139001.json"
+    },
+    {
+      "job_id": "138999",
+      "title": "Automation Engineer (1 year contract)",
+      "url": "https://basf.jobs/job-invite/138999/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Applications Technology",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-05-29T10:27:33Z",
+      "description_preview": "Objectives of the Position BASF Shared Services Center Kuala Lumpur was established in 2005 to provide functional services in Finance, Controlling, Information Services, Human Resources, Environment, Health Safety, Procurement, and Import-Export Order Management to BASF companies in the Asia-Pacific region. The center...",
+      "detail_path": "data/jobs/138999.json"
+    }
+  ]
+}

@@ -1,160 +1,1499 @@
 {
-  "last_updated": "2026-06-09T11:45:00Z",
+  "last_updated": "2026-06-09T10:54:06Z",
   "scope": "intent_map",
-  "llm_instruction": "Match the user's wording against aliases and title_keywords. Then fetch the JSON sources listed in the selected entrypoint. Application links must come only from job.url values. Never construct basf.jobs links.",
-  "default_country_logic": "If no country is named, use india_first. If the user asks for other APAC countries or outside India, use non_india_apac. If the user names China, use china. If another country is named, use the country entrypoint when present or the country JSON from data/llm-routing.json.",
+  "llm_instruction": "Use this file after data/agent-guide.json. Match the user's wording against aliases/title_keywords. Then fetch the smallest matching intent entrypoint. Do not load the full aggregate first. Application links must come only from job.url values. Never construct basf.jobs links.",
+  "default_country_logic": "If no country is named, use the intent entrypoint india_first. If the user asks for other APAC countries, use non_india_apac. If the user names China, use china. If another country is named, use the country entrypoint when present.",
   "intents": [
     {
       "intent": "software-engineering",
       "display_name": "Software Engineering / Developer / Full Stack",
-      "aliases": ["software engineer", "software developer", "developer", "full stack", "full-stack", "frontend", "front end", "backend", "back end", "application developer", "platform engineer", "cloud engineer", "data engineer", "software", "programmer", "entwickler", "softwareentwickler", "software engineer werden"],
-      "primary_fields": ["Digitalization", "Information Technology & Services"],
-      "adjacent_fields": ["Applications Technology", "Engineering"],
-      "title_keywords": ["software", "developer", "full stack", "backend", "frontend", "application", "platform", "cloud", "engineer", "scrum", "product owner"],
+      "aliases": [
+        "software engineer",
+        "software developer",
+        "developer",
+        "full stack",
+        "full-stack",
+        "frontend",
+        "front end",
+        "backend",
+        "back end",
+        "application developer",
+        "platform engineer",
+        "cloud engineer",
+        "data engineer",
+        "software",
+        "programmer",
+        "entwickler",
+        "softwareentwickler",
+        "software engineer werden"
+      ],
+      "primary_fields": [
+        "Digitalization",
+        "Information Technology & Services"
+      ],
+      "adjacent_fields": [
+        "Applications Technology",
+        "Engineering"
+      ],
+      "title_keywords": [
+        "software",
+        "developer",
+        "full stack",
+        "backend",
+        "frontend",
+        "application",
+        "platform",
+        "cloud",
+        "engineer",
+        "scrum",
+        "product owner"
+      ],
+      "total_active": 214,
       "entrypoints": {
         "india_first": {
-          "use_when": "No country is named. Search India first.",
-          "sources": [
-            {"label": "India Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/digitalization.json"},
-            {"label": "India Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/information-technology-services.json"}
-          ]
+          "json_path": "data/intents/software-engineering/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/india.json",
+          "count": 147,
+          "use_when": "No country is named. Search India first."
         },
         "non_india_apac": {
-          "use_when": "User asks for other APAC countries or outside India after a software/IT request.",
-          "sources": [
-            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
-            {"label": "Malaysia Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/information-technology-services.json"},
-            {"label": "Malaysia Applications Technology", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/applications-technology.json"}
-          ],
-          "exclude_country": "India"
+          "json_path": "data/intents/software-engineering/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/non-india-apac.json",
+          "count": 67,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
         },
         "china": {
-          "use_when": "User names China or asks for Chinese software/IT roles.",
-          "sources": [
-            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
-            {"label": "China country fallback", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china.json"}
-          ],
-          "required_country": "China"
-        }
+          "json_path": "data/intents/software-engineering/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/china.json",
+          "count": 29,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/software-engineering/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/all.json",
+          "count": 214,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 147,
+            "json_path": "data/intents/software-engineering/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 29,
+            "json_path": "data/intents/software-engineering/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/china.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 6,
+            "json_path": "data/intents/software-engineering/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 2,
+            "json_path": "data/intents/software-engineering/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 22,
+            "json_path": "data/intents/software-engineering/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 2,
+            "json_path": "data/intents/software-engineering/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/software-engineering/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/singapore.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 1,
+            "json_path": "data/intents/software-engineering/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/taiwan.json"
+          },
+          {
+            "country": "Vietnam",
+            "count": 4,
+            "json_path": "data/intents/software-engineering/countries/vietnam.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/vietnam.json"
+          }
+        ]
       }
     },
     {
       "intent": "backend-engineering",
       "display_name": "Backend Engineering",
-      "aliases": ["backend", "back end", "backend engineer", "backend developer", "api developer", "server side", "erstes", "first one"],
-      "primary_fields": ["Digitalization", "Information Technology & Services"],
-      "adjacent_fields": ["Applications Technology", "Engineering"],
-      "title_keywords": ["backend", "back end", "developer", "software", "application", "platform", "engineer", "api"],
+      "aliases": [
+        "backend",
+        "back end",
+        "backend engineer",
+        "backend developer",
+        "api developer",
+        "server side",
+        "erstes"
+      ],
+      "primary_fields": [
+        "Digitalization",
+        "Information Technology & Services"
+      ],
+      "adjacent_fields": [
+        "Applications Technology",
+        "Engineering"
+      ],
+      "title_keywords": [
+        "backend",
+        "back end",
+        "developer",
+        "software",
+        "application",
+        "platform",
+        "engineer",
+        "api"
+      ],
+      "total_active": 216,
       "entrypoints": {
         "india_first": {
-          "sources": [
-            {"label": "India Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/digitalization.json"},
-            {"label": "India Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/information-technology-services.json"}
-          ]
+          "json_path": "data/intents/backend-engineering/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/india.json",
+          "count": 147,
+          "use_when": "No country is named. Search India first."
         },
         "non_india_apac": {
-          "sources": [
-            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"}
-          ],
-          "exclude_country": "India"
+          "json_path": "data/intents/backend-engineering/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/non-india-apac.json",
+          "count": 69,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
         },
         "china": {
-          "sources": [
-            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"}
-          ],
-          "required_country": "China"
-        }
+          "json_path": "data/intents/backend-engineering/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/china.json",
+          "count": 29,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/backend-engineering/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/all.json",
+          "count": 216,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 147,
+            "json_path": "data/intents/backend-engineering/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 29,
+            "json_path": "data/intents/backend-engineering/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/china.json"
+          },
+          {
+            "country": "Hong Kong",
+            "count": 1,
+            "json_path": "data/intents/backend-engineering/countries/hong-kong.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/hong-kong.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 7,
+            "json_path": "data/intents/backend-engineering/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 2,
+            "json_path": "data/intents/backend-engineering/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 22,
+            "json_path": "data/intents/backend-engineering/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 2,
+            "json_path": "data/intents/backend-engineering/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/backend-engineering/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/singapore.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 1,
+            "json_path": "data/intents/backend-engineering/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/taiwan.json"
+          },
+          {
+            "country": "Vietnam",
+            "count": 4,
+            "json_path": "data/intents/backend-engineering/countries/vietnam.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/vietnam.json"
+          }
+        ]
       }
     },
     {
       "intent": "sap-business-applications",
       "display_name": "SAP / Business Applications",
-      "aliases": ["sap", "business applications", "business application", "s/4hana", "s4 hana", "abap", "sap consultant", "sap developer", "order-to-cash", "order to cash", "order-to-invoice", "mm", "atp"],
-      "primary_fields": ["Digitalization", "Information Technology & Services"],
-      "adjacent_fields": ["Applications Technology", "Logistics & Supply Chain Management"],
-      "title_keywords": ["sap", "s/4", "s4", "abap", "business application", "consultant", "developer", "order", "mm", "atp"],
+      "aliases": [
+        "sap",
+        "business applications",
+        "business application",
+        "s/4hana",
+        "s4 hana",
+        "abap",
+        "sap consultant",
+        "sap developer",
+        "order-to-cash",
+        "order to cash",
+        "order-to-invoice",
+        "mm",
+        "atp"
+      ],
+      "primary_fields": [
+        "Digitalization",
+        "Information Technology & Services"
+      ],
+      "adjacent_fields": [
+        "Applications Technology",
+        "Logistics & Supply Chain Management"
+      ],
+      "title_keywords": [
+        "sap",
+        "s/4",
+        "s4",
+        "abap",
+        "business application",
+        "consultant",
+        "developer",
+        "order",
+        "mm",
+        "atp"
+      ],
+      "total_active": 264,
       "entrypoints": {
         "india_first": {
-          "sources": [
-            {"label": "India Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/digitalization.json"},
-            {"label": "India Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/information-technology-services.json"},
-            {"label": "India Applications Technology", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/applications-technology.json"}
-          ]
+          "json_path": "data/intents/sap-business-applications/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/india.json",
+          "count": 152,
+          "use_when": "No country is named. Search India first."
         },
         "non_india_apac": {
-          "sources": [
-            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
-            {"label": "Malaysia Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/information-technology-services.json"},
-            {"label": "Malaysia Applications Technology", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/applications-technology.json"}
-          ],
-          "exclude_country": "India"
+          "json_path": "data/intents/sap-business-applications/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/non-india-apac.json",
+          "count": 112,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
         },
         "china": {
-          "sources": [
-            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
-            {"label": "China country fallback", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china.json"}
-          ],
-          "required_country": "China"
-        }
+          "json_path": "data/intents/sap-business-applications/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/china.json",
+          "count": 35,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/sap-business-applications/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/all.json",
+          "count": 264,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 152,
+            "json_path": "data/intents/sap-business-applications/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 35,
+            "json_path": "data/intents/sap-business-applications/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/china.json"
+          },
+          {
+            "country": "Hong Kong",
+            "count": 1,
+            "json_path": "data/intents/sap-business-applications/countries/hong-kong.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/hong-kong.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 6,
+            "json_path": "data/intents/sap-business-applications/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 3,
+            "json_path": "data/intents/sap-business-applications/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 53,
+            "json_path": "data/intents/sap-business-applications/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 2,
+            "json_path": "data/intents/sap-business-applications/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/sap-business-applications/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/singapore.json"
+          },
+          {
+            "country": "South Korea",
+            "count": 1,
+            "json_path": "data/intents/sap-business-applications/countries/south-korea.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/south-korea.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 5,
+            "json_path": "data/intents/sap-business-applications/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/taiwan.json"
+          },
+          {
+            "country": "Turkey",
+            "count": 1,
+            "json_path": "data/intents/sap-business-applications/countries/turkey.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/turkey.json"
+          },
+          {
+            "country": "Vietnam",
+            "count": 4,
+            "json_path": "data/intents/sap-business-applications/countries/vietnam.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/vietnam.json"
+          }
+        ]
       }
     },
     {
       "intent": "business-informatics",
       "display_name": "Business Informatics / Wirtschaftsinformatik",
-      "aliases": ["wirtschaftsinformatiker", "wirtschaftsinformatik", "business informatics", "business it", "it project", "product owner", "portfolio", "scrum", "data", "sap"],
-      "primary_fields": ["Digitalization", "Information Technology & Services"],
-      "adjacent_fields": ["Finance, Controlling & Audit", "Logistics & Supply Chain Management", "Applications Technology"],
-      "title_keywords": ["digital", "data", "sap", "software", "scrum", "product", "portfolio", "application", "business", "solution"],
+      "aliases": [
+        "wirtschaftsinformatiker",
+        "wirtschaftsinformatik",
+        "business informatics",
+        "business it",
+        "it project",
+        "product owner",
+        "portfolio",
+        "scrum",
+        "data",
+        "sap"
+      ],
+      "primary_fields": [
+        "Digitalization",
+        "Information Technology & Services"
+      ],
+      "adjacent_fields": [
+        "Finance, Controlling & Audit",
+        "Logistics & Supply Chain Management",
+        "Applications Technology"
+      ],
+      "title_keywords": [
+        "digital",
+        "data",
+        "sap",
+        "software",
+        "scrum",
+        "product",
+        "portfolio",
+        "application",
+        "business",
+        "solution"
+      ],
+      "total_active": 272,
       "entrypoints": {
         "india_first": {
-          "sources": [
-            {"label": "India Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/digitalization.json"},
-            {"label": "India Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/information-technology-services.json"},
-            {"label": "India Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/finance-controlling-audit.json"},
-            {"label": "India Supply Chain", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/logistics-supply-chain-management.json"}
-          ]
+          "json_path": "data/intents/business-informatics/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/india.json",
+          "count": 159,
+          "use_when": "No country is named. Search India first."
         },
         "non_india_apac": {
-          "sources": [
-            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
-            {"label": "Malaysia IT", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/information-technology-services.json"},
-            {"label": "Malaysia Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/finance-controlling-audit.json"}
-          ],
-          "exclude_country": "India"
+          "json_path": "data/intents/business-informatics/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/non-india-apac.json",
+          "count": 113,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
         },
         "china": {
-          "sources": [
-            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
-            {"label": "China Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/finance-controlling-audit.json"}
-          ],
-          "required_country": "China"
-        }
+          "json_path": "data/intents/business-informatics/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/china.json",
+          "count": 36,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/business-informatics/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/all.json",
+          "count": 272,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 159,
+            "json_path": "data/intents/business-informatics/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 36,
+            "json_path": "data/intents/business-informatics/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/china.json"
+          },
+          {
+            "country": "Hong Kong",
+            "count": 1,
+            "json_path": "data/intents/business-informatics/countries/hong-kong.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/hong-kong.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 5,
+            "json_path": "data/intents/business-informatics/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 3,
+            "json_path": "data/intents/business-informatics/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 53,
+            "json_path": "data/intents/business-informatics/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 2,
+            "json_path": "data/intents/business-informatics/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/business-informatics/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/singapore.json"
+          },
+          {
+            "country": "South Korea",
+            "count": 1,
+            "json_path": "data/intents/business-informatics/countries/south-korea.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/south-korea.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 5,
+            "json_path": "data/intents/business-informatics/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/taiwan.json"
+          },
+          {
+            "country": "Thailand",
+            "count": 1,
+            "json_path": "data/intents/business-informatics/countries/thailand.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/thailand.json"
+          },
+          {
+            "country": "Turkey",
+            "count": 1,
+            "json_path": "data/intents/business-informatics/countries/turkey.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/turkey.json"
+          },
+          {
+            "country": "Vietnam",
+            "count": 4,
+            "json_path": "data/intents/business-informatics/countries/vietnam.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/vietnam.json"
+          }
+        ]
+      }
+    },
+    {
+      "intent": "digitalization",
+      "display_name": "Digitalization / IT / Data",
+      "aliases": [
+        "digitalization",
+        "digitalisation",
+        "digital",
+        "it",
+        "information technology",
+        "data",
+        "automation",
+        "ai",
+        "cyber security",
+        "cybersecurity",
+        "cloud",
+        "digitalisierung"
+      ],
+      "primary_fields": [
+        "Digitalization",
+        "Information Technology & Services"
+      ],
+      "adjacent_fields": [
+        "Applications Technology",
+        "Engineering"
+      ],
+      "title_keywords": [
+        "digital",
+        "data",
+        "automation",
+        "ai",
+        "cyber",
+        "cloud",
+        "software",
+        "application",
+        "solution",
+        "architect"
+      ],
+      "total_active": 278,
+      "entrypoints": {
+        "india_first": {
+          "json_path": "data/intents/digitalization/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/india.json",
+          "count": 159,
+          "use_when": "No country is named. Search India first."
+        },
+        "non_india_apac": {
+          "json_path": "data/intents/digitalization/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/non-india-apac.json",
+          "count": 119,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
+        },
+        "china": {
+          "json_path": "data/intents/digitalization/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/china.json",
+          "count": 38,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/digitalization/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/all.json",
+          "count": 278,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 159,
+            "json_path": "data/intents/digitalization/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 38,
+            "json_path": "data/intents/digitalization/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/china.json"
+          },
+          {
+            "country": "Hong Kong",
+            "count": 1,
+            "json_path": "data/intents/digitalization/countries/hong-kong.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/hong-kong.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 8,
+            "json_path": "data/intents/digitalization/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 4,
+            "json_path": "data/intents/digitalization/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 53,
+            "json_path": "data/intents/digitalization/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 2,
+            "json_path": "data/intents/digitalization/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/digitalization/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/singapore.json"
+          },
+          {
+            "country": "South Korea",
+            "count": 1,
+            "json_path": "data/intents/digitalization/countries/south-korea.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/south-korea.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 5,
+            "json_path": "data/intents/digitalization/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/taiwan.json"
+          },
+          {
+            "country": "Thailand",
+            "count": 1,
+            "json_path": "data/intents/digitalization/countries/thailand.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/thailand.json"
+          },
+          {
+            "country": "Turkey",
+            "count": 1,
+            "json_path": "data/intents/digitalization/countries/turkey.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/turkey.json"
+          },
+          {
+            "country": "Vietnam",
+            "count": 4,
+            "json_path": "data/intents/digitalization/countries/vietnam.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/vietnam.json"
+          }
+        ]
       }
     },
     {
       "intent": "finance",
       "display_name": "Finance / Controlling / Audit",
-      "aliases": ["finance", "controlling", "audit", "accounting", "tax", "treasury", "reporting", "mis", "controller"],
-      "primary_fields": ["Finance, Controlling & Audit"],
-      "title_keywords": ["finance", "controlling", "audit", "account", "tax", "treasury", "reporting", "mis", "controller"],
+      "aliases": [
+        "finance",
+        "controlling",
+        "audit",
+        "accounting",
+        "tax",
+        "treasury",
+        "reporting",
+        "mis",
+        "controller"
+      ],
+      "primary_fields": [
+        "Finance, Controlling & Audit",
+        "Finance",
+        "Controlling",
+        "Accounting"
+      ],
+      "adjacent_fields": [
+        "Administration & Office Support",
+        "Procurement"
+      ],
+      "title_keywords": [
+        "finance",
+        "controlling",
+        "audit",
+        "account",
+        "tax",
+        "treasury",
+        "reporting",
+        "mis",
+        "controller"
+      ],
+      "total_active": 193,
       "entrypoints": {
-        "india_first": {"sources": [{"label": "India Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/finance-controlling-audit.json"}]},
-        "non_india_apac": {"sources": [{"label": "Malaysia Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/finance-controlling-audit.json"}, {"label": "China Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/finance-controlling-audit.json"}, {"label": "Hong Kong Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/hong-kong/fields/finance-controlling-audit.json"}], "exclude_country": "India"},
-        "china": {"sources": [{"label": "China Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/finance-controlling-audit.json"}], "required_country": "China"}
+        "india_first": {
+          "json_path": "data/intents/finance/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/india.json",
+          "count": 101,
+          "use_when": "No country is named. Search India first."
+        },
+        "non_india_apac": {
+          "json_path": "data/intents/finance/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/non-india-apac.json",
+          "count": 92,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
+        },
+        "china": {
+          "json_path": "data/intents/finance/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/china.json",
+          "count": 28,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/finance/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/all.json",
+          "count": 193,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 101,
+            "json_path": "data/intents/finance/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 28,
+            "json_path": "data/intents/finance/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/china.json"
+          },
+          {
+            "country": "Hong Kong",
+            "count": 1,
+            "json_path": "data/intents/finance/countries/hong-kong.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/hong-kong.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 6,
+            "json_path": "data/intents/finance/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 2,
+            "json_path": "data/intents/finance/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 44,
+            "json_path": "data/intents/finance/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 1,
+            "json_path": "data/intents/finance/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/finance/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/singapore.json"
+          },
+          {
+            "country": "South Korea",
+            "count": 1,
+            "json_path": "data/intents/finance/countries/south-korea.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/south-korea.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 1,
+            "json_path": "data/intents/finance/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/taiwan.json"
+          },
+          {
+            "country": "Thailand",
+            "count": 2,
+            "json_path": "data/intents/finance/countries/thailand.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/thailand.json"
+          },
+          {
+            "country": "Turkey",
+            "count": 1,
+            "json_path": "data/intents/finance/countries/turkey.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/turkey.json"
+          },
+          {
+            "country": "Vietnam",
+            "count": 4,
+            "json_path": "data/intents/finance/countries/vietnam.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/vietnam.json"
+          }
+        ]
+      }
+    },
+    {
+      "intent": "supply-chain-logistics",
+      "display_name": "Supply Chain / Logistics",
+      "aliases": [
+        "supply chain",
+        "logistics",
+        "scm",
+        "planning",
+        "warehouse",
+        "inventory",
+        "materials management",
+        "demand planning"
+      ],
+      "primary_fields": [
+        "Logistics & Supply Chain Management",
+        "Supply Chain",
+        "Logistics"
+      ],
+      "adjacent_fields": [
+        "Procurement",
+        "Production, Maintenance & Technical Services"
+      ],
+      "title_keywords": [
+        "supply",
+        "logistics",
+        "planning",
+        "warehouse",
+        "inventory",
+        "material",
+        "demand"
+      ],
+      "total_active": 171,
+      "entrypoints": {
+        "india_first": {
+          "json_path": "data/intents/supply-chain-logistics/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/india.json",
+          "count": 81,
+          "use_when": "No country is named. Search India first."
+        },
+        "non_india_apac": {
+          "json_path": "data/intents/supply-chain-logistics/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/non-india-apac.json",
+          "count": 90,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
+        },
+        "china": {
+          "json_path": "data/intents/supply-chain-logistics/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/china.json",
+          "count": 27,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/supply-chain-logistics/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/all.json",
+          "count": 171,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 81,
+            "json_path": "data/intents/supply-chain-logistics/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 27,
+            "json_path": "data/intents/supply-chain-logistics/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/china.json"
+          },
+          {
+            "country": "Hong Kong",
+            "count": 1,
+            "json_path": "data/intents/supply-chain-logistics/countries/hong-kong.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/hong-kong.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 8,
+            "json_path": "data/intents/supply-chain-logistics/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 4,
+            "json_path": "data/intents/supply-chain-logistics/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 37,
+            "json_path": "data/intents/supply-chain-logistics/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 2,
+            "json_path": "data/intents/supply-chain-logistics/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/supply-chain-logistics/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/singapore.json"
+          },
+          {
+            "country": "South Korea",
+            "count": 1,
+            "json_path": "data/intents/supply-chain-logistics/countries/south-korea.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/south-korea.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 4,
+            "json_path": "data/intents/supply-chain-logistics/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/taiwan.json"
+          },
+          {
+            "country": "Thailand",
+            "count": 1,
+            "json_path": "data/intents/supply-chain-logistics/countries/thailand.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/thailand.json"
+          },
+          {
+            "country": "Turkey",
+            "count": 1,
+            "json_path": "data/intents/supply-chain-logistics/countries/turkey.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/turkey.json"
+          },
+          {
+            "country": "Vietnam",
+            "count": 3,
+            "json_path": "data/intents/supply-chain-logistics/countries/vietnam.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/supply-chain-logistics/countries/vietnam.json"
+          }
+        ]
       }
     },
     {
       "intent": "procurement",
       "display_name": "Procurement / Purchasing",
-      "aliases": ["procurement", "purchasing", "buyer", "sourcing", "category manager", "supplier", "vendor"],
-      "primary_fields": ["Procurement"],
-      "title_keywords": ["procurement", "purchasing", "buyer", "sourcing", "category", "supplier", "vendor"],
+      "aliases": [
+        "procurement",
+        "purchasing",
+        "buyer",
+        "sourcing",
+        "category manager",
+        "supplier",
+        "vendor"
+      ],
+      "primary_fields": [
+        "Procurement"
+      ],
+      "adjacent_fields": [
+        "Logistics & Supply Chain Management",
+        "Finance, Controlling & Audit"
+      ],
+      "title_keywords": [
+        "procurement",
+        "purchasing",
+        "buyer",
+        "sourcing",
+        "category",
+        "supplier",
+        "vendor"
+      ],
+      "total_active": 102,
       "entrypoints": {
-        "india_first": {"sources": [{"label": "India Procurement", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/procurement.json"}]},
-        "non_india_apac": {"sources": [{"label": "China Procurement", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/procurement.json"}, {"label": "Japan Procurement", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/japan/fields/procurement.json"}], "exclude_country": "India"},
-        "china": {"sources": [{"label": "China Procurement", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/procurement.json"}], "required_country": "China"}
+        "india_first": {
+          "json_path": "data/intents/procurement/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/india.json",
+          "count": 34,
+          "use_when": "No country is named. Search India first."
+        },
+        "non_india_apac": {
+          "json_path": "data/intents/procurement/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/non-india-apac.json",
+          "count": 68,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
+        },
+        "china": {
+          "json_path": "data/intents/procurement/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/china.json",
+          "count": 11,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/procurement/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/all.json",
+          "count": 102,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 34,
+            "json_path": "data/intents/procurement/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 11,
+            "json_path": "data/intents/procurement/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/china.json"
+          },
+          {
+            "country": "Hong Kong",
+            "count": 1,
+            "json_path": "data/intents/procurement/countries/hong-kong.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/hong-kong.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 3,
+            "json_path": "data/intents/procurement/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 3,
+            "json_path": "data/intents/procurement/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 43,
+            "json_path": "data/intents/procurement/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 2,
+            "json_path": "data/intents/procurement/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/procurement/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/singapore.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 2,
+            "json_path": "data/intents/procurement/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/taiwan.json"
+          },
+          {
+            "country": "Turkey",
+            "count": 1,
+            "json_path": "data/intents/procurement/countries/turkey.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/turkey.json"
+          },
+          {
+            "country": "Vietnam",
+            "count": 1,
+            "json_path": "data/intents/procurement/countries/vietnam.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/vietnam.json"
+          }
+        ]
+      }
+    },
+    {
+      "intent": "engineering",
+      "display_name": "Engineering / Technical Services",
+      "aliases": [
+        "engineering",
+        "engineer",
+        "technical services",
+        "process engineer",
+        "mechanical",
+        "electrical",
+        "chemical engineer",
+        "maintenance"
+      ],
+      "primary_fields": [
+        "Engineering",
+        "Production, Maintenance & Technical Services",
+        "Applications Technology"
+      ],
+      "adjacent_fields": [
+        "Environment, Health & Safety",
+        "Research & Development"
+      ],
+      "title_keywords": [
+        "engineer",
+        "engineering",
+        "technical",
+        "process",
+        "maintenance",
+        "mechanical",
+        "electrical",
+        "chemical"
+      ],
+      "total_active": 276,
+      "entrypoints": {
+        "india_first": {
+          "json_path": "data/intents/engineering/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/india.json",
+          "count": 157,
+          "use_when": "No country is named. Search India first."
+        },
+        "non_india_apac": {
+          "json_path": "data/intents/engineering/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/non-india-apac.json",
+          "count": 119,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
+        },
+        "china": {
+          "json_path": "data/intents/engineering/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/china.json",
+          "count": 38,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/engineering/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/all.json",
+          "count": 276,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 157,
+            "json_path": "data/intents/engineering/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 38,
+            "json_path": "data/intents/engineering/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/china.json"
+          },
+          {
+            "country": "Hong Kong",
+            "count": 1,
+            "json_path": "data/intents/engineering/countries/hong-kong.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/hong-kong.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 8,
+            "json_path": "data/intents/engineering/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 4,
+            "json_path": "data/intents/engineering/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 51,
+            "json_path": "data/intents/engineering/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 2,
+            "json_path": "data/intents/engineering/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/engineering/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/singapore.json"
+          },
+          {
+            "country": "South Korea",
+            "count": 1,
+            "json_path": "data/intents/engineering/countries/south-korea.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/south-korea.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 5,
+            "json_path": "data/intents/engineering/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/taiwan.json"
+          },
+          {
+            "country": "Thailand",
+            "count": 3,
+            "json_path": "data/intents/engineering/countries/thailand.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/thailand.json"
+          },
+          {
+            "country": "Turkey",
+            "count": 1,
+            "json_path": "data/intents/engineering/countries/turkey.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/turkey.json"
+          },
+          {
+            "country": "Vietnam",
+            "count": 4,
+            "json_path": "data/intents/engineering/countries/vietnam.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/vietnam.json"
+          }
+        ]
+      }
+    },
+    {
+      "intent": "sales-marketing",
+      "display_name": "Marketing & Sales / Commercial",
+      "aliases": [
+        "sales",
+        "marketing",
+        "commercial",
+        "business development",
+        "key account",
+        "account manager",
+        "customer"
+      ],
+      "primary_fields": [
+        "Marketing & Sales",
+        "Sales",
+        "Commercial",
+        "Business Development"
+      ],
+      "adjacent_fields": [
+        "Applications Technology",
+        "Research & Development"
+      ],
+      "title_keywords": [
+        "sales",
+        "marketing",
+        "commercial",
+        "business development",
+        "account",
+        "customer"
+      ],
+      "total_active": 219,
+      "entrypoints": {
+        "india_first": {
+          "json_path": "data/intents/sales-marketing/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/india.json",
+          "count": 127,
+          "use_when": "No country is named. Search India first."
+        },
+        "non_india_apac": {
+          "json_path": "data/intents/sales-marketing/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/non-india-apac.json",
+          "count": 92,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
+        },
+        "china": {
+          "json_path": "data/intents/sales-marketing/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/china.json",
+          "count": 34,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/sales-marketing/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/all.json",
+          "count": 219,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 127,
+            "json_path": "data/intents/sales-marketing/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 34,
+            "json_path": "data/intents/sales-marketing/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/china.json"
+          },
+          {
+            "country": "Hong Kong",
+            "count": 1,
+            "json_path": "data/intents/sales-marketing/countries/hong-kong.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/hong-kong.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 3,
+            "json_path": "data/intents/sales-marketing/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 3,
+            "json_path": "data/intents/sales-marketing/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 37,
+            "json_path": "data/intents/sales-marketing/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 2,
+            "json_path": "data/intents/sales-marketing/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/sales-marketing/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/singapore.json"
+          },
+          {
+            "country": "South Korea",
+            "count": 1,
+            "json_path": "data/intents/sales-marketing/countries/south-korea.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/south-korea.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 2,
+            "json_path": "data/intents/sales-marketing/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/taiwan.json"
+          },
+          {
+            "country": "Thailand",
+            "count": 3,
+            "json_path": "data/intents/sales-marketing/countries/thailand.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/thailand.json"
+          },
+          {
+            "country": "Turkey",
+            "count": 1,
+            "json_path": "data/intents/sales-marketing/countries/turkey.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/turkey.json"
+          },
+          {
+            "country": "Vietnam",
+            "count": 4,
+            "json_path": "data/intents/sales-marketing/countries/vietnam.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/vietnam.json"
+          }
+        ]
+      }
+    },
+    {
+      "intent": "human-resources",
+      "display_name": "Human Resources / Talent",
+      "aliases": [
+        "hr",
+        "human resources",
+        "talent",
+        "recruiting",
+        "recruitment",
+        "people",
+        "learning",
+        "payroll"
+      ],
+      "primary_fields": [
+        "Human Resources"
+      ],
+      "adjacent_fields": [
+        "Administration & Office Support"
+      ],
+      "title_keywords": [
+        "hr",
+        "human resources",
+        "talent",
+        "recruit",
+        "people",
+        "learning",
+        "payroll"
+      ],
+      "total_active": 154,
+      "entrypoints": {
+        "india_first": {
+          "json_path": "data/intents/human-resources/india.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/india.json",
+          "count": 104,
+          "use_when": "No country is named. Search India first."
+        },
+        "non_india_apac": {
+          "json_path": "data/intents/human-resources/non-india-apac.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/non-india-apac.json",
+          "count": 50,
+          "use_when": "User asks for APAC, other APAC countries, or outside India."
+        },
+        "china": {
+          "json_path": "data/intents/human-resources/china.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/china.json",
+          "count": 11,
+          "use_when": "User names China or asks for Chinese jobs."
+        },
+        "all_asia_apac": {
+          "json_path": "data/intents/human-resources/all.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/all.json",
+          "count": 154,
+          "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
+        },
+        "countries": [
+          {
+            "country": "India",
+            "count": 104,
+            "json_path": "data/intents/human-resources/countries/india.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/india.json"
+          },
+          {
+            "country": "China",
+            "count": 11,
+            "json_path": "data/intents/human-resources/countries/china.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/china.json"
+          },
+          {
+            "country": "Hong Kong",
+            "count": 1,
+            "json_path": "data/intents/human-resources/countries/hong-kong.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/hong-kong.json"
+          },
+          {
+            "country": "Indonesia",
+            "count": 2,
+            "json_path": "data/intents/human-resources/countries/indonesia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/indonesia.json"
+          },
+          {
+            "country": "Japan",
+            "count": 2,
+            "json_path": "data/intents/human-resources/countries/japan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/japan.json"
+          },
+          {
+            "country": "Malaysia",
+            "count": 27,
+            "json_path": "data/intents/human-resources/countries/malaysia.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/malaysia.json"
+          },
+          {
+            "country": "Philippines",
+            "count": 2,
+            "json_path": "data/intents/human-resources/countries/philippines.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/philippines.json"
+          },
+          {
+            "country": "Singapore",
+            "count": 1,
+            "json_path": "data/intents/human-resources/countries/singapore.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/singapore.json"
+          },
+          {
+            "country": "South Korea",
+            "count": 1,
+            "json_path": "data/intents/human-resources/countries/south-korea.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/south-korea.json"
+          },
+          {
+            "country": "Taiwan",
+            "count": 1,
+            "json_path": "data/intents/human-resources/countries/taiwan.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/taiwan.json"
+          },
+          {
+            "country": "Thailand",
+            "count": 1,
+            "json_path": "data/intents/human-resources/countries/thailand.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/thailand.json"
+          },
+          {
+            "country": "Turkey",
+            "count": 1,
+            "json_path": "data/intents/human-resources/countries/turkey.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/human-resources/countries/turkey.json"
+          }
+        ]
       }
     }
-  ],
-  "country_fallback": "For other countries or functions, use data/llm-routing.json to find the matching country json_url and field json_url."
+  ]
 }

@@ -1,0 +1,65 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "Legal, Tax & Insurance",
+  "total_active": 4,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "138838",
+      "title": "Counsel, Legal & Compliance Services Hub (Thai Speaker)",
+      "url": "https://basf.jobs/job-invite/138838/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-05T07:53:31Z",
+      "description_preview": "Main Tasks You will draft, review, and negotiate local or international legal and intellectual property contracts, using templates and playbooks within defined limits. You will provide legal and compliance support on various matters, including due diligence, merger and acquisition projects, audits, and legal...",
+      "detail_path": "data/jobs/138838.json"
+    },
+    {
+      "job_id": "139164",
+      "title": "Regional Compliance/Legal Intern",
+      "url": "https://basf.jobs/job-invite/139164/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-05-29T04:37:58Z",
+      "description_preview": "Objectives : We are looking for a legal and compliance intern who will provide a wide range of paralegal support as well as compliance / legal support in order to effectively facilitate daily operations of Regional / China Compliance team. The candidate should be proactive and diligent and understand business and...",
+      "detail_path": "data/jobs/139164.json"
+    },
+    {
+      "job_id": "139165",
+      "title": "Legal Intern",
+      "url": "https://basf.jobs/job-invite/139165/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-05-29T04:02:48Z",
+      "description_preview": "Objectives: We are looking for a legal intern who will provide a wide range of administrative and secretarial support as well as legal support in order to effectively facilitate daily operations of China Legal team. Job Descriptions: • Track new legislations, conduct Legal research on various legal topics and draft...",
+      "detail_path": "data/jobs/139165.json"
+    },
+    {
+      "job_id": "138582",
+      "title": "Corporate Insurance (Specialist)",
+      "url": "https://basf.jobs/job-invite/138582/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-28T10:37:25Z",
+      "description_preview": "The Corporate Insurance (CLI) Specialist will serve as the gatekeeper and central coordination point for insurance related governance activities across countries. The role ensures consistency, accuracy, compliance, and clear accountability for all insurance data, reporting, and coordination activities within the CLI...",
+      "detail_path": "data/jobs/138582.json"
+    }
+  ]
+}

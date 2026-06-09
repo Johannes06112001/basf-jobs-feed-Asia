@@ -1,0 +1,51 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "human-resources",
+  "display_name": "Human Resources / Talent",
+  "aliases": [
+    "hr",
+    "human resources",
+    "talent",
+    "recruiting",
+    "recruitment",
+    "people",
+    "learning",
+    "payroll"
+  ],
+  "primary_fields": [
+    "Human Resources"
+  ],
+  "adjacent_fields": [
+    "Administration & Office Support"
+  ],
+  "title_keywords": [
+    "hr",
+    "human resources",
+    "talent",
+    "recruit",
+    "people",
+    "learning",
+    "payroll"
+  ],
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "139382",
+      "title": "Assistant Manager - Sales",
+      "url": "https://basf.jobs/job-invite/139382/?locale=en_US",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "state": "Bangkok Metropolis (Krung Thep Maha Nakhon)",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-04T03:44:53Z",
+      "description_preview": "Main responsibilities To achieve the sales target in term of cCM1 and volume. Compile and update market information on potential customers, competitor’s activities and market situation. Provide the APO forecast with accuracy and control the goods stock in properly level. Cooperate with Customer Service Operations,...",
+      "detail_path": "data/jobs/139382.json"
+    }
+  ],
+  "country": "Thailand"
+}

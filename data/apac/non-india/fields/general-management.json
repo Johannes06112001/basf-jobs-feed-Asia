@@ -1,0 +1,23 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "non_india_apac_field",
+  "job_field": "General Management",
+  "total_active": 1,
+  "llm_instruction": "Use this small file for non-India APAC searches in this function. Copy application links only from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139092",
+      "title": "Assistant Manager, Sales (Lubricant Components China)",
+      "url": "https://basf.jobs/job-invite/139092/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "General Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-29T03:47:21Z",
+      "description_preview": "Objective • The Sales Account Manager for Lubricant Components in China is responsible for driving sales growth, managing assigned accounts, and developing new business opportunities within the lubricant components segment. This role ensures strong customer relationship, executes account strategies, leverages pricing,...",
+      "detail_path": "data/jobs/139092.json"
+    }
+  ]
+}

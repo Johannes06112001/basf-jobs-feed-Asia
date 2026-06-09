@@ -1,0 +1,81 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "sales-marketing",
+  "display_name": "Marketing & Sales / Commercial",
+  "aliases": [
+    "sales",
+    "marketing",
+    "commercial",
+    "business development",
+    "key account",
+    "account manager",
+    "customer"
+  ],
+  "primary_fields": [
+    "Marketing & Sales",
+    "Sales",
+    "Commercial",
+    "Business Development"
+  ],
+  "adjacent_fields": [
+    "Applications Technology",
+    "Research & Development"
+  ],
+  "title_keywords": [
+    "sales",
+    "marketing",
+    "commercial",
+    "business development",
+    "account",
+    "customer"
+  ],
+  "total_active": 3,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "131922",
+      "title": "Sales Manager",
+      "url": "https://basf.jobs/job-invite/131922/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "state": "Jakarta Raya",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-01-12T01:17:33Z",
+      "description_preview": "Objectives of the Position: Focus on maintaining and developing BASF Chemical Catalysts business in Indonesia. Sales activities to achieve business targets. Collect and analyze market information; develop key account strategies. Build relationships with engineering companies, associations, and producers. Maintain good...",
+      "detail_path": "data/jobs/131922.json"
+    },
+    {
+      "job_id": "139175",
+      "title": "Industry Manager, ASEAN",
+      "url": "https://basf.jobs/job-invite/139175/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "state": "Jakarta Raya",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-29T16:00:00Z",
+      "description_preview": "Job Objectives : Industry Manager, ASEAN is responsible for leading and driving the overall sales strategy, business growth, and market expansion across the ASEAN sub-region for Dispersion Business Unit (Fiber Bonding Adhesive, Paper Carpet Dispersion Industry). This role oversee sub-regional sales operations, key...",
+      "detail_path": "data/jobs/139175.json"
+    },
+    {
+      "job_id": "135123",
+      "title": "Assistant Manager, Technology, Asia Pacific",
+      "url": "https://basf.jobs/job-invite/135123/?locale=en_US",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "state": "Jakarta Raya",
+      "job_field": "Engineering",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-04-21T01:47:13Z",
+      "description_preview": "Objectives: Responsible for supporting implementation of formulation technology transfer to own sites and contract manufacturers (CM) in APA including consistency check and update of technical database. Responsible for providing technical support and troubleshooting to own sites and contract manufacturers, support as...",
+      "detail_path": "data/jobs/135123.json"
+    }
+  ],
+  "country": "Indonesia"
+}

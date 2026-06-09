@@ -1,0 +1,61 @@
+{
+  "last_updated": "2026-06-09T10:54:06Z",
+  "scope": "intent_country",
+  "intent": "sap-business-applications",
+  "display_name": "SAP / Business Applications",
+  "aliases": [
+    "sap",
+    "business applications",
+    "business application",
+    "s/4hana",
+    "s4 hana",
+    "abap",
+    "sap consultant",
+    "sap developer",
+    "order-to-cash",
+    "order to cash",
+    "order-to-invoice",
+    "mm",
+    "atp"
+  ],
+  "primary_fields": [
+    "Digitalization",
+    "Information Technology & Services"
+  ],
+  "adjacent_fields": [
+    "Applications Technology",
+    "Logistics & Supply Chain Management"
+  ],
+  "title_keywords": [
+    "sap",
+    "s/4",
+    "s4",
+    "abap",
+    "business application",
+    "consultant",
+    "developer",
+    "order",
+    "mm",
+    "atp"
+  ],
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "138541",
+      "title": "Intern, Global Controlling & Strategy, Dispersions & Resins",
+      "url": "https://basf.jobs/job-invite/138541/?locale=en_US",
+      "country": "Hong Kong",
+      "city": "Hong Kong",
+      "state": "Hong Kong",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-05-19T02:09:47Z",
+      "description_preview": "At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility. Around 112,000 employees contribute to the BASF Group’s success worldwide. Our business comprises the Chemicals, Materials, Industrial Solutions, Surface Technologies, Nutrition...",
+      "detail_path": "data/jobs/138541.json"
+    }
+  ],
+  "country": "Hong Kong"
+}

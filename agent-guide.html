@@ -2,52 +2,57 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>BASF Jobs Asia/APAC – AI Agent Guide</title>
+  <title>BASF Jobs Asia/APAC – LLM Agent Guide</title>
 </head>
 <body>
-  <h1>BASF Jobs Asia/APAC – AI Agent Guide</h1>
+  <h1>BASF Jobs Asia/APAC – LLM Agent Guide</h1>
+  <p>This page is designed for AI agents. It explains how to retrieve BASF job data with a small context window and without hallucinating application links.</p>
 
-  <p>This page explains how an AI job agent should use this feed efficiently and safely.</p>
+  <h2>Core rule</h2>
+  <p><strong>Application links must only be copied from the JSON field <code>job.url</code>. Never construct, repair, shorten, or guess BASF job links.</strong></p>
 
-  <h2>Start here</h2>
+  <h2>Recommended agent flow</h2>
   <ol>
     <li>Fetch <a href="data/agent-guide.json">data/agent-guide.json</a>.</li>
     <li>Fetch <a href="data/intent-map.json">data/intent-map.json</a>.</li>
-    <li>Match the user's wording to an intent.</li>
-    <li>Load only the JSON sources listed in the selected intent entrypoint.</li>
-    <li>For job application links, copy only the exact <code>job.url</code> value from JSON.</li>
+    <li>Match the user's wording against intent aliases and keywords.</li>
+    <li>If no country is named, use the intent's India entrypoint first.</li>
+    <li>If the user asks for other APAC countries, use the intent's Non-India APAC entrypoint.</li>
+    <li>If the user names China, use the intent's China entrypoint.</li>
+    <li>Fetch detail JSON only for shortlisted jobs or comparisons.</li>
   </ol>
 
-  <h2>Default search logic</h2>
-  <ul>
-    <li>If no country is named, search India first.</li>
-    <li>Do not ask whether the user means India or APAC.</li>
-    <li>If the user asks for other APAC countries or outside India, use the non-India APAC entrypoint.</li>
-    <li>If the user names China, use the China entrypoint.</li>
-    <li>If the user names another country, use the country entrypoint or the routing JSON.</li>
-  </ul>
-
-  <h2>Important link rule</h2>
-  <p><strong>Application links must come only from JSON <code>job.url</code>.</strong></p>
-  <p>Never construct BASF links from titles, locations, IDs, or visible text. Never use country pages as job application links. Never use third-party job boards.</p>
-
-  <h2>Recommended files</h2>
+  <h2>Important source files</h2>
   <ul>
     <li><a href="data/agent-guide.json">Agent guide JSON</a></li>
     <li><a href="data/intent-map.json">Intent map JSON</a></li>
-    <li><a href="data/llm-routing.json">Routing JSON</a></li>
-    <li><a href="data/countries/india/fields/digitalization.json">India Digitalization JSON</a></li>
-    <li><a href="data/countries/china/fields/digitalization.json">China Digitalization JSON</a></li>
-    <li><a href="data/countries/malaysia/fields/information-technology-services.json">Malaysia IT JSON</a></li>
+    <li><a href="data/llm-routing.json">Country and field routing JSON</a></li>
+    <li><a href="data/apac/non-india.json">Non-India APAC compact JSON</a></li>
+    <li><a href="data/search-index.json">Search index JSON</a></li>
   </ul>
 
-  <h2>Example mappings</h2>
+  <h2>Intent entrypoints</h2>
   <ul>
-    <li>"I want to become a Software Engineer" → software-engineering → India first</li>
-    <li>"Do you have this in other APAC countries?" → reuse previous intent → non-India APAC</li>
-    <li>"Show me jobs in China" → current or inferred intent → China</li>
-    <li>"SAP or Business Applications" → sap-business-applications</li>
-    <li>"Wirtschaftsinformatiker" → business-informatics</li>
+<li><strong>Software Engineering / Developer / Full Stack</strong> | <a href="data/intents/software-engineering/india.json">India</a> | <a href="data/intents/software-engineering/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/software-engineering/china.json">China</a> | <a href="data/intents/software-engineering/all.json">All Asia/APAC</a><br><small>Aliases: software engineer, software developer, developer, full stack, full-stack, frontend, front end, backend, back end, application developer, platform engineer, cloud engineer</small></li>
+<li><strong>Backend Engineering</strong> | <a href="data/intents/backend-engineering/india.json">India</a> | <a href="data/intents/backend-engineering/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/backend-engineering/china.json">China</a> | <a href="data/intents/backend-engineering/all.json">All Asia/APAC</a><br><small>Aliases: backend, back end, backend engineer, backend developer, api developer, server side, erstes</small></li>
+<li><strong>SAP / Business Applications</strong> | <a href="data/intents/sap-business-applications/india.json">India</a> | <a href="data/intents/sap-business-applications/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/sap-business-applications/china.json">China</a> | <a href="data/intents/sap-business-applications/all.json">All Asia/APAC</a><br><small>Aliases: sap, business applications, business application, s/4hana, s4 hana, abap, sap consultant, sap developer, order-to-cash, order to cash, order-to-invoice, mm</small></li>
+<li><strong>Business Informatics / Wirtschaftsinformatik</strong> | <a href="data/intents/business-informatics/india.json">India</a> | <a href="data/intents/business-informatics/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/business-informatics/china.json">China</a> | <a href="data/intents/business-informatics/all.json">All Asia/APAC</a><br><small>Aliases: wirtschaftsinformatiker, wirtschaftsinformatik, business informatics, business it, it project, product owner, portfolio, scrum, data, sap</small></li>
+<li><strong>Digitalization / IT / Data</strong> | <a href="data/intents/digitalization/india.json">India</a> | <a href="data/intents/digitalization/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/digitalization/china.json">China</a> | <a href="data/intents/digitalization/all.json">All Asia/APAC</a><br><small>Aliases: digitalization, digitalisation, digital, it, information technology, data, automation, ai, cyber security, cybersecurity, cloud, digitalisierung</small></li>
+<li><strong>Finance / Controlling / Audit</strong> | <a href="data/intents/finance/india.json">India</a> | <a href="data/intents/finance/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/finance/china.json">China</a> | <a href="data/intents/finance/all.json">All Asia/APAC</a><br><small>Aliases: finance, controlling, audit, accounting, tax, treasury, reporting, mis, controller</small></li>
+<li><strong>Supply Chain / Logistics</strong> | <a href="data/intents/supply-chain-logistics/india.json">India</a> | <a href="data/intents/supply-chain-logistics/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/supply-chain-logistics/china.json">China</a> | <a href="data/intents/supply-chain-logistics/all.json">All Asia/APAC</a><br><small>Aliases: supply chain, logistics, scm, planning, warehouse, inventory, materials management, demand planning</small></li>
+<li><strong>Procurement / Purchasing</strong> | <a href="data/intents/procurement/india.json">India</a> | <a href="data/intents/procurement/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/procurement/china.json">China</a> | <a href="data/intents/procurement/all.json">All Asia/APAC</a><br><small>Aliases: procurement, purchasing, buyer, sourcing, category manager, supplier, vendor</small></li>
+<li><strong>Engineering / Technical Services</strong> | <a href="data/intents/engineering/india.json">India</a> | <a href="data/intents/engineering/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/engineering/china.json">China</a> | <a href="data/intents/engineering/all.json">All Asia/APAC</a><br><small>Aliases: engineering, engineer, technical services, process engineer, mechanical, electrical, chemical engineer, maintenance</small></li>
+<li><strong>Marketing &amp; Sales / Commercial</strong> | <a href="data/intents/sales-marketing/india.json">India</a> | <a href="data/intents/sales-marketing/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/sales-marketing/china.json">China</a> | <a href="data/intents/sales-marketing/all.json">All Asia/APAC</a><br><small>Aliases: sales, marketing, commercial, business development, key account, account manager, customer</small></li>
+<li><strong>Human Resources / Talent</strong> | <a href="data/intents/human-resources/india.json">India</a> | <a href="data/intents/human-resources/non-india-apac.json">Non-India APAC</a> | <a href="data/intents/human-resources/china.json">China</a> | <a href="data/intents/human-resources/all.json">All Asia/APAC</a><br><small>Aliases: hr, human resources, talent, recruiting, recruitment, people, learning, payroll</small></li>
+</ul>
+
+
+  <h2>Do not do this</h2>
+  <ul>
+    <li>Do not use LinkedIn, beBee, JoinImagine, or external job boards.</li>
+    <li>Do not generate links such as <code>https://basf.jobs/job/Full-Stack-Engineer/</code>.</li>
+    <li>Do not generate <code>/job-invite/</code> links from title numbers.</li>
+    <li>Do not link a job to a country HTML page.</li>
   </ul>
 </body>
 </html>
