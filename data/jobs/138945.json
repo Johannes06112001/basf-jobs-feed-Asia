@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138945",
+    "title": "GDE/MA - Solution Architect (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138945/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/MA Order Management & Advisory EU1",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T07:38:11Z",
+    "description": "Responsibilities: Deep understanding of SAP S/4HANA end to end Supply Chain processes • Strong knowledge of SAP standard vs. custom development and the ability to make design decisions accordingly with a focus on SAP SD • Solid understanding of SAP architecture principles, including S/4HANA, BTP, integration, and extension patterns • Good technical foundation (e.g. ABAP basics, APIs, integrations), without necessarily being a developer• Experience with ERP transformations or large SAP programs Qualifications: Deep understanding of SAP S/4HANA end to end Supply Chain processes • Strong knowledge of SAP standard vs. custom development and the ability to make design decisions accordingly with a focus on SAP SD • Solid understanding of SAP architecture principles, including S/4HANA, BTP, integration, and extension patterns • Good technical foundation (e.g. ABAP basics, APIs, integrations), without necessarily being a developer• Experience with ERP transformations or large SAP programs What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work environment where your ideas are valued, and your curiosity and ambition are encouraged. Benefit from flexible working models, international networking, and a strong sense of purpose as we enable our customers’ green transformation and lead the way in digital excellence. [to include specific local benefits]. Profession / Occupation / Studies: 'Completed university degree in Business IT, Business Economics, Information Science, Engineering, or Natural Science"
+  }
+}

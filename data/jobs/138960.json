@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138960",
+    "title": "GDS/BA- Senior Specialist Cyber Security Strategy Architecture (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138960/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDS/BA Cyber Security Enterprise Architecture",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T09:45:42Z",
+    "description": "Objectives of the Position Cyber Security Architec ture and Strategy develop s strategies and coordinate s solutions to improve the security and data privacy level of BASF . This role advises executives, consults and coordinates the implementation of improvements and monitors progress of the data privacy cyber security landscape. Main Tasks Consultation on projects and initiatives to ensure that appropriate security measures are taken in relation to the criticality of processing personal data. I ntegrate \"Privacy by Design\" , \"Privacy by Default\" and Data subject rights into the design and development of systems, applications, and processes. This includes the use of privacy-friendly technologies throughout the product/project lifecycle, from design to deployment. Development of best practices in the project environment regarding data protection in collaboration with the Data Protection Office. Development and evaluation of security data privacy requirements in consultation with all strategic business areas , Enterprise Architecture and the data protection organization Responsible for initiation of security projects and the role of professional caretaker for such Steers suppliers to ensure compliance with BASF security requirements; further, conducts escalation and solution of security breaches and deviations Active p articipation in industry network s of colleagues to discuss special topics and developments. Integrates the findings of those discussions into his/her evaluations Communication and coordination with various internal stakeholders and communities to raise awareness for the security data privacy strategy and to add value for the business strategy. Active exchange of knowledge and collaboration across teams within the IT- organization Development and e valuation of measures to reduce identified security data privacy risks, which have been construed from future threats. Evaluation of possibilities to improve business and innovations through secure technologies; integration into strategic business requirements Structure and evaluation of various innovative technologies with reference to security data privacy in business environments ( e.g. Internet of Things, Big Data Cyber Security analytics , Cloud) Analysis of drafts of the security architects in conjunction with the Enterprise Architecture Security d omain as a basis for the development of technical solutions within IT- projects. Support for the development of security standards, which apply..."
+  }
+}

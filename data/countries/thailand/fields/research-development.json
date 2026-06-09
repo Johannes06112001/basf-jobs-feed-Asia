@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "Thailand",
   "job_field": "Research & Development",
   "total_active": 2,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "136081",
@@ -16,11 +16,8 @@
       "job_field": "Research & Development",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF (Thai) Ltd.",
-      "department": "G-EMI/AT",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
-      "date_posted": "2026-05-06T11:13:45Z"
+      "date_posted": "2026-05-06T11:13:45Z",
+      "detail_path": "data/jobs/136081.json"
     },
     {
       "job_id": "136084",
@@ -32,11 +29,8 @@
       "job_field": "Research & Development",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (Thai) Ltd.",
-      "department": "G-EMI/AT",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
-      "date_posted": "2026-05-06T11:11:30Z"
+      "date_posted": "2026-05-06T11:11:30Z",
+      "detail_path": "data/jobs/136084.json"
     }
   ]
 }

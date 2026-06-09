@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138882",
+    "title": "GDB/ZI - Integration Platform Frontend Engineer (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138882/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/ZI",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-22T18:30:00Z",
+    "description": "Objectives Describe your Product mission here (2 - 3 sentences only) Join our “Data Foundation” team and work on the cutting-edge “Integration” product that leverages innovative technologies to seamlessly connect applications and facilitate data exchange. The Integration Platform is a versatile framework for building and executing integration scenarios—serving both internal and external needs. With the platform and its underlying technologies, you’ll have access to advanced tools and processes designed to connect to any type of data, in any format you require. As part of our mission, you’ll help implement Enterprise Integration Concept capabilities across Data Integration, Thing Integration, Process Integration, and User Integration. If you’re passionate about driving digital transformation and want to make a real impact in Hyderabad, this is your opportunity to be at the forefront of integration technology. Describe the objectives of the role here (2 - 3 sentences only) Be part of building the future of integration platform in Hyderabad! As an Integration Platform Engineer, you will play a key role in shaping a self-service, governed, and highly visible integration lifecycle for APIs, events, and workflows. Your expertise will help design and develop essential backend services that drive orchestration, governance, discovery, and automation—leveraging the power of Kubernetes. Join us to create robust solutions that accelerate digital transformation and make a real impact on global business operations. Main Tasks / Scope of Work Our main requirements: § Build and evolve responsive user interfaces using React and TypeScript § Deliver intuitive self-service portals and marketplace experiences that enable teams to discover and consume platform capabilities § Integrate frontend components with platform backend APIs, ensuring secure, reliable, and high-performance data flows § Design and implement role-based user journeys tailored to different personas (e.g., producer, consumer, admin) across the platform Personal traits § Demonstrates an entrepreneurial mindset, embracing innovation and new opportunities § Shows a strong sense of accountability and ownership in all tasks § Adopts a proactive approach, taking initiative to drive results § Possesses high levels of ambition and a strong commitment to delivering excellent service § Exhibits effective communication and strong interpersonal skills § Capable of managing and resolving conflicts, with an awareness of..."
+  }
+}

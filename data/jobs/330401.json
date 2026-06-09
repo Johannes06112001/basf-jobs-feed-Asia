@@ -1,0 +1,21 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "330401",
+    "title": "(Assistant) Manager, Technical Sales",
+    "url": "https://basf.jobs/light_blue_AP/job/SHANGHAI-%28Assistant%29-Manager%2C-Technical-Sales-200000/1282158701/?feedId=111101",
+    "country": "China",
+    "city": "SHANGHAI",
+    "state": "Unknown",
+    "job_field": "Marketing & Sales",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF",
+    "department": "Marketing",
+    "hybrid": false,
+    "date_posted": "2026-01-11T00:00:00Z",
+    "description": "Main Task 1. New business development - Scout business opportunities and identify technical requirements; cooperate with relevant teams for feasibility study - Execute and coordinate product promotion projects; includes hosting technical meetings, resource coordination/planning, sampling, product registration, internal qualification, piloting, improvement, scaling up until product ready for commercialization - Act the major interface between customer and product development team during product promotion process 2. Market intelligence management - Collect and analyze industry trend and customer technology roadmap to support product development direction - Scout and summarize competitor activities and competitive landscape to support product strategy and sustain company competitiveness Requirement 1. Education: Bachelor or Master degree in an engineering and scientific field, such as Materials Science, Chemistry, Electrical Engineering, Chemical Engineering, is preferred 2. Work Experience 3+ Years in the field of semiconductor industry. Experience in new business development project management in preferred Experience in technical sales or a customer-facing role is preferred Etch Module Process Engineering (Wet clean), Thin Film Module Process Engineering - Electrochemical Deposition (ECD) or PIE (Process Integration Engineer) Research Development (AMTD), Technical Development (TD) and material related (Wet Clean, Cu/Co plating, CMP slurry/post clean) background is preferred 3. Technical & Professional Knowledge Good understanding of semi-conductor process and technology is necessary; knowledge of wet process and chemicals (Focused on BEoL/MEoL) & Cu/Co plating are a MUST Strong interpersonal and communication skills is required English Skill: Oral & Written (Professional Terminology in Semiconductor Process terms) Proven ability in coordinating and leading cross-functional teams (GPM, QC/QM, ADL, CoE, SCM, Sales & etc.) 请时刻警惕任何可能的招聘欺诈行为！请注意，巴斯夫绝不会在任何情况下向候选人以任何形式收取任何费用。"
+  }
+}

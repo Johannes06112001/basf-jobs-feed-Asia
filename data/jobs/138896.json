@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138896",
+    "title": "GDD/BH - Senior Full Stack SAP Developer - SAP QM (Quality Management) Knowledge (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138896/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/BH Quality Assurance & Control",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T08:38:32Z",
+    "description": "Responsibilities: End-to-end responsibility for development solutions based on SAP R/3 and S/4. Technical design and implementation of application enhancements and new applications for BASF Quality Assurance Control (QAQC) processes. Development using state-of-the-art programming methods ensuring stable, runnable, and supportable solutions. Collaboration with solution consultants and business divisions to improve QAQC solutions. Integration with SAP and non-SAP systems using modern interface architectures. Support testing, system maintenance activities and documentation. Qualifications: • Proficient in ABAP Rest/OData2 and OData4 webservices for seamless integration and data exchange. • Extensive experience in SAP object-oriented programming, bringing innovation and efficiency to development projects • Familiarity with S/4HANA On-Premise and/or Cloud, abapGit, Adobe Forms and Smart Forms, and SAP Extensibility options for customization and adaptability. • Strong understanding of Database normalization for data integrity and optimal performance • Expertise in building interfaces using SAP API Management, SAP CPI, and OpenAPI documentation to facilitate smooth communication between systems. • Knowledge and use of the latest technologies, such as BTP cloud, RAP and CAP Frameworks, CDS views and CDS Annotations. • Proficient in designing concepts, principles, patterns, and layers architecture for scalable and maintainable solutions. • Experience in unit testing to ensure the robustness and reliability of developed functionalities • Familiarity with agile delivery methods such as Scrum and utilization of work organization tools like Azure DevOps for efficient collaboration and timely project delivery. • Demonstrated creativity, motivation, and a strong focus on innovation to contribute to the development of cutting-edge solutions • Excellent communication skills in English for effective collaboration with cross functional teams. • Nice to have: Knowledge of industry-standard protocols such as Kafka and SOAP, and familiarity with Google Apigee for seamless integration with external systems What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional..."
+  }
+}

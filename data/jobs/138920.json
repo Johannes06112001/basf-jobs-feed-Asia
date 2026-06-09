@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138920",
+    "title": "GDB/X - Junior Agentic AI Engineer (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138920/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GBI/UP-D Data Analytics & AI",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T12:49:27Z",
+    "description": "Junior Agentic AI Engineer OrgCode: GDB/X Product Team: Intelligent Automation Responsibilities: - Create Agent Tools: Write Python functions and API wrappers that allow our agents to perform actions (e.g., \"Look up material price in SAP\"), following the MCP standard. - Maintain Quality: Write comprehensive unit tests and \"Evals\" (using LLM-as-a-Judge) to ensure our agents are accurate, safe, and helpful. - Support Operations: Monitor agent performance using our observability tools, helping to identify and fix issues like hallucinations or failed API calls. - Build Test Agents: Develop specific domain agents (e.g., \"HR Policy Assistant\", \"IT Ticket Classifier\") using our pre-validated Blueprints and Azure AI Foundry. - Learn Grow: Rapidly upskill on AKS, Databricks, and LangGraph, moving from building simple chatbots to complex autonomous systems under the mentorship of senior team members. Qualifications: - Foundational Skills: Strong grasp of Python programming. You know your way around data structures, APIs (REST), and basic version control (GitHub). - AI Curiosity: You have experimented with LLMs (OpenAI API, Hugging Face) and understand the basics of Prompt Engineering and RAG. - Tech Savvy: Familiarity with Docker and basic cloud concepts (Azure/AWS) is a big plus. - Mindset: You are a fast learner who isn't afraid to break things in a sandbox to understand how they work. You are passionate about how AI can solve real-world problems. - Team Player: You communicate clearly and are eager to collaborate in an agile, international team environment. What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work environment where your ideas are valued, and your curiosity and ambition are encouraged. Benefit from flexible working models, international networking, and a strong sense of purpose as we enable our customers’ green transformation and lead the way in digital excellence. [to include specific local benefits]."
+  }
+}

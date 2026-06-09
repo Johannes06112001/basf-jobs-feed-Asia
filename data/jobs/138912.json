@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138912",
+    "title": "GDE/MC - Senior DevOps Engineer SAP SD (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138912/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/MC Order Management & Advisory SA",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T10:06:42Z",
+    "description": "Senior DevOps Engineer SAP SD (Order-To-Cash) – Functional The Product team for Order Management creates, delivers and runs digital applications for users managing sales distribution activities in the movement of goods between BASF divisions and end-customers. Working agile, we enable functionality of core systems processes. We partner and consult with stakeholders to innovate solutions proactively across multiple technology platforms to anticipate future needs. This position is especially foreseen to support the migration from an R/3 ERP to S/4 HANA and a Multi-ERP Approach of BASF. Your main responsibilities include: Support gathering of requirements and creation of user stories. Design solutions and do configurations/customization. Technical design of application enhancements and new applications for BASF Order to Cash processes. Development of those applications by using state-of-the-art programming methods and ensuring compliance with all relevant BASF guidelines for development (clean core, cloud compliance, etc.) Management of complex development environments using both internal and external resources Ensures runnable, supportable and stable solutions from a technical point of view together with operations. Contributes to planning and provides cost estimations for complex projects. Supports creation of (functional) Solution Design Documents Supports testing and error correction activities. Support the technical consultants in functional topics. Prepare and execute functional tests. Maintain user documentation. Collaborate with internal BASF partners. Work on tickets that cannot be solved by the first level support. This comprises analysis of the issues, implementation of solutions, instruction, and training of the affected user. Support change requests / projects with effort estimations. Active and proactive collaborating, self-organized pulling of tasks from a backlog. Support of the BASF Digital roadmap, helping GDS to identify, execute and implement customer-centric digital solutions in an actionable and measurable way. Our main requirements: Education Successfully completed studies in computer science, business informatics or a comparable qualification Required skills / experience: Minimum 4-6 years related working experience with complex SAP applications. Hands ‑ on experience in SAP Settlement Management / CCM, with strong knowledge of rebate and commission processes, condition contracts, accruals, settlement flows, and FI integration..."
+  }
+}

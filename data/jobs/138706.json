@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138706",
+    "title": "GDF/BB - Salesforce Platform Administrator (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138706/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/NB Platform Foundations",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T07:08:06Z",
+    "description": "What you can expect Digital Solutions for Sales supports BASF's strategy to focus our strengths on our customers by providing capabilities to continuously optimize business decisions and customer experience. You will be part of a truly global team, working agile and with a high passion to enable our sales teams to perform at their best. Your main responsibilities: Ensure operational integration of the platform Define the needed review and monitoring processes Interact with salesforce on upcoming releases and fixes Interact with our product teams (sales/marketing/service) Monitor user adoption and identify improvements Monitor and manage integrations (e.g. SAP) Guide the product teams towards best practice Define and execute operational data management processes Implement review tools an define actions Design and manage limit monitoring Review and check code with regards to scalability and readability Maintain and share development guidelines proactively Implementation of user stories with focus on salesforce and SAP integration Our main requirements: A Bachelor or master degree in relevant Business/IT studies You are experienced with the salesforce.com sales cloud administration Certified salesforce administrator with deployment know-how An entrepreneurial spirit and the ability to foster a positive and energized culture A growth mindset with a curiosity to learn and improve. Team player with strong interpersonal, written, and verbal communication skills. You can demonstrate fluent communication skills in English (spoken and written) Nice to have: Certified Salesforce Platform App Builder Certified Salesforce Platform Developer 1 Advanced Salesforce Administrator Copado experience Integration know-how (salesforce / SAP)"
+  }
+}

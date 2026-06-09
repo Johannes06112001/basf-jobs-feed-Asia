@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "India",
   "job_field": "Environment, Health & Safety",
   "total_active": 2,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "133873",
@@ -16,12 +16,9 @@
       "job_field": "Environment, Health & Safety",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF India Limited",
-      "department": "GBA/UI",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-05T05:05:34Z",
-      "description": "About The Role Provide support to all stake holders of BASF in India for the effective implementation of Organization, Occupational Safety, Environment protection Transport Safety discipline initiatives to ensure safety of employees in work, prevention of incidents and continuous improvement in EHS performance of the organization Support the organization in effective implementation of Occupational Safety, Environment Protection and Transport safety strategy, rules and regulation to ensure that national requirements, BASF strategies and requirements are fulfilled and high standard of EHS performance is achieved Interpret, translate, and support the mandatory requirements in Occupational safety, Environmental protection, Transport safety and Organization disciplines. Support the HUB and corporate EHS governance in effective implementation of new programs. Follow up OS, EP and TDS targets and KPI to improve EHS performance of the organization. Support the digitalization team in developing EHS tools and support implementation in India. Conduct RCMS audits (internal and external) How You Will Do It Occupational Safety Support the implementation of Organization, Occupational Safety, TDS "
+      "description_preview": "About The Role Provide support to all stake holders of BASF in India for the effective implementation of Organization, Occupational Safety, Environment protection Transport Safety discipline initiatives to ensure safety of employees in work, prevention of incidents and continuous improvement in EHS performance of the...",
+      "detail_path": "data/jobs/133873.json"
     },
     {
       "job_id": "132795",
@@ -33,12 +30,9 @@
       "job_field": "Environment, Health & Safety",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF India Limited",
-      "department": "GBA/UI",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-01-30T07:02:46Z",
-      "description": "About The Role Be responsible to support service recipients in implementing BASF Group EHS requirements and guidance documents, to provide consultancy and support to fulfill legal and BASF requirements on process safety in India or in Asia Pacific countries if requested Act as a Process Safety expert to ensure high quality Safety, Health Environment (SHE) Reviews for new capital investment projects and existing plant according to BASF Group EHS requirements and guidance documents Provide guidance in implementation of guidelines and programs through workshops and training, and monitoring implementation at the site by continuous reviews, assessments, and audits to achieve and continuously improve high standards of Process Safety performance Review Safety, Health Environment (SHE) critical changes at the sites as part of MOC (Management of Changes) process, non-standard or new activities at the site level. How You Will Do It Process Safety Facilitate and coordinate SHE review process (SHE 0 to SHE 4 – Facility siting till Pre startup safety review) for new capital investment projects in India or in Asia Pacific region as requested according to the BASF Group EHS requirements and guida"
+      "description_preview": "About The Role Be responsible to support service recipients in implementing BASF Group EHS requirements and guidance documents, to provide consultancy and support to fulfill legal and BASF requirements on process safety in India or in Asia Pacific countries if requested Act as a Process Safety expert to ensure high...",
+      "detail_path": "data/jobs/132795.json"
     }
   ]
 }

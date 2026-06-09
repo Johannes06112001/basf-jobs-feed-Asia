@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139197",
+    "title": "Manager, Regional EHS",
+    "url": "https://basf.jobs/job-invite/139197/?locale=en_US",
+    "country": "China",
+    "city": "Shanghai",
+    "state": "Shanghai",
+    "job_field": "Environment, Health & Safety",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Polyurethane Specialties (China) Co. Ltd.",
+    "department": "A-CMA/XE",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-29T07:10:57Z",
+    "description": "About The Role - Support improvement on EHS management of A-CMA(Monomers Asia Pacific) sites. - Support A-CMA(Monomers Asia Pacific) business with product stewardship activities. How You Will Do It - Follow up the latest development of EHSQ regulations and BASF Group requirements and coordinate the implementation within A-CMA sites by promoting experience exchange and practice sharing. - Monitor the EHS performance in A-CMA by collecting and evaluating indicator data required by BASF global reporting tools incl. safety KPIs, leading indicators, carbon emission etc., - Support to drive the continuous improvement of EHS management in A-CMA by initiating or contributing, and facilitating appropriate EHS improvement activities based on analysis on the overall performance trend; - Support the site EHS by sharing the best practice on common topics among A-CMA plants, coordinating conducting gap analysis or internal audit for RCMS implementation, - Support the competence development of EHS team in A-CMA incl. coaching the new EHS staff on specific EHS topics, - Follow up on investigation of EHSQ incidents in sites, esp. the high severity (potential) ones, focused on the quality and effectiveness of process; - Promote product stewardship activities by partnering sales and marketing as well as technical service team, developing tailored made training programs for customers, agents, distributors, service providers on safe handling, storage, use and disposal of CM products; - Provide EHS expertise and technical support to customers e.g., for the setup of new CM products storage facilities; - Update the “train the trainer” package and give support to new trainers related to customer trainings; - Promote Responsible Care Sustainable Development, as applicable, within the industry association and contribute to relevant initiatives on behalf of BASF. What We Look For - University degree in Chemistry, Chemical Engineering or EHS related discipline - At least 5 years relevant experience, preferably with large scale chemical production sites. - Conversant in EHS legislation knowledge focused on chemical industry. - Excellent analytical, organizational, communication and interpersonal skills and a strong team player. - Excellent command of written and spoken English. - Proficient MS application."
+  }
+}

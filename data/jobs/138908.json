@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138908",
+    "title": "GDE/A - Product Manager SAP Authorization (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138908/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/A Core Systems (ERP) & Foundation",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T09:40:20Z",
+    "description": "Responsibilities You are part of a global leadership team who is ensuring BASF ‘s business continuity by providing stable platforms for the very large global SAP landscape of BASF group based on innovative technologies and state of the art operation for a leading chemical company. We are in the middle of our S/4 transformation project and are ramping up a significant team in our new Digital Hub in Hyderabad, India. This position offers the opportunity to build something new and become a cornerstone of the long ‑ term operational backbone of our global S/4 landscape. Now is the time to take a new step: Own it. Drive it. Excel in it. Drive continuous improvement of S/4 operational processes— leveraging AI where beneficial—ensuring harmonization, lean practices, and structured product lifecycle management with a strong focus on radical standardization. Develop internal expertise to ensure long-term operational excellence across the S/4 solution landscape. Contribute to the organizational development of our broader team and be an active member of a forward ‑ looking leadership team. While we have a focus on SAP Authorization, we are very much welcoming candidate with a broader SAP experience, mainly with Test release management , deployment SAP development management and cross SAP services . Here are some of your key responsibilities, which can be applied to SAP cross topics beyond authorizations: Global SAP Authorization Ownership: Leads SAP authorization implementation and support including delivery of SAP Authorizations for projects across BASF and serves as the primary contact for audits assessments based on Corporate Guidelines. You drive innovation, automation and leverage AI capabilities in day-to-day operations. Leadership of a Distributed Global Team: Leads a worldwide SAP Authorization product team and steers external global service providers to ensure efficient, high quality service delivery. Owns budgeting, resource planning, team development, goal setting, and performance management aligned with corporate standards and strategic transformation goals. End to End DevOps Accountability for SAP Authorizations: Drives all DevOps activities based on agile methodologies for continuous operational improvement of SAP Authorization concepts and the related implementations. Qualifications Completed university degree in Business Informatics, Business Administration or Computer Science with several years of professional experience Several years of..."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139291",
+    "title": "GD/IC - Digital Portfolio Steering Specialist (m/f/d)",
+    "url": "https://basf.jobs/job-invite/139291/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GD/IC Portfolio Steering",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-06-02T11:43:27Z",
+    "description": "(Digital) Portfolio Steering Senior Specialist – Business Applications IT Services About Us At BASF’s Global Digital Services (GD), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-performance culture inspired by our Winning Ways: enabling our customers’ green transformation, accelerating sustainability, and creating a workplace for curious, ambitious talents. Within Portfolio Steering, we ensure that BASF’s digital investments create measurable value. We provide transparency across applications and services, align demand with strategy, and steer the portfolio end ‑ to ‑ end—from intake and prioritization to roadmap and benefits tracking. By optimizing the application and service landscape, we also help identify redundancies, focus spend on the highest ‑ value initiatives, and enable cost savings while maintaining reliability and compliance. Together with product teams, service owners, and business stakeholders, we shape a balanced, efficient, and customer ‑ centric portfolio that supports BASF’s global operations and green transformation. Responsibilities Support and continuously improve portfolio steering processes for Business Applications and IT Services (intake, prioritization, planning, and governance) Support demand management by collecting, clarifying, qualifying, and structuring incoming initiatives and service requests (incl. value hypotheses and sizing) Facilitate prioritization discussions with business and IT stakeholders by providing structured input on value, risk, architecture fit, capacity, and financial constraints Maintain an integrated portfolio roadmap across products, applications, and services; coordinate dependencies and support alignment with strategy Support portfolio financials by contributing to budget planning, monitoring and cost transparency Help define and track portfolio KPIs (value, delivery, quality, cost, and risk) and contribute to management reporting and decision materials for governance bodies Support transparency of service performance and lifecycle by aligning with service owners on SLAs, lifecycle discussions, and continuous improvement initiatives Serve as an interface between business, architecture,..."
+  }
+}

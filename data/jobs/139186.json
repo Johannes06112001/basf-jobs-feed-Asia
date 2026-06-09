@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139186",
+    "title": "Assistant Manager, Regional Trainer",
+    "url": "https://basf.jobs/job-invite/139186/?locale=en_US",
+    "country": "China",
+    "city": "Guangzhou",
+    "state": "Guangdong",
+    "job_field": "Production, Maintenance & Technical Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+    "department": "G-ECR/ATC",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-29T07:09:35Z",
+    "description": "About The Role Asia Pacific Regional Trainer implements and develops competencies and skillsets for BASF, distribution and customer personnel by deployment of technical training and service packages for all BASF brands according to strategic business objectives How You Will Do It - Implement into BASF, Partner and Bodyshop organizations Global Training Solution training and service packages based on APAC regional and market up requirements (internal + external) - Implementation of BCG (Coating Business) product and colour services training packages to targeted Asia Pacific markets. - Create and implement development plans for National Head Trainers / Primary Trainers, including coaching guidelines on best practice educational methods according to curriculum. - Implementation of technical skill development solutions for all customer interfacing technical staff (BASF, distribution, importer, and 3rd party service providers) to create a scaling effect of technical field know-how, to enhance FTE efficiencies, OVP to Asia Pacific markets and effective use of our products and solutions. - Co-responsibility with Process Solutions to develop repair processes adaptions of existing repair processes for BCG (Coating Business) developed products. - Continuously developing general knowledge of the relevant markets and attain exceptional skills in product process information, technology, and knowledge transfer methods (didactics). What We Look For - Education: University degree - Exceptional written and oral, presentation and communication abilities in both English and Chinese (other Asian language skills a plus) - Formal educational accreditation in refinish paint application or refinish trade qualifications. - Minimum of 5 years experience in a related automotive refinish Technical Training role. - Formal educational accreditation in “Train-the-Trainer” qualifications - Ability to manage through a matrix organization - Ability to work autonomous and responsibly according to main tasks and objectives - Understanding of financial concepts - Expertise with Microsoft Office products"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "133428",
+    "title": "Site Controller",
+    "url": "https://basf.jobs/job-invite/133428/?locale=en_US",
+    "country": "India",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "job_field": "Production, Maintenance & Technical Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF India Limited",
+    "department": "A-PMA/C",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-03-02T07:32:44Z",
+    "description": "Objectives of the Position: This position is required to guide, challenge and advise the organization towards economic decision-making and value generation. Ensure that financial practices align with the overall corporate strategy while also adhering to local regulations and standards. Enforce compliance with financial policies and procedures. To facilitate the site management in steering the business and evaluating the costs in the legal entity. Develops financial competencies, partnering with key site functions and business, systems and reports to help improve performance, in respect of rules standards to ensure full compliance. This position will be based in Thane and Vikhroli - incumbent is required to travel between these two lcoations as and when required. Main Areas of Responsibilities and Key Activities: Prepare Business Reports (Site Management inclusive) and maintain BASF Applications: Prepare and present accurate financial statements and reports to senior management. Monitor and ensure compliance with accounting principles and standards Reports prepared punctually and accurately Key Performance Indicators (KPIs): Product Costing report Sales Performance Overview: Role as variant BASF application gate keeper on site, e.g. Contract Management Database, COINS (Cost Consolidated Reporting and Analysis), I-Comp (ICTP), MARIS, Ocean, CARAT, SCII, etc. Support Site CAPEX / OpEx (Small Investment or potential regional/global project): Manage annual Small Investment Planning Analyze Small Investment cost development, number of CAPEX and make sure budget under control. Manage potential regional or global project(s) planning taking place, in alignment with regional / global counterparts. Setup and on-going support to project Application and closing, for example project capital injection, project tax refund coordination, project equipment custom duty-free register, etc. Deliver relevant training, build up site team knowledge on Finance. Supervise BU/FU/Company Operational Planning, Business Analysis: Manage OMP operational planning process, cost budget and production planning in alignment with the region Ensure that standard costing is done in compliance with BASF accounting guidelines Definition, target setting and monitoring of KPIs in the site organization Monthly report fixed cost, variable cost and cost of sales comparison BGT/ACT/FC and information to management Monitor and report operation result of Manufacturing, Maintenance, Infrastructures, WWTP..."
+  }
+}

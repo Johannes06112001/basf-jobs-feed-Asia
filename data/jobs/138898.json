@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138898",
+    "title": "GDE/AC - Senior Automation Engineer (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138898/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/AC SAP Release and Test Management",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T08:50:11Z",
+    "description": "About the Role We are hiring a Senior Automation Engineer to help transform how we run and support our SAP application landscape. Your mission is simple but ambitious: eliminate manual work, reduce operational friction, and build smart automation that scales. You will work hands ‑ on on automating Application Management Support (AMS) tasks as well as for the SAP operations of our major SAP Landscape (release management, work request handling, authorizations, regression testing, etc) using a modern enterprise technology stack. SAP (S/4HANA, Cloud ALM, SAP AI/Joule) is a core element—but success in this role depends on your ability to integrate and automate across SAP, Microsoft, ServiceNow, and other automation tools. This role is central to shaping the next generation of autonomous and intelligent support processes, leveraging the latest capabilities in SAP, agentic automation, and other capabilities. ### What You Will Work On Automate operational processes across: Incident, service request, and work intake handling Support triage, enrichment, and resolution steps Knowledge ‑ supported troubleshooting and guided resolution Reduce repetitive manual effort in AMS and improve speed, stability, and quality. Release Testing Automation Release coordination and validation Deployment and change checks Regression testing execution, reporting, and test data handling Improve release reliability while reducing operational overhead. #### Automation Engineering Design and implement automation using a mixed technology ecosystem: SAP (S/4HANA, Cloud ALM, SAP AI/Joule, BTP services where relevant) Microsoft (Azure services, Power Automate, Copilot, scripting) ServiceNow (workflows, orchestration, integrations) Other fit ‑ for ‑ purpose automation, orchestration, or testing tools. Work with emerging capabilities such as SAP Joule and Microsoft Copilot without being limited to them. #### Engineering Collaboration Work closely with AMS teams, release managers, testers, and architects. Design and develop an agent-based automation framework to support Application Management processes for the future SAP S/4 landscape. Identify, design, and implement automation use cases across Application Management Support, reducing manual workload and improving service quality. Contribute to shared standards, patterns, and reusable building blocks. Define standards, reusable components, and best practices for agentic automation. Drive continuous improvement and scalability of the automation..."
+  }
+}

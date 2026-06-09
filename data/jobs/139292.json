@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139292",
+    "title": "GDA/AH - Senior Digital Experience Engineer (m/f/d)",
+    "url": "https://basf.jobs/job-invite/139292/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDA/AH Experience Management",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-06-02T11:54:20Z",
+    "description": "Job Description Senior Digital Experience Engineer Workspace Solutions / Experience Management Location: Hyderabad, India Business Area: Workspace Solutions / Experience Management About the Role As Senior Digital Experience Engineer , you will play a key role in scaling and operationalizing Nexthink as a core Digital Experience Intelligence platform within BASF’s global digital workplace. Your mission is to identify, shape, and implement high ‑ value use cases and quality improvements across the workplace ecosystem – translating data and insights into measurable improvements for end users, IT operations, and business outcomes. Working closely with Product Owners, Workplace Engineering teams, and our Full Service Provider , you will act as both strategic enabler and hands ‑ on expert for Digital Employee Experience (DEX) and Quality Management. Key Responsibilities Use Case Development Product Collaboration Identify, evaluate, and prioritize DEX use cases (e.g. performance, stability, adoption, compliance, automation) Drive the adoption and value realization of Nexthink across the enterprise Translate business and user needs into actionable Nexthink solutions Contribute to the evolution of the Experience Management framework (e.g. XLAs, DEX KPIs) Partner with Product Owners to integrate Nexthink use cases into product and service backlogs Design and implement dashboards, campaigns, remote actions, and automations Advise product teams on experience ‑ by ‑ design using Nexthink insights Support rollout, scaling, and operationalization of Nexthink capabilities across the organization Technical Implementation Automation Develop and maintain scripts and automations (e.g. PowerShell, Nexthink Remote Actions) Integrate Nexthink with the broader workplace ecosystem (e.g. Microsoft Intune , ServiceNow, Chatbots) Perform end ‑ to ‑ end workplace analysis and drive sustainable improvements Enable and coach teams on Nexthink best practices, usage models, and maturity development Required Qualifications Education Degree in Computer Science, Information Technology, Business Informatics, or comparable qualification Or equivalent professional experience Experience Skills Strong experience in Enterprise Workplace / Desktop Management Solid understanding of modern Digital Workplace architectures Hands ‑ on experience in scripting and automation (e.g. PowerShell) Proven expertise in Nexthink Infintiy Platform ( dashboards, campaigns, remote actions, NQL) and Microsoft..."
+  }
+}

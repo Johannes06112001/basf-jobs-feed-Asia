@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138860",
+    "title": "GDE/AE - Platform Engineer (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138860/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/AE",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T14:27:49Z",
+    "description": "Platform Engineer – Job Grade OrgCode: GDE/AE Product Team: Responsibilities: • Design, develop, operate, and maintain applications, platforms, and infrastructure systems to support BASF’s digital transformation • Steer platform delivery by providers, including request fulfillment, escalation management, and controls platform operations (ensuring SLA adherence) • Ensure operational security and compliance of platforms, troubleshooting and resolving platform issues as needed • Optimize efficiency, performance, and implement cost-effective solutions, focusing on technical expertise, problem-solving, and continuous learning • Write code, conduct testing, resolve issues, and collaborate with teams to ensure platforms are functional, reliable, and user-friendly • Steer own tasks independently, including many interfaces and interdependencies, with a high level of international, regional, or cross-organizational coordination • Design, develop, operate, and maintain applications, platforms, and infrastructure systems to support BASF’s digital transformation • Steer platform delivery by providers, including request fulfillment, escalation management, and controls platform operations (ensuring SLA adherence) • Ensure operational security and compliance of platforms, troubleshooting and resolving platform issues as needed • Optimize efficiency, performance, and implement cost-effective solutions, focusing on technical expertise, problem-solving, and continuous learning • Write code, conduct testing, resolve issues, and collaborate with teams to ensure platforms are functional, reliable, and user-friendly • Steer own tasks independently, including many interfaces and interdependencies, with a high level of international, regional, or cross-organizational coordination • Communicate and negotiate complex, difficult, or controversial information to heterogeneous target groups, anticipating objections and persuading through stakeholder commitment • Act as a team player, supporting ideas from team members and fostering collaboration to achieve the best results • Share knowledge and best practices, applying known tools and developing creative approaches to solve undefined and unexpected problems • Take a broad perspective to identify new solutions, acting flexibly and independently in a diverse and complex work environment • Resolve topics with a focus on efficiency or operational excellence, with moderate implementation complexity and risk • Highly impact the achievement..."
+  }
+}

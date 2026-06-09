@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138914",
+    "title": "GDE/MC - SAP Developer (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138914/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/MC Order Management & Advisory SA",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T10:18:21Z",
+    "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will guide, coach and train other team members build competencies for the respective modules. - You will be assigned projects where you will have end to end responsibility for all deliverables Qualifications: Senior technical profile with 6+ years SAP development and integration experience On Premise/Cloud, RAP development. Modern ABAP development, ODATA, CDS Views, CPI, Fiori, Cloud Compliance with strong focus on Clean Core. Proficiency in interface technologies and development (API management, Kafka)Functional knowledge of SAP S/4HANA SD, other modules are beneficial (MM, TM, ..)Preferable knowledge: Datasphere and Data Products. Condition technique (pricing, surcharges, discounts). E-Invoicing. What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work environment where your ideas are valued, and your curiosity and ambition are encouraged. Benefit from flexible working models, international networking, and a strong sense of purpose as we enable our customers’ green transformation and lead the way in digital excellence. [to include specific local benefits]. Profession / Occupation / Studies: 'Completed university degree in Business IT, Business Economics, Information Science, Engineering, or Natural Science,"
+  }
+}

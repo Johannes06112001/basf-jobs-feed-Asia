@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138924",
+    "title": "GDD/EN - Platform engineer CAE solutions  (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138924/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/EN CAE & Gastronomy Solutions",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T13:18:29Z",
+    "description": "Summary The CAE Solutions product team is mainly responsible for consultancy, administration and support of the whole range of applications and tools used by the engineering departments of BASF, like different 2D and 3D tools for planning and maintenance activities of production plants, several data management systems for all varieties of engineering documents, license services and many more. The service includes the full evaluation and packaging support of new software integration into BASFs infrastructure, patch management, consultancy, and direct end-user support. Responsibilities and Key Outcomes Infrastructure and Application Support for the engineering tools landscape The activities include the following tasks: • Administration of the Engineering Application environments o Managing the server / DB infrastructure components o Perform the lifecycle support with updates / upgrades, troubleshooting o Consulting / Managing for Infrastructure design (Server, DB, Firewall, Storage) o User access management in BASF Identity Management tools o User support for using these tools in BASF environment o Perform the lifecycle application support with updates / upgrades / security topics / documentation, troubleshooting in close collaboration with the respective engineering departments and the vendors o Consulting of engineering departments about infrastructure design (Server, DB, Security, Storage) for the required engineering tools o Handle interfaces towards other systems o Implementation of license services o Special device evaluation, integration support o Consultancy and support of the respective engineering units about the integration of new components Job Requirements minimum requirement to carry out the work – you might want to point out “additional plus/nice to have skills” that are not mandatory Education and work experience • Master / bachelor’s degree in information technologies, comparable qualification, or many years of experience in the relevant work area • Minimum of 5 years related working experience Technical Professional Knowledge (mandatory) • Very good experience with current Microsoft Windows client and server operating systems • Very good system integration knowledge with Microsoft Active Directory / Entra ID structures, Group management, policies, roles and rights • Very good infrastructure understanding for client-/server applications, database-, webserver-, security-integration-, saas/cloud. • Analytic thinking skills independent way of..."
+  }
+}

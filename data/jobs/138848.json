@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138848",
+    "title": "GDS/A - Cyber Security Compliance and Assurance  (M/F/A)",
+    "url": "https://basf.jobs/job-invite/138848/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDS/A Governance, Risk & Compliance",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T11:55:30Z",
+    "description": "Job Description: Cyber Security Compliance and Assurance Manager Main Tasks: • Ensuring Compliance with Security and Regulatory Requirements: Monitor and assess adherence to legal, regulatory, and internal requirements in information security and data protection. • Conducting Audits and Assessments: Plan, coordinate, and execute internal and external audits as well as risk and compliance assessments to identify vulnerabilities and areas for improvement. • Consulting and Training: Support and raise awareness among business units and employees on compliance and security topics; conduct awareness trainings. • Risk Management: Identify, assess, and track risks related to information security and compliance; develop and implement risk mitigation measures. • Reporting and Communication: Prepare compliance status reports and communicate results and recommendations to management and relevant stakeholders. • Collaboration with Internal and External Partners: Work closely with IT, data protection, legal, internal audit, as well as external auditors and authorities. • Preparation and Support of Certifications: Assist in the preparation and execution of certifications (e.g., ISO 27001, TISAX) and ensure ongoing compliance with requirements. • Continuous Improvement: Analyze incidents, derive lessons learned, and continuously enhance compliance and security processes. Minimum Education and Qualification Requirements for the Position: • Degree in IT, business informatics, engineering, or a comparable qualification. • Several years of professional experience in information security, compliance, audit, or risk management. • Knowledge of relevant standards and legal requirements (e.g., ISO 27001, GDPR, NIS2). • Analytical thinking, strong communication skills, and assertiveness. • Certifications such as CISA, CISM, CISSP, or ISO 27001 Lead Auditor are an advantage. Soft Skills: • Exceptional collaboration and interpersonal skills with a proven ability to foster cooperation and empower a diverse team. • Strong strategic thinking and problem-solving capabilities. • Excellent communication and interpersonal skills, facilitating effective collaboration with diverse stakeholder groups at all levels. Tools and Technology Skills: • Proficient in GRC tools for managing governance, risk, and compliance processes, ensuring effective integration and reporting. • Familiarity with security frameworks and compliance standards such as ISO 27001, NIS2, and the Cyber Resilience Act, etc.,..."
+  }
+}

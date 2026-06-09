@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "132665",
+    "title": "Purchase-to-Pay (Intern)",
+    "url": "https://basf.jobs/job-invite/132665/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Finance, Controlling & Audit",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBA/FP-P1",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-04T06:00:00Z",
+    "description": "Objectives of the Position As part of the P2P team, you will be reporting to the Manager and support the team in managing projects and operation tasks. Main Areas of Responsibilities and Key Activities To support Request fulfilment activities in planning and administration. Depending on business needs, your day-to-day role will include any of the following: Support in delivering automation effort across teams to simplify work processes Participate in improvement initiatives discussion to work on improvement plans and timelines Assist the team in tactical projects according to the objectives Administrative management and coordination of P2P initiatives and activities Prepare documentation and presentation slides for assigned initiatives and activities Support in assisting unit’s operational task as and when is required Job Requirements Able to commit a minimum of 4-6 months internship Currently pursuing a Degree in Business Administration, Finance, Accounting, Business Administration, Linguistics, or any related disciplines A good team player with high level of maturity and independence Proficient in oral and written English"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138892",
+    "title": "GDD/GE - Specialist Warehouse Management (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138892/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/GE Inventory & Stockroom Management",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T08:01:06Z",
+    "description": "Specialist Warehouse Management OrgCode: GDD/GE Product Team: Inventory Stockroom Management Responsibilities: • Assess Business Requirements: Collaborate with stakeholders to understand and analyze warehouse management needs and translate them into effective SAP solutions. • Solution Design and Configuration: Design, configure, and implement SAP Warehouse Management (WM) and Extended Warehouse Management (EWM) solutions to streamline inventory management processes and enhance system performance. • Integration: Ensure seamless integration with other SAP modules (e.g., MM, PP, QM) and non-SAP systems to provide a cohesive and efficient warehouse management environment. • Custom Development: Guide and oversee custom development and enhancements to meet unique business requirements. • Data Migration and Testing: Lead data migration efforts and conduct thorough testing to ensure data accuracy and system reliability. • Training and Change Management: Develop and deliver training programs for end-users and support change management initiatives to ensure smooth adoption of new systems and processes. • Ongoing Support and Optimization: Provide ongoing support and optimization of SAP StRM/WM/EWM solutions to ensure continuous improvement and operational excellence. Qualifications: Qualifications: • Bachelor's degree in Information Technology, Business Administration, or a related field • Proven experience as a Techno-Functional SAP WM/EWM Consultant with a strong understanding of warehouse management processes. Stronger focus on the technical part • Expertise in SAP WM/StRM/EWM configuration and customization • Experience with SAP S/4HANA is a plus • Strong analytical and problem-solving skills • Excellent communication and interpersonal skills • Ability to work collaboratively in a team environment • Specific Software Tools and Technologies: o SAP Logistics (SAP WM / Stock Room Management) o SAP S/4HANA o ABAP and ABAP OO (good debugging skills and good programming skills) o IoT integration (Warehouse Scanning Hardware) o (Process) Integration with SAP MM, PP, SD, QM modules o CDS Views, Odata, … o Knowledge in different types of interfaces o RF Knowledge • Additional nice to have Knowledge: o SAP BTP o Git via gCTS, RAP (ABAP Restful Programming Model) o Fiori Launchpad (Spaces, Pages, Notifications) o Experience with test automation o Azure platform o API Sepcification/Deployment/Monitoring, Kafka Streaming What we offer: Be part of a global leader in digital..."
+  }
+}

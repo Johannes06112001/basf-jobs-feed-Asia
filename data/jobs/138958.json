@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138958",
+    "title": "GDS/CA - Solution Architect Device Security (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138958/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDS/CA Device & Data Security",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T09:32:27Z",
+    "description": "Solution Architect (Job Grade 4) About Us At BASF’s Global Digital Services (GD), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-performance culture inspired by our Winning Ways: enabling our customers’ green transformation, accelerating sustainability, and creating a workplace for curious, ambitious talents. In the Cyber Engineering Identity and Access Management Product Family, we manage the digital identity lifecycle, offer BASF-wide standard authentication and authorization services, and provide solutions related to data and device security. Join our Device Data Security Product Team and be part of a global community where your ideas and expertise make a real impact. Responsibilities Maintain BASF device security by planning, updating, and implementing cybersecurity measures and endpoint tools. Track and resolve vulnerabilities according to severity and business impact. Review and assess the effectiveness of current security measures and a dapt or develop solutions to address undefined issues efficiently . Report on security policy performance and suggest enhancements to stakeholders. Collaborate with cybersecurity teams, product owners, and other stakeholders for guidance and support. Manage tasks independently, coordinating across international and cross-organizational teams. Encourage teamwork, support colleagues’ ideas, and foster shared success. Share knowledge and best practices, building consensus between technical and business teams. Focus on operational excellence and bring new perspectives to problem-solving. Requirements A completed bachelor’s degree in computer science , i nformation t echnology, cybersecurity or related field is required, along with a minimum of three years’ relevant professional experience. Candidates should possess familiarity with Microsoft Data Security tools such as Purview, Elastic XDR suite or comparable security platforms. Demonstrated expertise in technical and design development using Python, SQL, and the Microsoft Platform—including Copilot—is essential, accompanied by strong communication and leadership skills. Well-developed conflict resolution abilities and situational awareness are required...."
+  }
+}

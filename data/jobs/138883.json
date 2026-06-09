@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138883",
+    "title": "GDB/ZI - Integration Specialist (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138883/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/ZI",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T18:30:00Z",
+    "description": "Objectives Our product Integration Platform enables the stable, transparent, and governed operation of enterprise integrations across BASF. The Service Engineer / Owner ensures business continuity and operational excellence of the integration landscape. In this role, you ensure reliable operation of the Integration Platform and its underlying runtimes (including SAP Integration technologies). You support developers, operations teams, partners, and architects in day to day platform usage and evolution. Main Tasks / Scope of Work Job Requirements Focus on the minimum requirements to carry out the work – you might want to point out “additional plus/nice to have skills” that are not mandatory Education  Work Experience  Minimum 3-5 years’ related working experience  Experiencing Agile way of working or agile implementation approach Technical Professional Knowledge (mandatory and nice to have) Our main requirements:  Maintaining a large-scale SAP Integration Suite (Cloud Integration, Edge Integration Cell) and SAP PO production environment.  Profound technical knowledge of the daily operations of the abovementioned tools.  Programming knowledge in Java or Groovy  Knowledge of or at least willingness to learn additional integration tools like SAP API Management, SLT and Kafka. Personal traits  Entrepreneurial character  Highly developed sense of responsibility  Proactive character  Highly ambitious and service oriented  Good communication skills and interpersonal skills  Conflict management skills and conflict awareness  Highly customer-oriented  Well-developed sense of teamwork  Work in a DevOps team  Flexibility and ability to react to unforeseen circumstances Language Proficiency  Good spoken and written English proficiency Job Requirements Focus on the minimum requirements to carry out the work – you might want to point out “additional plus/nice to have skills” that are not mandatory Education  Work Experience  Minimum 3-5 years’ related working experience  Experiencing Agile way of working or agile implementation approach Technical Professional Knowledge (mandatory and nice to have) Our main requirements:  Maintaining a large-scale SAP Integration Suite (Cloud Integration, Edge Integration Cell) and SAP PO production environment.  Profound technical knowledge of the daily operations of the abovementioned tools.  Programming knowledge in Java or Groovy  Knowledge of or at least willingness to learn additional integration tools like..."
+  }
+}

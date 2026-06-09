@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138905",
+    "title": "GDE/EC - SAP Developer - HR Authorizations in SAP HCM (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138905/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/EC Global HR Master Data & HR Self Services",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T09:26:54Z",
+    "description": "Skills Required to Technically Maintain and Develop HR Authorizations in SAP HCM SAP Security Fundamentals (Mandatory) Role and authorization concepts (least privilege, segregation of duties) Role maintenance with PFCG User administration (SU01) Authorization troubleshooting (SU53, ST01, STAUTHTRACE) HCM-Specific Authorization Expertise Infotype- and subtype-based authorization logic Understanding HR master data sensitivities Knowledge of personnel areas, groups, and payroll relevance Understanding core HR processes (hire, transfer, termination) Structural Authorizations in HCM Organizational management basics (org units, positions, reporting lines) Structural authorizations for managers and HR roles Analysis of visibility issues related to org structure Customizing and Enhancements HCM customizing related to authorizations ABAP read/debug skills for authorization checks Basic understanding of Fiori/UI5 or Web Dynpro if applicable Identity and Access Management Joiner/Mover/Leaver processes Role provisioning and approvals Experience with GRC or IGA processes Audit, Compliance and Data Protection Access reviews and recertifications Audit-proof documentation Data protection and privacy awareness Operational and Soft Skills Incident and problem management Transport management and testing Clear communication with HR and business stakeholders"
+  }
+}

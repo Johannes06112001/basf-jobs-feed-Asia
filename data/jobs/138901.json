@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138901",
+    "title": "GDD/BG - Senior DevOps Engineer NCM (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138901/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/BG Non-conformance Management WOP",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-23T09:13:58Z",
+    "description": "Responsibilities: - In this role, you will be end-to-end responsible for the development and management of our Non-Conformance Management solution, which is based on, but not limited to SAP R/3 and S/4. - You will be responsible for technical design of application enhancements, new applications for BASF NCM processes and support testing and system maintenance activities. - You will develop the application by using state-of-the-art programming methods and you will ensure runnable, supportable, and stable solutions. - You will work closely with the solutions consultants, but also with the Divisions to further improve our NCM Solutions. - Ensuring integration with other SAP and Non-SAP applications using modern interface architecture. Qualifications: - Embrace the latest SAP technologies such as RAP frameworks, CDS views, and CDS Annotations. - Proficient in ABAP Rest/OData2 and OData4 webservices for seamless integration and data exchange. - Extensive experience in SAP object-oriented programming, bringing innovation and efficiency to development projects. - Familiarity with S4Hana On-Premise and/or Cloud, abapGit, Adobe Forms and Smart Forms, and SAP Extensibility options for customization and adaptability. - Strong understanding of Database normalization for data integrity and optimal performance. - Expertise in building interfaces using SAP API Management, SAP CPI, and OpenAPI documentation to facilitate smooth communication between systems. - Knowledge of industry-standard protocols such as Kafka and SOAP, and familiarity with Google Apigee for seamless integration with external systems. - Proficient in designing concepts, principles, patterns, and layers architecture for scalable and maintainable solutions. - Experience in unit testing to ensure the robustness and reliability of developed functionalities. - Familiarity with agile delivery methods such as Scrum and utilization of work organization tools like Azure Devops for efficient collaboration and timely project delivery. - Demonstrated creativity, motivation, and a strong focus on innovation to contribute to the development of cutting-edge solutions. - Excellent communication skills in English for effective collaboration with cross-functional teams. Additional plus / nice to have (distributed over the individual profiles) would be: - Professional experience in the chemical industry, and working for large companies. - BTP CAP and BTP ABAP Environment (with gCTS) for seamless cloud integration. -..."
+  }
+}

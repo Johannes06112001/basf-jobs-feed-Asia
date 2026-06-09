@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138946",
+    "title": "GDE/MA - SAP Consultant - ATP (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138946/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/MA Order Management & Advisory EU1",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T07:48:01Z",
+    "description": "Job Description 2nd Level Support Analyst Order-to-Cash (SAP S/4HANA) Support Analyst with foundational knowledge in SAP S/4HANA Order-to-Invoice processes and a strong aptitude for structured troubleshooting across application, integration, and process layers. The role is part of the growing S/4 AMS team in Hyderabad and is designed for professionals who bring analytical thinking, process understanding, and a willingness to strengthen expertise in an ITIL-aligned support environment. The focus is on incident analysis, root-cause identification, and reliable issue resolution. Candidates are expected to work within defined support processes, escalate where needed, and continuously build knowledge on SAP Standard and Clean Core principles. Core competencies: SAP S/4HANA SD / Order-to-Cash, ITIL-aligned incident handling, structured problem analysis, ticket documentation, and escalation support Functional focus: Sales orders, deliveries, billing, pricing, output, integration aspects with other SAP modules (MM, FI/CO, TM) and basic understanding of EDI flows and intercompany or STO scenarios Technical understanding: Ability to read and interpret system logs, interface knowledge with focus on monitoring (CPI flows, API, Kafka), orientation in ABAP traces or debugging output; analysis capability is key Working style: Methodical, service-oriented, reliable in documentation, committed to following SAP Standard and avoiding custom workarounds"
+  }
+}

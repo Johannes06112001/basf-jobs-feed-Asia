@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "134967",
+    "title": "Supply Chain Operational Design (Specialist) - Data Analytics",
+    "url": "https://basf.jobs/job-invite/134967/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB/SO-R2",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-04-03T10:35:03Z",
+    "description": "Objectives of the Position Design and optimize GB services (based on BU demands, legal requirements, M A, investments, strategic projects etc.) Conduct feasibility, impact and cost analysis of prospective new services in SC Service environment Identify any needs for optimization/process changes and lead the implementation drive Ensuring that all service models and service solution designs conform to strategic, architectural, governance and other corporate requirements. Main Tasks Identify required models, methods and tools for Service Design Structure, group and prioritizing business requirements Ensure usage of new information and communication technology to design or re-design supply chain services Evaluate options, make comparative studies and recommend appropriate approaches/models Develop new and extend existing services based on requirements from the business and align with service catalog Test new services prior to implementation Calculate cost of new service Deliver basis for technical concept in cooperation with Functional Experts Drive automation and digitalization of GB services e.g. paperless document flows Drive integration of new businesses into GB service structure e.g. resulting out of M A Manipulate/mine data from database tables using different business intelligence methods Interface with Global Stakeholders and Business Analysts across time zones to gather requirements by asking right questions, analyzing data, and drawing a conclusion by making and validating appropriate assumptions. Conduct deep dive analyses of business problems and formulate conclusions and recommendations; determine optimized courses of action Produce written recommendations and insights for key stakeholders to help shape solution design. Design, develop and maintain scalable and reliable analytical tools, dashboards, and metrics that drive key decisions in supply chain operations Simplify and automate reporting, metrics and dashboards; build solutions to have maximum scale and self-serviceability by users. Recognize and adopt best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation. Requirements Technical Professional Knowledge OutSystems, RPA Scripting (UIPath), Microsoft Power Platform (Power BI, Power Apps, Power Automate), Programming Languages (JavaScript etc.) Analytical thinking, data science, machine learning capability, be able to advise solution based on the data analysis outcome, leading with key..."
+  }
+}

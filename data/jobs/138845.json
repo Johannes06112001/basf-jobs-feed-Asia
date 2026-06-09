@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138845",
+    "title": "Assistant Manager QC",
+    "url": "https://basf.jobs/job-invite/138845/?locale=en_US",
+    "country": "India",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "job_field": "Quality Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF India Coatings Private Limited",
+    "department": "ECP/AI",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-25T05:19:23Z",
+    "description": "O bjectives of the Position Responsible for the efficiency and enhancement of routine inspection by improving test methods and procedures, or via recipe optimization in collaboration with Product Owner to reduce systematic adjustment. Responsible for the asset management of laboratory testing equipment and facility by ensuring that they are maintained, calibrated, or replaced for optimal performance. Act as the gatekeeper to ensure the technical feasibility, repeatability and reproducibility of new test method and inspection plan in Quality Control. M ain Tasks To test samples of Raw Materials, intermediates, in-process finish product and packaging material as per laid down specifications Testing of long-term evaluation properties like salt spray, humidity test, accelerated weathering and outdoor exposure etc. Performing the PV testing received from various vendors /Customers To troubleshoot product related problems. To maintain documents related to Quality system requirement Implement Safety, Health and Environment system of the Plant concerning Men and equipment. Guide Shop floor personnel towards SHE (Safety, Health and Environment) and improve towards BASF safe work culture. This ensures compliance of BASF’s statutory requirement. To ensure the safe handling of hazardous chemicals and adherence to PPE usage of the plant personnel and the Work Permit system is properly followed. Compliance of process safety and environment code as per BASF practice. To schedule housekeeping activity in a defined area and maintain it. To maintain the equipment in good condition in consultation with maintenance Dept. To co-ordinate with maintenance dept. to carry out day-to-day maintenance jobs of the Q.C. Maintenance of records for Quality system requirements. To have knowledge of paint chemistry foundation. To have the knowledge of resin chemistry foundation To have the knowledge of Quality tools M inimum Education and Qualification Required for the Position Education: Postgraduate in Science (Chemistry stream) / B.Tech Paint Technology / Diploma in Surface Coating Technology Working Experience: 6-12 years ( QA /QC and Paint mfg.plant ) IATF 16949:2016: Internal Auditor Six Sigma/DMAIC Process: Black Belt certification Knowledge on 7 QC Tools Technical Professional Knowledge: Knowledge of Paint mfg; Test equipment handling, Quality Management system Lean Master, Crater Expert and Licensed VDA 6.3 auditor"
+  }
+}

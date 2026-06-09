@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "135439",
+    "title": "Export Management (Executive)",
+    "url": "https://basf.jobs/job-invite/135439/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB/SA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-22T02:46:37Z",
+    "description": "Objectives of the Position Responsible for ensuring export management are as per stipulated guidelines, procedures and requirements. Support process improvement, knowledge and risk management as per overseas delivery services. Main Areas of Responsibilities and Key Activities Processing monitoring of customer orders for exports from different business units in compliance with legal, country or customer regulations Fulfillment of customer-specific service agreements and order-related requirements Responsibility for orders in line with the door-to-door accountability concept and monitoring of delivery reliability Collaborate with Transport Managers, forwarders, Export Managers, and other stakeholders to resolve documentation discrepancies and ensure smooth, timely shipment execution Prepare, validate, and monitor export related documents (e.g., BL/SWB, COO, COA, MSDS, packing list) in line with regulatory and operational guidelines Support issue resolution by troubleshooting export order discrepancies and working with cross functional teams to prevent delays Execute assigned export management transactions in SAP, ensuring correct data flow and documentation availability Coordinate improvements to systems and processes, including participation in User Acceptance Testing (UAT) and providing feedback for enhancement Work closely with internal partners such as the Supply Chain Nerve Center, Supply Chain Excellence, and Transport Managers to optimize efficiency, accuracy, and compliance Provide backup support when assigned, ensuring continuity in operations and decision making Job Requirements Education Diploma / Degree of any discipline Working Experience 1-2 yearsin order management, export management, supply chain and logistics Career startersor first professional experience in import export management and international trade Technical Professional Knowledge Knowledge of import export and logistics processes as well as transport management Experience in the use of MS Office and SAP R/3 Structured, independent and process-oriented working width High degree of customer orientation High proficiency in spoken and written English"
+  }
+}

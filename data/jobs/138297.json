@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138297",
+    "title": "GDF/CS_Senior Developer",
+    "url": "https://basf.jobs/job-invite/138297/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/CS Digital Twins for SC & Inventory",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-19T08:14:42Z",
+    "description": "Fullstack Developer / Engineer Main Requirenents: A Master degree in the field of computer science, mathematics, life sciences, chemistry, business administration, or related discipline with at least 1 year of experience in a similar role A Bachelor degree in the field of computer science, mathematics, life sciences, chemistry, business administration, or related discipline with at least 3 years of experience in a similar role Provide expertise in the technical stack development of complex scenarios / workflows such as collaborative problem solving in supply chain domain. At least 4 years of software development experience with JavaScript, Node.js, Spring Boot or .NET Core with MS SQL and NoSQL database Angular / Vue/ HTML5 and CSS Unit Testing using Jasmine, Karma, NUnit At least a year of software engineering experience with Experience constructing, developing, and implementing microservices Maintaining infrastructure as code Experience working on a DevOps team Experience with configuring and deploying in Microsoft Azure Has experience in developing and maintaining data-driven applications Experience in data integration, ETL processes, and linked data applications using tools like Microsoft Databricks, Kettle and Docker Business consulting and technical consulting skills A growth mindset with a curiosity to learn and improve. Team player with strong interpersonal, written, and verbal communication skills. You can demonstrate fluent communication skills in English (spoken and written)."
+  }
+}

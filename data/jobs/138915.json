@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138915",
+    "title": "GDF/BF - Digital Pricing Expert (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138915/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/BF Digital Pricing",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T10:30:06Z",
+    "description": "Digital Pricing – Senior Technical Expert Digital Pricng Role specific activities (what is expected of you as an employee) Technical support contact for our Salesforce integrated Configure-Price-Quote (CPQ) Pricing Framework (based on PROS software) combining deep technical expertise with a strategic view on architecture, development, administration, and integration Shape the further development of our CPQ Pricing Framework and ensure a stable, scalable, and future‑proof platform Support upcoming SAP R/3 and SAP S/4HANA ERP integrations Required (Education, Additional Qualifications and experience) Bachelor’s or master’s degree in Computer science, Software Engineering or comparable from an accredited college or university is required Minimum 3+ years’ experience in working with Salesforce Experience in agile Software development Passion for working in a team Analytical capabilities Experiences in working in global / virtual teams/projects An entrepreneurial spirit and the ability to foster a positive and energized culture Excellent judgement. Able to weigh several and often conflicting constraints and make rapid, logical decisions in a fast-moving team. A growth mindset with a curiosity to learn and improve. Experiences in working in global / virtual teams/projects Technical skills: Extensive knowledge of SAP R/3 or SAP S/4HANA ERP Strong understanding of eCommerce platforms and processes Proficiency in Salesforce SalesCloud Configuration Nice to have (Education, Additional Qualifications and experience) Experience in quoting solutions (CPQ) preferred Programmatical Know-how about Salesforce (e.g. Apex etc.) Test automation Knowledge of application lifecycle, change/release management process Ability to work efficiently under pressure on non-routine and highly complex tasks. Ability to work in a multicultural team spread across the globe."
+  }
+}

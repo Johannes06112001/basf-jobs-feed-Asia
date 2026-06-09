@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138272",
+    "title": "Import-Export Customs Operations Internship",
+    "url": "https://basf.jobs/job-invite/138272/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB/SA-R",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-04T05:56:54Z",
+    "description": "The internship program is available all year long and here's what you can expect • A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the function e.g. supply chain, logistics, order management, etc. • You will be able to explore digital technologies such as robotics and automation, machine learning, predictive analytics, AI technologies with potential to improve operational effectiveness and efficiency • Collaborative and multicultural atmosphere where you are an essential team player to support colleagues and managers in a wide range projects and activities • Guidance, coaching and feedback from supervisors on performance which help you learn and shape your working style About The Role • Support in tracking shipment schedules and updating details in SAP. • Learn end to end shipment processes, Incoterms. to end shipment and customs operations. • Collect and verify key shipping documents and uploading using Power Automate. • Support in delivering automation effort across teams to simplify work processes • Participate in improvement initiatives discussion to work on improvement plans and timelines • Assist the team in tactical projects according to the objectives • Administrative management of import-export and customs activities • Prepare documentation of standard order management tasks and exceptional tasks • Prepare reporting and data analysis."
+  }
+}

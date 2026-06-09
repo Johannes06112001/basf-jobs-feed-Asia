@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "134473",
+    "title": "Intern - Invoice to Cash",
+    "url": "https://basf.jobs/job-invite/134473/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Finance, Controlling & Audit",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBA/FO-ITC2",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-04-28T02:36:15Z",
+    "description": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of customer service to both internal and external stakeholders Performing other relevant support activities as and when require. About You: Currently pursuing Bachelor’s Degree in Accounting, Finance Business Able to commit 6 months internship. Proficient in oral and written English Proficient in Microsoft Excel and Power Point A good team player with high level of maturity and independence Willing to work at Mercu Aspire, Bangsar (next to Abdullah Hukum LRT station)"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "132422",
+    "title": "Supply Chain Modeling & Optimization Specialist",
+    "url": "https://basf.jobs/job-invite/132422/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB Global Business Services",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-19T07:57:51Z",
+    "description": "Objectives of the Position Digitalization will be part of our DNA at GB. We will change processes that will simplify life within but also outside of GB, sometimes even without our BASF colleagues noticing it. Within GB, we will use digital tools to stop us spending too much time on tasks that hinder us from doing the things that are really needed, such as consulting our service recipients. Digital tools will free up our time to help our internal partners and we will be able to actively shape our division’s digital footprint. GB Strategy is to transform Kuala Lumpur Hub into a digital Hub to support BASF. GBC Supply chain team is looking for an exceptional Supply chain professional to support in development and implementation of new digital tools that will help operations. You will focus on designing and implementing (along with counterparts and solution architects) Control Tower solutions for BASF Overseas delivery services. In addition, you will need to understand the customers' requirements and use cases to map to the Control Tower solution. As part of the digital transformation, you will play a key role in change management and communication to stakeholders. Main Areas of Responsibilities and Key Activities (50%) Supply chain Tactical Support • You will be responsible for providing tactical support for door-to-door supply chain delivery process • You will monitor exceptions at each supply chain stage to allow timely and informed decisions for effective escalation management • You will drive supply chain disruption monitoring activities including what-if scenarios and help create recommended actions / options • You will support operations teams during crisis management events by providing impact analysis and recommending corrective / preventive actions • You will conduct market analysis to identify market trends, new opportunities, alternate ports, carriers, and modes • You will improve supply chain resilience and mitigate our customer delivery risk exposure • You will identify improvement opportunities for supply chain process and recommend best fit solutions or tools (20%) Communication and Change Management. • You will work closely with operations to identify business requirements and structure them into actionable and meaningful objectives • You will drive change management and help deployment of new tools and processes • You will work with carriers and service providers identify and resolve issues impacting service delivery • You will provide..."
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "China",
   "job_field": "Legal, Tax & Insurance",
   "total_active": 2,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "139164",
@@ -16,12 +16,9 @@
       "job_field": "Legal, Tax & Insurance",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF (China) Company Ltd.",
-      "department": "CL/C",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-29T04:37:58Z",
-      "description": "Objectives : We are looking for a legal and compliance intern who will provide a wide range of paralegal support as well as compliance / legal support in order to effectively facilitate daily operations of Regional / China Compliance team. The candidate should be proactive and diligent and understand business and operation needs of the organization. S/he should be detail oriented and excited to work collaboratively in an excellent compliance and legal team. Main Tasks: - Support regional compliance daily operation in Asia Pacific, including various compliance program / initiatives on compliance trainings, compliance campaign, data protection, etc. coordinate on feedback collection, consolidation, maintain paper filing and e-filing from various countries in Asia Pacific and manage the data up to date. - Conduct legal research, case analysis and summary, draft and / or review contracts, translate and / or proof-read le compliance documents, etc. - Support the preparation of high-profile compliance case investigation upon assignment. - Schedule appointments, make arrangement for meetings, workshops, event, etc. - Support other administrative tasks assigned. Requirements: - Education: "
+      "description_preview": "Objectives : We are looking for a legal and compliance intern who will provide a wide range of paralegal support as well as compliance / legal support in order to effectively facilitate daily operations of Regional / China Compliance team. The candidate should be proactive and diligent and understand business and...",
+      "detail_path": "data/jobs/139164.json"
     },
     {
       "job_id": "139165",
@@ -33,12 +30,9 @@
       "job_field": "Legal, Tax & Insurance",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF (China) Company Ltd.",
-      "department": "CLL/SC",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-29T04:02:48Z",
-      "description": "Objectives: We are looking for a legal intern who will provide a wide range of administrative and secretarial support as well as legal support in order to effectively facilitate daily operations of China Legal team. Job Descriptions: • Track new legislations, conduct Legal research on various legal topics and draft legal memos • Translate and proof-read bilingual legal documents • Draft, review basic contracts and other legal documents • Schedule appointments, make arrangement for meetings, workshops, etc • Assist in preparing charts, meeting minutes and presentation slides and other materials for China Legal team • Collect, summarize and consolidate relevant business and legal data into reports, and establish and maintain paper filing and e-filing systems for China Legal team • Provide support with general guidance on a variety of legal projects and activities • Support other paralegal and administrative tasks assigned by Vice President, Team Leaders or Counsels in Legal Department Job Requirements: • Education: Student with legal education background, major in law preferable • Working Experience: Not required • Technical Professional Knowledge: Fluent in both oral and written Eng"
+      "description_preview": "Objectives: We are looking for a legal intern who will provide a wide range of administrative and secretarial support as well as legal support in order to effectively facilitate daily operations of China Legal team. Job Descriptions: • Track new legislations, conduct Legal research on various legal topics and draft...",
+      "detail_path": "data/jobs/139165.json"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Human Resources",
   "total_active": 6,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "138986",
@@ -16,12 +16,9 @@
       "job_field": "Human Resources",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PP-P1",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-05T08:41:09Z",
-      "description": "Objectives of the Position Seek to understand business needs and provide support, services and solution on payroll, HR data, HR systems and processes. Offer day-to-day support to service recipients on HR inquiries, work collaboratively with others and perform research on payroll and HR data practices by staying abreast of current and emerging market insights and legal legislations in local countries. Participate in process improvements, automation, and digitalization measures to offer best service delivery experience. Main Tasks Operational Excellence Ensure data quality and data integrity for Payroll and HR data processes. Receive, analyze, process and follow-up on personnel administration requests via multiple request channels, ensure accurate and timely interface to the respective internal/ external processing chains i.e. payroll, finance, data analytics, external service providers, local authorities etc. Manage entire termination workflow for all termination types which includes leaves calculations, information checks, letters preparation, systems updates, payment calculations and exit clearance. Responsible for time and attendance administrations, including manual calculations"
+      "description_preview": "Objectives of the Position Seek to understand business needs and provide support, services and solution on payroll, HR data, HR systems and processes. Offer day-to-day support to service recipients on HR inquiries, work collaboratively with others and perform research on payroll and HR data practices by staying...",
+      "detail_path": "data/jobs/138986.json"
     },
     {
       "job_id": "138967",
@@ -33,12 +30,9 @@
       "job_field": "Human Resources",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PHM",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-28T11:04:15Z",
-      "description": "Objectives of the Position Effectively manage special projects assigned in HR area in line with the project deliverables and manage all stakeholders to ensure project deliverables are communicated effectively Responsibilities 1) Project Management Develop working relationships with the project owners and involved departments to ensure that project solutions are adopted, implemented and maintained appropriately. Provide HR support in project deliverables, identify challenges to be solved and contribute to providing resolutions by working closely with HR Business Partner and HR Center of excellence colleagues Monitor impact and outcome of implemented solutions with documentation of learnings. Assist in the systematic review, retrieval, evaluation, and secure destruction of HR document records in accordance with company policies and compliance standards. Ad-hoc Duties: Take on any other operational or strategic duties as assigned by Senior Manager, HR to support the broader HR team 2) Policy Consolidation Revamping Review Benchmark: Audit current HR policies against industry best practices and local labor laws to identify gaps and outdated clauses. Drafting Formatting: Rewrite, stream"
+      "description_preview": "Objectives of the Position Effectively manage special projects assigned in HR area in line with the project deliverables and manage all stakeholders to ensure project deliverables are communicated effectively Responsibilities 1) Project Management Develop working relationships with the project owners and involved...",
+      "detail_path": "data/jobs/138967.json"
     },
     {
       "job_id": "138595",
@@ -50,12 +44,9 @@
       "job_field": "Human Resources",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PT-A2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-21T05:58:59Z",
-      "description": "Role Summary The Talent Acquisition Partner manages the full recruitment lifecycle from Job Requisition (JR) approval to candidate offer acceptance. This role acts as a strategic advisor to the business, partnering closely with hiring managers and HR stakeholders to ensure effective talent delivery. The TA Partner is responsible for developing sourcing strategies, managing candidate pipelines, and driving a seamless recruitment experience for both candidates and internal stakeholders. Main Areas of Responsibilities and Key Activities End-to-End Recruitment Management • Manage the complete hiring process from JR approval, sourcing, screening, interview scheduling, selection, to offer stage. • Build and maintain strong talent pipelines across assigned functions. • Ensure timely process progression while maintaining a high quality candidate experience. • Provide market insights, talent trends, and recommendations to hiring managers. Stakeholder Management • Act as a trusted advisor to Hiring Managers, HR Business Partners, Country Heads, and functional leaders. • Facilitate alignment discussions on hiring needs, role requirements, and selection criteria. • Conduct regular hiring updat"
+      "description_preview": "Role Summary The Talent Acquisition Partner manages the full recruitment lifecycle from Job Requisition (JR) approval to candidate offer acceptance. This role acts as a strategic advisor to the business, partnering closely with hiring managers and HR stakeholders to ensure effective talent delivery. The TA Partner is...",
+      "detail_path": "data/jobs/138595.json"
     },
     {
       "job_id": "138540",
@@ -67,12 +58,9 @@
       "job_field": "Human Resources",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PT-D",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-20T07:17:06Z",
-      "description": "O bjectives of the Position To support the design, coordination, and delivery of employee learning initiatives Contribute to creating engaging learning experiences Main Responsibilities Assist in the planning and coordination of training programs, workshops, and learning events Support the creation and editing of e-learning materials for On-boarding Revamp Project. Manage training logistics including scheduling, invitations, attendance tracking, and feedback collection. Maintain and update learning management systems (LMS) and training records Job Requirements Pursuing a Degree in Human Resources, Psychology, Business Administration, Education, or related field Interest in training, talent development, or organizational learning Experience with content creation tools (e.g., Canva, Articulate, Adobe) is an advantage Technical Professional Knowledge A growth mindset with curiosity to learn and improve. Passion for develop creative solutions. Team player with strong interpersonal, written, and verbal English communication skills. (other language is added advantage)"
+      "description_preview": "O bjectives of the Position To support the design, coordination, and delivery of employee learning initiatives Contribute to creating engaging learning experiences Main Responsibilities Assist in the planning and coordination of training programs, workshops, and learning events Support the creation and editing of...",
+      "detail_path": "data/jobs/138540.json"
     },
     {
       "job_id": "133935",
@@ -84,12 +72,9 @@
       "job_field": "Human Resources",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PP-P2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-21T09:04:19Z",
-      "description": "Objectives of the Position Seek to understand business needs and provide support, services and solution on payroll, HR data, HR systems and processes. Offer day-to-day support to service recipients on HR inquiries, work collaboratively with others and perform research on payroll and HR data practices by staying abreast of current and emerging market insights and legal legislations in local countries. Participate in process improvements, automation, and digitalization measures to offer best service delivery experience. Main Tasks Operational Excellence Ensure data quality and data integrity for Payroll and HR data processes. Receive, analyze, process and follow-up on personnel administration requests via multiple request channels, ensure accurate and timely interface to the respective internal/ external processing chains i.e. payroll, finance, data analytics, external service providers, local authorities etc. Manage entire termination workflow for all termination types which includes leaves calculations, information checks, letters preparation, systems updates, payment calculations and exit clearance. Responsible for time and attendance administrations, including manual calculations"
+      "description_preview": "Objectives of the Position Seek to understand business needs and provide support, services and solution on payroll, HR data, HR systems and processes. Offer day-to-day support to service recipients on HR inquiries, work collaboratively with others and perform research on payroll and HR data practices by staying...",
+      "detail_path": "data/jobs/133935.json"
     },
     {
       "job_id": "134412",
@@ -101,12 +86,9 @@
       "job_field": "Human Resources",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PP-C",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-10T03:45:09Z",
-      "description": "Objectives of the Position • Understand business needs and provide best suited support on Compensation and Benefits for specific assigned Country in the APAC region. • Support respective countries assigned in the region by engaging with the stakeholders, from HRBPs to country C B teams in Compensation Benefits matters including data analysis and providing operational support. • Support in identifying and implementing process improvements and best practices in the C B space to ensure smooth implementation and engagement of best practice for respective countries. Main Areas of Responsibilities and Key Activities Operational Excellence • Responsible in preparation of data and analysis required to support any Compensation Benefits initiatives such as performance management, salary budgeting and merit increment cycle, annual benefit renewal program and market benchmarking exercise for countries in APAC region • Supports in collating economic indicators, external market practices and data analysis patterns and translates into meaningful indicators for development of any C B initiatives and proposals to maintain market competitiveness • Key person for job family matching and data submissi"
+      "description_preview": "Objectives of the Position • Understand business needs and provide best suited support on Compensation and Benefits for specific assigned Country in the APAC region. • Support respective countries assigned in the region by engaging with the stakeholders, from HRBPs to country C B teams in Compensation Benefits matters...",
+      "detail_path": "data/jobs/134412.json"
     }
   ]
 }

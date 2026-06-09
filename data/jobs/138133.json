@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138133",
+    "title": "Purchase-to-Pay (Analyst) - Contract, Mandarin Speaker",
+    "url": "https://basf.jobs/job-invite/138133/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Finance, Controlling & Audit",
+    "job_level": "Graduate",
+    "job_type": "Temporary",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBA/FP-T",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-06T07:55:18Z",
+    "description": "Objectives of the Position Provide Accounts Payable's payment process related support to deliver AP services to BASF companies in Asia Pacific in accordance with established processes and work procedures and in compliance with BASF policies, Financial Reporting Compliance (FRC), local company legal and statutory requirements. Ensure that timelines and quality are met within the service levels agreements. Main Tasks Functional Tasks (including but not limited to): To monitor P2P RISK MONITOR by ensuring SPOT Checks samples are strictly checked and completed before the last day of the month/document due date. Work closely with respective team (eg: invoicing team) to reduce the SPOT and duplicate check error rate. Ensure SPOT check and duplicate error root cause is identified and correction action is in place. To monitor and manage domestic payment method e.g. Bank acceptance draft To support forex payment (trade and non-trade) compliance check documentation e.g. tax clearance documents, customs clearance, shipping documents and invoice copy. To process payment proposals run for 3rd Party vendors and employee vendors intercompany based on country requirement and schedule (daily and weekly and schedule) To ensure task are performed completely within timeline and before bank cut off time. To ensure Manual Payment Instruction (APOB) is cleared or vendor open item is blocked before payment proposal run. To monitor payment traffic/Global Payment System (GPS) status and bank rejection once proposal executed. To ensure payment transaction is successfully transferred to bank. In case of GPS rejection, to perform immediate corrective action and execute additional payment to ensure on time payment, if required. To prepare and perform manual payment, free format instruction (FFI) and obtain bank approval from authorizers before bank cut off time To download bank slip from bank portal and save them in shared drive upon payment execution. To liaise closely with bank authorizers in handling online bank transaction (manual payments, local bank, free format instruction) is and ensure timely approvals To support local business/ local finance and BSSCKL internal in urgent payment handling on stipulated deadline To attend request or inquiry on Account Payable especially payment related queries via payment functional mailbox, AP Service Desk and Payable Query mailboxes To support vendor management team (if required) in attending calls from 3rd party vendor, external parties as..."
+  }
+}

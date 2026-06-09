@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "135412",
+    "title": "Production Engineer",
+    "url": "https://basf.jobs/job-invite/135412/?locale=en_US",
+    "country": "Indonesia",
+    "city": "Merak",
+    "state": "Banten",
+    "job_field": "Production, Maintenance & Technical Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "PT BASF Indonesia",
+    "department": "A-EDA/PT",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-04-13T02:03:26Z",
+    "description": "Objectives of the Position: Responsible for and ensuring that the production process runs efficiently and effectively. Comply and follow all EHS regulations Main Tasks: EHS Process Safety related: Comply and follow all EHS regulations Act as the work permit issuer (G1) in the production area according to the work permit matrix and other designated areas. Providing feedback to the superiors regarding safety issues in the work area. Using personal protective equipment (PPE) according to the Safe Work Guidelines or PPE Matrix Production related: Checking the completeness of the batch card used for daily production activities. Conduct monthly meeting related to safety, quality, and issues in the production area. Create the Minutes of Meeting for the monthly meeting. To check and revise if necessary; HIRA, Procedures, Working Instructions, and Work Checklists every 6 (six) months. To check the changes made in the batch card before they are implemented in production and to monitor and report the results of the changes. To prepare written procedures for trial, rework, and recycling of products that are not listed in the batch card. To conduct daily production meetings with the Shift Leader on duty in the morning and to write Daily Operational Instructions to organize production activities. Reporting deviations that occur during the production process and creating daily reports.. To coordinate projects carried out in the production area with maintenance, to ensure that change management is implemented and closed properly. To suggest ideas/opportunities for improvement (such as lean manufacturing), process improvement, automation. Follow up with the relevant departments regarding issues related to equipment, quality, and process in the production process. Job Requirements: Bachelor Degree from Chemical Engineering Min. 3 years of experience working in chemical plant Sound technical knowledge in production or lant related function High level of initiative to get the work done Analytical thinking and troubleshooting Reporting method, computer program literacy"
+  }
+}

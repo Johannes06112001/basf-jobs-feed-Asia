@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "Thailand",
   "job_field": "Marketing & Sales",
   "total_active": 1,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "139382",
@@ -16,12 +16,9 @@
       "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (Thai) Ltd.",
-      "department": "A-PMA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-04T03:44:53Z",
-      "description": "Main responsibilities To achieve the sales target in term of cCM1 and volume. Compile and update market information on potential customers, competitor’s activities and market situation. Provide the APO forecast with accuracy and control the goods stock in properly level. Cooperate with Customer Service Operations, Supply Chain Management, Technical Development Global Key Account Management to support customers with smooth business operation. Record the relevant customer information through Salesforce system (visit report, business opportunities risks, contact information, customer requirements, samples request, pricing and etc). Drive the innovation and sustainability projects in existing and new customers. Develop and expand the relationship in all level and functions to understand the customer needs in long and short term include pain points. Assure effective volume forecast and continuously improve accuracy. Provide and update the key account plan with short and long terms strategy. Support to achieve teamwork and team spirit for business unit. Additional tasks assign by operational leader. Qualifications Bachelor’s degree or higher in Chemistry, Business, or a related field. At"
+      "description_preview": "Main responsibilities To achieve the sales target in term of cCM1 and volume. Compile and update market information on potential customers, competitor’s activities and market situation. Provide the APO forecast with accuracy and control the goods stock in properly level. Cooperate with Customer Service Operations,...",
+      "detail_path": "data/jobs/139382.json"
     }
   ]
 }

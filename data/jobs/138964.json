@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138964",
+    "title": "GDB/A - Product Owner Orchestration (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138964/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/A AI & Intelligent Automation",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T10:05:24Z",
+    "description": "JOB DESCRIPTION This JD will form the basis of the job posting. Please identify the responsibilities of and requirements for the job role. This should also include competencies, skills required to complete the necessary tasks, and organizational requirements, including relationships with other positions. Effective date: 4/15/2026 Job Title Job Grade Direct Subordinate Position(s) BU/SBU/ Function/DivisionOrg Code Company/ Location Product Owner 5 Not applicable Business Workflows, GDB/AW Hyderabad, India About us At BASF’s Global Digital Services (GDS), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-performance culture inspired by our Winning Ways: enabling our customers’ green transformation, accelerating sustainability, and creating a workplace for curious, ambitious talents. Digitalization is a core part of BASF’s DNA, creating exciting customer experiences, driving business growth, and increasing process efficiency. This is BASF’s digital vision. Global Digital Services (GDS) supports BASF’s digital transformation. Our mission is to drive the digital transformation of BASF by delivering innovative, global, and high-quality digital products and services, enabled by a strong agile culture. Objectives of the Position In the role as Global Product Owner, you will: • Work in a global and diverse team, with true global product ownership responsibility • Take a leading role as Product Owner in process management, providing guidance and support to the team • Consult and develop workflows using Bizagi as a Process Management Platform, including process flows, data models, web forms, integrations, work allocation, and business rules, following a low-code approach • Improve DevOps automation using Node.js, C#, and .NET • Coach colleagues based on your broad professional experience • Act as an ambassador for Business Process Management, highlighting its benefits to business partners • Collaborate closely with middleware teams using Apigee, SAP CPI, and SAP API Management • Manage the application lifecycle as well as change and release management processes • Apply agile development methodologies and tools, such as Kanban boards Additionally, you will..."
+  }
+}

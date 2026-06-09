@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138632",
+    "title": "Product Safety, Senior Specialist (Japanese Speaker)",
+    "url": "https://basf.jobs/job-invite/138632/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Environment, Health & Safety",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBI/UA-SE1",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-20T06:34:43Z",
+    "description": "O bjectives of the Position Deliver expert regulatory and product stewardship support to BASF group companies, ensuring full compliance with corporate policies, guidelines, and global standards. Collaborate effectively with cross-functional stakeholders including supply chain, customer service, and technical teams to drive the implementation of compliance policies and BASF minimum requirements. Offer expert advice and practical solutions through thorough impact assessment to support sound decisions and effective risk management. Continuous improvement through applicable methodologies and digitalization to drive operation excellence. Main Areas of Responsibilities Conduct comprehensive hazard assessments using (e.g., GHS, CLP, REACH, equivalent regional/local regulations) standards utilizing product composition, test data, and toxicological/ecotoxicological information. Maintain hazard communication documentation: Safety Data Sheets (SDS), labels, hazard classification, ensuring consistency and compliance with relevant classification labelling regulations Apply advanced regulatory expertise across multiple jurisdictions to deliver expert judgments on chemical classification, labelling, and compliance requirements. Drive critical decisions that safeguard product safety and ensure full regulatory adherence. Proactively monitor, interpret, and implement regulatory changes with precision. Lead comprehensive impact assessments on products, processes, and business operations. Collaborate with internal and external stakeholders to implement compliance strategies, address regulatory requirements, and support advocacy activities. Provide regulatory guidance, training, and support to internal stakeholders, ensure awareness and understanding of regulatory obligations, chemical hazards and compliance procedures. Job Requirements University degree, Master’s degree in scientific area, preferably in Chemistry, or related Science discipline At least 3-4 years of relevant experience in Chemical Regulation, Product Regulatory Affairs, or related fields focused on Product Safety and Stewardship activities. Technical Professional Knowledge Sound knowledge and experience in Asia Pacific countries regulatory requirements (REACH, GHS/CLP, Global Regional Chemical Regulations), Toxicology Ecotoxicology, Chemical Safety SDS Authoring and Product Safety/Stewardship framework. Proficiency in MS Office is preferred and experience in SAP application is an advantage. Fluent in written..."
+  }
+}

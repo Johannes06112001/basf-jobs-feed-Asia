@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138965",
+    "title": "GDS/CG - Solution Architect IAM  (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138965/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDS/CG IAM Application Management",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T10:11:28Z",
+    "description": "About Us At BASF’s Global Digital Services (GD), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-performance culture inspired by our Winning Ways: enabling our customers’ green transformation, accelerating sustainability, and creating a workplace for curious, ambitious talents. In the Cyber Engineering IAM Solutions Product Family, we provide easy secure access from everywhere! Join our IAM Application Management Product Team and be part of a global community where your ideas and expertise make a real impact. Responsibilities • Design end‑to‑end IAM solutions that align with business needs, security requirements, and overall company strategy. • Translate business and functional requirements into high‑quality functional designs for One Identity Manager. • Implement and configure One Identity Manager workflows, policies, connectors, and customizations. • Develop and maintain custom components using programming languages supported by One Identity Manager (e.g., C#, VB.NET, or script-based extensions). • Collaborate with architects, security experts, and process owners to enhance IAM processes and ensure compliance with governance standards. • Troubleshoot complex issues and ensure stable operations of the IAM platform. • Support continuous improvement, automation, and modernization initiatives within the IAM domain. Requirements • Completed university degree in Business IT, Business Economics, Business SCM, Information Science, Engineering or Natural Science (Bachelor) with at least three years of professional experience. Internal • Solid understanding of Identity Access Management principles, including user lifecycle processes, role management, access governance, SoD, provisioning, and authentication/authorization concepts. • Proven expertise with One Identity Manager (design, configuration, development, and operational management). • Experience in writing technical documentation and functional specifications. • Programming experience in languages commonly used within One Identity Manager (e.g., C#, VB.NET, SQL, Angular or related scripting languages). • Ability to design solutions that meet business and company strategy. • Good conflict‑handling..."
+  }
+}

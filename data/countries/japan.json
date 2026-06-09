@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country",
   "country": "Japan",
   "total_active": 4,
@@ -8,7 +8,7 @@
     "Logistics & Supply Chain Management": 1,
     "Procurement": 1
   },
-  "llm_instruction": "This file contains only BASF jobs in Japan. Filter this file before loading wider Asia data. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
+  "llm_instruction": "This file contains only BASF jobs in Japan. Descriptions are short previews. Fetch detail_path only for shortlisted roles. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
   "jobs": [
     {
       "job_id": "138633",
@@ -20,12 +20,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Japan Ltd.",
-      "department": "A-EMA/AN",
-      "business_unit": "Asia Pacific",
-      "hybrid": true,
       "date_posted": "2026-05-28T03:06:41Z",
-      "description": "Staff of Customer Service,EM,Tokyo,Japan 本ポジションでは、カスタマーサービスにおける受注から入金までのプロセス（OTC: Order to Cash）を適切に管理し、業務改善や顧客満足の向上を推進します。 また、サプライチェーン指標（KPI）の分析を通じて、業務効率の改善やビジネス成長への貢献を行います。 主な役割： ・プロセスの管理および業務効率の改善 ・SCM KPIの分析および改善施策の実行 ・顧客ニーズに応じたサービス提供による売上・利益への貢献 ・サプライチェーン関連プロジェクトへの参画 In this role, you will manage the Order-to-Cash (OTC) processes within Customer Service and drive operational improvements to enhance efficiency and customer satisfaction. You will also analyze Supply Chain KPIs and contribute to business growth by improving processes and delivering high-quality customer services. Key responsibilities include: Managing OTC processes and driving operational efficiency improvements Monitoring and analyzing SCM KPIs and implementing improvement actions Supporting sales, profit, and growth by delivering customer-oriented services Contributing to supply chain-related projects Core Responsibilities（主な職務内容） ・Customer Relationship Management（顧客対応） ・Order-to-Cash Issue Management（受注～入金 / 問題対応） ・KPI Management（KPI管理） ・Process Improvement（業務改善） ・Logistics Provider Monitoring（物流管理） など Requirements（応募要件） 学歴：学士号以上 英語力：面接で英語でコミニュケーションが可能なレベル 経験：サプライチェーン（特にカスタマーサービス）で2年以上 または関連分野で4年以上の実務経験 SAPまたは"
+      "description_preview": "Staff of Customer Service,EM,Tokyo,Japan 本ポジションでは、カスタマーサービスにおける受注から入金までのプロセス（OTC: Order to Cash）を適切に管理し、業務改善や顧客満足の向上を推進します。 また、サプライチェーン指標（KPI）の分析を通じて、業務効率の改善やビジネス成長への貢献を行います。 主な役割： ・プロセスの管理および業務効率の改善 ・SCM KPIの分析および改善施策の実行 ・顧客ニーズに応じたサービス提供による売上・利益への貢献 ・サプライチェーン関連プロジェクトへの参画 In this role, you will manage the...",
+      "detail_path": "data/jobs/138633.json"
     },
     {
       "job_id": "138238",
@@ -37,12 +34,9 @@
       "job_field": "Procurement",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Japan Ltd.",
-      "department": "GPD/AT",
-      "business_unit": "Asia Pacific",
-      "hybrid": true,
       "date_posted": "2026-05-15T09:24:33Z",
-      "description": "Regional Category Buyer （Assistant Manager but non-manager Role ） ■ポジション概要 本ポジションは、日本市場向けパフォーマンスケミカル（スチレン、グリコール類など）および原材料およびエネルギー（天然ガス・工業用ガス・電力・再生可能エネルギー等）の調達戦略を担い、競争力ある調達と安定供給の実現に貢献いただく重要な役割です。サプライヤーとの戦略的交渉・契約管理・関係構築を通じてコスト最適化を推進しながら、日本市場における市場の分析（政策、料金体系、インセンティブ、主要プレイヤー、投資動向等）を行い、持続可能かつ効率的な調達体制の構築をリードいただきます。 化学業界特有の市場変動・供給リスク・品質要求に対応しながら、事業価値を最大化する戦略的購買ポジション です。 iBP、製造拠点、グローバル調達組織、サプライヤーと密に連携し、 価格交渉に留まらず、安定供給・リスクマネジメント・プロセス改善まで幅広く関与 していただきます。 このポジションの魅力 ・化学品購買の専門性を活かせる／高められる ・グローバル企業における戦略的調達ポジションで環境エネルギー・サステナビリティ領域に関わる最前線の業務 ・上司が海外、同僚も全員が海外。日本オフィスに籍は置くものの、インターナショナルな環境での勤務が可能 ・SAP、Coupa 等の先進的調達プラットフォームを活用 職務の目的（Objectives） サプライヤーとの交渉を通じ、競争力のある価格および最適な購買条件を実現する 契約条件の交渉、契約締結後の実行・モニタリングを担う iBP の原材料購買要件（品質・数量・供給安定性）に対し、最適なソリューションを提供する 生産拠点・事業部門・サプライヤーと連携し、安定かつ持続可能な供給体制を構築する サプライヤーマネジメント、リスクマネジメント、シングルソース管理を推進する 日本向けパフォーマンスケミカルの購買および市場・サプライヤー分析を実施する 主な職務内容（Key Responsibilities） 1. 調達・契約交渉 担当原材料およびエネルギー関連製品における最適な購買条件の設定・価格交渉 サプライヤーとの契約条件交渉、契約締結および履行管理 日本におけるエネルギー・ユーティリティ契約の交渉・導入 2. サプライヤーマネジメント サプライヤーとの関係構築・維持・改善 サプライヤー評価およびパフォーマンス管理 リスク管理およびシングルソースに対する対応策の実行 3. 市場分析・戦略提案 日本の化学・エネルギー市場の分析およびサプライヤー分析 エネルギー市場（政策、料金制度、投資動向、主要プレイヤー）の調査 コスト効率およびサステナビリティを考慮した供給モデルの提案 4. 社内連携・ソリューション提供 生産拠点・"
+      "description_preview": "Regional Category Buyer （Assistant Manager but non-manager Role ） ■ポジション概要 本ポジションは、日本市場向けパフォーマンスケミカル（スチレン、グリコール類など）および原材料およびエネルギー（天然ガス・工業用ガス・電力・再生可能エネルギー等）の調達戦略を担い、競争力ある調達と安定供給の実現に貢献いただく重要な役割です。サプライヤーとの戦略的交渉・契約管理・関係構築を通じてコスト最適化を推進しながら、日本市場における市場の分析（政策、料金体系、インセンティブ、主要プレイヤー、投資動向等）を行い、持続可能かつ効率的な調達体制の構築をリードいただきます。...",
+      "detail_path": "data/jobs/138238.json"
     },
     {
       "job_id": "135408",
@@ -54,12 +48,9 @@
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Japan Ltd.",
-      "department": "A-EDA/OJR",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-29T06:18:38Z",
-      "description": "Objectives of the Position This role is responsible for designing and installing optimal equipment in collaboration with the Engineering Maintenance (E M) team to support efficient and safe plant operations. It also involves training plant personnel to perform self-maintenance of equipment. Under the guidance of the Site Manager and in accordance with company policies, the role oversees production, quality, shipping, and receiving activities to ensure monthly sales targets are met with high quality and cost efficiency. Additionally, the role manages both existing and new biological wastewater treatment facilities, working closely with external partners and authorities to ensure environmental compliance. Main Responsibilities 1. Deputy Site Manager Duties Acts as the second deputy site manager when both the Site Manager and QA/Technical Manager are absent (excluding decisions on management reviews, long-term investments, HR matters, and budgeting). 2. Safety Environmental Management Implements safety and environmental policies based on corporate and legal requirements. Conducts first aid training for all site employees and monitors safety attitudes. Serves as an Emergency Response T"
+      "description_preview": "Objectives of the Position This role is responsible for designing and installing optimal equipment in collaboration with the Engineering Maintenance (E M) team to support efficient and safe plant operations. It also involves training plant personnel to perform self-maintenance of equipment. Under the guidance of the...",
+      "detail_path": "data/jobs/135408.json"
     },
     {
       "job_id": "135409",
@@ -71,12 +62,9 @@
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Japan Ltd.",
-      "department": "A-EDA/OJR",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-29T02:05:10Z",
-      "description": "六呂見工場 EHS （環境・健康・安全管理 ）スペシャリスト Job Grade ：４（部下なし/管理職ではない一般職） 勤務地：BASF ジャパン 六呂見工場：三重県四日市市六呂見６５３−２ 職務目的 工場管理職の指導のもと、EHS 活動の計画・調整・推進 グローバル基準や法令の導入 従業員の安全意識向上と職場環境の改善 主な職務内容 EHS 規則の解釈と実施提案 安全・環境保護方針の導入 RC 委員会メンバーとしての指導 業務プロセスの安全性評価と改善提案 教育・研修の企画・実施・評価 法令遵守の監査と報告 災害調査と予防策の提案 文書管理と統計・報告書の作成 応募要件 学士号または同等の資格 EHS 経験の経験者もしくは化学工場における製造、設備・保全分野での実務経験5 年以上 EHS に関する技術的・専門的知識 英語力：グローバルチームとのワークショップに参加できるレベル"
+      "description_preview": "六呂見工場 EHS （環境・健康・安全管理 ）スペシャリスト Job Grade ：４（部下なし/管理職ではない一般職） 勤務地：BASF ジャパン 六呂見工場：三重県四日市市六呂見６５３−２ 職務目的 工場管理職の指導のもと、EHS 活動の計画・調整・推進 グローバル基準や法令の導入 従業員の安全意識向上と職場環境の改善 主な職務内容 EHS 規則の解釈と実施提案 安全・環境保護方針の導入 RC 委員会メンバーとしての指導 業務プロセスの安全性評価と改善提案 教育・研修の企画・実施・評価 法令遵守の監査と報告 災害調査と予防策の提案 文書管理と統計・報告書の作成 応募要件 学士号または同等の資格 EHS...",
+      "detail_path": "data/jobs/135409.json"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138817",
+    "title": "GDD/BA - SAP Production Consultant (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138817/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/BA Manufacturing Management",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-21T18:30:00Z",
+    "description": "What you can expect In Manufacturing Integration and Management, we are globally responsible for the Production processes and their implementations in the SAP landscape of BASF. Furthermore, we connect underlying commercial and proprietary Manufacturing Execution Systems (MES). In addition, we provide an own inhouse MES solution. The corresponding end-to-end solutions are rolled out to our internal business partners globally in corresponding projects. Our product Manufacturing Management delivers horizontal and vertical integrated solutions from SAP to various Manufacturing Execution Systems by developing and implementing efficient production processes focusing on production development, production planning, production execution and batch management. You will join our exciting global BASF S/4 business transformation using state of the art SAP and AI solutions. Your main responsibilities: Being part of a diverse global team and working with colleagues on complex IT projects in the Manufacturing area delivering crucial solutions to businesses, functions, and operations across BASF Consulting, implementing, and supporting the full lifecycle of our products globally with focus on SAP PP PP/PI Leading IT project manufacturing workstreams and performing all required workstream tasks from requirement engineering till after go live tasks Understand and analyze business requirements and translate them to system solutions by conducting functional design, development, deployment, modelling and configuring of the system as well as setting up master data. Willingness to learn, adopt and drive to new technologies and tools Ensure close team collaboration to leverage available knowledge sessions. Identifying and implementing improvements in each project and advising the management team in an emphatic and competent manner. Actively pull and take over tasks and work self-organized. Our main requirements: A university degree in the area of computer science or similar Several years of experience as IT consulting for IT projects in production environment for chemical or processing industry, with strong customer focus. Extended expertise as SAP PP PP/PI consultant is a must (PP/PI must include expertise also in PP planning ). Ability to focus on goals/results by getting things done and drive them forward. Convincing and competent in customer interactions. Ability to design and implement complex business requirements. In-depth process and technical knowledge in SAP..."
+  }
+}

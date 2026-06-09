@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138659",
+    "title": "GDD/PK - Full Stack Developer (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138659/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/PK",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-19T10:35:38Z",
+    "description": "Objective of the position We are looking for a highly dynamic, motivated, and collaborative person to join our team. We are focused on the modernization of legacy systems and development of new capabilities of digital solutions in the Operations Platform team. There is a growing global need within BASF to leverage digitalization to continue BASF’s journey of excellence and continuously improving our capabilities especially through digitalization. In this role, you will work alongside a global development team to create and iteratively improve upon a global, internal full stack development solution with a focus on an open source stack and a cloud-based platform. Main tasks Own end-to-end delivery of product features (frontend, backend, integration) from discovery through production support. Lead solution design and architecture (APIs, service boundaries, data models), ensuring scalability, maintainability, and security. Translate business needs into technical requirements; proactively manage trade-offs (scope, performance, cost, time) with stakeholders. Set and uphold engineering standards: code reviews, automated testing strategy, performance benchmarking, and secure coding practices. Leverage AI-assisted engineering responsibly (e.g., copilots/LLMs) to improve delivery and quality; evaluate and integrate AI capabilities where valuable, ensuring data privacy, security, and model governance. Design and improve CI/CD pipelines and release processes; drive infrastructure-as-code and environment standardization. Own production readiness: observability (logs/metrics/traces), on-call/incident response support, root-cause analysis, and continuous improvement. Drive modernization of legacy components (refactoring, migration, deprecation) and actively manage technical debt with a clear roadmap. Mentor engineers through pairing, coaching, and design/code reviews; contribute to hiring, onboarding, and knowledge sharing. Create and maintain technical documentation (architecture decisions, runbooks, API contracts) and ensure compliance with internal security and quality policies. Job Requirements minimum requirement to carry out the work – you might want to point out “additional plus/nice to have skills” that are not mandatory Edu c a t i o n Degree in Computer Science, Computer Engineering, informatics, business informatics or in a comparable field Work experience More than 5 + years in a senior developer role for a large team T e c hn i c a l P r o f e ss i o n a l..."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139001",
+    "title": "Full Stack Developer (1 year contract)",
+    "url": "https://basf.jobs/job-invite/139001/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Applications Technology",
+    "job_level": "Professional",
+    "job_type": "Temporary",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBT/OT-F",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-29T10:38:02Z",
+    "description": "Objectives of the Position BASF Shared Services Center Kuala Lumpur was established in 2005 to provide functional services in Finance, Controlling, Information Services, Human Resources, Environment, Health Safety, Procurement, and Import-Export Order Management to BASF companies in the Asia-Pacific region. The center is part of BASF’s Global Business Services (GB) division, with three other sites in Berlin and Ludwigshafen in Germany and in Montevideo, Uruguay. GB’s Global Technology Unit (GTU) is looking for a Full-Stack Developer with a technical background in building modern IT applications and solutions. The role works closely with GTU’s Global Business Enablement and solutions delivery teams to implement and support IT solutions for other units of the GB division globally. Additionally, it is envisioned for the role to be part of a global Community of Practice to further the awareness and adoption of Citizen Development technologies across the GTU and GB organization in Kuala Lumpur, Berlin and Montevideo. Main Tasks As a Full-Stack Developer in the Global Technology Unit team, your main tasks include: Build responsive, high‑quality front‑end user experiences using modern JS frameworks (component-based UI, state management, performance etc.) Design, develop, and maintain back‑end services and APIs in Python Get involved in database design, data storage integration, and performance tuning Ensure software quality by participating in testing activities (unit tests, SIT, UAT etc.), code reviews, and CI/CD-oriented engineering practices in-line with BASF standards Monitoring and optimization of implemented solutions and the relevant infrastructure environments they run on, to minimize service disruption risks by analyzing metrics related to system/application health Supporting implemented solutions through troubleshooting and rectification Produce and maintain comprehensive technical documentation, including design documents, runbooks, and support materials Collaborate with technical teams across BASF’s technology landscape within the automation domain Ensure solutions follow BASF technology standards, security policies, and integration guidelines Requirements Education: Bachelor Degree in Computer Science / Computer Engineering / Information Technology or business-technology related discipline. Working experience 3-5 years of experience in software development as a full-stack developer in a DevOps environment Technical Skills (mandatory): Strong..."
+  }
+}

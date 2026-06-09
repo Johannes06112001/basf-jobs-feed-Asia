@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138804",
+    "title": "GDF/AF - Middleware Product Owner - System Integration (EDI, SAP CPI) (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138804/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/AF Business Process Integration",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-21T17:33:23Z",
+    "description": "Objectives Describe your Product mission here (2 - 3 sentences only) BASF’s Business Process Integration (BPI) team provides and supports digital solutions for B2B integrations with external partners through a variety of systems and processes within the BASF’s architectural landscape. BPI is considered a strategic tool to digitalize processes and enable seamless exchange of data between applications, businesses, customers and partners in real-time. Describe the objectives of the role here (2 - 3 sentences only) In this role, you will lead our global middleware solution development and operation (DevOps) team as a product owner. The team task - in accordance with business requirements and enterprise architecture - to integrate BASF businesses with external partners, drive efficiencies, and drive BASF’s e-share. You ensure standardized, runnable, supportable, and stable solutions from a technical point of view. Main Tasks / Scope of Work Consulting tasks Guides the middleware DevOps team together with the product manager and product architect Create the Product Roadmap and align it with the organizational and internal Business Partner goals Tackle with the Product Manager product-related impediments to provide the best possible environment for the team to perform at its best. Consults the BPI team in technical application questions during the solution design and functional specification phase Provides effort estimation for realization and contributes to project planning Creates Technical Design Document supported by the Business Performs configuration and development in systems (e.g. customizing in SAP and / or KAFKA and SAP HANA DB, or in technology stack e.g. java) Manage development activities (internal and external resource planning for development) Supports testing and service transition Collaborates with support team to identify areas of process implementation issues /continuous improvement Translates stakeholder requirements into concrete specifications for different Integration technologies, like SAP CPI, Kafka, API-Management, use of technology stack using java Software engineering tasks: Focus is software design and software architecture of components and applications. Independent development, enhancement, and migration of applications / modules / interfaces / tools / communication solutions Integration and testing of software components within the existing application landscape. Quality assurance and documentation of software developments. Job..."
+  }
+}

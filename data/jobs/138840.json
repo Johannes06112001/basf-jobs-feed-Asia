@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138840",
+    "title": "I/E Engineer or Sr I/E Technician",
+    "url": "https://basf.jobs/job-invite/138840/?locale=en_US",
+    "country": "Indonesia",
+    "city": "Merak",
+    "state": "Banten",
+    "job_field": "Production, Maintenance & Technical Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "PT BASF Indonesia",
+    "department": "A-EDA/PT",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-04T07:58:58Z",
+    "description": "Objectives: To support Production, Utility, QC, PPIC, and QC-Lab Department Main Responsibility: EHS Process Safety related: Comply and follow all EHS regulations Work safely in accordance with the occupational safety rules applicable at PT BASF Indonesia, Merak plant. Production related: To install, replace, and repair Instrument and Electrical equipment at the Merak factory To repair and perform analysis to solve problems in Instrument and Electrical equipment Carry out maintenance activities on Instrument and Electrical equipment and installations Calibrate Instrument and Electrical equipment according to the existing schedule and procedures. Support production, projects, PPIC, utility, and also QC activities at the Merak factory To prepare daily work reports in the Instrument and Electrical department Perform maintenance on electrical equipment at the Merak factory and also its electrical building. Administrative: Report production cycle time Create Work Order for maintenance in production area Create Root Cause Analysis for deviation in production process Requirements: Minimum Bachelor/Diploma degree majoring Electrical Engineering/ Instrumentation / Engineering Physics Minimum 3 years of experience in related field (Bachelor Degree) Minimum 6 years of experience in related field (Diploma) Hands on experience in field instrument such as troubleshooting, calibration and preventive maintenance (Flowmeter, Pressure Transmitter, Level Transmitter, Control Valve, etc) Hands on experience in Electrical Equipment such as troubleshooting, preventive and predictive maintenance (Transformer, Circuit breaker, MCC. Switch gear, 1 3 Phase motor) Hands on experience in programming and troubleshooting DCS and PLC for plant process Hands on experience in electrical safety and EHS requirement in petrochemical field"
+  }
+}

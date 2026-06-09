@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138784",
+    "title": "Controlling Analyst (Leasing, 9 month contract)",
+    "url": "https://basf.jobs/job-invite/138784/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Finance, Controlling & Audit",
+    "job_level": "Professional",
+    "job_type": "Temporary",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB/CA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-25T08:06:26Z",
+    "description": "Objective We are looking for a motivated Controlling Analyst to support financial controlling activities within a defined scope. This is an excellent opportunity for fresh graduates to build a career in finance and controlling. Responsibilities Perform operational controlling tasks, including: Contract reviews Monthly reporting and budget tracking Forecasting and annual budgeting Ad-hoc financial analysis and deep dives on costs and investments Execute charging activities and manage residuals Analyze and monitor cost flows Provide insights on cost drivers to key stakeholders Support the creation, maintenance, and enhancement of dashboards and reporting tools Ensure accurate, timely financial data and transparency for stakeholders Independently handle assigned tasks and escalate deviations when required Communicate findings using a fact-based approach, tailoring messaging across different stakeholder levels Apply predefined solutions and adapt them based on analysis to resolve issues Requirements Bachelor’s or Master’s degree in Finance, Accounting, or related fields, or professional certifications (ACCA, CPA, CIMA, or equivalent) Fresh graduates or candidates with 1 year of experience are encouraged to apply Knowledge of financial reporting and controlling concepts IT skills: SAP FI/CO, SAP BW, Microsoft Office (dashboard experience is an advantage) Good analytical, communication, and problem-solving skills Able to commit to a 9-month leasing role."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139210",
+    "title": "Senior Process Engineer",
+    "url": "https://basf.jobs/job-invite/139210/?locale=en_US",
+    "country": "China",
+    "city": "Shanghai",
+    "state": "Shanghai",
+    "job_field": "Production, Maintenance & Technical Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Care Chemicals (Shanghai) Co. Ltd.",
+    "department": "EM Care Chemicals",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-29T08:29:36Z",
+    "description": "About the Role According to the supervisor’s direction and plant production guidance, generating state-of-the-art and novel design input for projects and process improvements Provide creative solutions where current standard practice does not deliver required results Technology support during new projects How You Will Do It 1. Process Management Design input covering chemistry and chemical engineering to ensure the timely production and quality of finished and intermediate products and to eliminate deficiencies to ensure products meet plant standards Technical process optimization; monitor and analyze parameters Analyze complex process problems and identify when to involve additional specialists Responsibility for process safety, SHE reviews, and follow-up actions implementation 2. Technology Management Provide feasibility calculations by utilizing scientific tools, literature, and expert networks Consult, guide, and coach project improvement teams during planning, execution, or trial phases Define, monitor, and control KPIs for technical processes Manage process automation and digitalization 3. New Project Support During new project launch, support the technology manager on operational aspects, including raw materials, training, manufacturing manuals, quality control, and technology-related safety Provide OpEx plans and monitor implementation of approved OpEx plans 4. New Product Launch Support R D in developing formulas for new products Assist supervisors to ensure smooth and successful product introduction into production 5. Production Documentation Provide updated records/data to relevant supervisors Update all production procedures and ISO documents; set up process performance recordings using advanced DCS and online tools 6. Personnel Training Provide training for MOCs, including basic functions of new chemistry and equipment, start-up procedures, and fine-tuning What We Look For 1. Education Background: At least bachelor’s in chemical engineering, chemical process. Fine Chemical is preferred 2. Working Experience: More than 5 years’ experience in Chemical plant production, at least 2 years’ experience in management of chemical processes. 3. Technical Professional Knowledge: • Analytical skills • Fluent verbal and written English • Intermediate proficiency in Microsoft office tools • Familiar with ISO9001, SHE reviews, RCMS 请时刻警惕任何可能的招聘欺诈行为！请注意，巴斯夫绝不会在任何情况下向候选人以任何形式收取任何费用 。"
+  }
+}

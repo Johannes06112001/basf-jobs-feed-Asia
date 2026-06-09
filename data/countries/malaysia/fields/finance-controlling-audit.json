@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Finance, Controlling & Audit",
   "total_active": 14,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "138784",
@@ -16,12 +16,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/CA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-25T08:06:26Z",
-      "description": "Objective We are looking for a motivated Controlling Analyst to support financial controlling activities within a defined scope. This is an excellent opportunity for fresh graduates to build a career in finance and controlling. Responsibilities Perform operational controlling tasks, including: Contract reviews Monthly reporting and budget tracking Forecasting and annual budgeting Ad-hoc financial analysis and deep dives on costs and investments Execute charging activities and manage residuals Analyze and monitor cost flows Provide insights on cost drivers to key stakeholders Support the creation, maintenance, and enhancement of dashboards and reporting tools Ensure accurate, timely financial data and transparency for stakeholders Independently handle assigned tasks and escalate deviations when required Communicate findings using a fact-based approach, tailoring messaging across different stakeholder levels Apply predefined solutions and adapt them based on analysis to resolve issues Requirements Bachelor’s or Master’s degree in Finance, Accounting, or related fields, or professional certifications (ACCA, CPA, CIMA, or equivalent) Fresh graduates or candidates with 1 year of experie"
+      "description_preview": "Objective We are looking for a motivated Controlling Analyst to support financial controlling activities within a defined scope. This is an excellent opportunity for fresh graduates to build a career in finance and controlling. Responsibilities Perform operational controlling tasks, including: Contract reviews Monthly...",
+      "detail_path": "data/jobs/138784.json"
     },
     {
       "job_id": "138133",
@@ -33,12 +30,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Graduate",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FP-T",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-06T07:55:18Z",
-      "description": "Objectives of the Position Provide Accounts Payable's payment process related support to deliver AP services to BASF companies in Asia Pacific in accordance with established processes and work procedures and in compliance with BASF policies, Financial Reporting Compliance (FRC), local company legal and statutory requirements. Ensure that timelines and quality are met within the service levels agreements. Main Tasks Functional Tasks (including but not limited to): To monitor P2P RISK MONITOR by ensuring SPOT Checks samples are strictly checked and completed before the last day of the month/document due date. Work closely with respective team (eg: invoicing team) to reduce the SPOT and duplicate check error rate. Ensure SPOT check and duplicate error root cause is identified and correction action is in place. To monitor and manage domestic payment method e.g. Bank acceptance draft To support forex payment (trade and non-trade) compliance check documentation e.g. tax clearance documents, customs clearance, shipping documents and invoice copy. To process payment proposals run for 3rd Party vendors and employee vendors intercompany based on country requirement and schedule (daily and we"
+      "description_preview": "Objectives of the Position Provide Accounts Payable's payment process related support to deliver AP services to BASF companies in Asia Pacific in accordance with established processes and work procedures and in compliance with BASF policies, Financial Reporting Compliance (FRC), local company legal and statutory...",
+      "detail_path": "data/jobs/138133.json"
     },
     {
       "job_id": "132665",
@@ -50,12 +44,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FP-P1",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-04T06:00:00Z",
-      "description": "Objectives of the Position As part of the P2P team, you will be reporting to the Manager and support the team in managing projects and operation tasks. Main Areas of Responsibilities and Key Activities To support Request fulfilment activities in planning and administration. Depending on business needs, your day-to-day role will include any of the following: Support in delivering automation effort across teams to simplify work processes Participate in improvement initiatives discussion to work on improvement plans and timelines Assist the team in tactical projects according to the objectives Administrative management and coordination of P2P initiatives and activities Prepare documentation and presentation slides for assigned initiatives and activities Support in assisting unit’s operational task as and when is required Job Requirements Able to commit a minimum of 4-6 months internship Currently pursuing a Degree in Business Administration, Finance, Accounting, Business Administration, Linguistics, or any related disciplines A good team player with high level of maturity and independence Proficient in oral and written English"
+      "description_preview": "Objectives of the Position As part of the P2P team, you will be reporting to the Manager and support the team in managing projects and operation tasks. Main Areas of Responsibilities and Key Activities To support Request fulfilment activities in planning and administration. Depending on business needs, your day-to-day...",
+      "detail_path": "data/jobs/132665.json"
     },
     {
       "job_id": "134472",
@@ -67,12 +58,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-ITC1",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-28T03:15:34Z",
-      "description": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of customer service to both internal and external stakeholders Performing other relevant support activities as and when require. About You: Currently pursuing Bachelor’s Degree in Accounting, Finance Business Able to commit 6 months internship. Proficient in oral and written English Proficient in Microsoft Excel and Power Point A good team player with high level of maturity and independence Willing to work at Mercu Aspire, Bangsar (next to Abdullah Hukum LRT station)"
+      "description_preview": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of...",
+      "detail_path": "data/jobs/134472.json"
     },
     {
       "job_id": "134473",
@@ -84,12 +72,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-ITC2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-28T02:36:15Z",
-      "description": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of customer service to both internal and external stakeholders Performing other relevant support activities as and when require. About You: Currently pursuing Bachelor’s Degree in Accounting, Finance Business Able to commit 6 months internship. Proficient in oral and written English Proficient in Microsoft Excel and Power Point A good team player with high level of maturity and independence Willing to work at Mercu Aspire, Bangsar (next to Abdullah Hukum LRT station)"
+      "description_preview": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of...",
+      "detail_path": "data/jobs/134473.json"
     },
     {
       "job_id": "132670",
@@ -101,12 +86,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FP-P2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-31T04:58:20Z",
-      "description": "Objectives of the Position As part of the P2P team, you will be reporting to the Manager and support the team in managing projects and operation tasks. Main Areas of Responsibilities and Key Activities To support Request fulfilment activities in planning and administration. Depending on business needs, your day-to-day role will include any of the following: • Support in delivering automation effort across teams to simplify work processes • Participate in improvement initiatives discussion to work on improvement plans and timelines• Assist the team in tactical projects according to the objectives • Administrative management and coordination of P2P initiatives and activities • Prepare documentation and presentation slides for assigned initiatives and activities • Support in assisting unit’s operational task as and when is required Job Requirements Able to commit a minimum of 4-6 months internship Currently pursuing a Degree in Business Administration, Finance, Accounting, Business Administration, Linguistics, or any related disciplines A good team player with high level of maturity and independence Proficient in oral and written English"
+      "description_preview": "Objectives of the Position As part of the P2P team, you will be reporting to the Manager and support the team in managing projects and operation tasks. Main Areas of Responsibilities and Key Activities To support Request fulfilment activities in planning and administration. Depending on business needs, your day-to-day...",
+      "detail_path": "data/jobs/132670.json"
     },
     {
       "job_id": "134796",
@@ -118,12 +100,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FA-S",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-25T13:57:29Z",
-      "description": "Objectives of the Position Overall in-charge of Financial Compliance and Reporting function for Malaysia and support Superior to ensure compliance with local and BASF requirements. Main Responsibilties Manage Month end, Quarter end and Year-end Closing Reporting Responsible for general accounting transactions performed and support the shared service organisation to close the books and report according to pre-determined schedule. Ensure that financial impact and reporting requirements of key business activities are being evaluated as period closing requirements and informed to the shared service organisation for processing. Manage end-to-end processes Support end-to-end request/transaction process together with local stakeholders and the shared service organisation. Provide insight to resolve operational problems, issues and queries. Initiate optimization and ensure effectiveness and efficiency of end-to-end processes with cross-functional teams while maintaining adequate internal controls. Compliance with country regulations and corporate requirements Liaise and work closely with internal and external auditors, relevant BASF personnel, tax advisors and relevant local authorities to"
+      "description_preview": "Objectives of the Position Overall in-charge of Financial Compliance and Reporting function for Malaysia and support Superior to ensure compliance with local and BASF requirements. Main Responsibilties Manage Month end, Quarter end and Year-end Closing Reporting Responsible for general accounting transactions...",
+      "detail_path": "data/jobs/134796.json"
     },
     {
       "job_id": "134475",
@@ -135,12 +114,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-ITC3",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-18T15:11:40Z",
-      "description": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of customer service to both internal and external stakeholders Performing other relevant support activities as and when require. About You: Currently pursuing Bachelor’s Degree in Accounting, Finance Business Able to commit 6 months internship. Proficient in oral and written English Proficient in Microsoft Excel and Power Point A good team player with high level of maturity and independence Willing to work at Mercu Aspire, Bangsar (next to Abdullah Hukum LRT station)"
+      "description_preview": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of...",
+      "detail_path": "data/jobs/134475.json"
     },
     {
       "job_id": "134312",
@@ -152,12 +128,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-RR",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-11T03:26:50Z",
-      "description": "Here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the Customer Credit Risk Management (CCRM). You will be able to explore digital technologies such as credit automation Collaborative and multicultural atmosphere where you are an essential team player to support colleagues and managers in a wide range projects and activities Guidance, coaching and feedback from supervisors on performance which help you learn and shape your working style Main Tasks To manage following credit management tasks: Perform review and support of order release management Prepare necessary reporting and monitoring of CCRM KPIs Obtain necessary information needed to perform risk assessment such as customer’s financials, rating, and other customer data Input customer data (include financial statement) in BASF system and perform financial analysis Ad-hoc support on ongoing CCRM projects such as smart credit optimizer and clean-ups Perform other credit management tasks if needed Requirements Able to commit a 6-month internship Students of bachelor’s degree or Mas"
+      "description_preview": "Here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the Customer Credit Risk Management (CCRM). You will be able to explore digital technologies such as credit...",
+      "detail_path": "data/jobs/134312.json"
     },
     {
       "job_id": "134175",
@@ -169,12 +142,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-RR",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-11T03:16:34Z",
-      "description": "Here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the Customer Credit Risk Management (CCRM). You will be able to explore digital technologies such as credit automation Collaborative and multicultural atmosphere where you are an essential team player to support colleagues and managers in a wide range projects and activities Guidance, coaching and feedback from supervisors on performance which help you learn and shape your working style Main Tasks To manage following credit management tasks: Perform and support order management task especially for prepayment customers Prepare necessary reporting and monitoring of CCRM KPIs Support other credit management tasks such as input customer data (include financial statement) in BASF system and perform financial analysis Ad-hoc support on ongoing CCRM projects such as smart credit optimizer and other improvement projects Requirements Able to commit a 6-month internship Students of bachelor’s degree or Master’s Degree in Finance, Business Administration or any related disciplines Proficient i"
+      "description_preview": "Here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the Customer Credit Risk Management (CCRM). You will be able to explore digital technologies such as credit...",
+      "detail_path": "data/jobs/134175.json"
     },
     {
       "job_id": "133855",
@@ -186,12 +156,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FF-F2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-08T05:42:42Z",
-      "description": "​​​​​​ Objectives of the Position Independently in delivering Financial Reporting services to BSSCKL’s customers in accordance with established Financial Reporting processes and work procedures and in compliance with BASF policies guidelines, internal control requirements, local company legal and statutory requirements. Ensure that timelines and quality meet the agreed service levels and targets. To support and provide guidance to Analysts in performing Financial Reporting tasks. To back up, assist with and perform Financial Reporting tasks as required. Main Tasks Functional Tasks (including but not limited to): Independently provide Financial Reporting transaction processing support and ensuring delivery quality in terms of accuracy, completeness and timeliness on daily basis. Perform and analyse booking of accounting transactions, fixed asset transactions, master data maintenance and account reconciliation including account clearing. Perform analytical review of profit and loss accounts and balance sheet, trend analysis and transaction posting checks. Prepare and coordinate for month-end, quarter-end, year-end and statutory financial reports for BASF companies across Asia Pacific"
+      "description_preview": "​​​​​​ Objectives of the Position Independently in delivering Financial Reporting services to BSSCKL’s customers in accordance with established Financial Reporting processes and work procedures and in compliance with BASF policies guidelines, internal control requirements, local company legal and statutory...",
+      "detail_path": "data/jobs/133855.json"
     },
     {
       "job_id": "132698",
@@ -203,12 +170,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-ITC2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-01-31T15:48:03Z",
-      "description": "Objectives of the Position • Independently manage operational processing for Invoice-to-Cash (ITC) services, ensuring compliance with BASF requirements, Financial Reporting Compliance (FRC), and local statutory regulations • Act as reviewer and approver for daily and month-end tasks, ensuring accuracy and timeliness • Support Assistant Manager/Manager in service delivery, talent development, and process improvement initiatives • Drive continuous improvement, digitalisation, and harmonisation across countries in the Asia Pacific region Main Tasks Functional Tasks (Inclusive but not limited): • Process and review ITC workflows, including Accounts Receivable, Collections, Treasury Back Office and Intercompany Reconciliation activities • Supervise and mentor Analysts, ensuring adherence to predefined process description and service management framework • Troubleshoot and resolve queries from internal and external stakeholders promptly • Act as Area of Competency (AOC) member or topic owner for ITC-related processes • Monitor unallocated receipts, overdue accounts, and post-dunning activities; propose corrective actions • To perform other duties as and when delegated Project Management:"
+      "description_preview": "Objectives of the Position • Independently manage operational processing for Invoice-to-Cash (ITC) services, ensuring compliance with BASF requirements, Financial Reporting Compliance (FRC), and local statutory regulations • Act as reviewer and approver for daily and month-end tasks, ensuring accuracy and timeliness •...",
+      "detail_path": "data/jobs/132698.json"
     },
     {
       "job_id": "130993",
@@ -220,12 +184,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-ITC1",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2025-12-15T03:18:10Z",
-      "description": "Objectives of the Position • Independently manage operational processing for Invoice-to-Cash (ITC) services, ensuring compliance with BASF requirements, Financial Reporting Compliance (FRC), and local statutory regulations • Act as reviewer and approver for daily and month-end tasks, ensuring accuracy and timeliness • Support Assistant Manager/Manager in service delivery, talent development, and process improvement initiatives • Drive continuous improvement, digitalisation, and harmonisation across countries in the Asia Pacific region Functional Tasks (Inclusive but not limited): • Process and review ITC workflows, including Accounts Receivable, Collections, Treasury Back Office and Intercompany Reconciliation activities • Supervise and mentor Analysts, ensuring adherence to predefined process description and service management framework • Troubleshoot and resolve queries from internal and external stakeholders promptly • Act as Area of Competency (AOC) member or topic owner for ITC-related processes • Monitor unallocated receipts, overdue accounts, and post-dunning activities; propose corrective actions • To perform other duties as and when delegated Project Management: • Support "
+      "description_preview": "Objectives of the Position • Independently manage operational processing for Invoice-to-Cash (ITC) services, ensuring compliance with BASF requirements, Financial Reporting Compliance (FRC), and local statutory regulations • Act as reviewer and approver for daily and month-end tasks, ensuring accuracy and timeliness •...",
+      "detail_path": "data/jobs/130993.json"
     },
     {
       "job_id": "130757",
@@ -237,12 +198,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-RR",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2025-12-08T06:14:59Z",
-      "description": "Objectives of the Position Responsible for customer's credit risk management activities for the assigned market portfolio based on market principle and CCRM Services Hub Asia Pacific scope, following global and regional guidelines To ensure deliveries meeting requirements defined in service level agreements and KPIs for process efficiency, effectiveness and quality control Support Assistant Manager / Manager in day-to day service delivery and talent identification Main Tasks Functional Tasks (including but not limited to) Monitor customer master data creation and changes which relevant to CCRM (example payment terms) via SCO Checking regularly that customer portfolio is up-to-date, identifying inactive customers as well as carrying out deactivations Perform risk assessment, mitigation measures, recommendations and documentation by using CCRM tools Decide on internal risk rating, credit limit, order processing code (for medium and higher threshold of exposures applicable for Senior Analyst and Senior Specialist) or obtain necessary approval based on approval matrix Review and decide on the release of blocked orders or obtaining necessary approvals based on approval matrix and delega"
+      "description_preview": "Objectives of the Position Responsible for customer's credit risk management activities for the assigned market portfolio based on market principle and CCRM Services Hub Asia Pacific scope, following global and regional guidelines To ensure deliveries meeting requirements defined in service level agreements and KPIs...",
+      "detail_path": "data/jobs/130757.json"
     }
   ]
 }

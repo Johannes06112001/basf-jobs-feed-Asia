@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138962",
+    "title": "GDD/EK - SAP PM & Cross-Product Manager (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138962/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/EK Plant Maintenance Solutions",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T09:51:41Z",
+    "description": "Responsibilities: • you are leading a cross-functional team within our hub, with other specific SAP domain product managers (e.g. NCM, QA/QC, Manufacturing, Warehouse Management etc.) in a global matrix organization • beyond that you will take over the global responsibility of the SAP PM product team (in a step-by-step approach) • you and your team support our Internal Business Partners in the development and implementation of digital solutions in the area of SAP S/4 HANA (and surrounding areas) • besides supporting the implementation within S/4 (respectively the migration from R3) you are also establishing the structures for the Application Support Management (incident management, work change requests, etc. ) for the enitre area of Digitalization of Production Technology together with other product managers within and outside this domain • you will engage with all internal and external target groups on different levels of the corresponding organizations with focus on our Internal Business Partners to understand the demands of business as well as production and identify the best possible solution. • you understand and eliminate complexity to support the overall target landscape as well as architecture of BASF while driving standardization within S/4. • As part of the global product family leadership team, you contribute to the roadmap and help to shape the strategic fit of our overarching portfolio including organizational structure and prepare and facilitate information required for decision making. • you will be responsible for people planning as well as for their development to have all required skills available within the product team and be able to deliver end-to-end. • you will be besides that the local admin lead for all team members working in the SAP domain, while the organizational setup is getting established Qualifications: - In general you have experience in leading developer teams and service support organizations with a least 2 prior leadership roles - Profound experience in orchestration and management of cross-team, cross-product organizations, and interactions within complex business environments - Broad knowledge of SAP business process in SAP PM and preferably also some knowledge in one of the following areas: Manufacturing, Quality or Warehouse Management. - You are familiar with the latest SAP S/4 standards and technologies related to front- and back-end (e.g. SAP Fiori) development, preferably with own development experience -..."
+  }
+}

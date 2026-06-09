@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138698",
+    "title": "GDD/EK - Senior DevOps Engineer Plant Maintenance & Engineering Project Solutions (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138698/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/EK",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T05:51:25Z",
+    "description": "Responsibilities: Formular to success: - Demonstrating your proficiency in the SAP Modules Plant Maintenance, Project Systems or Project and Portfolio Management, where you will support our system and its related mobile Apps. - Your main tasks will be error and problem solving, debugging and testing of SAP standard functions as well as own developed programs. - Act as a Global / Regional representative of BASF Digital community, supporting BASF Digital roadmap, helping Global Digital Services to identify, execute and implement customer-centric digital solutions in an actionable and measurable way. Main responsibilities: - You will be responsible for ensuring the operation for one of the above-mentioned SAP Modules plus get knowledge and support one of the other two modules - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will guide, coach and train other team members build competencies in the module. - You will be assigned projects where you will have end to end responsibility for all deliverables Qualifications: - Your in-depth knowledge in software development (least 3 years’ experience) will be essential to bring value to our team. - Your experience with digitalization technologies such as Augmented Reality, Mobile Solutions (e.g. SAP Asset Manager, UI5 Apps) or interface technologies (e.g. Web Services, OData) will be an advantage for implementing innovative business solutions - Using your very good English skills, will serve you well as you will be embedded in our global team and in direct contact to our internal end users. Technical and professional knowledge: Familiarity with technology like - SAP ABAP - SAP ABAP OO - SAP Web Dynpro - Core Data Services (CDS-Views) - Odata Services - SAP UI5 (Fiori) / JavaScript - You communicate with openness, clarity and in very good English (spoken and written) - Structured, independent, and conscientious working style - Experiencing Agile way of working will be an advantage What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a..."
+  }
+}

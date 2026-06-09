@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139331",
+    "title": "GB/G Head of HR Services",
+    "url": "https://basf.jobs/job-invite/139331/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Human Resources",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Global Business Services Private Limited",
+    "department": "GB/G",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-04T16:00:00Z",
+    "description": "Head of HR Services India will lead all HR Services activities for the Service Delivery Unit (SDU) in India, strategic and operational HR services owning delivery of transactional, strategic and platform-based HR services (HR operations, HRIS, payroll interfaces, service management, case resolution, and vendor management). This role combines strategic leadership, operational HR management, process optimization, and people leadership to enable data-driven decisions and alignment with global HR standards. Key Responsibilities Service delivery leadership Own end-to-end HR Services delivery for the SDU Ensure consistent, high-quality service through defined SLAs, KPIs, and service-level reporting. Operations process excellence Design, implement, and optimize standardized, scalable HR processes and operating procedures aligned with global HR policies. Drive continuous improvement initiatives (automation, RPA, workflow redesign) to increase efficiency, reduce error rates, and shorten turnaround times. Manage capacity planning, workload balancing, and operational resilience for peak cycles (e.g., payroll, year-end processes). HRIS technology stewardship Champion adoption of HR technology, self-service portals, and automation to improve employee and manager experience. Oversee reporting and analytics for service performance, data quality, and business insights. Vendor partner management Manage relationships with external service providers (payroll vendors, benefits administrators, IT vendors, recruitment shared services) and ensure contractual SLAs are met. Coordinate with global HR Centers of Excellence and regional HR Business Partners to ensure seamless handoffs and aligned service models. Performance management reporting Define and monitor KPIs and SLAs (case resolution times, accuracy, NPS/, time-to-hire handoff metrics, etc.) Use metrics to drive improvement plans and communicate performance trends and risks. Change transition management Lead service transition projects (new processes, vendor transitions, system rollouts) and ensure minimal disruption to operations. Support global HR transformation programs by providing delivery expertise, implementation planning, and stakeholder coordination. Team leadership capability building Build, lead, and retain a high-performing HR Services team focused on operational excellence and customer service. Set objectives, manage performance, and invest in upskilling for HR operations, HRIS, and service management..."
+  }
+}

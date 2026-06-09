@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138897",
+    "title": "GDA/AT- Systems Engineer - Application Specialist (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138897/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDA/AT Workplace Solutions",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T08:47:13Z",
+    "description": "Application Specialist – Workplace Applications GDA / AT – Specialist Digitalization (m/f/d) Role: Application Specialist – Workplace Applications ________________________________________ What You Can Expect We are looking for a highly motivated and technically strong Application Specialist to join our digital workplace team. In this role, you will focus on the technical operation, stability, and optimization of central Windows workplace applications such as Adobe Acrobat, SAP GUI, and similar tools that are used by BASF employees worldwide. You will work in an international environment, working closely with the Application Owners, supporting them with deep technical expertise and ensuring reliable and high quality application services for BASF employees worldwide. You will take the technical lead for complex application landscapes and collaborate with internal teams and external service providers to ensure efficient, secure, and future ready workplace solutions. Your Key Responsibilities • Technical Application Support o Support BASF employees in the use of Windows workplace applications. o Analyze incidents, resolve technical issues, and support problem management activities. • Technical Ownership Expertise o Act as a technical expert for assigned applications, ensuring stability, performance, and compliance. o Support root cause analysis and contribute to sustainable technical solutions. • Collaboration with the Value Owner o Work closely with the Value Owner and provide technical input for decisions, improvements, and roadmap topics. o Actively contribute to cross functional and international projects. • Service Provider Collaboration o Support the steering of external service providers from a technical perspective. o Ensure technical quality standards and support continuous service improvements. • Process Service Optimization o Implement and continuously improve technical support and service processes. o Monitor service performance based on agreed SLAs and support reporting and improvement initiatives. • Technology Innovation Support o Support the introduction of new technologies and solutions together with external partners and service providers. o Evaluate technical changes, upgrades, and improvements within the application landscape. • Knowledge Management o Create and maintain knowledge documents for ServiceDesk and EndUsers"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138907",
+    "title": "GDB/DC - DevOps Engineer (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138907/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/DC DevHub Development Capabilities",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T09:39:15Z",
+    "description": "DevOps Engineer OrgCode: GDB/DC Product Team: Click or tap here to enter text. Responsibilities: We are seeking a highly motivated and detail-oriented Infrastructure Engineer to join our dynamic team. In this role, you will be responsible for developing and maintaining the infrastructure components. You will work closely with our senior developers to create high quality, scalable, and responsive software solutions. Develop, run, and automate CI/CD pipelines – Infrastructure as code. Monitoring of cloud PaaS and IaaS components – Availability, Performance, Security. Ensure BASF compliance and security guidelines on our platform. Support and enable use cases on DevHub Platform. Contribute to the improvement of internal development processes Qualifications: Cloud Expertise: Demonstrated experience with cloud platforms, particularly Azure. Ability to design, implement, and manage cloud infrastructure. Infrastructure as Code (IaC): Strong experience with Terraform for provisioning and managing infrastructure. Ability to write and maintain modular, reusable, and scalable Terraform code. Kubernetes: Hands on experience with setting up, configuring, and managing Kubernetes clusters. Proficient in deploying, scaling, and troubleshooting applications in Kubernetes environments. Extensive experience in setting up and maintaining CI/CD pipelines. Strong focus on GitHub Actions for CI/CD workflows. Familiarity with best practices in automated testing, deployment, and monitoring. Product Thinking: Ability to approach problems with a product mindset, focusing on delivering value to end-users. Experience in iterative development and continuous improvement based on user feedback. Collaboration and Communication: Excellent interpersonal and communication skills. Ability to work collaboratively with team members, stakeholders, and clients to achieve project goals. Problem-Solving Skills: Strong analytical and problem-solving abilities. Capacity to troubleshoot complex technical issues and provide innovative solutions. Continuous Learning: Commitment to staying updated with the latest industry trends, technologies, and best practices. Eagerness to continuously improve skills and knowledge. Agile Methodologies: Proven experience working in Agile environments. Strong understanding of Agile principles and practices, including Scrum or Kanban. Ability to collaborate effectively with cross-functional teams. Bachelor’s degree in computer science, Information Systems, or a related..."
+  }
+}

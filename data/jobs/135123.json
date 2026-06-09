@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "135123",
+    "title": "Assistant Manager, Technology, Asia Pacific",
+    "url": "https://basf.jobs/job-invite/135123/?locale=en_US",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "state": "Jakarta Raya",
+    "job_field": "Engineering",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "PT BASF Indonesia",
+    "department": "A-APA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-04-21T01:47:13Z",
+    "description": "Objectives: Responsible for supporting implementation of formulation technology transfer to own sites and contract manufacturers (CM) in APA including consistency check and update of technical database. Responsible for providing technical support and troubleshooting to own sites and contract manufacturers, support as technology subject matter expert in terms of chemical handling and process related topics. Support Senior Manager, Technology, Asia Pacific for all FFP (Formulation, Filling Packaging) projects (both Capital Investment and Operational Excellence) at APA own sites and contract manufacturers Support in updating/ aligning APA Formulants strategy with APA Operations and Global Formulant teams, including implementation of follow up actions on Formulant Risk Management and cost optimization initiative. Main Tasks: Technical Management Facilitate formulation technology transfer to own sites and contract manufacturers in APA in collaboration with APT/TF, APR/D, APT/Q, APA/OP (Site Managers and/or Sub-regional Contract Manufacturing Managers) for both existing and new product introductions, ensure high standard of reliability and integrity for own sites and contract manufacturers. Provide technical input and solutions on APA FFP Asset Strategy development, ensuring alignment with APA Business and AP FFP Asset Strategies. Provide support to own sites and contract manufacturers in terms of root cause analysis and resolving FFP technical problems, reviewing FFP procedures, proactively identify potential capacity issues and propose mitigation measures. Lead development/ update of Formulation Manufacturing Manual (FMM), review operation record, and work with Global Quality Management to ensure consistency between recipes being registered and produced. Review and implement Management of Change (MOC) processes, support continuous improvement activities, and provide timely expertise technical advisory service based on demands. Support relevant FFP best practice and learning sharing within APA Operations team Project Management: Support key APA Technology relevant projects at own sites and contract manufacturers Provide support in terms of technical feed for project design and execution phase, ensure successful technical startup of new formulation and/or refilling trial at contract manufacturers Provide technical support to Site Asset managers in terms of FFP technical management and processes, i.e. specification management, risk assessment, technical plan and..."
+  }
+}

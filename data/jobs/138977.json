@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138977",
+    "title": "GDB/ZF - External data management specialist (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138977/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/ZF Data Products & Semantics",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T11:59:18Z",
+    "description": "External Data Management Specialist (m/f/d) As part of our Data Products Semantics Team, you play a key role in the management of external data at BASF. You are responsible for ensuring that high-quality external data is selected, procured, managed, and made available across the organization in a transparent and cost-efficient way. With a current portfolio of 11 major external data providers, the team streamlines data demand across Sales Market functions, with a strong focus on pricing, company, and trade data. You will work at the intersection of data, procurement, controlling, and IT, contributing directly to the standardization at BASF. Your responsibilities • You take care of the external data management lifecycle, from data demand assessment, through purchasing and contract-related processes, to data delivery. • You manage and continuously optimize the external data provider portfolio, ensuring standardization in line with business needs. • You maintain and manage purchasing and work cycle processes in SAP in line with Procurement. • You serve as the central point of contact for the external data portfolio, acting as the knowledge authority for subscription packages, licensing models, and permitted usage across the organization. • You administer sub-services for external data subscriptions, including the creation, maintenance, and update of service calculations and cost models as well as general user access gatekeeping. • You actively support the implementation of our standardization strategy, particularly by managing and evolving the charging model towards a transparent and standardized cost allocation. • You are responsible for communication with data consumers and controlling stakeholders, including cost transparency, charging logic, supplier updates, disruptions, and invoicing-related questions. • You collaborate closely with technical experts to ensure efficient data provisioning and management of external data as standardized data products. • You develop a sufficient understanding of the underlying data and use cases to effectively support procurement in discussions with data providers and stakeholder related questions. • You work cross-functionally with experts from data, IT, procurement, controlling, and business units across the organization. Your profile • University degree in Business Administration, Business Informatics, or a comparable field. • Strong interest in external data management, data provisioning, or data-related procurement..."
+  }
+}

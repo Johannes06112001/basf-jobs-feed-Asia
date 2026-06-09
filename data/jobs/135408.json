@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "135408",
+    "title": "Manufacturing Manager,ED,Mie-Rokuromi Plant 1",
+    "url": "https://basf.jobs/job-invite/135408/?locale=en_US",
+    "country": "Japan",
+    "city": "Yokkaichi-shi",
+    "state": "Mie",
+    "job_field": "Production, Maintenance & Technical Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Japan Ltd.",
+    "department": "A-EDA/OJR",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-04-29T06:18:38Z",
+    "description": "Objectives of the Position This role is responsible for designing and installing optimal equipment in collaboration with the Engineering Maintenance (E M) team to support efficient and safe plant operations. It also involves training plant personnel to perform self-maintenance of equipment. Under the guidance of the Site Manager and in accordance with company policies, the role oversees production, quality, shipping, and receiving activities to ensure monthly sales targets are met with high quality and cost efficiency. Additionally, the role manages both existing and new biological wastewater treatment facilities, working closely with external partners and authorities to ensure environmental compliance. Main Responsibilities 1. Deputy Site Manager Duties Acts as the second deputy site manager when both the Site Manager and QA/Technical Manager are absent (excluding decisions on management reviews, long-term investments, HR matters, and budgeting). 2. Safety Environmental Management Implements safety and environmental policies based on corporate and legal requirements. Conducts first aid training for all site employees and monitors safety attitudes. Serves as an Emergency Response Team member, leading on-site actions during emergencies and reporting to the central ER team. Leads EHS-related activities from a technical perspective as part of the Responsible Care (RC) committee. Identifies and improves unsafe working conditions in collaboration with the production team. 3. Production Management Develops production plans based on sales forecasts and R D requirements. Coordinates procurement of raw materials and packaging. Revises production schedules in response to equipment issues. Participates in management meetings and collaborates with other departments to ensure smooth operations. Evaluates production performance, cost, and delivery timelines. Assesses feasibility of new product manufacturing and recommends necessary changes. Leads weekly production meetings and conducts regular site inspections. Oversees purchasing, inventory control, and interplant material coordination. 4. Waste Management Operates and supervises wastewater treatment facilities, ensuring water quality standards are met. Communicates with external partners and authorities regarding environmental compliance. Manages solid waste handling and audits waste disposal companies. 5. Equipment Design Installation Plans and executes installation, relocation, and upgrades of machinery using new..."
+  }
+}

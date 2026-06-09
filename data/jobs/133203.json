@@ -1,0 +1,19 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "133203",
+    "title": "Intern, Communication(001992)",
+    "url": "https://basf.jobs/light_blue_AP/job/SHANGHAI-Intern%2C-Communication%28001992%29-200000/938399101/?feedId=111101",
+    "country": "China",
+    "city": "SHANGHAI",
+    "state": "Unknown",
+    "job_field": "Marketing & Sales",
+    "company": "BASF",
+    "department": "Marketing",
+    "hybrid": false,
+    "date_posted": "2026-01-27T00:00:00Z",
+    "description": "Main Tasks Support marketing team on communication projects. 1) support to edit WeChat post; 2)support to prepare product brochures; 3) support to organize public expos such as booth preparation, live stream etc. Main Requirements 1) good communication skills; 2) good English and Chinese writing skills; 3) good sense of designing; 4) basic knowledge of chemistry and chemical products 请时刻警惕任何可能的招聘欺诈行为！请注意，巴斯夫绝不会在任何情况下向候选人以任何形式收取任何费用。"
+  }
+}

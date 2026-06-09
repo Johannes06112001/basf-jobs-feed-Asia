@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138917",
+    "title": "GDB/X - Senior Agentic AI Engineer (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138917/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GBI/UP-D Data Analytics & AI",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T11:28:25Z",
+    "description": "Senior Agentic AI Engineer OrgCode: GDB/X Product Team: Intelligent Automation Responsibilities: - Engineer Core Components: Lead the development of the orchestration service and Agent-to-Agent (A2A) bus, writing high-performance Python code that routes thousands of requests per minute. - Build Complex Agents: Implement \"Horizon 3/4\" autonomous agents (e.g., self-correcting coding agents, complex supply chain optimizers) using LangGraph or AutoGen hosted on AKS. - Integrate Data AI: Build robust integrations between Databricks (Unity Catalog) and our agent runtime, ensuring agents have access to real time, governed business data. - Optimize Performance: Tackle the hard problems of agentic AI—latency reduction, token cost optimization, and managing distributed state across long-running workflows. - Mentor Review: Conduct code reviews for junior engineers and divisional teams, ensuring that all agent code adheres to our Zero-Trust security practices and software engineering standards. - Develop Tools (MCP): Build and maintain a library of Model Context Protocol (MCP) compliant tools that allow agents to interact with SAP, ServiceNow, and other enterprise APIs. Qualifications: - Engineering Mastery: You are a software engineer first. You write clean, testable, production-grade Python (FastAPI, Pydantic) and are comfortable with async/await patterns and concurrency. - Container Native: You don't just run Docker locally; you have experience deploying and debugging complex applications on Kubernetes (AKS). - Agentic Frameworks: Deep, hands-on experience with LangChain, LangGraph, or Semantic Kernel. You know how to debug a \"looping\" agent and how to manage conversation memory effectively. - Azure Databricks: Practical experience with Azure AI Foundry for model serving and Databricks for data engineering. - Problem Solver: You enjoy debugging non deterministic systems and finding creative ways to make LLMs reliable (e.g., retry logic, output parsing, verification steps). What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work environment where your..."
+  }
+}

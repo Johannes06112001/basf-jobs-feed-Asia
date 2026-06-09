@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "China",
   "job_field": "Digitalization",
   "total_active": 4,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "139386",
@@ -16,12 +16,9 @@
       "job_field": "Digitalization",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "G-ECO/MD",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-08T08:53:15Z",
-      "description": "About The Role Within G-ECO/MD team, you will be responsible for testing our digital applications used in coatings industry. Your role involves manual testing of new features alongside the DevOps team, ensuring readiness for release. You'll facilitate both DevOps team and Product Owners by identifying, reporting, and documenting bugs and generating release notes. Your commitment to quality will drive continuous improvement, making our application a benchmark for reliability and user satisfaction in the business. How You Will Do It Conduct thorough testing of digital applications to ensure functionality, usability, and reliability. Identify, document, and report bugs and issues to the development team. Strong willingness to learn about our business processes and the underlying technology that supports them. Take initiative to acquire new skills that can contribute to the team's success. Work closely with the DevOps team and Product Owners to understand the development lifecycle and customer requirements. Provide feedback and suggestions to improve application performance and user experience. Good communication skills by effectively reporting test findings, collaborating with team me"
+      "description_preview": "About The Role Within G-ECO/MD team, you will be responsible for testing our digital applications used in coatings industry. Your role involves manual testing of new features alongside the DevOps team, ensuring readiness for release. You'll facilitate both DevOps team and Product Owners by identifying, reporting, and...",
+      "detail_path": "data/jobs/139386.json"
     },
     {
       "job_id": "139189",
@@ -33,12 +30,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "G-ECO/MD",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-03T06:03:45Z",
-      "description": "About The Role Within Global Digital Factory ECO (G‑ECO/MD), you will contribute to the development of a modern web application as part of an agile DevOps team. The team builds and operates solutions that are jointly used by BASF Coatings and external customers, ensuring high quality, reliability, and continuous improvement throughout the product lifecycle. How You Will Do It - You will be delivering both Intranet and Internet applications to improve BASF Coatings services towards our customers. - Together with your team, you support the process of feature development from the first idea to the final go-live with the end-user. - You will be working in an agile and self-organized way. You not only consider development of new applications but also operations and maintenance as a valuable part of your daily work. - You collaborate closely with product owners, designers, and developers across different locations and time zones communicating asynchronously and ensuring shared understanding of requirements. - You understand, analyze, define, develop, and fulfil quality requirements for planned functionalities in close cooperation with product owners, designers and the development team. -"
+      "description_preview": "About The Role Within Global Digital Factory ECO (G‑ECO/MD), you will contribute to the development of a modern web application as part of an agile DevOps team. The team builds and operates solutions that are jointly used by BASF Coatings and external customers, ensuring high quality, reliability, and continuous...",
+      "detail_path": "data/jobs/139189.json"
     },
     {
       "job_id": "139313",
@@ -50,12 +44,9 @@
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "G-ECO/MD",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-03T02:21:09Z",
-      "description": "About The Role Within Global Digital Factory ECO (G ‑ ECO/MD), you will contribute to the development of a modern web application as part of an agile DevOps team. The team builds and operates solutions that are jointly used by BASF Coatings and external customers, ensuring high quality, reliability, and continuous improvement throughout the product lifecycle. How You Will Do It - You will be delivering both Intranet and Internet applications to improve BASF Coatings services towards our customers. - Together with your team, you support the process of feature development from the first idea to the final go-live with the end-user. - You will be working in an agile and self-organized way. You not only consider development of new applications but also operations and maintenance as a valuable part of your daily work. - You collaborate closely with product owners, designers, and developers across different locations and time zones communicating asynchronously and ensuring shared understanding of requirements. - You understand, analyze, define, develop, and fulfil quality requirements for planned functionalities in close cooperation with product owners, designers and the development team."
+      "description_preview": "About The Role Within Global Digital Factory ECO (G ‑ ECO/MD), you will contribute to the development of a modern web application as part of an agile DevOps team. The team builds and operates solutions that are jointly used by BASF Coatings and external customers, ensuring high quality, reliability, and continuous...",
+      "detail_path": "data/jobs/139313.json"
     },
     {
       "job_id": "139171",
@@ -67,12 +58,9 @@
       "job_field": "Digitalization",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF (China) Company Ltd.",
-      "department": "BMO/AS",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-29T04:05:27Z",
-      "description": "Job Descriptions: • Support process scale up using pilot data and modeling to enable full scale production. • Develop and apply data driven and hybrid models to predict process performance. • Partner with engineers to support technology transfer to commercial operations. 请时刻警惕任何可能的招聘欺诈行为！请注意，巴斯夫绝不会在任何情况下向候选人以任何形式收取任何费用。"
+      "description_preview": "Job Descriptions: • Support process scale up using pilot data and modeling to enable full scale production. • Develop and apply data driven and hybrid models to predict process performance. • Partner with engineers to support technology transfer to commercial operations....",
+      "detail_path": "data/jobs/139171.json"
     }
   ]
 }

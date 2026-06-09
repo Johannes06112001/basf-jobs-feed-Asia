@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139489",
+    "title": "Assistant Research Scientist I",
+    "url": "https://basf.jobs/job-invite/139489/?locale=en_US",
+    "country": "India",
+    "city": "Navi Mumbai - HO (Innovation Campus)",
+    "state": "Maharashtra",
+    "job_field": "Research & Development",
+    "job_level": "Graduate",
+    "job_type": "Permanent",
+    "company": "BASF Chemicals India Pvt. Ltd.",
+    "department": "APR R&D Crop Protection",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-08T11:16:35Z",
+    "description": "Objectives of the position: Conduct Physchem samples Analysis – LogP, Thermodynamic water solubility, hydrolytic stability at 3 different pH, Photlytic stability and Photohydrolytic stability Representative Main tasks: Handling of UPLC, HPLC, Photochamber and pH meter Physchem LogP, Thermodynamic water solubility, hydrolytic stability at 3 different pH, Photlytic stability and Photohydrolytic stability EHS Task: Reporting of Near miss and Unsafe behavior as an observant while working in lab Maintain zero lost time incidences by working safe Working in the lab with all required PPEs and following safety guidelines Education Qualification: MSc chemistry Suggested Competencies: Analytical Chemistry Spectroscopy Organic Chemistry Calculations MS Office Inorganic Chemistry Physical Chemistry Laboratory Techniques Data Analysis Quality Control Instrumentation Research Methods Chemical Safety Problem-solving skills Communication skills Time management skills Teamwork and collaboration Critical thinking Presentation skill Size of Impact: Not Applicable Authority: Lab permits issuer, Participation in lab safety round. Responsibility: Chromatographic Techniques, Physchem Parameter, SOP preparation. Weakly check of safety shower and eye washer for lab."
+  }
+}

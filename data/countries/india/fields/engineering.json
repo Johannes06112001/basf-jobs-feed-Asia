@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "India",
   "job_field": "Engineering",
   "total_active": 2,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "138715",
@@ -16,12 +16,9 @@
       "job_field": "Engineering",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF India Coatings Private Limited",
-      "department": "ECP/AI",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-21T07:52:44Z",
-      "description": "O bjectives of the Position Shift + Enter proceeds to the next line without bullet; Enter inserts new bullet Lead, coordinate and monitor engineering projects and maintenance function as per the agreed norms under the direction of production head. Ensuring smooth functioning of production Paint CED plant with minimum breakdowns by developing, implementing and sustaining best plant maintenance. To provide Maintenance services to Coatings Technology centre (CTC), ECR labs. Lead, coordinate and monitor the utility plant for its smooth functioning and supply the necessary utilities to production plants. Lead Safety at work. M ain Tasks Be responsible for ensuring compliance with respect to BASF’s license to operate in your area of responsibility(ies). Compliance, in accordance with the BASF Code of Conduct means adherence to: (1) applicable laws and regulations, (2) internal guidelines and policies, and (3) ethical business practices. You will keep the Managing Director informed of any and all matters concerning or impacting Compliance from time to time. To lead the engineering projects and maintenance team for all the maintenance and projects related activities. To Lead Site CAPEX, OP"
+      "description_preview": "O bjectives of the Position Shift + Enter proceeds to the next line without bullet; Enter inserts new bullet Lead, coordinate and monitor engineering projects and maintenance function as per the agreed norms under the direction of production head. Ensuring smooth functioning of production Paint CED plant with minimum...",
+      "detail_path": "data/jobs/138715.json"
     },
     {
       "job_id": "135271",
@@ -33,12 +30,9 @@
       "job_field": "Engineering",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "department": "RGR/CD",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-13T06:40:44Z",
-      "description": "About The Role Provide support to process engineering and technology transfer topics in India Prepare a comprehensive engineering package for process development and scale-up topics in India pertaining to batch processes Continuously support the production to optimize plant performance and output Support process engineering research lab development activities and innovation activities for OD-specific needs How Will You Do It Act as the “Focal point” of process engineering research in India to connect with ODs and expert teams globally, to provide solutions accordingly by leveraging process engineering expertise resources Self-dependent execution, or participation of complex research and operation support projects that requires specific expertise in process engineering Provide continuous support to the lab scale process development activities and develop a strategy for the scale-up based on the process requirements and constraints Build-up stronger competencies downstream unit operations for batch processes (distillation, filtration, crystallization, drying etc.) in India to bridge the gap between lab and production scale Closely work with the ODs and external contract manufacturing"
+      "description_preview": "About The Role Provide support to process engineering and technology transfer topics in India Prepare a comprehensive engineering package for process development and scale-up topics in India pertaining to batch processes Continuously support the production to optimize plant performance and output Support process...",
+      "detail_path": "data/jobs/135271.json"
     }
   ]
 }

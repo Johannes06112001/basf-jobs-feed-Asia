@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138864",
+    "title": "GDE/EA - SAP Consultant HR Payroll (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138864/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/EA HR Devops",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T17:04:55Z",
+    "description": "Key Responsibilities • Consult European HR and payroll stakeholders on SAP Payroll European (Spain, Belgium) requirements • Design and implement Europe specific payroll schemas, rules, and calculations • Customize SAP Payroll and develop enhancements using ABAP / ABAP OO • Ensure solution quality via testing, payroll validation, and production support • Work in an Agile / DevOps setup within a global HR Solutions product team • Support S/4HANA Payroll evolution and automation initiatives ________________________________________ Required Profile • Several years of hands on experience in SAP Payroll Europe, ideally S/4HANA / H4S4 • Ideally: Knowledge of Spanish and/or Belgium payroll legislation and processes (gross to net, schemas, PCRs) • Solid ABAP / ABAP OO and payroll customizing skills • Experience supporting Germany from an offshore (India) setup • Fluent English; German is a plus ________________________________________ Nice to Have • Time Management ↔ Payroll integration experience • SAP Fiori / UI5 exposure • Experience with payroll automation or RPA"
+  }
+}

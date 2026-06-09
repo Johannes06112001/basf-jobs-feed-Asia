@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "India",
   "job_field": "Logistics & Supply Chain Management",
   "total_active": 2,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "139348",
@@ -16,12 +16,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF India Coatings Private Limited",
-      "department": "G-ECO/OSAI",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-03T12:18:01Z",
-      "description": "Objectives of the Position • Responsible to drive the O2C process effectively for ECO business. As an expert guide CS community for Continuous improvements, system harmonization and Solution provider for process related problems. • Guide team members to manage efficiently and effectively matters related to O2C processes • Foster customer focus culture based on guidance from BU SCM Head and Other EC leadership team members. • Manage the teams IDP’s process, setting up TA, Performance Reviews. • Review Job grades and Resource utilization at regular intervals, plan with BU SCM Head to optimize team resources aligned with BU needs. • Develop individual training program based on current and future development needs • Interact with business management and sales teams to gain knowledge of business and customer needs. Organize customer visits for self and CSO’s in alignment with business and customer needs. • Engage in Projects related to Digitization, Customer Care, Supply Chain Management (Regional / Local level) Main Areas of Responsibilities and Key Activities (Functional KPI Scope): 1.Value creation for EC division (DR,OIV,forecast accuracy Others) based on aligned targets 2. Enhance "
+      "description_preview": "Objectives of the Position • Responsible to drive the O2C process effectively for ECO business. As an expert guide CS community for Continuous improvements, system harmonization and Solution provider for process related problems. • Guide team members to manage efficiently and effectively matters related to O2C...",
+      "detail_path": "data/jobs/139348.json"
     },
     {
       "job_id": "135172",
@@ -33,12 +30,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF India Limited",
-      "department": "A-CIA/LS",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-06T10:10:14Z",
-      "description": "About The Role Manage OTC (Order to Cash) interfaces with internal external customers efficiently and effectively. How Will You Do It Perform Sales and Delivery Order Management tasks in SAP. Contribute to development of customer relationships through proactive customer communication related to order management e.g. product availability, order status and delivery tracking. Support Credit Management, Billing and Accounts Receivable clearance. Manage Master Data maintenance process to ensure effective order management. Execute orders with accuracy and specific focus on the following fields like incoterms, RETA (requested ETA), Text ID’s Shipping instruction, LC (Letter of Credit) term, Partner role, Plant code, Arrival Port, etc. Handle customer complaints via Non-conformance Management (NCM) system Actively communicate status, investigation results, corrective actions to customer and ensure on time closure for service / product quality related complaints. Capture customer expectations / requirements and feedback to BU (business unit) sales / marketing. Support implementation of business rules related to customer order management process Provide order status report and track customer"
+      "description_preview": "About The Role Manage OTC (Order to Cash) interfaces with internal external customers efficiently and effectively. How Will You Do It Perform Sales and Delivery Order Management tasks in SAP. Contribute to development of customer relationships through proactive customer communication related to order management e.g....",
+      "detail_path": "data/jobs/135172.json"
     }
   ]
 }

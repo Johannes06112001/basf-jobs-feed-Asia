@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138969",
+    "title": "GDE/DG - Product Manager/ S4 Hana AMS (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138969/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/DG",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T10:32:32Z",
+    "description": "Product Manager OrgCode: GDE/DG Product Team: Procurement EU2 APAC Responsibilities: ´We are establishing a new global product team, S4 AMS Operations, within the Product Family Finance Procurement Solutions. The team will be based in Hyderabad, India, and will form part of our new digital hub launching this year. Its mission: to take over SAP S/4HANA topics transitioning from project mode into operations across multiple business areas—Finance, Procurement, Order Management, Planning, Manufacturing, Quality Management, Warehousing, SAP Business Data Cloud, and more. The team will work in an agile setup, closely connected to our global product organizations and to the ongoing global S/4 transformation program. We are looking for a Product Manager who will shape and lead this new operational area from day one, starting no later than July 1, 2026. In this role, you will manage product activities as S/4 project waves enter steady-state operations, ensure value-driven and reliable delivery, and collaborate with stakeholders and peers across domains and regions. This position offers the opportunity to build something new and become a cornerstone of the long‑term operational backbone of our global S/4 landscape. Now is the time to take a new step: Own it. Drive it. Excel in it. Responsibilities Build and lead a newly formed S4 AMS Operations team in India and additional regions, fostering an open, collaborative, and growth-oriented work environment. Enable the team to take ownership of S/4 operational topics transitioning from project delivery into stable operations, providing clarity, context, and decision-making support. Establish a robust operational model for SAP S/4HANA across multiple modules and business domains. Drive continuous improvement of S/4 operational processes— leveraging AI where beneficial—ensuring harmonization, lean practices, and structured product lifecycle management with a strong focus on radical standardization. Develop internal expertise to ensure long-term operational excellence across the S/4 solution landscape. Take responsibility for business outcomes, operational performance, budget planning, and sourcing within the S4 AMS Operations scope. Contribute to the organizational development of our broader product families and be an active member of a forward‑looking leadership team. Qualifications: `Proven experience in S/4HANA application operations, ideally including leadership responsibility in a similar enterprise environment. A..."
+  }
+}

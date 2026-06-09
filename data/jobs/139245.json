@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139245",
+    "title": "Executive - Customer Service, Demand Planner",
+    "url": "https://basf.jobs/job-invite/139245/?locale=en_US",
+    "country": "India",
+    "city": "Godrej One - Mumbai",
+    "state": "Maharashtra",
+    "job_field": "Marketing & Sales",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF India Limited",
+    "department": "G-EVO Fuel & Lubricant Solutions",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-03T15:49:20Z",
+    "description": "About The Role To service the customers of the assigned Business Unit and order management Driving Demand Planning and Service Excellence Proactive Customer Orientation Communication Effectiveness Continuous Improvement How Will You Do It Strategic- Key Activities: Perform sales and delivery order management according to SOP Monitor orders and communicate to customers Sales team on order status Perform business rules and manage data related to order-to-cash process. Responsible to conduct Monthly S OP meetings provide key inputs to management for operations during meeting. Conduct regular analysis of supply chain performance metrics and identify areas for improvement. Coordinate with cross-functional teams i.e. operations, product management controlling to optimize supply chain processes and resolve any issues or bottlenecks. Stay updated on industry trends, emerging technologies, and regulatory changes impacting the customer service operations or supply chain operations taking necessary actions wherever required. Prepare reports and presentations to communicate supply chain performance and improvement initiatives to stakeholders. Develop implement strategies for the disposition of obsolete inventory Analysing improving supply chain processes Operations to optimize the cost Operational: Inventory monitoring – local key user of SCII to report DIV, OIV, aging stock Forecast Accuracy – DP FCA reports (external and internal) Logistics Costs – monitor monthly development (filling, packaging, shipping, distribution, demurrage) NCM monthly report – local key user of NCM, report NCM KPIs monthly Delivery Services – local key user of DSC, report DC/DR monthly Respond to verbal (or written) requests in a timely and professional manner, ensuring any promises made are fulfilled Determine the appropriate solution by following operating procedures. Resolve issues without unnecessary delay and escalate more complex problems as required Consistently deliver work tasks on time and to agreed standards. Alert colleagues or manager in advance when timeline or quality of the deliverables is likely to be affected Proactively seek guidance and asks questions to understand structures, processes, systems and responsibilities, and how own role contributes to the broader team goals Creation of Sales Orders based on customer PO or Sales Forecast Tracking of orders, Sales Customer Receivables on daily basis and highlighting issues if any Connect with Customer on periodic basis..."
+  }
+}

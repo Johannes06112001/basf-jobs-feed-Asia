@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138895",
+    "title": "GDA/AT - Senior System Engineer - Application Owner (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138895/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDA/AT Workplace Solutions",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T08:29:22Z",
+    "description": "Application Owner – Workplace Applications GDA / AT – Senior Specialist Digitalization (m/f/d) Role: Application Owner – Workplace Applications ________________________________________ What You Can Expect We are looking for a highly motivated and proactive Senior Specialist to join our digital workplace team as a Application Owner. In this role, you will be responsible for central Windows workplace applications such as Adobe Acrobat, SAP GUI, and similar tools that are used by BASF employees worldwide. You will work in an international team and act as a confident interface between internal teams, business partners, and external service providers. You will take ownership of complex application landscapes and ensure stable, efficient, and future ready services across BASF. Your Key Responsibilities • Application Ownership Support o Advise and support BASF employees in the use of Windows workplace applications. o Analyze major incidents and recurring issues and implement sustainable, long term solutions within the IT landscape. • Collaboration Stakeholder Management o Work closely with internal departments such as Procurement and Global License Management. o Provide expert input and actively contribute to, or lead, cross functional and international projects. • Service Provider Management o Coordinate and steer external service providers. o Ensure high service quality, continuous improvement, and professional complaint management. • Innovation Continuous Improvement o Drive the development and introduction of new solutions and technologies together with external partners. o Identify improvement potential and proactively contribute to the digital workplace strategy. • Service Process Excellence o Design, implement, and continuously optimize support and service processes. o Monitor service performance based on agreed Service Level Agreements (SLAs). o Prepare reports and initiate improvement measures to ensure high user satisfaction."
+  }
+}

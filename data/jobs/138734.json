@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138734",
+    "title": "Intern, Customs Operation",
+    "url": "https://basf.jobs/job-invite/138734/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB/SG-AA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-04T05:35:25Z",
+    "description": "The main objective of this internship program is to provide students with comprehensive exposure to customs operations within the supply chain, specifically for the chemistry industry. Interns will gain practical understanding of customs-related topics, including HS code classification, analyzing the impact of duties and taxes in international trade, and exploring trade facilities such as free trade agreements, Authorised Economic Operator (AEO), duty drawback etc. Interning with the customs operation team offers valuable insights into international business practices and supply chain dynamics. This experience equips interns with specialized skills that are highly sought after in global trade and logistics, fostering professional growth and enhancing future career opportunities. Learn the basics of customs operations and their critical role in the supply chain. Study foundational customs knowledge and terminology relevant to the chemistry industry. Observe and map out the overview process flow of customs procedures. Understand HS code classification and its importance for accurate documentation and tax calculation. Explore the effects of duties and taxes on international business transactions in the chemistry sector. Gain knowledge about trade facilities, such as free trade agreements, Authorised Economic Operator (AEO), duty drawbacks etc. that benefit global commerce. Participate in improvement initiatives discussion to work on improvement plans and timelines. Participate in small assignments to apply gained knowledge and reinforce learning."
+  }
+}

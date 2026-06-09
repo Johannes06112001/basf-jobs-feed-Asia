@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138902",
+    "title": "GDE/EC - SAP Developer - Personnel Administration & Organizational Management (SAP HCM) (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138902/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/EC Global HR Master Data & HR Self Services",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T09:12:44Z",
+    "description": "Technical Consultant – Personnel Administration Organizational Management (SAP HCM) This profile describes the skills required for a Technical Consultant responsible for the configuration, technical support, and continuous improvement of Personnel Administration (PA) and Organizational Management (OM) in SAP HCM landscapes. The role combines hands-on system expertise, SAP HCM development skills, and a solid understanding of HR processes and integration dependencies. SAP HCM Core Knowledge – PA OM Strong hands-on experience with SAP HCM Personnel Administration (PA) and Organizational Management (OM) In-depth understanding of personnel master data structures, infotypes , subtypes, and validity concepts Knowledge of organizational objects, relationships, plan versions, and evaluation paths Personnel Administration – Technical Skills Configuration and maintenance of PA infotypes and subtypes Technical support of core PA processes (hire, transfer, organizational change, termination) Analysis and resolution of PA-related data inconsistencies and error situations Handling of time-dependent and historical HR master data Organizational Management – Technical Skills Technical maintenance of organizational structures (org units, positions, jobs) Support of reporting lines and managerial hierarchies Understanding of OM integration with PA and downstream HR processes SAP HCM Development Skills ABAP development in SAP HCM context (reports, enhancements, interfaces) Development and enhancement of HR reports using logical databases (PNP/PNPCE) Implementation and analysis of AUTHORITY-CHECKS in HR applications Experience with HCM-specific user exits, BAdIs, and enhancement frameworks Debugging and analysis of standard SAP HCM programs Basic knowledge of Adobe Forms / Smart Forms for HR outputs (optional) Understanding of data models for PA and OM from a developer perspective Integration Dependencies Understanding of PA and OM integration with Time Management and Payroll Awareness of authorization concepts impacting PA and OM data access Support of interfaces and data consistency across HR systems Customizing Configuration HCM Customizing in PA- and OM-related settings Assessment of customizing impacts on data quality and technical behavior Close collaboration with functional consultants and developers for change implementation Technical Analysis Support Incident and problem analysis in PA and OM areas Use of debugging and analysis tools to identify root causes Support of..."
+  }
+}

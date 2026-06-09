@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "134657",
+    "title": "Team Leader, Utilities & General Facilities",
+    "url": "https://basf.jobs/job-invite/134657/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Pasir Gudang",
+    "state": "Johor",
+    "job_field": "Production, Maintenance & Technical Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF (Malaysia) Sdn. Bhd.",
+    "department": "A-PMA/O",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-13T02:48:04Z",
+    "description": "Objectives of the Position Responsible for leading the Utilities General Facilities within the site. To manage the operation and care of the utilities plants and their distribution to ensure reliable and quality supply of steam, furnace, compressed air, nitrogen, water (process and potable), demineralized water and cooling water for the plants and facilities use within the site. To manage and take care of the condition of the site general facilities such as non-production buildings, drainage system, sewerage system, fences, firefighting system and utilities pipe racks and empty land spaces within the site. Main Tasks Responsibilities Safety, Health Environment (SHE) Follow and enforce all environmental, health, and safety (EHS) rules to maintain a safe working environment. Ensure safe handling and unloading of hazardous chemicals (e.g. HCl, NaOH) according to approved procedures. Support regular testing and maintenance of fire hydrant systems and emergency generator sets to ensure readiness. Operations Maintenance Support daily operations and maintenance of utility facilities and equipment (e.g. boilers, air compressors, water systems). Assist in identifying, troubleshooting, and resolving operational or technical issues. Coordinate with OEM vendors for equipment servicing and repairs. Monitor equipment performance and report any issues for corrective action. Regulatory Compliance Support Support compliance with BASF standards and local regulations by tracking permits, licenses, and inspection requirements. Assist in preparing for DOSH inspections, including pressure vessel and equipment checks. Support implementation of Integrated Management Systems (ISO 9001, ISO 14001, OHSAS/ISO 45001) and Process Safety Management requirements. Assist in Management of Change (MOC) processes for facility or system modifications. Inventory, Procurement Documentation Support the ordering, receiving, storage, and issuance of utility materials and spare parts. Raise Purchase Requisitions in SAP for required materials and services. Maintain accurate records of inventory and transactions. Update and maintain department documents in line with IMS requirements. Others Track operational KPIs and report performance to support continuous improvement. Support monitoring of departmental expenses to ensure costs remain within budget. Assist in reviewing utility cost allocation to ensure accurate charging to respective plants. Support small improvement projects related to utilities..."
+  }
+}

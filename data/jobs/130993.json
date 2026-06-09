@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "130993",
+    "title": "Senior Analyst, Invoice to Cash",
+    "url": "https://basf.jobs/job-invite/130993/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Finance, Controlling & Audit",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBA/FO-ITC1",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2025-12-15T03:18:10Z",
+    "description": "Objectives of the Position • Independently manage operational processing for Invoice-to-Cash (ITC) services, ensuring compliance with BASF requirements, Financial Reporting Compliance (FRC), and local statutory regulations • Act as reviewer and approver for daily and month-end tasks, ensuring accuracy and timeliness • Support Assistant Manager/Manager in service delivery, talent development, and process improvement initiatives • Drive continuous improvement, digitalisation, and harmonisation across countries in the Asia Pacific region Functional Tasks (Inclusive but not limited): • Process and review ITC workflows, including Accounts Receivable, Collections, Treasury Back Office and Intercompany Reconciliation activities • Supervise and mentor Analysts, ensuring adherence to predefined process description and service management framework • Troubleshoot and resolve queries from internal and external stakeholders promptly • Act as Area of Competency (AOC) member or topic owner for ITC-related processes • Monitor unallocated receipts, overdue accounts, and post-dunning activities; propose corrective actions • To perform other duties as and when delegated Project Management: • Support internal, regional, and global process implementation and transition projects • Develop strong working relationships with local companies and project owners to ensure successful adoption of solutions • Communicate project deliverables and progress to stakeholders Compliance: • Participate in any compliance audits and respond to audit queries (for both internal and external) • Ensure all work documentation and work processes are updated and met with BASF policies guideline, local company’s policy, legal and statutory requirements Quality and Continuous Improvement: • Identify, recommend, and implement continuous improvement opportunities in quality and efficiency to support smooth implementation • Prepare and review training materials and conduct end user trainings when required • Support new and existing team members through proper knowledge transfer; and sharing of best practice thereby ensuring quality is maintained through any staff transition Others: • Support Business Continuity Plan (BCP) through resource planning, backup and communication • Any other tasks due to Service Hub KL management strategy and/ or changing business environment may require to be performed Additionally, for Senior Associate Analyst: • For development purposes, any additional task can be assigned as..."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138894",
+    "title": "GDD/BH - Senior Business Solution Consultant - SAP QM (Quality Management) (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138894/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Global Business Services Private Limited",
+    "department": "GDD/BH Quality Assurance & Control",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T08:29:29Z",
+    "description": "Responsibilities: - You will act as the global Business Solution Consultant for SAP QM within an R3 and S/4HANA landscape, ensuring scalable, standardized, and future-ready quality management solutions. - You will design, implement, and continuously improve end-to-end Quality Management processes (Quality Planning, Quality Inspection, Quality Notifications, Audit Management, Stability Studies, Certificates of Analysis). - You will support the transition and optimization from SAP ECC/R3 to S/4HANA, leveraging standard functionalities, Fiori apps, embedded analytics, and best-practice content. - You will collaborate closely with business stakeholders (Quality Assurance, Quality Control, Supply Chain, Manufacturing, Regulatory) to translate business requirements into sustainable system solutions. - You will ensure integration of SAP QM with adjacent modules and platforms (MM, PP, EWM, SD, PM, IBP, PLM), as well as external systems such as Laboratory Information Management Systems (LIMS), lab instruments, MES, and digital quality platforms. - You will support digitalization initiatives, including automation of Certificates of Analysis, integration of analytical devices, and enablement of advanced analytics, AI/ML use cases, and predictive quality scenarios. - You will contribute to global template governance, defining guardrails and ensuring adherence to architectural and security standards. - You will participate in project phases (fit-to-standard workshops, blueprint/design, realization, testing, cutover, hypercare, and continuous improvement). - You will mentor junior consultants and support knowledge transfer to ensure long-term sustainability of the solution landscape. Qualifications: - You have hands-on experience with SAP QM in S/4HANA (including configuration and functional design). Experience with S/4HANA migration or transformation programs is required. - You possess in-depth knowledge of Quality Management processes within manufacturing and supply chain environments. - You have solid understanding of system integration concepts (IDocs, APIs, OData services, middleware platforms such as SAP CPI/PI/PO or similar). - You are experienced in working within global template-driven environments and understand the balance between standardization and local requirements. - You have knowledge of data modeling, master data governance, and embedded analytics in S/4HANA. - Exposure to digital lab integration, automation of quality data capture, and/or LIMS..."
+  }
+}

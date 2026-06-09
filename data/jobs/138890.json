@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138890",
+    "title": "GDF/BB - IT Program Architect (Salesforce and CRM Digital Solutions Expert) (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138890/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/NB Platform Foundations",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T07:24:55Z",
+    "description": "Architectural Design Strategy Develop and maintain the overarching architecture for Salesforce and CRM digital solutions, ensuring alignment with business objectives. Define standards, guidelines, and best practices for Salesforce implementations. Create architectural blueprints, roadmaps, and technical documentation. Program Leadership Support the planning, execution, and delivery of large ‑ scale Salesforce programs. Collaborate with business stakeholders, developers, and IT teams to ensure successful outcomes. Identify and manage program risks, issues, and dependencies. Solution Development Oversee the design and development of custom Salesforce solutions, including complex integrations. Ensure solutions are scalable, secure, and aligned with industry and internal standards. Provide technical leadership and mentorship to development teams. Stakeholder Engagement Serve as a trusted advisor for Salesforce and CRM architecture topics. Lead workshops, requirement discussions, and presentations to ensure alignment and buy ‑ in. Continuous Improvement Stay current with Salesforce innovations, industry trends, and emerging technologies. Identify improvement areas and drive adoption of new features and capabilities. Governance Compliance Establish and enforce architectural governance frameworks. Conduct reviews and audits to ensure adherence to standards, regulations, and security principles. WHAT YOU BRING Bachelor’s degree in Computer Science, Information Technology, or a related field; a Master’s degree is an advantage. At least 10 years of professional IT experience, including 7+ years in Salesforce and CRM environments. Salesforce Architect certifications (e.g., CTA, Application Architect) strongly preferred. Proven experience in leading and delivering complex Salesforce programs. Deep understanding of Salesforce architecture, data models, security, and integration patterns. Strong knowledge of CRM best practices and digital transformation principles. Excellent communication, leadership, and interpersonal skills. Structured, analytical, and solutionoriented working style. ‑ oriented working style. Experience with Agile methodologies and modern project management tools."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138879",
+    "title": "GDB/ZI - API Management Specialist (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138879/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/ZI",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T18:30:00Z",
+    "description": "Objectives You will be responsible for the technical design and implementation of API-Proxies while ensuring compliance with all relevant BASF development guidelines. Beyond that you will support respective testing and error correction activities. You create and further develop concepts for operation topics and implement them in our team. Implement automation for our API-Management by using the management APIs of the related software components. Consulting of projects on the setup of integration scenarios in the area of API-Management. Coaching and training of colleagues in the development of APIs. Investigate new tools on the market and check how they can support BASF in their digital strategy Job Requirements Focus on the minimum requirements to carry out the work – you might want to point out “additional plus/nice to have skills” that are not mandatory Education and work Experience  Degree in computer science, information technology, business informatics, or a related discipline  At least 5 years of relevant professional experience  Familiarity with Agile methodologies or experience in Agile implementation  Collaborative mindset, with the ability to work effectively in cross-functional, multicultural DevOps teams. Experience in large-scale enterprise environments is highly desirable. Technical Professional Knowledge (mandatory and nice to have) Our main requirements:  Experience in the design, implementation and documentation of APIs  Experience in development projects (conception, realization, testing, documentation) with a strong focus on security  Know how in OAuth, Swagger/Open API Specification, JSON  Know how in Apigee Edge, SAP API-Gateway or Azure API-Proxy development  Experience in programming languages as Javascript  Experience with the setup of pipelines  Knowledge about MCP  Experience with the MS Power platform  Experience in GIT Personal traits  Entrepreneurial character  Highly developed sense of responsibility  Proactive character  Highly ambitious and service oriented  Good communication skills and interpersonal skills  Conflict management skills and conflict awareness  Highly customer-oriented  Well-developed sense of teamwork  Work in a DevOps team  Flexibility and ability to react to unforeseen circumstances Nice to have:  Integration knowledge on SAP Integration Suite and KAFKA  Docker and Kubernetes Language Proficiency  Good spoken and written English proficiency"
+  }
+}

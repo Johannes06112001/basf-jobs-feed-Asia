@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139179",
+    "title": "Senior Officer, New Substance Notification",
+    "url": "https://basf.jobs/job-invite/139179/?locale=en_US",
+    "country": "China",
+    "city": "Shanghai",
+    "state": "Fengxian",
+    "job_field": "Environment, Health & Safety",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+    "department": "EC/ES Product Stewardship",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-29T08:27:00Z",
+    "description": "About The Role Our EC/ES Product Stewardship APAC unit plays a crucial role in ensuring compliance with national and international chemical legislation. As the first point of contact for Product Stewardship topics, we actively engage with stakeholders, monitor regulatory developments, and promote responsible chemical management throughout the lifecycle of our products. By sharing our knowledge and expertise, we aim to ensure that Product Stewardship is integrated into all aspects of our operations. How You Will Do It • You are together with the Chemical Regulations Manager the primary contact for ECs business units for Asian chemical regulations. In close cooperation with the EC global regulatory team, you stay up to date with the latest regulations and requirements. This helps us to ensure compliance with the legal regulations for EC operations (ECO, ECR, ECT) for finished products in APAC. • Conducting hazard assessments and risk evaluations of our products from a chemical and regulatory perspective is another important task for you. By strategically identifying emerging regulatory issues and opportunities, you assess product and marketing risks and proactively develop risk management measures and product strategies for assigned portfolio and business units. • In Asia several countries require registrations. You will support preparing and submitting New Substance Notifications and (Product) Registration applications in accordance with local and regional regulations for more than 10 countries. This will require collaboration with internal stakeholders, including R D, Manufacturing, and Quality Assurance, to gather necessary data for submissions. • Monitoring of registered substance and being responsible for the Substance Volume Tracking for the Asian countries is another daily task including SAP maintenance. What We Look For • Completed scientific studies (B.Sc or M. Sc), preferably in chemistry. • Regulatory affairs experience, specifically in Asian Pacific chemical regulations. • Well-versed in IT applications, with at least 3 years working experience in SAP EHS system in product safety or chemical legislation area, coatings, fine chemical industrial relevant experience preferred. • High level of commitment and teamwork skills, flexibility, customer orientation, as well as independent and structured work approach. • Clear and authentic communication skills in English, with the ability to communicate effectively at all levels of the organization,..."
+  }
+}

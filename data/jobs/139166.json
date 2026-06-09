@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139166",
+    "title": "Chemist/Senior Chemist, Analytical Science (Spectroscopy)",
+    "url": "https://basf.jobs/job-invite/139166/?locale=en_US",
+    "country": "China",
+    "city": "Shanghai",
+    "state": "Shanghai",
+    "job_field": "Research & Development",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Advanced Chemicals Co., Ltd.",
+    "department": "RGS/FA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-29T01:42:15Z",
+    "description": "About The Role As a chemist/senior chemist candidate in the Structural Elucidation laboratory provides technical solutions for routine and complex analytical assignments using spectroscopy techniques How You Will Do It Under supervision from lab leader/senior chemist, independently perform FTIR and NMR analysis tasks. Analyze, interpret results, and prepare technical reports. Capable of communicate with internal partners for the understanding of their analytical service requirement and result interpretation. Ability to organize tasks and set priorities to ensure timely data delivery to customer. Perform general lab assignments (e.g., chemical inventory and lab housekeeping) as assigned. What We Look For Master in analytical sciences, chemistry or material science At least 2 years' experience of conducting NMR experiment and interpretation; Must be able to demonstrate hands-on practice on IR, NMR etc. as main task during past work period Experience with interpretation of NMR spectra for structural elucidation is mandatory Familiar with polymer system is a plus Good English and Chinese skills EHS Awareness Data IP Security Awareness 请时刻警惕任何可能的招聘欺诈行为！请注意，巴斯夫绝不会在任何情况下向候选人以任何形式收取任何费用"
+  }
+}

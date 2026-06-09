@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138635",
+    "title": "GDB/ZE-Cloud Data Engineer(M/F/D)",
+    "url": "https://basf.jobs/job-invite/138635/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/ZE Big Data Management",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-19T06:55:06Z",
+    "description": "Objective of the position Describe your Product Mission here / objective of the role. At our unit “Data Foundation - Big Data Management” we aim to offer organizations a robust and scalable solution for managing and deriving insights from vast quantities of data. By utilizing Azure's PaaS components, our platform streamlines the deployment and handling of Big Data workloads, empowering our clients to make data-driven decisions and propel business expansion. Our team is accountable for the creation and upkeep of the Big Data platform built on Azure PaaS components EDL (Enterprise Data Lake). We collaborate intensively with stakeholders to comprehend their needs and devise solutions that fulfill their expectations. The team is also in charge of guaranteeing the platform's scalability, dependability, and security, and for staying abreast with the newest technologies and trends in the big data domain About the Job: We are seeking a highly motivated and detail-oriented candidate who will be responsible for all data engineering aspects of the data product layer of our Enterprise Datalake, working with Azure and Databricks, maintaining/developing our framework and CI/CD pipelines and processes in an ambitious team. Main tasks Develop, extend and optimize the data product layer of our Enterprise Datalake with high code standards, tests and suitable documentation to meet both user and internal needs. Collaborate with the product owner and architect to understand data requirements and provide suitable solutions. Troubleshoot data and software related issues and optimize pipelines for performance and scalability. Work with Azure Databricks, Azure Data Factory/Synapse keeping up to date with the latest features and suggest their implementation if beneficial. Demonstrate fluent communication skills in English (spoken and written) Job Requirements minimum requirement to carry out the work – you might want to point out “additional plus/nice to have skills” that are not mandatory Edu c a t i o n Bachelor's degree in computer science, Information Technology, Engineering, Business, or related fields. Work experience Minimum 4-5 years related working experience as a D ata e ngineer using Azure, Databricks, Python , Azure Data Factory or Synapse T e c hn i c a l P r o f e ss i o n a l Knowledge (mandatory) Experienc e in Agile way of working with a DevOps mindset In-depth know how with Lakehouse concepts , Databricks and Unity Catalog . Strong data engineering and..."
+  }
+}

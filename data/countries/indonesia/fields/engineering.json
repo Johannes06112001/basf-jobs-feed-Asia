@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "Indonesia",
   "job_field": "Engineering",
   "total_active": 1,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "135123",
@@ -16,12 +16,9 @@
       "job_field": "Engineering",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "PT BASF Indonesia",
-      "department": "A-APA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-21T01:47:13Z",
-      "description": "Objectives: Responsible for supporting implementation of formulation technology transfer to own sites and contract manufacturers (CM) in APA including consistency check and update of technical database. Responsible for providing technical support and troubleshooting to own sites and contract manufacturers, support as technology subject matter expert in terms of chemical handling and process related topics. Support Senior Manager, Technology, Asia Pacific for all FFP (Formulation, Filling Packaging) projects (both Capital Investment and Operational Excellence) at APA own sites and contract manufacturers Support in updating/ aligning APA Formulants strategy with APA Operations and Global Formulant teams, including implementation of follow up actions on Formulant Risk Management and cost optimization initiative. Main Tasks: Technical Management Facilitate formulation technology transfer to own sites and contract manufacturers in APA in collaboration with APT/TF, APR/D, APT/Q, APA/OP (Site Managers and/or Sub-regional Contract Manufacturing Managers) for both existing and new product introductions, ensure high standard of reliability and integrity for own sites and contract manufacture"
+      "description_preview": "Objectives: Responsible for supporting implementation of formulation technology transfer to own sites and contract manufacturers (CM) in APA including consistency check and update of technical database. Responsible for providing technical support and troubleshooting to own sites and contract manufacturers, support as...",
+      "detail_path": "data/jobs/135123.json"
     }
   ]
 }

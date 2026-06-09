@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139414",
+    "title": "Assistant Chemist, Alkoxylation",
+    "url": "https://basf.jobs/job-invite/139414/?locale=en_US",
+    "country": "China",
+    "city": "Shanghai",
+    "state": "Shanghai",
+    "job_field": "Research & Development",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Advanced Chemicals Co., Ltd.",
+    "department": "G-EMH/RA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-08T06:24:52Z",
+    "description": "About The Role Located in BCCS lab Jinshan. Afternoon to night shift to handle the alkoxylation 5L alkox reactor, including materials treatment, reactor DCS operation, reactor cleaning and maintenance Be responsible for execution and optimization of synthesis in local and regional innovation development projects Safety and lab cleaning for responsible lab / reactor / control room area How You Will Do It Pass the certification exam of authority for alkoxylation reactor operation. Pass the internal certification exam of EM research for alkoxylation reactor operation. Need to be expertise on reactor PID, setting, DCS system and reaction system. Project Support Execute local and regional innovation synthesis projects based on alkox surfactants Route cause analysis of chemical reactions Summary of results and supporting materials Key interfaces: AT/TS and development teams G-EMH/RA and G-EMI/AT Analysis e.g. OHV / CP / color and viscosity Safety coordination Comply with regulations concerning EHS according to BCCS rules and BASF standards according to local given requirements Prepare HIRA and MOC together before lab experiments Act as safety coordinator when assigned What We Look For Education: 3 year college education or Bachelor on chemistry/industrial applied chemistry/physical chemistry or related areas. Working Experience: Minimum 3 years experience in relevant working experience in synthesis or process development, best on alkoxylation. DCS operation experience will be plus. Other requirements: Good safety sense is must. Could accept long-term afternoon and night shift working mode. Ability to quickly understand synthesis and related processes, team working."
+  }
+}

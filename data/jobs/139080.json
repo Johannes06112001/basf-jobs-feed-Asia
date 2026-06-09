@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139080",
+    "title": "Buyer, IT Digital Service Procurement",
+    "url": "https://basf.jobs/job-invite/139080/?locale=en_US",
+    "country": "China",
+    "city": "Shanghai",
+    "state": "Shanghai",
+    "job_field": "Procurement",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF (China) Company Ltd.",
+    "department": "GPI/DD IS/IT Digital Services Procurement",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-28T09:05:09Z",
+    "description": "About The Role As buyer responsible for sourcing purchasing and expediting of services in assigned categories according to category strategy Identify and pursue cost saving opportunities utilizing excellent negotiation skills, analyzing of market trends and selecting appropriate suppliers with category manager Follow up and perform operational procurement tasks within source to contract as well as purchase to pay including PO creation in SAP How You Will Do It Sourcing for indirect procurement Handle open PRs of assigned categories with defined thresholds, to do sourcing activity Initiate bidding process via electronic bidding tool, negotiate with supplier on all commercial items such as competitive price, payment term, etc… Focus on negotiation performance in all sourcing activities according to set negotiation targets and targeting to reduce cost and source at best possible prices for our iBPs Process handling for Down-payment, Paper contracts Outline agreements (OA) Look for synergy capture and for optimization of buying channel usage together with category buyer and the iBP to increase purchasing efficiency Purchase to Pay Perform P2P activities for purchase orders in respective categories Monitor open PR list Generate PO in SAP for POs without value limits Generate and maintain OA in SAP Create reports for open PR and PR to PO conversion in respective categories EHS and Responsible Care To implement the company's EHS standard, Business Partner Due Dilligence, and Responsible Care scheme during day-to-day work with external service providers What We Look For Bachelor or Master Degree in Procurement, Business Administration, Supply Chain or any related discpline 3-5 years of work experience in related categories in Indirect Procurement Solid IT skills for procurement tools (e.g. SAP R/3 Cobalt, SAP Business Warehouse, Strategic Procurement Suite, etc) Good in English and Chinese Good command of MS Office is a must, e.g. Excel, Powerpoint, Word Solid negotiation skills and passion with procurement Solid Knowledge of supplier, market environment, products/services and technologies within respective area Solid Knowledge on purchasing strategies, processes and guidelines is required. 请时刻警惕任何可能的招聘欺诈行为！请注意，巴斯夫绝不会在任何情况下向候选人以任何形式收取任何费用"
+  }
+}

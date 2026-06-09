@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "135172",
+    "title": "Asst Manager - Customer Service",
+    "url": "https://basf.jobs/job-invite/135172/?locale=en_US",
+    "country": "India",
+    "city": "Godrej One - Mumbai",
+    "state": "Maharashtra",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF India Limited",
+    "department": "A-CIA/LS",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-04-06T10:10:14Z",
+    "description": "About The Role Manage OTC (Order to Cash) interfaces with internal external customers efficiently and effectively. How Will You Do It Perform Sales and Delivery Order Management tasks in SAP. Contribute to development of customer relationships through proactive customer communication related to order management e.g. product availability, order status and delivery tracking. Support Credit Management, Billing and Accounts Receivable clearance. Manage Master Data maintenance process to ensure effective order management. Execute orders with accuracy and specific focus on the following fields like incoterms, RETA (requested ETA), Text ID’s Shipping instruction, LC (Letter of Credit) term, Partner role, Plant code, Arrival Port, etc. Handle customer complaints via Non-conformance Management (NCM) system Actively communicate status, investigation results, corrective actions to customer and ensure on time closure for service / product quality related complaints. Capture customer expectations / requirements and feedback to BU (business unit) sales / marketing. Support implementation of business rules related to customer order management process Provide order status report and track customer orders, transactional report creation circulation and timely following up for documentation. Contribute to further developments of customer care within CI and fostering a culture of customer focus in the team. Timely collection and submission of notarised agreement (high seal sale bond sale) and BoE copies. Preparation of business reports, inventory reports, any other reports as per business requirements. Planning Job Support demand planning with Local Sales and RBU coordination for monthly replenishment, based on sales forecasts. Handle import clearance processes and work towards resolution of customs queries. Track aging slow-moving stocks; drive liquidation in coordination with sales. Manage incident cases such as leakage, pilferage, or damage, ensuring timely reporting and resolution. Digital Transformation AI-Driven Operations: Knowledge and use of digital AI tools like Power BI, SAP Analytics Cloud, RPA bots, e-commerce portals, customer self-service platforms, real-time dashboards CRM tools. Participate in SAP S/4HANA or process automation upgrades, ensuring smooth change management and adoption within the team. Actively contribute to Continuous Improvement initiatives to achieve efficiency with cost reduction. What We Look For Education: Graduate in any stream, MBA /..."
+  }
+}

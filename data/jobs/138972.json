@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138972",
+    "title": "GDS/CD - Solution Architect Directory Services (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138972/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDS/CD Directory Services",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T10:49:00Z",
+    "description": "Directory Services - Solution Architect (Job Grade 4) About Us At BASF’s Global Digital Services (GD), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-performance culture inspired by our Winning Ways: enabling our customers’ green transformation, accelerating sustainability, and creating a workplace for curious, ambitious talents. In the Cyber Engineering IAM Solutions Product Family the Directory Services Product Team is responsible for providing secure, audit proof Directory Services on-premise and in the cloud. Be part of a global community where your ideas and expertise make a real impact. Responsibilities • Design, implement, and enhance Active Directories (AD) and Cloud Directories (Entra ID and 21Vianet). • Serve as a technical expert for authentication and authorization services, group policies and related Microsoft ecosystem components. • Provide advanced troubleshooting and third-level support for complex issues across global environments. • Collaborate closely with other architects, engineers, project managers and product owners in a global team setup. • Participate in lifecycle management, including updates, patching, migrations, and system hardening. • Document configurations, solution designs, and operational procedures. • Contribute to ongoing process improvements, automation, and optimization. • Create architectural blueprints, diagrams, and documentation. • Identify risks and provide mitigation strategies. • Promote innovation and continuous improvement within the technology landscape and provide technical leadership. • Share knowledge and best practices while interacting and building consensus across business and technical areas and teams. • Apply and adapt known tools/solutions after detailed analysis and sometimes develop creative approaches to solve problems which are typically undefined and unexpected. • Resolve topics with focus on efficiency or operational excellence and take new perspectives. • Influence strategic decisions within the product scope."
+  }
+}

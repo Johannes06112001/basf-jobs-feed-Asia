@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138240",
+    "title": "Import Export Operation Internship 1",
+    "url": "https://basf.jobs/job-invite/138240/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB Global Business Services",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-04T05:49:15Z",
+    "description": "The internship program is available all year long and here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the function e.g. supply chain, logistics, order management, etc. You will be able to explore digital technologies such as robotics and automation, machine learning, predictive analytics, AI technologies with potential to improve operational effectiveness and efficiency Collaborative and multicultural atmosphere where you are an essential team player to support colleagues and managers in a wide range projects and activities Guidance, coaching and feedback from supervisors on performance which help you learn and shape your working styl About The Role Support in tracking shipment schedules and updating details in SAP. Learn end to end shipment processes, and Incoterms.‑to‑end shipment processes, Collect and verify key shipping documents and uploading using Power Automate. Support in delivering automation effort across teams to simplify work processes Participate in improvement initiatives discussion to work on improvement plans and timelines Assist the team in tactical projects according to the objectives Administrative management of import-export activities Prepare documentation of standard order management tasks and exceptional tasks Requirement Able to commit a 3 to 6 months internship Students of Bachelor’s Degree or Master’s Degree in Supply Chain Management, Logistics, Business Administration or any related disciplines Proficient in oral and written English Proficient in Microsoft Excel A good team player with high level of maturity and independence"
+  }
+}

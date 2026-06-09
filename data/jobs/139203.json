@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139203",
+    "title": "Intern, Communications",
+    "url": "https://basf.jobs/job-invite/139203/?locale=en_US",
+    "country": "China",
+    "city": "Shanghai",
+    "state": "Shanghai",
+    "job_field": "Public Relations / Communications",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF (China) Company Ltd.",
+    "department": "PM/KA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-29T07:35:47Z",
+    "description": "How You Will Do - Supporting the creation and maintenance of internet CN webpages from Q3 – Q4 2026 - Supporting the organization of exhibitions, internal and customer events in China, e.g., CHINAPLAS 2027 - Supporting the translations of marcom materials and copywriting of CN articles - Any other admin./logistical arrangements (e.g., arranging samples for events, creating Purchase Request, etc.) What We Look For - Education: Studying in Bachelor's Degree, major in Communications/Journalism or Marketing is preferred. - Preferred Internship Duration: 5 months - Working time: Minimum 3 days per week - Familiar with one of the following or similar tools: Photoshop, Canva, Content Management System, Microsoft 365 (Microsoft Word, PowerPoint, Excel, Teams). - Good in Chinese and English in both spoken and written - A team player with good interpersonal skills - Experiences on photo/video editing and copywriting will be an advantage. 请时刻警惕任何可能的招聘欺诈行为！请注意，巴斯夫绝不会在任何情况下向候选人以任何形式收取任何费用。"
+  }
+}

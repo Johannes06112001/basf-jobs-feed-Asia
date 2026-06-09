@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139386",
+    "title": "Intern, Application Tester",
+    "url": "https://basf.jobs/job-invite/139386/?locale=en_US",
+    "country": "China",
+    "city": "Nanjing",
+    "state": "Unknown",
+    "job_field": "Digitalization",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+    "department": "G-ECO/MD",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-08T08:53:15Z",
+    "description": "About The Role Within G-ECO/MD team, you will be responsible for testing our digital applications used in coatings industry. Your role involves manual testing of new features alongside the DevOps team, ensuring readiness for release. You'll facilitate both DevOps team and Product Owners by identifying, reporting, and documenting bugs and generating release notes. Your commitment to quality will drive continuous improvement, making our application a benchmark for reliability and user satisfaction in the business. How You Will Do It Conduct thorough testing of digital applications to ensure functionality, usability, and reliability. Identify, document, and report bugs and issues to the development team. Strong willingness to learn about our business processes and the underlying technology that supports them. Take initiative to acquire new skills that can contribute to the team's success. Work closely with the DevOps team and Product Owners to understand the development lifecycle and customer requirements. Provide feedback and suggestions to improve application performance and user experience. Good communication skills by effectively reporting test findings, collaborating with team members, and participating in meetings and discussions. Maintain documentation of test cases, results, and any other relevant information. What We Look For Education Level, course major preferences – Field of computer and information science. Proficiency in Microsoft Office suite (Word, Excel, PowerPoint) Good communication skills, both written and verbal Willing to learn Programming skills in Java, Vue.js, and SQL will be a strong plus Fluent English skills Fluent Mandarin skills"
+  }
+}

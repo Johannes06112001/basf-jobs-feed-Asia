@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138963",
+    "title": "GDD/PH - Application Support Engineer (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138963/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/PH Operational EHS Support Services",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T09:58:23Z",
+    "description": "Objective of the position We are looking for a highly dynamic, motivated, and collaborative person to join our team. We are focused on the modernization of legacy systems and development of new capabilities of digital solutions in the Operations Platform team. There is a growing global need within BASF to leverage digitalization to continue BASF’s journey of excellence and continuously improving our capabilities especially through digitalization. Main tasks You will provide operational L2/L3 support for Operations Platform (OP) applications in Ludwigshafen and other sites in the EMEA region, ensuring stable production operation. You will act as a key operational support contact for OP applications in production environments, supporting incident analysis and resolution in collaboration with Level 2/3 product teams and infrastructure support. You will support major and minor OP platform / application deployments, including: Deployment preparation activities Go live and hypercare support Post deployment validation and regional verification You will support incident handling activities for platform or application incidents, including verification, rollback support, and cross region alignment when required. You will collaborate closely with OP product teams for advanced troubleshooting, release support, and change execution, and with Level 3 developers for defect resolution. You will work together with first line support and external support providers by supporting escalations and follow ups until issue resolution. You will support technical and operational communication to sites and stakeholders during incidents, releases, and hypercare periods together with Level 2/3 teams. You will contribute to improving support knowledge documentation and operational practices based on real production issues and incidents. You will support other support engineers with technical validation activities and operational procedures. You will provide operational support coverage during critical periods, such as go lives, major releases, and periods of high request volumes. Job Requirements minimum requirement to carry out the work – you might want to point out “additional plus/nice to have skills” that are not mandatory Edu c a t i o n Degree in Computer Science, Computer Engineering, informatics, business informatics or in a comparable field Work experience Minimum 5 years of work experience in IT application or platform support , preferably in a production ‑ critical..."
+  }
+}

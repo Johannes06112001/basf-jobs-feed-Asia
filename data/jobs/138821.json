@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138821",
+    "title": "GD/C - Specialist for Digitalization in the Area of Service Charging and Data Analysis (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138821/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GD/C Digitalization Controlling & Finance",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-21T18:30:00Z",
+    "description": "Specialist for Digitalization in the Area of Service Charging and Data Analysis with a Focus on SQL OrgCode: GD/CG Product Team: Controlling Processes and Charging Responsibilities: `you will act as a competent advisor to management and BASF internal customers regarding the service charging of the Global Digital Services unit and other service units. You are a trusted contact person for all questions related to charging and, together with the team, responsible for ensuring the monthly service charging through the operation and further development of the system landscape used. This also includes carrying out, coordinating, and troubleshooting the regular monthly global service charging of Global Digital Services within the BASF Group. You communicate in a goaloriented manner with key stakeholders inside and outside of Controlling to ensure monthly charging. You are familiar with the endtoend chain of all systems involved in the charging process. You support the development and implementation of strategic measures, special initiatives, and the management of correct service charging. Additionally, you identify optimization potential in charging, processes, and systems, propose improvements, and implement them independently. You possess a comprehensive understanding of management requirements and consider them in your daily work. Qualifications: `You successfully completed your studies in business informatics with a focus on data models, ERP, or controlling, or have a comparable qualification. You have strong IT affinity, ideally experience with SQL and BI tools. You have strong analytical problemsolving skills and a pronounced affinity for numbers. You have solid experience translating business requirements into program code, preferably with PL/SQL experience, Oracle; Linux shell scripts are also familiar to you. You are familiar with web services, Java, NetBeans, KAFKA, and modern programming languages. Writing complex SQL queries and optimizing SQL queries is nothing new to you. You have professional experience with data analysis software and databases. You have experience in controlling/accounting, ideally in internal service charging. What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance..."
+  }
+}

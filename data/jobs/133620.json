@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "133620",
+    "title": "Intern, Digitalization",
+    "url": "https://basf.jobs/job-invite/133620/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "job_field": "Information Technology & Services",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "Toray BASF PBT Resin Sdn. Bhd.",
+    "department": "A-PMA/OS",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-03-04T03:08:21Z",
+    "description": "Main Tasks: 1. Involved in software development as well as maintenance and improvement of citizen development tools. i.e. Microsoft Power Apps, Power BI and other Microsoft products. 2. Engage, enable and collaborate with stakeholders. 3. Review current processes and identify opportunities for improvement. 4. Assist in administrative activities i.e. meeting minutes, meeting slides preparation, requirement documentation etc. Requirements: 1. Committed to a full-time 6-month internship 2. Students minimum Diploma's in IT or any related disciplines. 3. Knowledge on hardware, Microsoft Product (i.e. Power Apps, Power Automate, Power BI, Power Point, Excel). 3. Excellent time management, work prioritization and verbal communication skills. 4. Able to maintain a high level of confidentiality. 5. Able closely with stakeholder physically onsite in the office."
+  }
+}

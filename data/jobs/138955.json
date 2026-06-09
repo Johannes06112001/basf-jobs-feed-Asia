@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138955",
+    "title": "GDD/EQ - Junior SAP PM Support Engineer (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138955/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/EQ SAP PM Services, Project&Contractor Sol.",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-25T09:09:27Z",
+    "description": "Senior SAP PM Support Engineer (m/f/d) About the Role The IT Service Engineer is responsible for the delivery, operation, and further development of SAP Plant Maintenance (SAP PM) asset master data services within the unit SAP PM Services, Project Contractor Solutions . The role acts as a Key Account and primary contact for assigned plants regarding SAP PM solutions, ensuring compliant, high-quality, and customer-oriented asset master data management based on BASF standards and best practices. Your Responsibilities SAP PM Service Delivery Key Account Responsibility Act as first point of contact (Key Account) for assigned plants for all questions related to SAP PM solutions within the product Digital Asset Master Data Management . Provide SAP PM services globally for BASF. Actively acquire new customers and promote the SAP PM service portfolio to increase awareness and adoption of the service offering. SAP PM Master Data Management Deliver SAP PM base services, including: Creation and maintenance of Functional Location structures Maintenance of Equipments Creation and maintenance of Maintenance Plans Management of SAP PM documents Ensure SAP PM master data is created and maintained in compliance with BASF standards and best practices , considering local regulations where required. Coordinate and guide SAP PM Data Operators to support the execution of operational master data tasks. Upload and maintain data in SAP PM using existing tools for mass data upload. Consulting, Standards Governance Communicate SAP PM standards, rules, and framework conditions clearly to customers and stakeholders. Advise customers on feasible SAP PM solutions within the defined governance model. Automation Solution Development Collaborate with the product development team to: Further develop existing SAP PM data automation solutions Design new SAP PM solutions based on customer requirements Your Profile SAP Plant Maintenance (SAP PM) Very good knowledge of the SAP PM System , and particularly the SAP PM asset master data objects : Functional Locations, Equipments, Maintenance Plans, SAP PM document integration Strong practical experience in creating, maintaining, and governing SAP PM asset master data for chemical process plants. IT Tool Skills Confident use of Microsoft Excel and other Microsoft Office applications to support SAP PM service delivery and analysis. Ability to work with SAP PM-related tools supporting data maintenance and automation (as provided within the..."
+  }
+}

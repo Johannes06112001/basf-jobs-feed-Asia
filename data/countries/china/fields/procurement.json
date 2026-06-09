@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "China",
   "job_field": "Procurement",
   "total_active": 5,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "139098",
@@ -16,12 +16,9 @@
       "job_field": "Procurement",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (China) Company Ltd.",
-      "department": "GPD/FF",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-04T05:29:00Z",
-      "description": "= Objectives = • Global Category Buyer of chemical raw materials in the global team Procurement Functional Intermediates for Direct Procurement department. • Ensure a competitive, sustainable and secured supply of raw materials to the internal business partners within the defined area of responsibility. Negotiate high-spend contracts and generate savings for BASFs divisions. • Responsible for contributing to develop, implement and monitor strategy for regional categories • Prepare and execute Request for Quotation (RfQ), Contract implementation monitoring • Category Management • Lead sourcing projects and contributes in projects • Execute Supplier Management • Execute Category Risk Management = Main Tasks = Procurement Plan to Strategy: • Responsible for contributing to procurement strategies for Global Categories: • Provide input of Integrated Business Planning (iBP)’s needs and market knowledge (e.g. supply market structure and dynamics, strategies of suppliers, pricing structures, opportunities and threats) to Regional Category Manager • Support Global Category Manager on strategy development (e.g. strategic goals, strategic options, implementation plan) • Strategy implementatio"
+      "description_preview": "= Objectives = • Global Category Buyer of chemical raw materials in the global team Procurement Functional Intermediates for Direct Procurement department. • Ensure a competitive, sustainable and secured supply of raw materials to the internal business partners within the defined area of responsibility. Negotiate...",
+      "detail_path": "data/jobs/139098.json"
     },
     {
       "job_id": "139194",
@@ -33,12 +30,9 @@
       "job_field": "Procurement",
       "job_level": "Graduate",
       "job_type": "Temporary",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "EC/PO",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-03T06:06:05Z",
-      "description": "About The Role - Execute and monitor purchase-to-pay process for indirect cluster, to ensure delivery reliability targets and efficient end-to-end process - Assist internal departments (e.g. Engineering, HR, Legal, etc.) in following procurement guidelines and purchase-to-pay procedures. - Actively steer buying channel usage to target high degree of automation - Ensure compliance with quality standards, documentation requirements, and procurement policies How You Will Do It - Execute the purchase-to-pay process with day-to-day operational tasks (e.g. generate Purchase Orders, process Purchase Requisitions), collaborate with various stakeholders (requisitioners, buyers, vendors, …) and solve supply-related issues - Coordinate order intake and complete master data maintenance including document collection (e.g. certificates) - Train internal stakeholders to follow procurement guidelines and to use proper platform for request raising - Support in the implementation of procurement strategies - Coordinate non-conformity investigations with internal and external stakeholders What We Look For - This role offers a 1-year fixed-term contract. - Bachelor's degree in Supply Chain. - Min. 3 ye"
+      "description_preview": "About The Role - Execute and monitor purchase-to-pay process for indirect cluster, to ensure delivery reliability targets and efficient end-to-end process - Assist internal departments (e.g. Engineering, HR, Legal, etc.) in following procurement guidelines and purchase-to-pay procedures. - Actively steer buying...",
+      "detail_path": "data/jobs/139194.json"
     },
     {
       "job_id": "139191",
@@ -50,12 +44,9 @@
       "job_field": "Procurement",
       "job_level": "Graduate",
       "job_type": "Temporary",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "EC/PO",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-03T06:05:26Z",
-      "description": "About The Role - Execute and monitor purchase-to-pay process, to ensure delivery reliability targets and efficient end-to-end process - Assist internal departments (e.g. Supply Chain, Engineering, HR, Legal, etc.) in following procurement guidelines and purchase-to-pay procedures. - Actively steer buying channel usage to target high degree of automation - Ensure compliance with quality standards, documentation requirements, and procurement policies How You Will Do It - Conduct purchase-to-pay tasks (e.g. process Purchase Requisitions, generate Purchase orders), collaborating with various stakeholders (requisitioners, buyers, vendors, …) - Solve supply-related issues efficiently by monitoring order confirmations and clarify changes - Steer exception handling for purchase requisitions or coordinate order intake, further complete master data maintenance including document collection (e.g. certificates) - Train internal stakeholders to follow procurement guidelines and to use proper platform for request raising - Support in the implementation of procurement strategies - Coordinate the non-conformity investigation with internal and external stakeholders What We Look For - This role offe"
+      "description_preview": "About The Role - Execute and monitor purchase-to-pay process, to ensure delivery reliability targets and efficient end-to-end process - Assist internal departments (e.g. Supply Chain, Engineering, HR, Legal, etc.) in following procurement guidelines and purchase-to-pay procedures. - Actively steer buying channel usage...",
+      "detail_path": "data/jobs/139191.json"
     },
     {
       "job_id": "139190",
@@ -67,12 +58,9 @@
       "job_field": "Procurement",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "EC/PO",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-03T06:04:27Z",
-      "description": "About The Role - Lead process improvement projects as focal process engineer for Asia Pacific - Identify opportunities and drive process optimization for direct and indirect Procurement - Implement process optimization measures and ensure change management cross procurement and relevant stakeholders - Improve project methodology competence and foster knowledge sharing within EC Procurement - Foster best practices and increase adoption globally How You Will Do It - Drive process optimization and digitalization from identification of potentials to implementation - Implement globally harmonized solutions - Take on project tasks such as master data migration, training, change management upon need and alignment within project team - Train organization upon need - Ensure proper process documentation What We Look For - Bachelor’s degree and above. MBA is a plus. - Min. 3 years working experience with procurement or IT. - Experience in Project Management and process optimization - Good English skills in both writing and speaking. - Open minded and passionate on taking challenging tasks"
+      "description_preview": "About The Role - Lead process improvement projects as focal process engineer for Asia Pacific - Identify opportunities and drive process optimization for direct and indirect Procurement - Implement process optimization measures and ensure change management cross procurement and relevant stakeholders - Improve project...",
+      "detail_path": "data/jobs/139190.json"
     },
     {
       "job_id": "139080",
@@ -84,12 +72,9 @@
       "job_field": "Procurement",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (China) Company Ltd.",
-      "department": "GPI/DD IS/IT Digital Services Procurement",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-28T09:05:09Z",
-      "description": "About The Role As buyer responsible for sourcing purchasing and expediting of services in assigned categories according to category strategy Identify and pursue cost saving opportunities utilizing excellent negotiation skills, analyzing of market trends and selecting appropriate suppliers with category manager Follow up and perform operational procurement tasks within source to contract as well as purchase to pay including PO creation in SAP How You Will Do It Sourcing for indirect procurement Handle open PRs of assigned categories with defined thresholds, to do sourcing activity Initiate bidding process via electronic bidding tool, negotiate with supplier on all commercial items such as competitive price, payment term, etc… Focus on negotiation performance in all sourcing activities according to set negotiation targets and targeting to reduce cost and source at best possible prices for our iBPs Process handling for Down-payment, Paper contracts Outline agreements (OA) Look for synergy capture and for optimization of buying channel usage together with category buyer and the iBP to increase purchasing efficiency Purchase to Pay Perform P2P activities for purchase orders in respectiv"
+      "description_preview": "About The Role As buyer responsible for sourcing purchasing and expediting of services in assigned categories according to category strategy Identify and pursue cost saving opportunities utilizing excellent negotiation skills, analyzing of market trends and selecting appropriate suppliers with category manager Follow...",
+      "detail_path": "data/jobs/139080.json"
     }
   ]
 }

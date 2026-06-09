@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138554",
+    "title": "GDF/CQ- DevOps Engineer OMP OPR",
+    "url": "https://basf.jobs/job-invite/138554/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/CQ Operat. Plann.&Sched.  (Adv.: EU, AP)",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-19T08:16:44Z",
+    "description": "DevOps Engineer OMP OPR Your main responsibilities include: You are responsible for designing, implementing, and supporting OMP related developments using OPAL. Build and deploy the templates using GIT version control system. Experience in implementing pyramids/solvers/conflicts in OPAL programming language. Understanding in software development lifecycle including automated testing and working on the development and operational topics Skills in programming language python, Java, C++ Education Bachelor’s or master’s degree in supply chain management, Information Technology, Industrial Engineering, Software Engineering, or Computer Science or a related field. Excellent communication skills in English. Experience in development or IT consulting with focus on supply chain planning solutions. Excellent communication skills in English. In-depth knowledge around planning solutions in Detailed Planning Scheduling, SAP ECC, SAP APO and OMP. SC planning process knowledge. Nice to have ERP knowledge in the area of manufacturing. Experience with agile development methods like Scrum. Agile Certification(s) from Scrum Alliance, or SAFe (or others). Experience with LeanUX, Design Thinking Knowledge of Atlassian tools such as Jira, Confluence Experience - SC Planning experience for 2-5 years (e.g. Demand Planning, Supply Network Planning, Detailed Scheduling, Optimization, Data Integration) - Technical affinity - Takeover development tasks and implement changes Knowledge/Skills Open mindset Openness to new trends and innovative solutions. Willingness to learn and adopt into new planning tools The will and ability to drive change to achieve business goals. Ability to work in a multicultural team spread across the globe Start a training path to OMP, Rollout of OMP as a replacement of SAP APO Learning by doing / shadowing a colleague. Actively pull and take over tasks and work self-organized"
+  }
+}

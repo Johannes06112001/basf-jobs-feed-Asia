@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "130215",
+    "title": "Chemist - Application Technology Rinse-off",
+    "url": "https://basf.jobs/job-invite/130215/?locale=en_US",
+    "country": "India",
+    "city": "Navi Mumbai - HO (Innovation Campus)",
+    "state": "Maharashtra",
+    "job_field": "Research & Development",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Chemicals India Pvt. Ltd.",
+    "department": "G-EMP/RA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-01-20T07:47:24Z",
+    "description": "(A) Core Purpose Develop rinse-off application technology based on business needs and contribute to build up identified technical competences and the necessary know how for South Asia market and beyond. Contribute to regional technical support and preparation of promotion kits for rinse-off product portfolio. Implement key customer projects in rinse-off application (B) Main Responsibilities, Tasks Deliverables Be responsible for implementation of application technology development in rinse-off category. Carry out marketing concept and solutions development in collaboration with local and regional market development teams. Be responsible for rinse-off technical support and key customer projects implementation in South Asia Communicate/exchange application technical know-how within region. Transfer the new application technology and new products launch from global to local Support internal or external seminars / workshop / trainings and events Documentation and technical data maintenance and summaries. Comply with lab safety, health and environment. (C) Key Interfaces G-EMP/R Global Development Projects Leaders G-EMP Regional/Local Market Development Team Local Sales Team Analytical team at BASF Innovation Campus Mumbai (D) Performance Measures New concept and application of new products according to identified rinse-off market needs Successfully implementation of marketing concepts and key customer projects Maintenance of lab instruments and safe working environment and support AT laboratory development following BASF EHS compliance (E) Key Competencies (G= General; L=Leadership) Demonstrate Customer Focus: L Communicate Effectively: G Collaborate for Achievement: G (F) Technical Competencies Technical Professional Knowledge: Chemistry / Applied Chemistry / Physical Chemistry / Cosmetics Formulation Experience, instrumental analysis, laboratory safety management, standard IT-applications (G) Minimum Education and Qualification Requirement Education: BSc or MSc in chemistry, cosmetic science or related area Working experience: MSc or BSc with 5+ years of working experience in a laboratory environment. Other requirements: English- Fluent in reading, writing, and speaking"
+  }
+}

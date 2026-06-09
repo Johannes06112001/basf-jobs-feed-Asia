@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138942",
+    "title": "Assistant Manager, Production Planning",
+    "url": "https://basf.jobs/job-invite/138942/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Pasir Gudang",
+    "state": "Johor",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF (Malaysia) Sdn. Bhd.",
+    "department": "A-PMA/SE",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-26T03:11:12Z",
+    "description": "Objectives of the Position To support daily Supply Network Planning operations for the Engineering Plastics in Pasir Gudang plant. Ensuring timely raw material availability, accurate production planning, system maintenance, compliance with audit requirements, and preparation of monthly reports. Main Tasks Issue a monthly production schedule to determine the production volume to be produced on each extruder line every month. Received MPS from SCM Regional to prepare detailed production scheduling on monthly basis. Assist in data processing of all production information after each run, according to BASF procedures, and keying them into the SAP system (GR/GI) Assist in issuing the feed preparation information as per the official recipe to the Production Supervisor for each production run in both SAP and MES barcode. Responsible for aging stocks control for raw materials Liaise closely with SCM, and A-PMA on all changes and arrangements of production, stock, and schedule accordingly. Responsible for new Material Master request in Bizagi for 3rd party raw material. If Finish Goods only for the change of packaging type. Requirements Minimum of Diploma in Chemistry, Industrial Chemistry, or related field Preferably 3-4 years related experience Experienced in using SAP R/3 for daily operations Job Characterization Strong production planning scheduling. Strong raw material planning. Strong communication and interpersonal skills, good analytical and problem-solving skills Ability to work collaboratively with various departments and foster a positive safety culture."
+  }
+}

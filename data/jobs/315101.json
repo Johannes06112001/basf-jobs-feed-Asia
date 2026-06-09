@@ -1,0 +1,21 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "315101",
+    "title": "Post-doc, R&D (006902)",
+    "url": "https://basf.jobs/light_blue_AP/job/SHANGHAI-Post-doc%2C-R&D-%28006902%29-200000/1229735701/?feedId=111101",
+    "country": "China",
+    "city": "SHANGHAI",
+    "state": "Unknown",
+    "job_field": "Research & Development",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF",
+    "department": "Research & Development",
+    "hybrid": false,
+    "date_posted": "2025-07-29T00:00:00Z",
+    "description": "Main Tasks • Develop technical solutions using existing and new technologies, methods etc. • Transform the project objectives into work plans for lab team, analyze & interpret experimental results. • Develop new methods and procedures for synthesis, testing or analysis. • Constantly discuss and align research activities with other project parties. • Closely watching and achieving project milestones, timeline and budget. • Present and document results, file patents. • Continuously observe, analyse and assess scientific and technical trends in products, processes, applications, industries. • Closely follow and evaluate scientific literature, publications, IP and draw conclusions for BASF. • Develop ideas for new research projects & topics and discuss within the relevant research and business community. Requirements • PhD in polymer chemistry or polymer physics • Better to have water-based coating/adhesive background • Fluent English (reading, writing and presenting) 请时刻警惕任何可能的招聘欺诈行为！请注意，巴斯夫绝不会在任何情况下向候选人以任何形式收取任何费用。"
+  }
+}

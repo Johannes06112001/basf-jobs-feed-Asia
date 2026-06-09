@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138855",
+    "title": "GDE/ED - SAP Consultant HR Time Management",
+    "url": "https://basf.jobs/job-invite/138855/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/ED Personnel Administration&Time Management",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T14:13:14Z",
+    "description": "About the Role We are seeking a highly skilled SAP S/4HANA Time Management Expert who combines strong technical know how with deep functional HR Time Management expertise. In this hybrid role, you will act as a trusted advisor to our HR Business Partners and support our global Time Management processes end to end—from requirements analysis and solution design to technical implementation and operational excellence. Your mission is to ensure stable system operations, deliver high-quality solutions, and proactively guide the business in shaping efficient, compliant, and user centered time processes in an S/4HANA environment. ________________________________________ Your Responsibilities Functional Expertise Business Consulting • Advise HR business partners on time evaluation logic, working time models, absence processes, time accounts, and country specific regulatory requirements. • Translate complex business requirements into robust functional concepts and guide stakeholders in process optimization. • Conduct fit gap analyses and provide recommendations for process harmonization and simplification across regions. • Ensure legal and policy compliance related to working time, accruals, absences, and data retention. Technical Solution Ownership • Design, configure, and maintain SAP S/4HANA Time Management (PT), including schemas, rules, time valuation, work schedules, and master data dependencies. • Implement technical changes and coordinate development activities with external and internal teams. • Evaluate, test, and deploy SAP Notes, transport requests, and configuration adjustments. • Oversee system integrations (Payroll, PA/OM, BTP, external workforce onboarding, interfaces). Operational Excellence DevOps • Manage day to day application operations, troubleshoot issues, and ensure system stability. • Conduct thorough testing, regression analysis, and quality assurance for changes, upgrades, and releases. • Drive continuous improvement initiatives, such as data cleanup, process automation, and S/4HANA simplification adoption. • Prepare documentation, guidelines, and training materials for users and stakeholders."
+  }
+}

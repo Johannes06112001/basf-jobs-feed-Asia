@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "131049",
+    "title": "Assistant Manager - Application Development 1",
+    "url": "https://basf.jobs/job-invite/131049/?locale=en_US",
+    "country": "India",
+    "city": "Godrej One - Mumbai",
+    "state": "Maharashtra",
+    "job_field": "Marketing & Sales",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF India Limited",
+    "department": "G-PM/ABI GKAM Tata/Suzuki/Mah.",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-01-21T01:52:09Z",
+    "description": "M ain T as k s General Regular customer visits to make long term relationships by providing best technical support, collection of information on new projects, promote new applications and track competitor activities. Promotion of Cellasto NVH products by replacement competing low cost materials. Analyze customer product designs specifications, understand design changes and provide technical proposals/ideas / solutions after doing simulations submit design proposals. Responsibility for complete project management from RFQ generation to SOP and technical support till EOP Customer complaints management by analysing and understanding failure modes and providing countermeasure solutions. Strategic Proactively pursue new applications, promoting Cellasto full material portfolio against competing low cost materials by conducting technical seminars at customer end Collaborate with team for nomination of the business / projects. Take full responsibility for managing nominated projects till SOP. Represent Cellasto in Team Automotive India and actively participate to promote Cellasto applications Operational Ensure customer support by: Assessing customer RFQs inputs requirements. Design, analyze and develop Cellasto parts to meet customer requirements. Understand and propose VAVE designs if feasible Ensure Project Management by: Co-ordination between customer, internal team(Sales, Quality Control, SCM, Quality Management, Operations) and group companies for all product development activities till SOP Issuing proto sample orders and order follow up to meet the customer schedules Issuing testing orders, prepare and submit test reports and follow up for successful completion of part validation tests as per agreed timeline with customer Validation report preparation and final submission to customer. Follow up with customer for report approval PSW release Record all project documents as per APQP / IATF16949 and BASF guidelines until and upload on CDB Customer complaint management: Analyze and understand the failure modes; Cascade the information within CFT and initiate countermeasure actions Ensure part design change and validation as a part of countermeasure action, if applicable Initiate change management process internally and at customer end, if required Submit the action plan (in 8D format) to customer Follow up for all action items, monitor improvement outcome and information sharing with customer Coordination with group companies for Cellasto Project Management..."
+  }
+}

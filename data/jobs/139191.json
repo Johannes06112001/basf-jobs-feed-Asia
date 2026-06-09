@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139191",
+    "title": "Officer, Procurement Operations & Process Excellence (1 Year Contract)",
+    "url": "https://basf.jobs/job-invite/139191/?locale=en_US",
+    "country": "China",
+    "city": "Shanghai",
+    "state": "Fengxian",
+    "job_field": "Procurement",
+    "job_level": "Graduate",
+    "job_type": "Temporary",
+    "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+    "department": "EC/PO",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-03T06:05:26Z",
+    "description": "About The Role - Execute and monitor purchase-to-pay process, to ensure delivery reliability targets and efficient end-to-end process - Assist internal departments (e.g. Supply Chain, Engineering, HR, Legal, etc.) in following procurement guidelines and purchase-to-pay procedures. - Actively steer buying channel usage to target high degree of automation - Ensure compliance with quality standards, documentation requirements, and procurement policies How You Will Do It - Conduct purchase-to-pay tasks (e.g. process Purchase Requisitions, generate Purchase orders), collaborating with various stakeholders (requisitioners, buyers, vendors, …) - Solve supply-related issues efficiently by monitoring order confirmations and clarify changes - Steer exception handling for purchase requisitions or coordinate order intake, further complete master data maintenance including document collection (e.g. certificates) - Train internal stakeholders to follow procurement guidelines and to use proper platform for request raising - Support in the implementation of procurement strategies - Coordinate the non-conformity investigation with internal and external stakeholders What We Look For - This role offers a 1-year fixed-term contract. - Bachelor’s degree in Supply Chain - Min. 3 years working experience with procurement, sales or supply chain. Fresh Graduates are welcomed. - Skilled with ERP system. SAP purchase-to-pay module experience is a plus. - Good English skills in both writing and speaking. Additional language is a plus (Japanese, Thai) - Strong communicator with a service-oriented mindset, able to independently resolve inquiries and collaborate effectively with colleagues globally. - Open minded and passionate on taking challenging tasks. Nice to have: - Indirect procurement experience is a plus. - Additional language is a plus (Japanese, Thai)"
+  }
+}

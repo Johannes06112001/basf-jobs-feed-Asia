@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139468",
+    "title": "Assistant Research Scientist I",
+    "url": "https://basf.jobs/job-invite/139468/?locale=en_US",
+    "country": "India",
+    "city": "Navi Mumbai - HO (Innovation Campus)",
+    "state": "Maharashtra",
+    "job_field": "Research & Development",
+    "job_level": "Graduate",
+    "job_type": "Permanent",
+    "company": "BASF Chemicals India Pvt. Ltd.",
+    "department": "APR R&D Crop Protection",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-08T10:20:08Z",
+    "description": "Objectives of the position: Support to Physchem samples Analysis. Representative Main tasks: Handling of LCMS, UPLC HPLC LCMS (Waters Shimadzu): Ontime and Accurate LCMS analysis service support, solving queries for Discovery team. Managing (maintenance and troubleshooting of LCMS instrument.) EHS Task: Reporting of Near miss and Unsafe behavior as an observant while working in lab. Maintain zero lost time incidences by working safe. Working in the lab with all required PPEs and following safety guidelines Suggested Competencies: Analytical Chemistry Spectroscopy Organic Chemistry Calculations Ms Office Inorganic Chemistry Physical Chemistry Laboratory Techniques Data Analysis Quality Control Instrumentation Research Methods Chemical Safety Problem-solving skills Communication skills Time management skills Teamwork and collaboration Critical thinking Presentation skill Size of Impact: Not Applicable Authority: Lab permits issuer, Participation in lab safety round. Responsibility: LCMS, chromatographic Techniques, SOP preparation. Weekly check of safety shower and eye washer for lab."
+  }
+}

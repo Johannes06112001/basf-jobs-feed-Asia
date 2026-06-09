@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139289",
+    "title": "GDB/DH - Scrum Master (m/f/d)",
+    "url": "https://basf.jobs/job-invite/139289/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/DH Digital Capabilities Enablement",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-06-02T11:01:47Z",
+    "description": "Summary Digitalization will be a true part of BASF’s DNA that creates new exciting customer experiences and business growth as well as drives efficiencies in processes. Global Digital Services is supporting BASF business in Digitalization transformation. Our mission is to drive forward the digital transformation of BASF, providing innovative, global and high-quality digital products and services through a strong agile culture. The Digital Hub Hyderabad is one of our global key locations to deliver regional and global solutions for BASF. Within our Product Family Development Solutions, we build up BASFs development platform that standardizes the app and AI development. We value reliability, trust and transparency and a great working culture. We strive for Commitment, Focus, Openness, Respect, and Courage on all levels. In your role as Agility Master within DevHub you will be supporting our scrum teams and their agile framework as a servant-leader, removing obstacles that may hinder the team's progress and support continuous improvement by encouraging feedback, promoting collaboration and adaptation culture to foster efficiency, and productivity. You will encourage teams to improve performance and maturity, providing the platform with an agile topology to evolve. Ultimately, you’ll help teams to be self-organized, flexible and fully productive during sprints focusing on delivering value to the customer. Responsibilities and Key Outcomes • Guiding and coaching the Scrum Team and DevHub in the effective use of Agile practices, creating an environment that enables teams to become self-managed and sustainably high performing. • Supporting and coaching the Product Owner by providing techniques to refine and prioritize the backlog, ensuring alignment with broader product and organizational priorities. • Assessing the agile maturity of teams and the platform and actively guiding them toward higher levels of effectiveness and continuous improvement. • Translating product priorities into clear team goals and actionable improvements. • Helping teams focus on high-impact work by reducing waste, limiting unnecessary complexity, and improving flow. • Adapting agile practices to the team context to ensure pragmatism, effectiveness, and continuous improvement. • Promoting strong communication and collaboration across the platform to support sound decision-making, shared ownership, and a common understanding of goals and agile ways of working. • Accompanying the Product..."
+  }
+}

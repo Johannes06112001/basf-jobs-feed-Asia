@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138871",
+    "title": "GDD/GD - Yard Management - SAP TM Functional Consultant (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138871/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/GD Yard Management Individual Solutions",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T17:56:28Z",
+    "description": "Yard Management – SAP TM Functional Consultant Role main activities. What is expected from you? We are looking for a seasoned SAP Transportation Management (TM) Functional Consultant with deep expertise in S/4HANA TM, a solid understanding of end-to-end supply chain logistics, and proven delivery experience in the chemical industry. The successful candidate will lead the design, configuration, drive cross-functional alignment, act as a bridge between business stakeholders and technical teams and optimise our Yard Management solutions which have a deep integration with TM. A strong background in SAP R/3 to S/4HANA migration projects is required. Functional knowledge • Strong understanding of end-to-end transportation and logistics processes: freight order management, carrier selection, route planning, yard management, and freight settlement, milestone tracking, gate management, and inbound/outbound logistics handoffs. • Proficiency in freight order lifecycle management, subcontracting, execution monitoring, and event management (milestones, status updates). • Solid knowledge of SAP modules interfacing with TM: MM (Materials Management), EWM (Extended Warehouse Management), SD (Sales Distribution), and FI/CO. • Ability to translate complex business requirements into scalable and maintainable technical solutions. • Ability to drive and facilitate cross-team technical discussions, aligning stakeholders from TM, EWM, Manufacturing, Core Systems, and business teams towards a common solution design. • Understanding of multi-ERP integration scenarios • Familiarity with BASF-relevant logistics processes in the chemical industry: bulk transport, hazardous materials, inbound/outbound logistics • Experience supporting User Acceptance Testing (UAT), functional testing, and hypercare phases post go-live. • Ability to drive standardisation and reduce non-standard developments by leveraging SAP standard functionalities. • Apply a global mindset with a strong focus on reusability, standardisation, and harmonisation when designing and developing new solutions – ensuring scalability across BASF’s global landscape. Technical Knowledge • Strong understanding of ABAP development, including object-oriented ABAP (OO-ABAP). • Deep knowledge of API/event-based architecture: Kafka, SAP API Management, SAP Integration Suite (CPI), and event-driven design patterns for real-time logistics data flows • Familiarity in SAP S/4HANA migration tools and methodologies (SUM, SPDD/SPAU, custom..."
+  }
+}

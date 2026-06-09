@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "135240",
+    "title": "Trade Compliance Manager - Chemicals Trade Control",
+    "url": "https://basf.jobs/job-invite/135240/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB/ST-C Global Trade Compliance - Steering",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-04-03T08:44:40Z",
+    "description": "Objectives of the Position Global Cluster Lead: Own BASF Group’s Standard for Trade Compliance in the area of Chemicals Trade Control Global Topic Owner: Develop keep updated compliance concepts for your Topic(s), including necessary instruments to ensure business transactions are Compliant, documented and audit-ready. Main Tasks Global Cluster Lead Chemicals Trade Control Finalize and keep updated the Corporate Requirement on “Chemicals Trade Control” for BASF SE and all BASF Group companies Develop and maintain a roadmap for your cluster according to political context, including risk analysis for BASF group Actively act as a radar function, scanning for potential new trade restrictions in scope of your cluster* Collaborate with other cluster leads/ global topic owners on cross-cluster topics, defining guardrails and prerequisites for compliance Main liaison for internal stakeholders on Chemicals Trade Control, e.g. CLC/TC, Regional Trade Compliance teams, National Trade Compliance Officers (NTCOs), Business unit colleagues Coordinate Global Topic Owners within your cluster to optimize resources, avoid duplication maximize output. Support them in writing governance documents and developing compliance concepts Design and document a concept for the warehousing of Trade Compliance-regulated goods. Upon concept approval, develop the process and lead the implementation International Conventions in scope of your cluster are Rotterdam Convention (Prior Informed Consent) Basel Convention UN Convention on Drug Precursors UN Convention on Narcotic Drugs Psychotropic Substances Montreal Protocol – Ozone Depleting Substances Fluorinated Greenhouse Gases Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) Global Topic Owner of 1 or more of the Conventions* listed above:- Monitor and keep self organization updated of imminent changes or new regulations in your Topic(s) Design and oversee global Compliance Framework and Corporate Requirements for your Topic(s), including monitoring and quality assurance programs, updated Documentation and audit-readiness. Establish and maintain global compliance procedures, ensuring consistent application globally while addressing jurisdiction-specific regulatory requirements, traceability and audit-readiness Independently review and assess control effectiveness and maturity for the existing systems, primarily the functionality in SAP GTS Represent the company in relevant industry associations and/or..."
+  }
+}

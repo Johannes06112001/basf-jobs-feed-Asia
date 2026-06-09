@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138953",
+    "title": "GDF/BA - Salesforce Senior Specialist Digitalization (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138953/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/BA Digitalization of Sales",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T08:55:12Z",
+    "description": "Salesforce Senior Specialist Digitalization In your new role as Salesforce Senior Specialist Digitalization within our Digitalization of Sales team - Development Operations (DevOps) you will design and implement new technical solutions for BASF’s global CRM system built on the Salesforce platform. You will actively shape the further development of our Digitalization of Sales products and ensure a stable, scalable, and futureproof digital service delivery. You will focus on designing scalable solutions, modelling data, and their technical implementation. Your tasks include configuring and implementing technical requirements using Apex, Lightning Web Components, and Salesforce Flows, and analyzing and resolving issues. Furthermore, you will utilize AI components like prompt templates, topics and actions as part of the regular development cycle. You integrate external systems via APIs (e.g., REST/SOAP), middleware (e.g., SAP CPI), and event driven architectures (e.g., Kafka). In addition, you maintain and further develop the Salesforce environment and ensure quality and security through code quality, test coverage, and best practices. You work closely with our global Salesforce product teams and business units, coordinate projects with internal teams and external service providers, and take on various coordination tasks in building CRM products. WHAT YOU BRING A completed degree in business informatics, computer science, or a comparable qualification 5 years of experience with Salesforce (Sales/Service Cloud) as a developer and architect, solid understanding of complex data models and system architectures, and ideally Salesforce certifications (e.g., System Administrator, AI Specialist) Strong knowledge of Apex, Lightning Web Components, Flow Builder, and Salesforce setup, Prompt Templates and Agents as well as experience with API integrations and middleware solutions Experience in agile software development (e.g., Scrum) and the use of corresponding tools (e.g., Azure DevOps, Confluence) Analytical skills and enjoyment of teamwork, combined with a structured and solution oriented working style Enthusiasm for diverse tasks that allow you to apply your strengths as a technical all ‑ rounder Very good English skills, both written and spoken"
+  }
+}

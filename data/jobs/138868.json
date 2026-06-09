@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138868",
+    "title": "GDE/DD - SAP Consultant Finance & Tax (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138868/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/DD Legal, Tax & Compliance",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T17:44:44Z",
+    "description": "Role Description The Digitalization Specialist supports the design, implementation, and operation of eDocument and Statutory Reporting solutions across multiple countries and systems. The role ensures compliance with local tax regulations, stable system integrations, and close coordination between business, IT, and external vendors. This position plays a key role in global and country-specific rollouts, incident resolution, and continuous improvement of SAP ECC and S/4HANA finance and compliance processes. ________________________________________ Required Skills Experience Technical Skills • Experience with SAP ECC and S/4HANA (Finance, eDocument Framework, or related components) and SAP DRC (Document and Reporting Compliance) • Understanding of SAP integrations (RFC, web services, APIs) • Basic knowledge of XML, interfaces, and authentication concepts • Experience with IT service management processes Professional Experience • Background in IT application support, solution implementation, or system integration • Experience working in global, multi country environments • Exposure to compliance-driven solutions is an advantage Soft Skills • Structured and analytical problem-solving approach • Strong communication skills in an international environment • Ability to coordinate across multiple stakeholders • High sense of responsibility and attention to detail"
+  }
+}

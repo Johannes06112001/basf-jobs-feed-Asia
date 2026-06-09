@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "Indonesia",
   "job_field": "Marketing & Sales",
   "total_active": 2,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "139175",
@@ -16,12 +16,9 @@
       "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "PT BASF Indonesia",
-      "department": "A-EDA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-29T16:00:00Z",
-      "description": "Job Objectives : Industry Manager, ASEAN is responsible for leading and driving the overall sales strategy, business growth, and market expansion across the ASEAN sub-region for Dispersion Business Unit (Fiber Bonding Adhesive, Paper Carpet Dispersion Industry). This role oversee sub-regional sales operations, key account management, revenue growth, and customer relationship development while ensuring alignment with the company’s business objectives and profitability targets. The role requires strong leadership capabilities, strategic planning, and hands-on execution to achieve sustainable growth and strengthen the company’s market presence across ASEAN countries. Key Responsibilities Sales Strategy Business Growth Develop and implement sub-region sales strategies to achieve revenue and profitability targets across ASEAN markets. Identify new business opportunities, market trends, and customer needs to expand the company’s market share. Drive sales growth through strategic partnerships, channel development, and key account acquisition. Monitor market conditions, competitor activities, and pricing strategies to maintain competitiveness. Sub-Region Sales Management Lead, coach, and m"
+      "description_preview": "Job Objectives : Industry Manager, ASEAN is responsible for leading and driving the overall sales strategy, business growth, and market expansion across the ASEAN sub-region for Dispersion Business Unit (Fiber Bonding Adhesive, Paper Carpet Dispersion Industry). This role oversee sub-regional sales operations, key...",
+      "detail_path": "data/jobs/139175.json"
     },
     {
       "job_id": "131922",
@@ -33,12 +30,9 @@
       "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "PT BASF Distribution Indonesia",
-      "department": "G-EVC/KS",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-01-12T01:17:33Z",
-      "description": "Objectives of the Position: Focus on maintaining and developing BASF Chemical Catalysts business in Indonesia. Sales activities to achieve business targets. Collect and analyze market information; develop key account strategies. Build relationships with engineering companies, associations, and producers. Maintain good relationships with key customers; solve supply and other problems. Coordinate with other functions for customer support. Support technology managers and contribute to product innovation. Main Tasks: Networking Relationship Building Strong networking skills to develop new contacts and deepen relationships with existing customers and industry stakeholders. Active participation in industry events, seminars, and associations relevant to chemical catalysts in Indonesia. Farming Existing Business Proactively identify growth opportunities within existing accounts, ensuring high customer retention and satisfaction. Regularly review customer portfolios to upsell and cross-sell BASF solutions. Create barriers for competitive entries in existing accounts and maintain high margins at existing customers. Hunting for New Business Identify and pursue new business opportunities in wh"
+      "description_preview": "Objectives of the Position: Focus on maintaining and developing BASF Chemical Catalysts business in Indonesia. Sales activities to achieve business targets. Collect and analyze market information; develop key account strategies. Build relationships with engineering companies, associations, and producers. Maintain good...",
+      "detail_path": "data/jobs/131922.json"
     }
   ]
 }

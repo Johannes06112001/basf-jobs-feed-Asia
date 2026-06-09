@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138925",
+    "title": "GDB/Z - SAP Datasphere Platform Engineer (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138925/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/Z Data Foundation",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T13:28:37Z",
+    "description": "SAP Datasphere Platform Engineer OrgCode: GDB/Z Product Team: Data Fundation Responsibilities: Role Purpose: Responsible for designing, implementing, and enabling the SAP Business Data Cloud (SAP Datasphere) platform as the enterprise foundation for modern, business driven data architecture. The role bridges architecture, engineering, and enablement — ensuring both reliable technical operations and broad business adoption across domains. Design, implement, and maintain the overall SAP Datasphere platform architecture. Establish data domain-driven and data product-based design principles. Integrate SAP (S/4HANA, BW/4HANA) and non-SAP data sources (Azure, APIs) via ODP, SDI, or native connectors Build and optimize data pipelines, semantic models, and analytical datasets. Ensure robust data governance, access control, and security configuration. Lead platform evolution towards a federated, business data fabric model. Collaborate with enterprise architects, product family architects, data governance, SAP- and cloud infrastructure teams. Develop enablement strategies, best practices, and onboarding frameworks for data domain teams. Conduct training, create documentation, and foster community of practice for self-service use cases. Monitor platform performance, manage incidents, and ensure system reliability. Drive continuous improvement through automation (CI/CD, DevOps for data) and usage analytics. Qualifications: 5+ years of professional experience in data architecture, integration, or analytics platforms. Proven expertise in SAP Datasphere (or formerly SAP Data Warehouse Cloud) administration, modeling, and operations. Strong knowledge of SAP BTP services, connectivity, and hybrid integration technologies. Deep understanding of semantic modeling, data lineage, and data virtualization concepts. Proficiency in SQL and experience with scripting (Python, ABAP CDS, or similar). Hands-on experience with SAP Analytics Cloud or equivalent BI tools. Familiarity with data governance frameworks (DAMA, Business Data Fabric). Knowledge of cloud architectures (Azure, GCP, AWS) and federated query patterns. Strong communication skills to collaborate across IT and business domains. Experience in coaching, enablement, or community building within data initiatives. Practical experience in authorisation concept design and implementation in Datasphere, ideally with 3rd party IAM tool What we offer: Be part of a global leader in digital transformation, working in a vibrant..."
+  }
+}

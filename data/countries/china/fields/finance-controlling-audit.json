@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "China",
   "job_field": "Finance, Controlling & Audit",
   "total_active": 1,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "139181",
@@ -16,12 +16,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "EC/CFA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-29T08:27:47Z",
-      "description": "About The Role • Serve as the legal entity lead in China, accountable for financial compliance of the entity’s statutory financial statements. • Act as the primary BASF contact with local government authorities (e.g., tax authorities) to ensure efficient, accurate and sustainable handling of tax and reporting obligations under PRC accounting and tax laws/regulations. • Build and maintain transparent, trust-based relationships with tax and other government authorities. • Serve as a proactive business partner, delivering tailored tax and finance advice and helping implement processes that support operations and the company’s long term strategy. How You Will Do It • Act as the primary contact for finance and tax service provider and local business functions to ensure efficient communication and fulfilment of internal and external reporting and filing requirements. • Work together with finance and tax service provider to ensure timely and accurate submission of group reporting packages and local statutory reports. • Collaborate with external tax service providers to manage local tax compliance, including tax filings, tax accounting and reporting, tax credit rating management and relate"
+      "description_preview": "About The Role • Serve as the legal entity lead in China, accountable for financial compliance of the entity’s statutory financial statements. • Act as the primary BASF contact with local government authorities (e.g., tax authorities) to ensure efficient, accurate and sustainable handling of tax and reporting...",
+      "detail_path": "data/jobs/139181.json"
     }
   ]
 }

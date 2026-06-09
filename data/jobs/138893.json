@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138893",
+    "title": "GDE/EG - SAP BDC/Dataspher/BW4Hana expert (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138893/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/EG HR Service Management & HR Analytics",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T08:16:55Z",
+    "description": "SAP BW/4HANA – SAC – Business Data Cloud - Expert OrgCode: GDE/EG Product Team: HR Analytics Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases. You will execute business requirements and ensure provisioning of standard IT features. You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). As part of our agile development team you will work on user stories, do the development and testing of new features. With your extensive experience in the subject matter, you will guide, coach and train other team members and build competencies for the respective modules. You will be assigned to projects, where you will have end-to-end responsibility for all deliverables. Therefore, solid understanding of HCM/HR processes and data domains to consultant HRBP, partners and stakeholders is desired. This includes insurance of compliance with data protection, security, and access concepts, especially for sensitive HR data. You will work independently in a structured and solution orientated manner. Qualifications: Job Profile Focus on development of SAP Analytics Cloud story design/ analytic applications including underlying data mart layer (queries and composite provider); Data Modeling and programming of data flows and data harmonization within SAP BW/4HANA and Business Data Cloud (People Intelligence/ Data Products); Authorization management (roles, analysis authorizations, user management) in BW4, SAC, BDC; Job scheduling (process chain management, APM - APX/ Stonebranch) Proficiency: Language skills - English (experienced), ABAP/ OO, SQL-/script, Python, Jason, OData services, API management, basic system administration knowledge Additional desired skills: UI5 card development, CDS Views, SAP SuccessFactors Analytics: Integration Center, Story Reports (People Analytics) What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work environment where your ideas are valued, and your curiosity and ambition are encouraged. Benefit from flexible working models,..."
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "India",
   "job_field": "Quality Management",
   "total_active": 1,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "138845",
@@ -16,12 +16,9 @@
       "job_field": "Quality Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF India Coatings Private Limited",
-      "department": "ECP/AI",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-25T05:19:23Z",
-      "description": "O bjectives of the Position Responsible for the efficiency and enhancement of routine inspection by improving test methods and procedures, or via recipe optimization in collaboration with Product Owner to reduce systematic adjustment. Responsible for the asset management of laboratory testing equipment and facility by ensuring that they are maintained, calibrated, or replaced for optimal performance. Act as the gatekeeper to ensure the technical feasibility, repeatability and reproducibility of new test method and inspection plan in Quality Control. M ain Tasks To test samples of Raw Materials, intermediates, in-process finish product and packaging material as per laid down specifications Testing of long-term evaluation properties like salt spray, humidity test, accelerated weathering and outdoor exposure etc. Performing the PV testing received from various vendors /Customers To troubleshoot product related problems. To maintain documents related to Quality system requirement Implement Safety, Health and Environment system of the Plant concerning Men and equipment. Guide Shop floor personnel towards SHE (Safety, Health and Environment) and improve towards BASF safe work culture. Th"
+      "description_preview": "O bjectives of the Position Responsible for the efficiency and enhancement of routine inspection by improving test methods and procedures, or via recipe optimization in collaboration with Product Owner to reduce systematic adjustment. Responsible for the asset management of laboratory testing equipment and facility by...",
+      "detail_path": "data/jobs/138845.json"
     }
   ]
 }

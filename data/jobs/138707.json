@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138707",
+    "title": "Senior Officer, Supply Chain Planner (12 months leasing contract)",
+    "url": "https://basf.jobs/job-invite/138707/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Professional",
+    "job_type": "Temporary",
+    "company": "BASF (Malaysia) Sdn. Bhd.",
+    "department": "A-EDA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-28T10:48:25Z",
+    "description": "Objectives of the Position Manage the complete planning role which includes Demand Supply planning Support in Merchandise stock planning for ASEAN Assist in Raw Material Planning Responsibilities Develop and execute demand and supply planning strategies to ensure optimal inventory levels and timely fulfilment of business requirements. Collaborate closely with sales, procurement, and logistics teams to align demand forecasts with supply capabilities. Monitor market trends and historical data to create accurate demand forecasts and mitigate potential supply chain disruptions. Balance demand forecast against supply capability and inventory to create a feasible constrained rough-cut supply plan for Merchandise Products. Assist in raw material planning by coordinating with suppliers and production teams to ensure timely availability of materials. Maintain comprehensive records and reports on inventory, demand forecasts, and supply schedules for effective decision-making. Identify process improvement opportunities within planning functions to enhance efficiency. Participate in cross-functional meetings and projects, contributing insights for continuous improvement of planning processes. Requirements Bachelor’s degree in Business Management, Engineering, Supply Chain Management, or related field. 3–5 years of experience in Supply Chain Management with hands-on planning experience Fresh graduates with relevant internship/project exposure are encouraged to apply Strong analytical skills with a data-driven mindset Hands-on experience with ERP systems (e.g. SAP, MRP, APO) Advanced proficiency in Microsoft Excel Familiarity with BI tools such as Power BI or Tableau; exposure to modern AI tools is an added advantage Strong analytical thinking and structured problem-solving capabilities Proactive and solution-oriented approach in addressing issues and identifying opportunities Prior experience in a site-based or manufacturing environment is an added advantage Project management experience is a plus"
+  }
+}

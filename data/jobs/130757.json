@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "130757",
+    "title": "Credit Risk Management (Associate Analyst)",
+    "url": "https://basf.jobs/job-invite/130757/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Finance, Controlling & Audit",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBA/FO-RR",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2025-12-08T06:14:59Z",
+    "description": "Objectives of the Position Responsible for customer's credit risk management activities for the assigned market portfolio based on market principle and CCRM Services Hub Asia Pacific scope, following global and regional guidelines To ensure deliveries meeting requirements defined in service level agreements and KPIs for process efficiency, effectiveness and quality control Support Assistant Manager / Manager in day-to day service delivery and talent identification Main Tasks Functional Tasks (including but not limited to) Monitor customer master data creation and changes which relevant to CCRM (example payment terms) via SCO Checking regularly that customer portfolio is up-to-date, identifying inactive customers as well as carrying out deactivations Perform risk assessment, mitigation measures, recommendations and documentation by using CCRM tools Decide on internal risk rating, credit limit, order processing code (for medium and higher threshold of exposures applicable for Senior Analyst and Senior Specialist) or obtain necessary approval based on approval matrix Review and decide on the release of blocked orders or obtaining necessary approvals based on approval matrix and delegation to Hub Monitor credit risk of customers (limit usage, BASF Risk Rating, sales, etc.) Work closely with Analyst, Senior Specialist, Assistant Manager and Manager in daily operations and targets initiates appropriate measures to achieve defined objectives and target Provide necessary reporting for country, regional, and global timely in compliance with reporting requirements Following up of outstanding invoices and unresolved dispute items in case support needed by Collection team Coordinate, attend queries, and provide transparency to stakeholders on credit risk management core processes Perform other CCRM processes applicable for the assigned countries such as IFRS9 review, prolongation, bad debt, etc Act as Area of Competency (AOC) member or topic owner for CCRM related processes Project Management Support in steering Internal, Regional and Global processes implementation in Asia Pacific Region Support Asia Pacific’s business requirement / variation from Global / Regional process, preparation of business case and escalate when necessary Develop working relationships with the local companies and project owners to ensure that project solutions are adopted, implemented, and maintained appropriately Assist to communicate project deliverables to ensure all stakeholders are kept..."
+  }
+}

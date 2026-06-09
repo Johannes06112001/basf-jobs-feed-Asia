@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139199",
+    "title": "Assistant Manager, APAC Technical and Documentation Services",
+    "url": "https://basf.jobs/job-invite/139199/?locale=en_US",
+    "country": "China",
+    "city": "Shanghai",
+    "state": "Fengxian",
+    "job_field": "Production, Maintenance & Technical Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+    "department": "G-ECR/RAED Gl.Tech. Refinish Applications EMEA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-29T07:13:01Z",
+    "description": "About The Role Contribute to strategic business by management of technical process data, TDS training documentation for technology and process solutions reference, sales teams selling argumentation and customer focused training material for APAC brands and specific global brands and products. Regional and Global interface for APAC technical process data, TDS training documentation requirements demands. How You Will Do It 1) Documentation - Responsible for creating, modifying and publishing of technical data sheets (TDS) in UNICORN platform for APAC and Global products (Glasurit, R-M, baslac and other brands). - Technical support in running the TDS management tool in UNICORN including user management; training of key-user / user / translator. - Responsible for creating, modifying and publishing of technical documentation for the different platforms (Glasurit Know How, InfoRM, baslac webpage, …) for APAC and Global products (Glasurit, R-M, baslac and other brands). - Responsible for creating, updating and publishing of paint manuals for strategic accounts (e.g. MB, Bentley, …) - in all defined languages. - Responsible for creating, updating and publishing of paint manuals for Commercial Vehicle and Truck Bus - in all defined languages. - Support in creating and modifying technical label data to secure up to date labelling for products. - Supports countries on technical requests for products, processes and paint systems. 2) Technical Service Center - Support for the TSC- APAC regarding e-mail inquiries and product and system complaints. - Interface between the Local Service Centers, the ECR Applications process teams, Marketing and the laboratories. - Check, prioritize and process requests from Local Service Centers and/or forward them to other units for processing. This includes the initialization of technological tests in coordination with the Applications team, Marketing and the technology and analytical laboratories. - For system related complaints creation of detailed reports and recommendations for the customers based on the results of the initiated tests. - Besides MS Office use tools like Salesforce and SAP for the documentation and correspondence with the local service centers and the laboratories. - Responsibility for the coordination of the necessary tasks, the related documentation and for the technical correspondence. - Creation and distribution of the APAC -TSC news and maintaining Wikipaint database for service center support. What We Look For..."
+  }
+}

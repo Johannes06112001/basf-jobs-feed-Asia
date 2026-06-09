@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country",
   "country": "Turkey",
   "total_active": 1,
   "fields": {
     "Logistics & Supply Chain Management": 1
   },
-  "llm_instruction": "This file contains only BASF jobs in Turkey. Filter this file before loading wider Asia data. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
+  "llm_instruction": "This file contains only BASF jobs in Turkey. Descriptions are short previews. Fetch detail_path only for shortlisted roles. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
   "jobs": [
     {
       "job_id": "138314",
@@ -18,12 +18,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Coatings Boya Sanayi ve Ticaret Limited Şirke",
-      "department": "G-ECR/OSEW Global Supply Chain Refin. Coatings EMEA",
-      "business_unit": "EMEA",
-      "hybrid": false,
       "date_posted": "2026-05-11T07:38:03Z",
-      "description": "İş Birimi: EC Org code: G-ECR/OSEW About the Role We are looking for a OTC Specialist who will be responsible for managing end-to-end customer order processes and supporting high-quality customer operations. This position is offered on a 6-month fixed-term contract basis . Qualifications • Bachelor’s degree or equivalent qualification • Experience in sales operations, customer service, logistics, or invoice/accounting operations • Fluent in English, both written and spoken • Strong IT literacy and proficiency in MS Office / ERP systems • Strong interpersonal and organizational skills • Customer-oriented and solution-focused mindset • Strong teamwork skills Job Description • Manage customer orders and order entry processes • Send order confirmations to customers • Monitor and manage order backlog processes • Proactively track orders and shipments while keeping customers regularly informed • Process non-conformance cases together with the Sales Department • Coordinate invoice and accounting-related processes with internal stakeholders • Maintain effective communication with customers and internal stakeholders • Ensure compliance with company procedures and EHS standards Competencies "
+      "description_preview": "İş Birimi: EC Org code: G-ECR/OSEW About the Role We are looking for a OTC Specialist who will be responsible for managing end-to-end customer order processes and supporting high-quality customer operations. This position is offered on a 6-month fixed-term contract basis . Qualifications • Bachelor’s degree or...",
+      "detail_path": "data/jobs/138314.json"
     }
   ]
 }

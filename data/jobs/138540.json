@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138540",
+    "title": "Intern, Learning and Development",
+    "url": "https://basf.jobs/job-invite/138540/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Human Resources",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBA/PT-D",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-20T07:17:06Z",
+    "description": "O bjectives of the Position To support the design, coordination, and delivery of employee learning initiatives Contribute to creating engaging learning experiences Main Responsibilities Assist in the planning and coordination of training programs, workshops, and learning events Support the creation and editing of e-learning materials for On-boarding Revamp Project. Manage training logistics including scheduling, invitations, attendance tracking, and feedback collection. Maintain and update learning management systems (LMS) and training records Job Requirements Pursuing a Degree in Human Resources, Psychology, Business Administration, Education, or related field Interest in training, talent development, or organizational learning Experience with content creation tools (e.g., Canva, Articulate, Adobe) is an advantage Technical Professional Knowledge A growth mindset with curiosity to learn and improve. Passion for develop creative solutions. Team player with strong interpersonal, written, and verbal English communication skills. (other language is added advantage)"
+  }
+}

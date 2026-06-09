@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138923",
+    "title": "GDD/EN - Solution designer 3rd party SW solutions (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138923/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/EN CAE & Gastronomy Solutions",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T13:11:00Z",
+    "description": "Summary Digitalization will be a true part of BASF’s DNA that creates new exciting customer experiences and business growth as well as drives efficiencies in processes. Global Digital Services is supporting BASF business in Digitalization transformation. Our mission is to drive forward the digital transformation of BASF, providing innovative, global and high-quality digital products and services through a strong agile culture. The Digital Hub Hyderabad is one of our global key locations to deliver regional and global solutions for BASF. Responsibilities and Key Outcomes Our team supports the implementation, maintenance, and operation of digital solutions for BASF. This includes the planning and support of complex Data IT landscapes incl. infrastructure for the client-/server and Web- applications, packaging and rollout of applications, and integration of cloud solutions. We coordinate the relevant activities with the respective providers as well as with BASF’s internal IT units (e.g., security, data integration, infrastructure/cloud enablement, system integration). Furthermore, we develop interfaces for a seamless integration of the different systems into the whole IT landscape. We support the solutions using BASF's IT Service Management processes such as incident change management and accompany our customers during the entire solution lifecycle. You are responsible for continuous service delivery respective IT landscape: incident management, change management, updates, upgrades, modernization, migration, security checks, lifecycle management. Hereby you interact with different product teams. Your main responsibility will be the integration and lifecycle support of 3rd party Software (Commercial of the shelf SW) into the BASFs infrastructure environment. Therefore, a wide infrastructure and integration knowledge is essential. Job Requirements Education and work experience • Master / bachelor’s degree in information technologies, comparable qualification, or many years of experience in the relevant work area • Minimum of 5 years related working experience TECHNICAL EXPERTISE • Experience in heterogeneous enterprise IT environments (Windows, Linux, Networks) • Technical security IAM understanding according to corporate standards • Third-party software integration (design, infrastructure, security, connectivity) • Lifecycle management, updates, end of life (EoL) • At least 4 years of service experience with Microsoft SQL servers (DML DDL) • Basic knowledge..."
+  }
+}

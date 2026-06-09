@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138954",
+    "title": "GDF/BA - Salesforce Power BI / Databricks Architect (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138954/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/BA Digitalization of Sales",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T09:02:22Z",
+    "description": "Salesforce Power BI / Databricks Architect In your new role, you will be the technical architecture expert for our Sales Reporting team and combine deep technical expertise with a strategic view on architecture, development, and integration. You will focus on the technical foundations that enable scalable, secure, and high-performing reporting and data-driven actionable insights solutions, with a strong emphasis on Power BI integrations, data connections, and embedding scenarios. You define and implement advanced reporting technical patterns, including dataset reuse, composite models, incremental refresh strategies, and performance optimization using DAX and model design best practices. Your responsibilities include defining and implementing connection strategies between reporting platforms and multiple data sources, optimizing data access patterns, and supporting complex integration scenarios. You play a key role in enabling advanced use cases such as embedding Power BI reports into external applications (e.g. Salesforce) and ensuring secure authentication and authorization flows. In addition, you contribute to the evolution of actionable customer insights by enabling advanced capabilities such as AI-driven analytics, Copilot features, or chatbot-based access to data, in alignment with the overall reporting strategy. You will collaborate closely with the Reporting Lead and Product Owner to translate strategic and architectural decisions into robust technical implementations for Sales reporting across BASF ODs. WHAT YOU BRING Degree in computer science, data engineering, analytics, or comparable technical qualification 5 years of experience with Salesforce (Sales/Service Cloud) as a developer and architect, solid understanding of complex data models and system architectures, and ideally Salesforce certifications (e.g., System Administrator, AI Specialist) Strong experience with data platforms, particularly Azure Databricks. Well proficient in the uses of Azure DevOps (or similar tools such as Jira) as part of SDLC. Solid understanding of data integration, authentication, and embedding scenarios, ideally via an event-driven architecture (e.g., Kafka as the event bus). Experience with data classification, using AI models (e.g., OpenAI LLMs for summarization), and generating data-driven insights. Azure OpenAI (e.g., GPT models), Prompt Flow, integration of Azure OpenAI into Databricks. GenAI patterns: RAG, vector databases, LLM agents (including interfaces..."
+  }
+}

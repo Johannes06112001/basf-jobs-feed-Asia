@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Environment, Health & Safety",
   "total_active": 1,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "138632",
@@ -16,12 +16,9 @@
       "job_field": "Environment, Health & Safety",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBI/UA-SE1",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-20T06:34:43Z",
-      "description": "O bjectives of the Position Deliver expert regulatory and product stewardship support to BASF group companies, ensuring full compliance with corporate policies, guidelines, and global standards. Collaborate effectively with cross-functional stakeholders including supply chain, customer service, and technical teams to drive the implementation of compliance policies and BASF minimum requirements. Offer expert advice and practical solutions through thorough impact assessment to support sound decisions and effective risk management. Continuous improvement through applicable methodologies and digitalization to drive operation excellence. Main Areas of Responsibilities Conduct comprehensive hazard assessments using (e.g., GHS, CLP, REACH, equivalent regional/local regulations) standards utilizing product composition, test data, and toxicological/ecotoxicological information. Maintain hazard communication documentation: Safety Data Sheets (SDS), labels, hazard classification, ensuring consistency and compliance with relevant classification labelling regulations Apply advanced regulatory expertise across multiple jurisdictions to deliver expert judgments on chemical classification, labelli"
+      "description_preview": "O bjectives of the Position Deliver expert regulatory and product stewardship support to BASF group companies, ensuring full compliance with corporate policies, guidelines, and global standards. Collaborate effectively with cross-functional stakeholders including supply chain, customer service, and technical teams to...",
+      "detail_path": "data/jobs/138632.json"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138956",
+    "title": "GDD/EQ - Senior DevOps Engineer SAP PM (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138956/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/EQ SAP PM Services, Project&Contractor Sol.",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T09:19:44Z",
+    "description": "Responsibilities: - You will develop and maintain solutions in the SAP PM mass data handling (e.g. for technical places SAP) - You will help to drive consistency and quality of our SAP PM (and related) module data - You will develop and maintain further applications in the maintenance (and engineering) context. Leveraging the in the qualitfication mentioned technologies - You will be responsible for providing trainings related to the SAP PM module to internal business partners Qualifications: Framework: ASP.Net MVC application based on the Microsoft DotNet Framework 4.8 Knowledge in C# Web languages like HTML, CSS and JS MS Access with VBA Database management with MS SQL MS Excel Deployment processes on windows server Experience in Agile way of working or agile implementation approach Experience in implementing projects based on web technology Familiarity with modern UI/UX design Knowledge of the following components: JQuery, EPPlus (for Excel exports), Dapper (provides a mapping between database and C# classes), Westwind (offers localization for Javascript) Future development of applications with modern web technologies What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work environment where your ideas are valued, and your curiosity and ambition are encouraged. Benefit from flexible working models, international networking, and a strong sense of purpose as we enable our customers’ green transformation and lead the way in digital excellence. [to include specific local benefits]."
+  }
+}

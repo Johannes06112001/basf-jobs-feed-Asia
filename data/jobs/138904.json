@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138904",
+    "title": "GDB/DC - Senior Full-Stack Engineer (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138904/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/DC",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T09:28:39Z",
+    "description": "Senior Full-Stack Engineer OrgCode: GDB/DC Product Team: Click or tap here to enter text. Responsibilities: We are seeking a highly motivated and detail-oriented Full-Stack Engineer to join our dynamic team. In this role, you will be responsible for developing and maintaining the infrastructure components. You will work closely with our senior developers to create high quality, scalable, and responsive software solutions. Template Development: Design and build reusable templates and components for web teams to streamline their development processes. - User Experience Enhancement: Enhance the user experience on the platform by developing intuitive and responsive front-end interfaces. - CI/CD Pipelines: Collaborate with the DevOps team to develop, run, and automate CI/CD pipelines for front-end and full stack applications. - Compliance and Security: Ensure adherence to BASF compliance and security guidelines in web development. Process Improvement: Contribute to the improvement of internal development processes. Qualifications: - Front-End Technologies: Proficiency in front-end technologies such as HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js. - Back-End Technologies: Experience with back-end technologies such as Node.js, Python, or Java. Ability to develop and integrate RESTful APIs and microservices. - Cloud Expertise: Demonstrated experience with cloud platforms, particularly Azure. Ability to design, implement, and manage cloud infrastructure for full-stack applications. - Infrastructure as Code (IaC): Experience with Terraform for provisioning and managing infrastructure. Ability to write and maintain modular, reusable, and scalable Terraform code. - CI/CD Pipelines: Experience in setting up and maintaining CI/CD pipelines for full-stack applications. Familiarity with GitHub Actions or similar tools is highly desirable. - Kubernetes: Experience with deploying, scaling, and managing full-stack applications in Kubernetes environments. - Agile Methodologies: Proven experience working in Agile environments. Strong understanding of Agile principles and practices, including Scrum or Kanban. Ability to collaborate effectively with cross-functional teams. - Product Thinking: Ability to approach problems with a product mindset, focusing on delivering value to end-users. Experience in iterative development and continuous improvement based on user feedback. - Collaboration and Communication: Excellent interpersonal and communication..."
+  }
+}

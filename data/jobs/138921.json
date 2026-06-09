@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138921",
+    "title": "GDB/X - Agentic AI Architect (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138921/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GBI/UP-D Data Analytics & AI",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T12:55:46Z",
+    "description": "Agentic AI Architect OrgCode: GDB/X Product Team: Intelligent Automation Responsibilities: - Architect the Agent Backbone: Define and maintain the enterprise reference architecture for autonomous agents, ensuring seamless interoperability between managed services (Azure AI Foundry) and custom open-source runtimes on AKS. - Define Agentic Standards: Own the technical standards for the ecosystem, including the Model Context Protocol (MCP) for tool interoperability and the Agent-to-Agent (A2A) communication protocol. - Design the Orchestration Layer: Lead the architectural design of our central semantic router hosted on AKS, that interprets user intent and orchestrates workflows across distributed, cross-platform agents. - Enable Hybrid Innovation: Create \"Golden Path\" blueprints that leverage Databricks (Unity Catalog) for massive-scale data context while utilizing AKS to host complex, stateful agent swarms using frameworks like LangGraph or AutoGen. - Drive Co-Creation Governance: Partner with other platform teams (SAP, Salesforce) to co-architect complex cross-domain workflows (Tier 3-4) and serve as the primary technical authority for validating high-risk agent deployments. - Ensure Zero-Trust Security: Embed security-by-design principles into our agent frameworks, ensuring every agent action is authenticated, authorized, and auditable within our Guardrail Engine. Qualifications: - Agentic Mastery: You possess deep conceptual and practical knowledge of agent design patterns (ReAct, Plan-and-Solve, Swarms, Hierarchical Teams) and know when to use each. - Hybrid Infrastructure Expert: You are fluent in Azure AI Foundry for governance and model management, but you are equally comfortable architecting custom solutions on AKS to run open-source frameworks (LangChain/LangGraph) when managed services fall short. - Data-Driven Architecture: Strong experience with Databricks, understanding how to expose complex data pipelines as \"Tools\" for agents and how to manage agent memory/state at scale. - API Protocol Design: Proven ability to design robust, event driven architectures (CloudEvents, Kafka) and standard APIs (FastAPI, GraphQL, MCP) for distributed systems. - Strategic Leadership: You can communicate complex architectural decisions to stakeholders and mentor senior engineers, fostering a culture of technical excellence. - Tech Stack You Will Master: -- Orchestration: LangGraph, AutoGen, Semantic Kernel, Azure AI Foundry. -- Compute Runtime: Azure Kubernetes..."
+  }
+}

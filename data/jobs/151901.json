@@ -1,0 +1,19 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "151901",
+    "title": "Intern, Lab (TS)(002579)",
+    "url": "https://basf.jobs/light_blue_AP/job/SHANGHAI-Intern%2C-Lab-%28TS%29%28002579%29-200000/938399601/?feedId=111101",
+    "country": "China",
+    "city": "SHANGHAI",
+    "state": "Unknown",
+    "job_field": "Research & Development",
+    "company": "BASF",
+    "department": "Research & Development",
+    "hybrid": false,
+    "date_posted": "2025-10-21T00:00:00Z",
+    "description": "Main Tasks 1. Perform lab testing 2.Support on lab management and sampling 3. Daily routine lab work and tasks assigned by supervisor Requirements 1. Bachelor degree or above, chemical background 2. Onboard physical check needed 3. Attendance: 3-4 days/week, 6 months 请时刻警惕任何可能的招聘欺诈行为！请注意，巴斯夫绝不会在任何情况下向候选人以任何形式收取任何费用。"
+  }
+}

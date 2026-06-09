@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Information Technology & Services",
   "total_active": 2,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "138560",
@@ -16,12 +16,9 @@
       "job_field": "Information Technology & Services",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GDA/C",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-20T08:37:58Z",
-      "description": "Objectives of the Position According to company procedures, perform clerical, administrative, and general office duties of confidential nature with limited supervision, typically for teams by discipline, with the aim to facilitate operations, information flow, and formal people interactions (e.g. meetings, workshops, conferences). Support the Vice President by providing secretarial and administrative support in a well-organized (e.g. digital tools) and timely manner. Provide professional communication and communicate instructions from the supervisor to stakeholders in a professional manner Main Tasks Support supervisor by providing professional business administrations Provide a wide range of administrative and secretarial support to the Vice President, including calendar management, meeting coordination, and business travel arrangements. Act as a professional first point of contact for both internal and external key stakeholders, prioritizing enquiries and managing competing administrative demands by proposing options or recommendations for alignment. Exercise sound judgment in handling administrative matters and stakeholder interactions within a defined scope. Maintain proper bus"
+      "description_preview": "Objectives of the Position According to company procedures, perform clerical, administrative, and general office duties of confidential nature with limited supervision, typically for teams by discipline, with the aim to facilitate operations, information flow, and formal people interactions (e.g. meetings, workshops,...",
+      "detail_path": "data/jobs/138560.json"
     },
     {
       "job_id": "133620",
@@ -33,12 +30,9 @@
       "job_field": "Information Technology & Services",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "Toray BASF PBT Resin Sdn. Bhd.",
-      "department": "A-PMA/OS",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-04T03:08:21Z",
-      "description": "Main Tasks: 1. Involved in software development as well as maintenance and improvement of citizen development tools. i.e. Microsoft Power Apps, Power BI and other Microsoft products. 2. Engage, enable and collaborate with stakeholders. 3. Review current processes and identify opportunities for improvement. 4. Assist in administrative activities i.e. meeting minutes, meeting slides preparation, requirement documentation etc. Requirements: 1. Committed to a full-time 6-month internship 2. Students minimum Diploma's in IT or any related disciplines. 3. Knowledge on hardware, Microsoft Product (i.e. Power Apps, Power Automate, Power BI, Power Point, Excel). 3. Excellent time management, work prioritization and verbal communication skills. 4. Able to maintain a high level of confidentiality. 5. Able closely with stakeholder physically onsite in the office."
+      "description_preview": "Main Tasks: 1. Involved in software development as well as maintenance and improvement of citizen development tools. i.e. Microsoft Power Apps, Power BI and other Microsoft products. 2. Engage, enable and collaborate with stakeholders. 3. Review current processes and identify opportunities for improvement. 4. Assist...",
+      "detail_path": "data/jobs/133620.json"
     }
   ]
 }

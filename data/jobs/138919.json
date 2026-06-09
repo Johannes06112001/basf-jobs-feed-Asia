@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138919",
+    "title": "GDF/CR - DevOps Engineer Integration (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138919/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/CR Integration Foundation",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T12:40:52Z",
+    "description": "DevOps Engineer Integration: Main Tasks/Responsibilities: Shape BASF’s future planning landscape by further developing our Supply Chain Planning Framework on OMP Develop, maintain monitor interfaces for different on-premise and cloud integration scenarios Manage Data Integration infrastructures and facilitate development for functional squads in the Product Family Live end-to-end-responsibility, being able to adopt to new requirements and learning new technologies within a virtual global agile team Recognize impediments within the team, identify root causes, promote discussions and drive solving the issue Support the Product Owner in optimizing the Product Backlog as well as its refinement Bring in new ideas / solutions and drive innovation within the Product Team Lead and instruct usage of AI-driven efficiency-boosting tools, in development, communication, and management of teams in the organization. Develop and introduce customized enhancement to these tools if needed. Mentor exchange with an individual about knowledge, skills/technologies and personal experiences with the aim of personal and professional development of the individual. Must Have A university degree in computer science or similar. Proficient in at least one programming language: SAP ABAP (OO), Python, R, C# Knowledge related to Web Services (REST, SOAP), Streaming technologies (Kafka) and/or API development Good knowledge understanding of cloud-based solutions and integration scenarios connecting via Middleware (e.g. Kafka, SAP CI, SAP PI/PO...) Excellent communication skills in English. Good understanding of security, cost and efficiency implications when setting up cloud-solutions Openness to new technologies, working methodologies and innovative solutions. Experience in full stack tools (e.g. , MS AzureDevOps) Experience in agile projects Facilitation, moderation, presentation mentoring skills Basic DevOps knowledge in design, testing and debugging new functionalities Nice to have: Supply Chain Planning process knowledge Basic Understanding of Data Modeling / Data Science Databases S4 implementation experience is a plus"
+  }
+}

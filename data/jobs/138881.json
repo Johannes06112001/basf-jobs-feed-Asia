@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138881",
+    "title": "GDB/ZI - Integration Platform Engineer (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138881/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Global Business Services Private Limited",
+    "department": "GDB/ZI Integration & Data Strategy",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T18:30:00Z",
+    "description": "Objectives Describe your Product mission here (2 - 3 sentences only) Join our “Data Foundation” team and work on the cutting-edge “Integration” product that leverages innovative technologies to seamlessly connect applications and facilitate data exchange. The Integration Platform is a versatile framework for building and executing integration scenarios—serving both internal and external needs. With the platform and its underlying technologies, you’ll have access to advanced tools and processes designed to connect to any type of data, in any format you require. As part of our mission, you’ll help implement Enterprise Integration Concept capabilities across Data Integration, Thing Integration, Process Integration, and User Integration. If you’re passionate about driving digital transformation and want to make a real impact in Hyderabad, this is your opportunity to be at the forefront of integration technology. Describe the objectives of the role here (2 - 3 sentences only) Be part of building the future of integration platform in Hyderabad! As an Integration Platform Engineer, you will play a key role in shaping a self-service, governed, and highly visible integration lifecycle for APIs, events, and workflows. Your expertise will help design and develop essential backend services that drive orchestration, governance, discovery, and automation—leveraging the power of Kubernetes. Join us to create robust solutions that accelerate digital transformation and make a real impact on global business operations. Main Tasks / Scope of Work Our main requirements: § Create lifecycle workflows with Argo (or Camunda) and connect them to backend services and Kafka events. § Include governance and approval steps, and guarantee that processes are auditable and traceable. § Develop and deliver platform services using Spring Boot, ensuring robust and scalable solutions for our Hyderabad team. § Create and maintain REST APIs to support registry, marketplace backend, lifecycle management, and governance processes. § Integrate and manage PostgreSQL databases, optimising performance and reliability for business-critical applications. § Implement automation workflows utilising Argo or Camunda to streamline and enhance operational efficiency. § Produce and consume Kafka events, enabling seamless communication and data exchange across platform components. Mandatory Personal traits § Demonstrates an entrepreneurial mindset, embracing innovation and new opportunities § Shows a strong..."
+  }
+}

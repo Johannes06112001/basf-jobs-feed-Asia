@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138918",
+    "title": "GDF/CN - DevOps Engineer OMP SnOP (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138918/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/CN S&OP & Supply Plann. (Adv.: EU, AP)",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T12:33:15Z",
+    "description": "DevOps Engineer OMP SnOP Main Areas of Responsibilities and Key Activities You are responsible for designing, implementing, and supporting OMP related developments using OPAL. Deep-dive into the supply chain planning environment and focus on Sales Operational planning and Supply Planning Be part of supply chain planning system squads to work on functional development, supply chain planning solutions design, system configuration as well as on-going support after roll out in BUs/ODs. Build and deploy the templates using GIT version control system. Experience in implementing SOP planning cycle/solvers/conflicts in OPAL programming language. Understanding software development lifecycle including automated testing and working on the development and operational topics Skills in programming language python, Java, C++ Education Proactively work in sprints, taking care of user stories Your daily routine will start with an agile stand-up meeting and you will work on functional designs and developments, technical setups and configurations, functional testing and documentation, debugging, user acceptance testing, post go-life ongoing support as well as training key users in various business units and countries, take care of master data setup etc. Education: Bachelor or higher degree in Supply Chain Management, Information Technology, Industrial Engineering, Software Engineering, or Computer Science Working Experience: Minimum 5years’ experience in supply chain with good understanding of system background (OMP or SAP APO) Excellent communication skills in English with customers/Internal business partners Supply chain system functional design, configuration and debugging experience Technical Professional Knowledge: Solid DevOps knowledge of supply chain planning related solutions (OMP or SAP APO) Process knowledge of supply chain planning at least in one of area : Demand Planning, S OP, Supply Planning Knowledge of MS AzureDevOps, Confluence Experience Strong collaboration skills with diverse team members Experience in agile way of working or agile implementation approach Openness to new trends and innovative solutions. Ability to work in a multicultural team spread across the globe"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139382",
+    "title": "Assistant Manager - Sales",
+    "url": "https://basf.jobs/job-invite/139382/?locale=en_US",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "state": "Bangkok Metropolis (Krung Thep Maha Nakhon)",
+    "job_field": "Marketing & Sales",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF (Thai) Ltd.",
+    "department": "A-PMA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-04T03:44:53Z",
+    "description": "Main responsibilities To achieve the sales target in term of cCM1 and volume. Compile and update market information on potential customers, competitor’s activities and market situation. Provide the APO forecast with accuracy and control the goods stock in properly level. Cooperate with Customer Service Operations, Supply Chain Management, Technical Development Global Key Account Management to support customers with smooth business operation. Record the relevant customer information through Salesforce system (visit report, business opportunities risks, contact information, customer requirements, samples request, pricing and etc). Drive the innovation and sustainability projects in existing and new customers. Develop and expand the relationship in all level and functions to understand the customer needs in long and short term include pain points. Assure effective volume forecast and continuously improve accuracy. Provide and update the key account plan with short and long terms strategy. Support to achieve teamwork and team spirit for business unit. Additional tasks assign by operational leader. Qualifications Bachelor’s degree or higher in Chemistry, Business, or a related field. At least 5 years of relevant experience in sales or business/market development within the chemical industry, preferably in PU. Strong knowledge of polymers, especially PU. Strong written and spoken English skills, with good computer literacy. Proficient in using Salesforce. Work location Emporium office, Bangkok"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138911",
+    "title": "GDE/AD - SAP Authorization Specialist (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138911/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/AD",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T10:03:45Z",
+    "description": "(Digital) Senior SAP Authorization Specialist – Job Grade 4 About Us At BASF’s Global Digital Services (GD), we are passionate about driving digital transformation in the chemical industry. Our dedicated teams deliver tailored digital products and services to internal business partners worldwide, leveraging the power of our Digital Hubs as dynamic centers of innovation and collaboration that bring us closer to our customers and regional needs. Here, you’ll join a high-performance culture inspired by our Winning Ways: enabling our customers’ green transformation, accelerating sustainability, and creating a workplace for curious, ambitious talents. In the Core Systems (ERP) Foundation Product Family, we provide a stable yet innovative platform for BASF’s global ERP (SAP) environment, foster collaboration across our global community and establish guiding principles that drive digitalization. Together, we shape BASF’s digital future. Join our SAP Authorizations Product Team and be part of a global community where your ideas and expertise make a real impact. Responsibilities • Design, implement, and operate compliant SAP authorization roles and user access to support BASF’s digital transformation • Ensure secure and compliant platform operations through accurate authorization design and issue resolution • Govern and steer authorization delivery by suppliers, including request fulfillment, escalation management, and SLA compliance • Develop, enhance, and maintain SAP authorization concepts, guidelines, and security requirements • Monitor existing authorization setups, define critical access objects, and perform authorization clean ups based on security assessments • Optimize efficiency and performance through cost effective solutions, continuous improvement, and use of AI enabled capabilities • Apply certified SAP add on products to ensure a compliant and robust authorization environment • Independently manage tasks across multiple interfaces with strong international and cross organizational coordination • Act as Lead Consultant for SAP Authorizations in projects, influencing solution design and delivery • Communicate and negotiate complex or sensitive topics with diverse stakeholders, building commitment and alignment • Contribute as a team player by sharing knowledge, best practices, and supporting collaborative problem solving • Identify and drive innovative solutions by taking a holistic perspective in a complex work environment • Resolve topics with a..."
+  }
+}

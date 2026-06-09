@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138770",
+    "title": "GDF/AF - Solution Consultant System Integration (EDI, Order-to-Invoice) (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138770/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDF/AF Business Process Integration",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-21T10:11:52Z",
+    "description": "Objectives Describe your Product mission here (2 - 3 sentences only) BASF’s Business Process Integration (BPI) team provides and supports digital solutions for B2B integrations with external partners through a variety of systems and processes within the BASF’s architectural landscape. BPI is considered a strategic tool to digitalize processes and enable seamless exchange of data between applications, businesses, customers and partners in real-time. Describe the objectives of the role here (2 - 3 sentences only) In this role, you will focus on consulting representatives of BASF businesses and BASF partners on integrating business processes primarily in the Order-to Invoice process area, including respective mappings. Main Tasks / Scope of Work The Solution Consultant provides customized integration solutions for internal partners and external partners via EDI, API, Micro Services, AI Agents, and similar technologies. The Solution Consultant supports our internal (SAP ERP and Satellite Systems) and external partners to specify their requirements and translates those into best-in-class solution designs based on technical and business process knowledge, aligned with process design and architecture. The consultant will be responsible for supplemental tasks in the daily operation, e.g. operational support (2nd/3rd level), issue resolving, quality assurance, and business interaction. The role does also include assignments to support comprehensive business integration projects. The Solution Consultant works in a global, international setting, interacting with team members in all other regions to provide sustainable digital solutions for our partners. Additional work aspects: strategic contribution to IT architecture and cross-process digitalization efforts, interact with connectivity solutions by supporting API, micro services, generative AI and other industries relevant technical developments. The business processes in scope of this role are: Order-to-Cash, Order-to-Invoice Job Requirements Focus on the minimum requirements to carry out the work – you might want to point out “additional plus/nice to have skills” that are not mandatory Edu c a t i o n Master's degree in computer science, business or STEM major with 4-6 years of IT or related field experience OR Bachelor's degree in computer science, business or STEM major with 6-8 years of IT or related field experience OR Diploma or comparable training with 6+ years of professional experience in IT and/or..."
+  }
+}

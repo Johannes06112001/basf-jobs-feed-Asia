@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138999",
+    "title": "Automation Engineer (1 year contract)",
+    "url": "https://basf.jobs/job-invite/138999/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Applications Technology",
+    "job_level": "Professional",
+    "job_type": "Temporary",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBT/OT-F",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-29T10:27:33Z",
+    "description": "Objectives of the Position BASF Shared Services Center Kuala Lumpur was established in 2005 to provide functional services in Finance, Controlling, Information Services, Human Resources, Environment, Health Safety, Procurement, and Import-Export Order Management to BASF companies in the Asia-Pacific region. The center is part of BASF’s Global Business Services (GB) division, with three other sites in Berlin and Ludwigshafen in Germany and in Montevideo, Uruguay. GB’s Global Technology Unit (GTU) is looking for an Automation Engineer with a technical background in in automation technologies. The role works closely with GTU’s Global Business Enablement and solutions delivery teams to implement and support IT solutions for other units of the GB division globally. Additionally, it is envisioned for the role to be part of a global Community of Practice to further the awareness and adoption of Citizen Development technologies across the GTU and GB organization in Kuala Lumpur, Berlin and Montevideo. Main Tasks As an Automation Engineer in the Global Technology Unit team, your main tasks include: Designing, implementing and supporting automated workflows using UiPath RPA, Microsoft Power Automate and other related technologies Integrate automation solutions with enterprise systems and platforms (e.g. SAP, SharePoint, APIs, databases, and cloud services) by leveraging REST APIs and connectors to enable end-to-end process automation across multiple systems Collaborate with business stakeholders to assist in analyzing and mapping end-to-end business processes, identifying automation opportunities and optimization potential Define automation scope, requirements, and success criteria, ensuring alignment with business objectives Design scalable and maintainable automation solutions, including exception handling strategies and human-in-the-loop considerations where required Participating in testing activities, including any applicable unit testing, SIT, UAT, FAT etc. Creating and managing Continuous Integration and Continuous Deployment pipelines to automate the software application release process in-line with BASF best practices Monitoring and optimization of implemented solutions and the relevant infrastructure environments they run on, to minimize service disruption risks by analyzing metrics related to system/application health Supporting implemented solutions through troubleshooting and rectification Produce and maintain comprehensive technical documentation,..."
+  }
+}

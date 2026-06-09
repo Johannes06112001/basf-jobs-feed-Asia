@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "134312",
+    "title": "Intern, Credit Risk Management",
+    "url": "https://basf.jobs/job-invite/134312/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Finance, Controlling & Audit",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBA/FO-RR",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-03-11T03:26:50Z",
+    "description": "Here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the Customer Credit Risk Management (CCRM). You will be able to explore digital technologies such as credit automation Collaborative and multicultural atmosphere where you are an essential team player to support colleagues and managers in a wide range projects and activities Guidance, coaching and feedback from supervisors on performance which help you learn and shape your working style Main Tasks To manage following credit management tasks: Perform review and support of order release management Prepare necessary reporting and monitoring of CCRM KPIs Obtain necessary information needed to perform risk assessment such as customer’s financials, rating, and other customer data Input customer data (include financial statement) in BASF system and perform financial analysis Ad-hoc support on ongoing CCRM projects such as smart credit optimizer and clean-ups Perform other credit management tasks if needed Requirements Able to commit a 6-month internship Students of bachelor’s degree or Master’s Degree in Finance, Business Administration or any related disciplines Proficient in oral and written in Mandarin and English Proficient in Microsoft Excel and Power Point A good team player with high level of maturity and independence"
+  }
+}

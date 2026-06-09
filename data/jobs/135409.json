@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "135409",
+    "title": "EHS,ED,Yokkaichi-Rokuromi Plant 1",
+    "url": "https://basf.jobs/job-invite/135409/?locale=en_US",
+    "country": "Japan",
+    "city": "Yokkaichi-shi",
+    "state": "Mie",
+    "job_field": "Production, Maintenance & Technical Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Japan Ltd.",
+    "department": "A-EDA/OJR",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-04-29T02:05:10Z",
+    "description": "六呂見工場 EHS （環境・健康・安全管理 ）スペシャリスト Job Grade ：４（部下なし/管理職ではない一般職） 勤務地：BASF ジャパン 六呂見工場：三重県四日市市六呂見６５３−２ 職務目的 工場管理職の指導のもと、EHS 活動の計画・調整・推進 グローバル基準や法令の導入 従業員の安全意識向上と職場環境の改善 主な職務内容 EHS 規則の解釈と実施提案 安全・環境保護方針の導入 RC 委員会メンバーとしての指導 業務プロセスの安全性評価と改善提案 教育・研修の企画・実施・評価 法令遵守の監査と報告 災害調査と予防策の提案 文書管理と統計・報告書の作成 応募要件 学士号または同等の資格 EHS 経験の経験者もしくは化学工場における製造、設備・保全分野での実務経験5 年以上 EHS に関する技術的・専門的知識 英語力：グローバルチームとのワークショップに参加できるレベル"
+  }
+}

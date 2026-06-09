@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "115450",
+    "title": "Supervisor, Quality Management_PS&R",
+    "url": "https://basf.jobs/job-invite/115450/?locale=en_US",
+    "country": "Taiwan",
+    "city": "Taoyuan City",
+    "state": "Taoyuan",
+    "job_field": "Quality Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Taiwan Ltd.",
+    "department": "G-EDM/O",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2025-01-13T06:12:12Z",
+    "description": "1. Process Improvement Digitalization - NGBA steering associated improvements: As the global point of contact for G-EDM Quality Management and PS R processes, lead participate in the development, optimization and automation of processes related to QM and PS R. Guide functional leads across countries to define the NGBA end-state solution and finalize process models. Conduct regular analysis of existing processes, IT environment, and align with best practices. 2. Change Management - Technical Organizational: Identify global/country specific features and enable NGBA workshops for Quality Management and PS R. Drive role-based training for users across G-EDM. Develop user documentation, process descriptions, guidelines, and procedural instructions. 3. Stakeholder Management Global Coordination: Provide updates to key stakeholders on NGBA implementation progress, achievements, and improvements in Quality Management and PS R. Represent G-EDM in business experts' communities and NGBA forums for Quality Management and PS R topics. Build internal G-EDM Quality Management and PS R expert community."
+  }
+}

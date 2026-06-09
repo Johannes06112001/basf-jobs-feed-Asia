@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "132997",
+    "title": "Talent Community | BASF Digital Hub Hyderabad",
+    "url": "https://basf.jobs/job-invite/132997/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Information Technology & Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GD/H Human Resources",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-02-04T15:03:41Z",
+    "description": "WELCOME TO BASF At BASF Digital Hub Hyderabad, we’re shaping the future of the chemical industry through innovation, creativity, and collaboration. As we continue to grow, we’re building a talent pipeline for IT Professionals who want to make a difference. WHY JOIN OUR TALENT COMMUNITY? We are continuously building a community of forward‑thinking professionals who are passionate about technology, innovation, and impactful problem‑solving. We are opening positions across a variety of technical domains, and we’re always excited to connect with individuals who bring curiosity, adaptability, and a strong desire to grow. As part of our talent community, you may be considered for future opportunities in areas such as software engineering, data science, cloud engineering, ERPs (SAP, ServiceNow, etc), cybersecurity, Artificial Intelligence, RPA automation, and platform operations. If you thrive in environments where continuous learning and collaboration are part of everyday life, apply here. WHAT WE OFFER A secure work environment because your health, safety and wellbeing is always our top priority Learning and development opportunities A collaborative, trustful and innovative work environment Being part of an international team and work in global projects Diversity is our greatest strength! Become a part of our winning formula for success and develop the future with us - in a global team that embraces inclusion and equal opportunities irrespective of gender, age, origin, sexual orientation, disability or belief."
+  }
+}

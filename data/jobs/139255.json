@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139255",
+    "title": "Customer Service Officer for Nutrition and Health (Contractor)",
+    "url": "https://basf.jobs/job-invite/139255/?locale=en_US",
+    "country": "South Korea",
+    "city": "Seoul",
+    "state": "Seoul-teukbyeolsi",
+    "job_field": "Administration & Office Support",
+    "job_level": "Professional",
+    "job_type": "Temporary",
+    "company": "BASF Company Ltd.",
+    "department": "EN/LA",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-04T22:36:12Z",
+    "description": "Contract Period : 1 Aug 2026 - 31 Dec 2027 * Position summary: -A Customer Service Officer (CSO) plays a critical operational role in ensuring both customer experience and supply reliability by maintaining accuracy and efficiency across the entire Order-to-Delivery process. -Through close collaboration with overseas manufacturing sites and internal stakeholders, the CSO minimizes supply risks and systematically manages customer order processing, invoicing, and returns. -This role requires strong SAP-based operational capabilities and a high level of data accuracy, along with the ability to continuously improve ways of working in an AI and digital automation environment. The position also demands effective problem-solving skills in complex situations involving multiple stakeholders. *Qualifications required: -Demonstrate SAP knowledge especially on MM and VA module -Strong problem-solving skills in situations involving multiple stakeholders -Ability to work flexibly across time zones -High attention to details, and quickly adapt to change in AI automation -Business communication in English language for liaising with global interfaces *Key Responsibility: -Coordinate with oversea factories to ensure timely availability of manufactured goods -Review and process customer orders accurately -Proactive customer communications related to Order Management -Follow up order block/release and payment -Send and amend tax invoice -Handle product returns and replacements -1–3 years of working experience with fluency in English."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138877",
+    "title": "GDB/DG - Platform Engineer (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138877/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/DG Data Science Platform",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T18:30:00Z",
+    "description": "Platform Engineer OrgCode: GDB/DG Product Team: Click or tap here to enter text. Responsibilities: We are seeking a highly skilled Platform Engineer with deep expertise in CDKTF, Azure PaaS, and Python to design, automate, and operate platform capabilities that enable development teams across BASF to build and deploy applications efficiently and securely. Your work will contribute to BASF’s internal developer platform ecosystem — designing scalable platform components, codifying cloud infrastructure, and building reusable modules and tooling that empower engineering teams. Qualifications: CDKTF, Azure Paas, Python Bachelor’s degree in Computer Science, Information Systems, or a related field. Minimum of 3 years of experience as a Platform Engineer. Experience in software development methodologies such as Kanban or Scrum. Experience in working with cross-functional teams. What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work environment where your ideas are valued, and your curiosity and ambition are encouraged. Benefit from flexible working models, international networking, and a strong sense of purpose as we enable our customers’ green transformation and lead the way in digital excellence. [to include specific local benefits]."
+  }
+}

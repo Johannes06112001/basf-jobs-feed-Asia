@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138815",
+    "title": "GDD/GA - Full Stack Mobile Developer (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138815/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/GA",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-21T18:30:00Z",
+    "description": "Responsibilities: • Working in a global agile Development and Operations environment, you need to have good communication skills to keep intensively aligned with our stakeholders and our team of technical and functional experts. • You will strongly cooperate with logistics consultants and other developers, mainly taking care about the further improvement and development of our mobile solutions within Site Logistics. • As a service provider it is our ultimate target to enable and support our internal business partners to achieve BASF business goals through providing best-in-class IT and digitalization support. • We expect you to demonstrate interpersonal skills and show an excellent team player attitude. • You should have the drive and the willingness to develop new professional skills. You have also a growth mindset oriented to results and you are self-motivated • You need to understand specific processes for IM and WM and know the integration points with other SAP Modules (MM, SD, FI, CO, TM, PP, QM etc.) • You will design and develop UI components, process flow logic and architecture and build up automation pipelines • Stay updated in latest changes in Flutter, Android and iOS versions and of the integrated development environment • You can work in a structured way in order to prepare and support documentation, alignments, community meetings and decision-making processes Qualifications: • Required: Successfully completed studies in computer science, business informatics or a comparable qualification • Plus: Knowledge in Site Logistics operations • Plus: Knowledge of full stack tools (e.g. DevOps Azure) • Required: Frontend development (Flutter Framework, Dart, BLoC Pattern) • Plus: Development experience in general • Flutter Development • Azure Environment (Devops, Automation/Pipelines, Authentication) • Fluent (written and spoken) in English • Plus : MS SQL • OpenAPI 3.0 and RESTful API’s and how to integrate these in a Flutter application • Android and iOS native development What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work..."
+  }
+}

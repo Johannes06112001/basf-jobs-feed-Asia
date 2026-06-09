@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "139313",
+    "title": "Senior Backend Engineer",
+    "url": "https://basf.jobs/job-invite/139313/?locale=en_US",
+    "country": "China",
+    "city": "Nanjing",
+    "state": "Unknown",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+    "department": "G-ECO/MD",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-03T02:21:09Z",
+    "description": "About The Role Within Global Digital Factory ECO (G ‑ ECO/MD), you will contribute to the development of a modern web application as part of an agile DevOps team. The team builds and operates solutions that are jointly used by BASF Coatings and external customers, ensuring high quality, reliability, and continuous improvement throughout the product lifecycle. How You Will Do It - You will be delivering both Intranet and Internet applications to improve BASF Coatings services towards our customers. - Together with your team, you support the process of feature development from the first idea to the final go-live with the end-user. - You will be working in an agile and self-organized way. You not only consider development of new applications but also operations and maintenance as a valuable part of your daily work. - You collaborate closely with product owners, designers, and developers across different locations and time zones communicating asynchronously and ensuring shared understanding of requirements. - You understand, analyze, define, develop, and fulfil quality requirements for planned functionalities in close cooperation with product owners, designers and the development team. - You implement backend (Java Spring Boot) components, ensuring seamless integration with the frontend or other services. You participate in code reviews and uphold coding standards in close cooperation with the team. - You design and implement technical concepts in modern microservice architecture and interact with RESTful APIs. - You write and maintain unit and integration tests to ensure high quality and prevent regressions. - You deploy and test implementations across all environments using CI/CD pipelines and container technologies. - You collaborate on automated testing, monitoring and observability, and support DevOps activities if required. - You document delivered solutions (architecture decisions, API specs, runbooks) to support maintainability and onboarding. - Finally, you keep an eye on current technological developments and apply relevant improvements in daily work. What We Look For - Degree or comparable education in computer or information science, combined with relevant professional experience in an IT environment. - Strong professional experience in Java (8+), Spring, and Spring Boot for backend development. - Practical knowledge of microservice architecture and experience designing, implementing, and consuming RESTful APIs. - Proficiency with SQL databases..."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138957",
+    "title": "GDD/EQ - Senior Full Stack Developer (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138957/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/EQ SAP PM Services, Project&Contractor Sol.",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T09:26:21Z",
+    "description": "Senior Full Stack Developer (m/f/d) Location: Hybrid Start Date: ASAP Employment: Full ‑ time About the Role We are looking for a Senior Full Stack Developer (m/f/d) to help build and grow our digital solutions. You will work with modern cloud architectures, web technologies, APIs, and agile development methodologies. If you enjoy end-to-end ownership of applications and solving real business challenges with clean, scalable code, this position is the right fit for you. Your Responsibilities Develop modern web applications using HTML, CSS, and JavaScript Implement backend services using Python and Flask Design, optimize, and maintain SQL databases Consume and integrate OData APIs and other external data sources Implement and manage OAuth-based authentication and authorization for secure API and application access Build and deploy cloud ‑ native applications in the Microsoft Azure ecosystem Manage code and workflows in git ‑ based repositories (GitHub, Azure DevOps) Actively contribute to agile development processes (Scrum / Kanban) Your Profile Solid knowledge of HTML, CSS, JavaScript Experience with Python, preferably with Flask Strong understanding of SQL (MSSQL, PostgreSQL) Experience consuming OData APIs (especially SAP) Hands ‑ on experience implementing OAuth flows Experience with Microsoft Azure services and cloud ‑ native architectures Confident use of git, branching strategies, pull requests, and CI/CD pipelines Familiarity with agile workflows (Scrum, Kanban) A proactive, structured working style combined with a collaborative mindset What We Offer Work on impactful digitalization and cloud transformation projects Flexible working hours and remote work options A modern tech stack with a prepared architecture and a limited but meaningful degree of freedom to influence tooling Opportunities for continuous learning and professional development A supportive team with flat hierarchies and quick decision ‑ making"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "132756",
+    "title": "Production Executive",
+    "url": "https://basf.jobs/job-invite/132756/?locale=en_US",
+    "country": "India",
+    "city": "Dahej",
+    "state": "Gujarat",
+    "job_field": "Production, Maintenance & Technical Services",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF India Limited",
+    "department": "A-PMA/O",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-02-04T17:55:57Z",
+    "description": "Objectives of the Position: As a designated Shift Supervisor, takes responsibility of Safety, Production, Quality of System House plant in the shifts. Main Tasks: Coordinate and manage production in shift with consistent Quality and Safety as per the target. Manage the manpower planning in the shift. (Employee and Contractor) Continuous improvement of processes in coordination with the Plant Manager and his Deputy Quality control to reduce batch cycle times, increase in yields, increase operational ease and ultimately leading to cost effective production. Whenever required, Coordinate with Supply chain and logistics team for adherence of production schedule and share the information to the team of change if any. Guiding a group of Operators in the plant continuously to ensure consistent product quality and safety. Implement Safety, Health and Environment system of the plant concerning man and equipment. Update knowledge and share the information of any change through proper channel. Ensure that discharge parameters of all the emissions in the plant are within the statutory limits and health and hygiene of the plant personnel is well maintained in the shifts. Ensuring proper implementation of norms as per the departmental operating procedures of ISO 9001, ISO 14001 ISO 50001 Energy Management system. Guide shop floor personnel towards SHE (Safety, Health and Environment) /(RC)Responsible care /cleanliness of the plant (5S) /discipline for improving the BASF’s safe work culture in the shifts. This ensures compliance of BASF’s statutory requirements, which also includes the training of the subordinates regarding the safety aspects and handling of the critical hazardous chemicals. Ensuring compliance to TDS requirements while performing activities like tanker loading, Tanker unloading, labelling and packing as and when required. Adherence to the PPE usage by self and plant personnel, ensure work permit system is properly followed in the shifts. Adherence to target agreement and perform additional responsibilities as per given timeline Prepare and share production reports to higher management. Co-ordinate with site functions like Warehouse, Engineering , WWTP, Admin and Quality team. Compliance to process safety and environmental protection code as per BASF Practice. Ensure the documentation of Responsible care requirement on continual basis. Act as EHS representative in the shifts. As a Part of ERT(Emergency Response Team), rush to the incident spot in case..."
+  }
+}

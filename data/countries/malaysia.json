@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country",
   "country": "Malaysia",
   "total_active": 51,
@@ -13,7 +13,7 @@
     "Production, Maintenance & Technical Services": 2,
     "Environment, Health & Safety": 1
   },
-  "llm_instruction": "This file contains only BASF jobs in Malaysia. Filter this file before loading wider Asia data. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
+  "llm_instruction": "This file contains only BASF jobs in Malaysia. Descriptions are short previews. Fetch detail_path only for shortlisted roles. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
   "jobs": [
     {
       "job_id": "134802",
@@ -25,12 +25,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/SE-G",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-09T03:55:39Z",
-      "description": "O bjectives of the Position: Responsible for ensuring transport management for inbound or outbound (as assigned) are as per stipulated guidelines, procedures and requirements Support process improvement, knowledge and risk management as per overseas delivery services M ain Areas of Responsibilities and Key Activities: Outbound Processing transports for packaged deliveries with a focus on sea freight to our customers in compliance with the required customer deadlines at cost-optimal conditions Managing the loading planning consolidation/deconsolidation activities at the associated companies and external locations or sites, including monitoring of loading times. Legal, internal, safety-relevant and packaging-related regulations must be considered, and customer-specific service levels and other quality requirements must be met Monitoring of all necessary or relevant shipment milestones and ensuring prompt follow ups, updates and correspondences to all relevant stakeholders. Monitoring and assessing the quality of our service providers, transport reliability and feedback rates and tracking shipments vessels Preparation of all necessary transport documents, control of the proper filing "
+      "description_preview": "O bjectives of the Position: Responsible for ensuring transport management for inbound or outbound (as assigned) are as per stipulated guidelines, procedures and requirements Support process improvement, knowledge and risk management as per overseas delivery services M ain Areas of Responsibilities and Key Activities:...",
+      "detail_path": "data/jobs/134802.json"
     },
     {
       "job_id": "138986",
@@ -42,12 +39,9 @@
       "job_field": "Human Resources",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PP-P1",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-05T08:41:09Z",
-      "description": "Objectives of the Position Seek to understand business needs and provide support, services and solution on payroll, HR data, HR systems and processes. Offer day-to-day support to service recipients on HR inquiries, work collaboratively with others and perform research on payroll and HR data practices by staying abreast of current and emerging market insights and legal legislations in local countries. Participate in process improvements, automation, and digitalization measures to offer best service delivery experience. Main Tasks Operational Excellence Ensure data quality and data integrity for Payroll and HR data processes. Receive, analyze, process and follow-up on personnel administration requests via multiple request channels, ensure accurate and timely interface to the respective internal/ external processing chains i.e. payroll, finance, data analytics, external service providers, local authorities etc. Manage entire termination workflow for all termination types which includes leaves calculations, information checks, letters preparation, systems updates, payment calculations and exit clearance. Responsible for time and attendance administrations, including manual calculations"
+      "description_preview": "Objectives of the Position Seek to understand business needs and provide support, services and solution on payroll, HR data, HR systems and processes. Offer day-to-day support to service recipients on HR inquiries, work collaboratively with others and perform research on payroll and HR data practices by staying...",
+      "detail_path": "data/jobs/138986.json"
     },
     {
       "job_id": "138838",
@@ -59,12 +53,9 @@
       "job_field": "Legal, Tax & Insurance",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "CL/OK",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-05T07:53:31Z",
-      "description": "Main Tasks You will draft, review, and negotiate local or international legal and intellectual property contracts, using templates and playbooks within defined limits. You will provide legal and compliance support on various matters, including due diligence, merger and acquisition projects, audits, and legal investigations. You will manage the contract lifecycle, ensure process efficiency, and contribute to the maintenance and improvement of contract templates and knowledge management systems. You will interact with internal clients and external customers as required for your assigned tasks. You will perform ancillary tasks such as preparing presentations, using legal tech tools, and handling translations. Requirements University degree in Law, preferably with a focus on commercial law Experience in draft and legal review of contracts, preferably with commercial law emphasis At least 3 years of professional experience in legal and commercial contract management, preferably wit h knowledge or practice of both common-law and civil-law systems Experienced in drafting and performing legal review of contracts, preferably with an emphasis on commercial law Fluent in English (and Thai and"
+      "description_preview": "Main Tasks You will draft, review, and negotiate local or international legal and intellectual property contracts, using templates and playbooks within defined limits. You will provide legal and compliance support on various matters, including due diligence, merger and acquisition projects, audits, and legal...",
+      "detail_path": "data/jobs/138838.json"
     },
     {
       "job_id": "138272",
@@ -76,12 +67,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/SA-R",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-04T05:56:54Z",
-      "description": "The internship program is available all year long and here's what you can expect • A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the function e.g. supply chain, logistics, order management, etc. • You will be able to explore digital technologies such as robotics and automation, machine learning, predictive analytics, AI technologies with potential to improve operational effectiveness and efficiency • Collaborative and multicultural atmosphere where you are an essential team player to support colleagues and managers in a wide range projects and activities • Guidance, coaching and feedback from supervisors on performance which help you learn and shape your working style About The Role • Support in tracking shipment schedules and updating details in SAP. • Learn end to end shipment processes, Incoterms. to end shipment and customs operations. • Collect and verify key shipping documents and uploading using Power Automate. • Support in delivering automation effort across teams to simplify work processes • Participate in improvement initiatives discussion to w"
+      "description_preview": "The internship program is available all year long and here's what you can expect • A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the function e.g. supply chain, logistics, order management,...",
+      "detail_path": "data/jobs/138272.json"
     },
     {
       "job_id": "138240",
@@ -93,12 +81,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB Global Business Services",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-04T05:49:15Z",
-      "description": "The internship program is available all year long and here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the function e.g. supply chain, logistics, order management, etc. You will be able to explore digital technologies such as robotics and automation, machine learning, predictive analytics, AI technologies with potential to improve operational effectiveness and efficiency Collaborative and multicultural atmosphere where you are an essential team player to support colleagues and managers in a wide range projects and activities Guidance, coaching and feedback from supervisors on performance which help you learn and shape your working styl About The Role Support in tracking shipment schedules and updating details in SAP. Learn end to end shipment processes, and Incoterms.‑to‑end shipment processes, Collect and verify key shipping documents and uploading using Power Automate. Support in delivering automation effort across teams to simplify work processes Participate in improvement initiatives discussion to work on improvement plans and"
+      "description_preview": "The internship program is available all year long and here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the function e.g. supply chain, logistics, order management,...",
+      "detail_path": "data/jobs/138240.json"
     },
     {
       "job_id": "138734",
@@ -110,12 +95,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/SG-AA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-04T05:35:25Z",
-      "description": "The main objective of this internship program is to provide students with comprehensive exposure to customs operations within the supply chain, specifically for the chemistry industry. Interns will gain practical understanding of customs-related topics, including HS code classification, analyzing the impact of duties and taxes in international trade, and exploring trade facilities such as free trade agreements, Authorised Economic Operator (AEO), duty drawback etc. Interning with the customs operation team offers valuable insights into international business practices and supply chain dynamics. This experience equips interns with specialized skills that are highly sought after in global trade and logistics, fostering professional growth and enhancing future career opportunities. Learn the basics of customs operations and their critical role in the supply chain. Study foundational customs knowledge and terminology relevant to the chemistry industry. Observe and map out the overview process flow of customs procedures. Understand HS code classification and its importance for accurate documentation and tax calculation. Explore the effects of duties and taxes on international business t"
+      "description_preview": "The main objective of this internship program is to provide students with comprehensive exposure to customs operations within the supply chain, specifically for the chemistry industry. Interns will gain practical understanding of customs-related topics, including HS code classification, analyzing the impact of duties...",
+      "detail_path": "data/jobs/138734.json"
     },
     {
       "job_id": "136080",
@@ -127,12 +109,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/SE-G",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-04T04:06:44Z",
-      "description": "O bjectives of the Position: Responsible for ensuring transport management for inbound or outbound (as assigned) are as per stipulated guidelines, procedures and requirements Support process improvement, knowledge and risk management as per overseas delivery services M ain Areas of Responsibilities and Key Activities: Outbound Processing transports for packaged deliveries with a focus on sea freight to our customers in compliance with the required customer deadlines at cost-optimal conditions Managing the loading planning consolidation/deconsolidation activities at the associated companies and external locations or sites, including monitoring of loading times. Legal, internal, safety-relevant and packaging-related regulations must be considered, and customer-specific service levels and other quality requirements must be met Monitoring of all necessary or relevant shipment milestones and ensuring prompt follow ups, updates and correspondences to all relevant stakeholders. Monitoring and assessing the quality of our service providers, transport reliability and feedback rates and tracking shipments vessels Preparation of all necessary transport documents, control of the proper filing "
+      "description_preview": "O bjectives of the Position: Responsible for ensuring transport management for inbound or outbound (as assigned) are as per stipulated guidelines, procedures and requirements Support process improvement, knowledge and risk management as per overseas delivery services M ain Areas of Responsibilities and Key Activities:...",
+      "detail_path": "data/jobs/136080.json"
     },
     {
       "job_id": "138834",
@@ -144,12 +123,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (Malaysia) Sdn. Bhd.",
-      "department": "A-CPA/IL",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-04T01:40:16Z",
-      "description": "Objectives of the Position The primary function of this role is to provide efficient order management, manage interfaces with customers for order to cash processes and provide improvements to supply chain management. Effectively communicate and resolve order issues with customers and sales. Responsibility of placing replenishment purchase order to supply source and monitor the delivery schedule Main Areas of Responsibilities and Key Activities Manage Master Data maintenance process to ensure effective order management and the End-to-End order process by proactively collaborating with multiple functions. Capture market intelligence on the supply chain related topics from daily interaction with customers and share with the business as appropriate and be an integral part of business management. Contribute to development of customer relationships through proactive customer communication related to order management e.g. product availability, order status and delivery tracking. Support Credit Management, Billing and Accounts Receivable Follow-up. Issuing tax invoices for month end closing. Handle customer complaints in BASF’s available system (Non-Conformance Management, tNPS) and active"
+      "description_preview": "Objectives of the Position The primary function of this role is to provide efficient order management, manage interfaces with customers for order to cash processes and provide improvements to supply chain management. Effectively communicate and resolve order issues with customers and sales. Responsibility of placing...",
+      "detail_path": "data/jobs/138834.json"
     },
     {
       "job_id": "139001",
@@ -161,12 +137,9 @@
       "job_field": "Applications Technology",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBT/OT-F",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-29T10:38:02Z",
-      "description": "Objectives of the Position BASF Shared Services Center Kuala Lumpur was established in 2005 to provide functional services in Finance, Controlling, Information Services, Human Resources, Environment, Health Safety, Procurement, and Import-Export Order Management to BASF companies in the Asia-Pacific region. The center is part of BASF’s Global Business Services (GB) division, with three other sites in Berlin and Ludwigshafen in Germany and in Montevideo, Uruguay. GB’s Global Technology Unit (GTU) is looking for a Full-Stack Developer with a technical background in building modern IT applications and solutions. The role works closely with GTU’s Global Business Enablement and solutions delivery teams to implement and support IT solutions for other units of the GB division globally. Additionally, it is envisioned for the role to be part of a global Community of Practice to further the awareness and adoption of Citizen Development technologies across the GTU and GB organization in Kuala Lumpur, Berlin and Montevideo. Main Tasks As a Full-Stack Developer in the Global Technology Unit team, your main tasks include: Build responsive, high‑quality front‑end user experiences using modern JS "
+      "description_preview": "Objectives of the Position BASF Shared Services Center Kuala Lumpur was established in 2005 to provide functional services in Finance, Controlling, Information Services, Human Resources, Environment, Health Safety, Procurement, and Import-Export Order Management to BASF companies in the Asia-Pacific region. The center...",
+      "detail_path": "data/jobs/139001.json"
     },
     {
       "job_id": "138999",
@@ -178,12 +151,9 @@
       "job_field": "Applications Technology",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBT/OT-F",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-29T10:27:33Z",
-      "description": "Objectives of the Position BASF Shared Services Center Kuala Lumpur was established in 2005 to provide functional services in Finance, Controlling, Information Services, Human Resources, Environment, Health Safety, Procurement, and Import-Export Order Management to BASF companies in the Asia-Pacific region. The center is part of BASF’s Global Business Services (GB) division, with three other sites in Berlin and Ludwigshafen in Germany and in Montevideo, Uruguay. GB’s Global Technology Unit (GTU) is looking for an Automation Engineer with a technical background in in automation technologies. The role works closely with GTU’s Global Business Enablement and solutions delivery teams to implement and support IT solutions for other units of the GB division globally. Additionally, it is envisioned for the role to be part of a global Community of Practice to further the awareness and adoption of Citizen Development technologies across the GTU and GB organization in Kuala Lumpur, Berlin and Montevideo. Main Tasks As an Automation Engineer in the Global Technology Unit team, your main tasks include: Designing, implementing and supporting automated workflows using UiPath RPA, Microsoft Power "
+      "description_preview": "Objectives of the Position BASF Shared Services Center Kuala Lumpur was established in 2005 to provide functional services in Finance, Controlling, Information Services, Human Resources, Environment, Health Safety, Procurement, and Import-Export Order Management to BASF companies in the Asia-Pacific region. The center...",
+      "detail_path": "data/jobs/138999.json"
     },
     {
       "job_id": "138967",
@@ -195,12 +165,9 @@
       "job_field": "Human Resources",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PHM",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-28T11:04:15Z",
-      "description": "Objectives of the Position Effectively manage special projects assigned in HR area in line with the project deliverables and manage all stakeholders to ensure project deliverables are communicated effectively Responsibilities 1) Project Management Develop working relationships with the project owners and involved departments to ensure that project solutions are adopted, implemented and maintained appropriately. Provide HR support in project deliverables, identify challenges to be solved and contribute to providing resolutions by working closely with HR Business Partner and HR Center of excellence colleagues Monitor impact and outcome of implemented solutions with documentation of learnings. Assist in the systematic review, retrieval, evaluation, and secure destruction of HR document records in accordance with company policies and compliance standards. Ad-hoc Duties: Take on any other operational or strategic duties as assigned by Senior Manager, HR to support the broader HR team 2) Policy Consolidation Revamping Review Benchmark: Audit current HR policies against industry best practices and local labor laws to identify gaps and outdated clauses. Drafting Formatting: Rewrite, stream"
+      "description_preview": "Objectives of the Position Effectively manage special projects assigned in HR area in line with the project deliverables and manage all stakeholders to ensure project deliverables are communicated effectively Responsibilities 1) Project Management Develop working relationships with the project owners and involved...",
+      "detail_path": "data/jobs/138967.json"
     },
     {
       "job_id": "138707",
@@ -212,12 +179,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF (Malaysia) Sdn. Bhd.",
-      "department": "A-EDA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-28T10:48:25Z",
-      "description": "Objectives of the Position Manage the complete planning role which includes Demand Supply planning Support in Merchandise stock planning for ASEAN Assist in Raw Material Planning Responsibilities Develop and execute demand and supply planning strategies to ensure optimal inventory levels and timely fulfilment of business requirements. Collaborate closely with sales, procurement, and logistics teams to align demand forecasts with supply capabilities. Monitor market trends and historical data to create accurate demand forecasts and mitigate potential supply chain disruptions. Balance demand forecast against supply capability and inventory to create a feasible constrained rough-cut supply plan for Merchandise Products. Assist in raw material planning by coordinating with suppliers and production teams to ensure timely availability of materials. Maintain comprehensive records and reports on inventory, demand forecasts, and supply schedules for effective decision-making. Identify process improvement opportunities within planning functions to enhance efficiency. Participate in cross-functional meetings and projects, contributing insights for continuous improvement of planning processes. "
+      "description_preview": "Objectives of the Position Manage the complete planning role which includes Demand Supply planning Support in Merchandise stock planning for ASEAN Assist in Raw Material Planning Responsibilities Develop and execute demand and supply planning strategies to ensure optimal inventory levels and timely fulfilment of...",
+      "detail_path": "data/jobs/138707.json"
     },
     {
       "job_id": "138582",
@@ -229,12 +193,9 @@
       "job_field": "Legal, Tax & Insurance",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "CL Legal, Compliance, Insurance & Security",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-28T10:37:25Z",
-      "description": "The Corporate Insurance (CLI) Specialist will serve as the gatekeeper and central coordination point for insurance related governance activities across countries. The role ensures consistency, accuracy, compliance, and clear accountability for all insurance data, reporting, and coordination activities within the CLI scope.‑related governance activities across countries. Functional Tasks (Inclusive but not limited): Insurance Governance Data Management Collect and consolidate data required for governance related insurance activities (e.g., asset values, stock values, turnover). ‑related insurance activities (e.g., asset values, stock values, turnover). Input and maintain insurance data in the relevant insurance systems and platforms. Collect local insurance policies and coordinate premium payment processes. Claims Management Investigation Report, track, and manage insurance claims. Attend on‑site visits to assess and understand damages when required. Liaise with internal and external stakeholders to ensure claims are handled promptly and accurately. Stakeholder Broker Management Manage and communicate with local insurance brokers and insurers. Explain insurance arrangements to local"
+      "description_preview": "The Corporate Insurance (CLI) Specialist will serve as the gatekeeper and central coordination point for insurance related governance activities across countries. The role ensures consistency, accuracy, compliance, and clear accountability for all insurance data, reporting, and coordination activities within the CLI...",
+      "detail_path": "data/jobs/138582.json"
     },
     {
       "job_id": "138984",
@@ -246,12 +207,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/SA-M",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-26T08:55:49Z",
-      "description": "Objectives of the Position: Ensure effective execution of inbound and outbound transportation (Import Export) including documentation and system (SAP TM) processes Maintain accurate reporting, cost control, and compliance with company and regulatory requirements Drive timely issue resolution, escalation, and continuous improvement across logistics operations Support monitoring of service provider performance against defined KPIs Main Tasks: 1. Operations Management Manage end-to-end Import Export shipment processes (Air, LCL, FCL, ISO, tanker, parcel tanker) Coordinate shipment arrangements with LLP, LSP, warehouse, PPC, and stakeholders Prepare and validate shipping documentation and ensure proper system updates (SAP TM) Handle MDB block release and shipment readiness validation Troubleshoot system or operational issues impacting shipment execution 2. Reporting Analytics Prepare and manage operational reports including: LLP Rework Report LCL/Air KPI Report TCO Report Demurrage Detention Report Freight Cost Clean-up (weekly monthly) FCV bi-weekly updates Validate data with LLP/LSP and ensure submission within defined timelines Analyze deviations and drive corrective actions 3. Cost"
+      "description_preview": "Objectives of the Position: Ensure effective execution of inbound and outbound transportation (Import Export) including documentation and system (SAP TM) processes Maintain accurate reporting, cost control, and compliance with company and regulatory requirements Drive timely issue resolution, escalation, and...",
+      "detail_path": "data/jobs/138984.json"
     },
     {
       "job_id": "138942",
@@ -263,12 +221,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (Malaysia) Sdn. Bhd.",
-      "department": "A-PMA/SE",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-26T03:11:12Z",
-      "description": "Objectives of the Position To support daily Supply Network Planning operations for the Engineering Plastics in Pasir Gudang plant. Ensuring timely raw material availability, accurate production planning, system maintenance, compliance with audit requirements, and preparation of monthly reports. Main Tasks Issue a monthly production schedule to determine the production volume to be produced on each extruder line every month. Received MPS from SCM Regional to prepare detailed production scheduling on monthly basis. Assist in data processing of all production information after each run, according to BASF procedures, and keying them into the SAP system (GR/GI) Assist in issuing the feed preparation information as per the official recipe to the Production Supervisor for each production run in both SAP and MES barcode. Responsible for aging stocks control for raw materials Liaise closely with SCM, and A-PMA on all changes and arrangements of production, stock, and schedule accordingly. Responsible for new Material Master request in Bizagi for 3rd party raw material. If Finish Goods only for the change of packaging type. Requirements Minimum of Diploma in Chemistry, Industrial Chemistry, "
+      "description_preview": "Objectives of the Position To support daily Supply Network Planning operations for the Engineering Plastics in Pasir Gudang plant. Ensuring timely raw material availability, accurate production planning, system maintenance, compliance with audit requirements, and preparation of monthly reports. Main Tasks Issue a...",
+      "detail_path": "data/jobs/138942.json"
     },
     {
       "job_id": "138784",
@@ -280,12 +235,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/CA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-25T08:06:26Z",
-      "description": "Objective We are looking for a motivated Controlling Analyst to support financial controlling activities within a defined scope. This is an excellent opportunity for fresh graduates to build a career in finance and controlling. Responsibilities Perform operational controlling tasks, including: Contract reviews Monthly reporting and budget tracking Forecasting and annual budgeting Ad-hoc financial analysis and deep dives on costs and investments Execute charging activities and manage residuals Analyze and monitor cost flows Provide insights on cost drivers to key stakeholders Support the creation, maintenance, and enhancement of dashboards and reporting tools Ensure accurate, timely financial data and transparency for stakeholders Independently handle assigned tasks and escalate deviations when required Communicate findings using a fact-based approach, tailoring messaging across different stakeholder levels Apply predefined solutions and adapt them based on analysis to resolve issues Requirements Bachelor’s or Master’s degree in Finance, Accounting, or related fields, or professional certifications (ACCA, CPA, CIMA, or equivalent) Fresh graduates or candidates with 1 year of experie"
+      "description_preview": "Objective We are looking for a motivated Controlling Analyst to support financial controlling activities within a defined scope. This is an excellent opportunity for fresh graduates to build a career in finance and controlling. Responsibilities Perform operational controlling tasks, including: Contract reviews Monthly...",
+      "detail_path": "data/jobs/138784.json"
     },
     {
       "job_id": "135439",
@@ -297,12 +249,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/SA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-22T02:46:37Z",
-      "description": "Objectives of the Position Responsible for ensuring export management are as per stipulated guidelines, procedures and requirements. Support process improvement, knowledge and risk management as per overseas delivery services. Main Areas of Responsibilities and Key Activities Processing monitoring of customer orders for exports from different business units in compliance with legal, country or customer regulations Fulfillment of customer-specific service agreements and order-related requirements Responsibility for orders in line with the door-to-door accountability concept and monitoring of delivery reliability Collaborate with Transport Managers, forwarders, Export Managers, and other stakeholders to resolve documentation discrepancies and ensure smooth, timely shipment execution Prepare, validate, and monitor export related documents (e.g., BL/SWB, COO, COA, MSDS, packing list) in line with regulatory and operational guidelines Support issue resolution by troubleshooting export order discrepancies and working with cross functional teams to prevent delays Execute assigned export management transactions in SAP, ensuring correct data flow and documentation availability Coordinate im"
+      "description_preview": "Objectives of the Position Responsible for ensuring export management are as per stipulated guidelines, procedures and requirements. Support process improvement, knowledge and risk management as per overseas delivery services. Main Areas of Responsibilities and Key Activities Processing monitoring of customer orders...",
+      "detail_path": "data/jobs/135439.json"
     },
     {
       "job_id": "138595",
@@ -314,12 +263,9 @@
       "job_field": "Human Resources",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PT-A2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-21T05:58:59Z",
-      "description": "Role Summary The Talent Acquisition Partner manages the full recruitment lifecycle from Job Requisition (JR) approval to candidate offer acceptance. This role acts as a strategic advisor to the business, partnering closely with hiring managers and HR stakeholders to ensure effective talent delivery. The TA Partner is responsible for developing sourcing strategies, managing candidate pipelines, and driving a seamless recruitment experience for both candidates and internal stakeholders. Main Areas of Responsibilities and Key Activities End-to-End Recruitment Management • Manage the complete hiring process from JR approval, sourcing, screening, interview scheduling, selection, to offer stage. • Build and maintain strong talent pipelines across assigned functions. • Ensure timely process progression while maintaining a high quality candidate experience. • Provide market insights, talent trends, and recommendations to hiring managers. Stakeholder Management • Act as a trusted advisor to Hiring Managers, HR Business Partners, Country Heads, and functional leaders. • Facilitate alignment discussions on hiring needs, role requirements, and selection criteria. • Conduct regular hiring updat"
+      "description_preview": "Role Summary The Talent Acquisition Partner manages the full recruitment lifecycle from Job Requisition (JR) approval to candidate offer acceptance. This role acts as a strategic advisor to the business, partnering closely with hiring managers and HR stakeholders to ensure effective talent delivery. The TA Partner is...",
+      "detail_path": "data/jobs/138595.json"
     },
     {
       "job_id": "138560",
@@ -331,12 +277,9 @@
       "job_field": "Information Technology & Services",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GDA/C",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-20T08:37:58Z",
-      "description": "Objectives of the Position According to company procedures, perform clerical, administrative, and general office duties of confidential nature with limited supervision, typically for teams by discipline, with the aim to facilitate operations, information flow, and formal people interactions (e.g. meetings, workshops, conferences). Support the Vice President by providing secretarial and administrative support in a well-organized (e.g. digital tools) and timely manner. Provide professional communication and communicate instructions from the supervisor to stakeholders in a professional manner Main Tasks Support supervisor by providing professional business administrations Provide a wide range of administrative and secretarial support to the Vice President, including calendar management, meeting coordination, and business travel arrangements. Act as a professional first point of contact for both internal and external key stakeholders, prioritizing enquiries and managing competing administrative demands by proposing options or recommendations for alignment. Exercise sound judgment in handling administrative matters and stakeholder interactions within a defined scope. Maintain proper bus"
+      "description_preview": "Objectives of the Position According to company procedures, perform clerical, administrative, and general office duties of confidential nature with limited supervision, typically for teams by discipline, with the aim to facilitate operations, information flow, and formal people interactions (e.g. meetings, workshops,...",
+      "detail_path": "data/jobs/138560.json"
     },
     {
       "job_id": "138540",
@@ -348,12 +291,9 @@
       "job_field": "Human Resources",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PT-D",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-20T07:17:06Z",
-      "description": "O bjectives of the Position To support the design, coordination, and delivery of employee learning initiatives Contribute to creating engaging learning experiences Main Responsibilities Assist in the planning and coordination of training programs, workshops, and learning events Support the creation and editing of e-learning materials for On-boarding Revamp Project. Manage training logistics including scheduling, invitations, attendance tracking, and feedback collection. Maintain and update learning management systems (LMS) and training records Job Requirements Pursuing a Degree in Human Resources, Psychology, Business Administration, Education, or related field Interest in training, talent development, or organizational learning Experience with content creation tools (e.g., Canva, Articulate, Adobe) is an advantage Technical Professional Knowledge A growth mindset with curiosity to learn and improve. Passion for develop creative solutions. Team player with strong interpersonal, written, and verbal English communication skills. (other language is added advantage)"
+      "description_preview": "O bjectives of the Position To support the design, coordination, and delivery of employee learning initiatives Contribute to creating engaging learning experiences Main Responsibilities Assist in the planning and coordination of training programs, workshops, and learning events Support the creation and editing of...",
+      "detail_path": "data/jobs/138540.json"
     },
     {
       "job_id": "138551",
@@ -365,12 +305,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBC Global Service Cluster Customer",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-20T06:45:59Z",
-      "description": "Objectives of the Position Managing and maintenance of all inbound and outbound Transportation management and documentation processes in support of assigned countries Archiving of all applicable documentation in accordance to company and regulatory guidelines Proactively escalate cases of deviations in transportation activities to bring shipment back on track in meeting defined and agreed delivery dates Meet defined service levels and any agreed qualitative requirements pertaining core transportation and documentation scope of work Support monitoring and evaluation of service provider’s performance referring to agreed KPIs and conduct periodic quality reviews Main Areas of Responsibilities and Key Activities Responsible on logistics fulfilment processes (including SAP TM maintenance and process adherence) for all import and export shipments by working closely with country import export team and hub-based overseas delivery services community Monitor, analyze, and manage operational issues where possible, and escalate to the appropriate country team, import/export stakeholders, or Team Lead for resolution and process improvement. Manage non-conformances (NCM), maintain issue logs, an"
+      "description_preview": "Objectives of the Position Managing and maintenance of all inbound and outbound Transportation management and documentation processes in support of assigned countries Archiving of all applicable documentation in accordance to company and regulatory guidelines Proactively escalate cases of deviations in transportation...",
+      "detail_path": "data/jobs/138551.json"
     },
     {
       "job_id": "138632",
@@ -382,12 +319,9 @@
       "job_field": "Environment, Health & Safety",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBI/UA-SE1",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-20T06:34:43Z",
-      "description": "O bjectives of the Position Deliver expert regulatory and product stewardship support to BASF group companies, ensuring full compliance with corporate policies, guidelines, and global standards. Collaborate effectively with cross-functional stakeholders including supply chain, customer service, and technical teams to drive the implementation of compliance policies and BASF minimum requirements. Offer expert advice and practical solutions through thorough impact assessment to support sound decisions and effective risk management. Continuous improvement through applicable methodologies and digitalization to drive operation excellence. Main Areas of Responsibilities Conduct comprehensive hazard assessments using (e.g., GHS, CLP, REACH, equivalent regional/local regulations) standards utilizing product composition, test data, and toxicological/ecotoxicological information. Maintain hazard communication documentation: Safety Data Sheets (SDS), labels, hazard classification, ensuring consistency and compliance with relevant classification labelling regulations Apply advanced regulatory expertise across multiple jurisdictions to deliver expert judgments on chemical classification, labelli"
+      "description_preview": "O bjectives of the Position Deliver expert regulatory and product stewardship support to BASF group companies, ensuring full compliance with corporate policies, guidelines, and global standards. Collaborate effectively with cross-functional stakeholders including supply chain, customer service, and technical teams to...",
+      "detail_path": "data/jobs/138632.json"
     },
     {
       "job_id": "132422",
@@ -399,12 +333,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB Global Business Services",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-19T07:57:51Z",
-      "description": "Objectives of the Position Digitalization will be part of our DNA at GB. We will change processes that will simplify life within but also outside of GB, sometimes even without our BASF colleagues noticing it. Within GB, we will use digital tools to stop us spending too much time on tasks that hinder us from doing the things that are really needed, such as consulting our service recipients. Digital tools will free up our time to help our internal partners and we will be able to actively shape our division’s digital footprint. GB Strategy is to transform Kuala Lumpur Hub into a digital Hub to support BASF. GBC Supply chain team is looking for an exceptional Supply chain professional to support in development and implementation of new digital tools that will help operations. You will focus on designing and implementing (along with counterparts and solution architects) Control Tower solutions for BASF Overseas delivery services. In addition, you will need to understand the customers' requirements and use cases to map to the Control Tower solution. As part of the digital transformation, you will play a key role in change management and communication to stakeholders. Main Areas of Respon"
+      "description_preview": "Objectives of the Position Digitalization will be part of our DNA at GB. We will change processes that will simplify life within but also outside of GB, sometimes even without our BASF colleagues noticing it. Within GB, we will use digital tools to stop us spending too much time on tasks that hinder us from doing the...",
+      "detail_path": "data/jobs/132422.json"
     },
     {
       "job_id": "138105",
@@ -416,12 +347,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB Global Business Services",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-15T05:43:39Z",
-      "description": "Objectives of the Position The Executive, Order Management, will execute the customer order management processes with a consistent high level of service across ASEAN, Australia and New Zealand (ANZ), Taiwan for the Customer Service which is still with Global Business. Main Tasks Operations and Performance Execute the Customer Order Management processes set up in KL Hub with the different models interfaces Processing of sales and purchase orders from various customers in a timely manner Service contact for assigned countries – monitor order status and provide update information to the countries and customers Bill of Lading draft checking (for Letter of Credit orders, 3rd party supplier orders and key customer orders) Manage Insurance Certificate (if necessary) Follow up Bill of Lading receipt status based on Estimate Time of Delivery Collection of Original Bill of Lading and other documents from goods suppliers Provide full and accurate required documents to customers Upload / maintain documents in SAP for audit trail Support documents for internal and external audit purpose Register all and follow-up with all non-conformances in the NCM system to ensure a quick and efficient custom"
+      "description_preview": "Objectives of the Position The Executive, Order Management, will execute the customer order management processes with a consistent high level of service across ASEAN, Australia and New Zealand (ANZ), Taiwan for the Customer Service which is still with Global Business. Main Tasks Operations and Performance Execute the...",
+      "detail_path": "data/jobs/138105.json"
     },
     {
       "job_id": "134657",
@@ -433,12 +361,9 @@
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (Malaysia) Sdn. Bhd.",
-      "department": "A-PMA/O",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-13T02:48:04Z",
-      "description": "Objectives of the Position Responsible for leading the Utilities General Facilities within the site. To manage the operation and care of the utilities plants and their distribution to ensure reliable and quality supply of steam, furnace, compressed air, nitrogen, water (process and potable), demineralized water and cooling water for the plants and facilities use within the site. To manage and take care of the condition of the site general facilities such as non-production buildings, drainage system, sewerage system, fences, firefighting system and utilities pipe racks and empty land spaces within the site. Main Tasks Responsibilities Safety, Health Environment (SHE) Follow and enforce all environmental, health, and safety (EHS) rules to maintain a safe working environment. Ensure safe handling and unloading of hazardous chemicals (e.g. HCl, NaOH) according to approved procedures. Support regular testing and maintenance of fire hydrant systems and emergency generator sets to ensure readiness. Operations Maintenance Support daily operations and maintenance of utility facilities and equipment (e.g. boilers, air compressors, water systems). Assist in identifying, troubleshooting, and r"
+      "description_preview": "Objectives of the Position Responsible for leading the Utilities General Facilities within the site. To manage the operation and care of the utilities plants and their distribution to ensure reliable and quality supply of steam, furnace, compressed air, nitrogen, water (process and potable), demineralized water and...",
+      "detail_path": "data/jobs/134657.json"
     },
     {
       "job_id": "134550",
@@ -450,12 +375,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/S",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-12T03:46:50Z",
-      "description": "O bjectives of the Position Drive efficient Import, Export, and Customs operations across the region by improving processes, standardizing workflows, and ensuring compliance with global, regional, and local regulations. Lead Projects relevant to IE and customs operations, ensuring process adherence, operational excellence, and continuous learning and development. Collaborate with cross-functional teams—including Country IE Customs Ops, Regional Customs Foreign Trade, Order Management, GBS, Finance, Procurement, and Business Units—to ensure full compliance with corporate and regulatory requirements. Oversee LLP LSP daily operations, track vendor performance against KPIs, manage escalations, drive continuous improvement with country teams, and lead improvement efforts to strengthen overall Supply Chain operations. Support business units by enhancing service efficiency and implementing improvement initiatives to boost service quality and process effectiveness. Foster a culture of service excellence with service providers, focusing on customer-centric Import/Export, Customs Foreign Trade operations, and strict regulatory compliance. M ain Areas of Responsibilities and Key Activities Op"
+      "description_preview": "O bjectives of the Position Drive efficient Import, Export, and Customs operations across the region by improving processes, standardizing workflows, and ensuring compliance with global, regional, and local regulations. Lead Projects relevant to IE and customs operations, ensuring process adherence, operational...",
+      "detail_path": "data/jobs/134550.json"
     },
     {
       "job_id": "138099",
@@ -467,12 +389,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (Malaysia) Sdn. Bhd.",
-      "department": "A-CPA/IL",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-11T01:22:14Z",
-      "description": "Objectives of the Position The primary function of this role is to provide efficient order management, manage interfaces with customers for order to cash processes and provide improvements to supply chain management. Effectively communicate and resolve order issues with customers and sales. Responsibility of placing replenishment purchase order to supply source and monitor the delivery schedule Main Areas of Responsibilities and Key Activities Manage Master Data maintenance process to ensure effective order management and the End-to-End order process by proactively collaborating with multiple functions. Capture market intelligence on the supply chain related topics from daily interaction with customers and share with the business as appropriate and be an integral part of business management. Contribute to development of customer relationships through proactive customer communication related to order management e.g. product availability, order status and delivery tracking. Support Credit Management, Billing and Accounts Receivable Follow-up. Issuing tax invoices for month end closing. Handle customer complaints in BASF’s available system (Non-Conformance Management, tNPS) and active"
+      "description_preview": "Objectives of the Position The primary function of this role is to provide efficient order management, manage interfaces with customers for order to cash processes and provide improvements to supply chain management. Effectively communicate and resolve order issues with customers and sales. Responsibility of placing...",
+      "detail_path": "data/jobs/138099.json"
     },
     {
       "job_id": "138133",
@@ -484,12 +403,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Graduate",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FP-T",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-06T07:55:18Z",
-      "description": "Objectives of the Position Provide Accounts Payable's payment process related support to deliver AP services to BASF companies in Asia Pacific in accordance with established processes and work procedures and in compliance with BASF policies, Financial Reporting Compliance (FRC), local company legal and statutory requirements. Ensure that timelines and quality are met within the service levels agreements. Main Tasks Functional Tasks (including but not limited to): To monitor P2P RISK MONITOR by ensuring SPOT Checks samples are strictly checked and completed before the last day of the month/document due date. Work closely with respective team (eg: invoicing team) to reduce the SPOT and duplicate check error rate. Ensure SPOT check and duplicate error root cause is identified and correction action is in place. To monitor and manage domestic payment method e.g. Bank acceptance draft To support forex payment (trade and non-trade) compliance check documentation e.g. tax clearance documents, customs clearance, shipping documents and invoice copy. To process payment proposals run for 3rd Party vendors and employee vendors intercompany based on country requirement and schedule (daily and we"
+      "description_preview": "Objectives of the Position Provide Accounts Payable's payment process related support to deliver AP services to BASF companies in Asia Pacific in accordance with established processes and work procedures and in compliance with BASF policies, Financial Reporting Compliance (FRC), local company legal and statutory...",
+      "detail_path": "data/jobs/138133.json"
     },
     {
       "job_id": "132665",
@@ -501,12 +417,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FP-P1",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-04T06:00:00Z",
-      "description": "Objectives of the Position As part of the P2P team, you will be reporting to the Manager and support the team in managing projects and operation tasks. Main Areas of Responsibilities and Key Activities To support Request fulfilment activities in planning and administration. Depending on business needs, your day-to-day role will include any of the following: Support in delivering automation effort across teams to simplify work processes Participate in improvement initiatives discussion to work on improvement plans and timelines Assist the team in tactical projects according to the objectives Administrative management and coordination of P2P initiatives and activities Prepare documentation and presentation slides for assigned initiatives and activities Support in assisting unit’s operational task as and when is required Job Requirements Able to commit a minimum of 4-6 months internship Currently pursuing a Degree in Business Administration, Finance, Accounting, Business Administration, Linguistics, or any related disciplines A good team player with high level of maturity and independence Proficient in oral and written English"
+      "description_preview": "Objectives of the Position As part of the P2P team, you will be reporting to the Manager and support the team in managing projects and operation tasks. Main Areas of Responsibilities and Key Activities To support Request fulfilment activities in planning and administration. Depending on business needs, your day-to-day...",
+      "detail_path": "data/jobs/132665.json"
     },
     {
       "job_id": "134472",
@@ -518,12 +431,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-ITC1",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-28T03:15:34Z",
-      "description": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of customer service to both internal and external stakeholders Performing other relevant support activities as and when require. About You: Currently pursuing Bachelor’s Degree in Accounting, Finance Business Able to commit 6 months internship. Proficient in oral and written English Proficient in Microsoft Excel and Power Point A good team player with high level of maturity and independence Willing to work at Mercu Aspire, Bangsar (next to Abdullah Hukum LRT station)"
+      "description_preview": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of...",
+      "detail_path": "data/jobs/134472.json"
     },
     {
       "job_id": "134473",
@@ -535,12 +445,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-ITC2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-28T02:36:15Z",
-      "description": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of customer service to both internal and external stakeholders Performing other relevant support activities as and when require. About You: Currently pursuing Bachelor’s Degree in Accounting, Finance Business Able to commit 6 months internship. Proficient in oral and written English Proficient in Microsoft Excel and Power Point A good team player with high level of maturity and independence Willing to work at Mercu Aspire, Bangsar (next to Abdullah Hukum LRT station)"
+      "description_preview": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of...",
+      "detail_path": "data/jobs/134473.json"
     },
     {
       "job_id": "135726",
@@ -552,12 +459,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF (Malaysia) Sdn. Bhd.",
-      "department": "A-CPA/ILC",
-      "business_unit": "Asia Pacific",
-      "hybrid": true,
       "date_posted": "2026-04-24T07:43:40Z",
-      "description": "Objectives of the Position This position aims to provide end-to-end delivery services by efficiently handling customer service and logistics management to maintain business continuity, enhance service level and safety continuity in business. Main Areas of Responsibilities and Key Activities Manage end-to-end daily order process and operation By collaborating with multiple functions (internal and external) including but not limited to customers, sales, GB, suppliers, finance, controlling. The operation includes but not limited to: Sales order creation PO transaction. Payment following up and order release. Delivery schedule coordination. Delivery order creation. Shipment creation. Transportation arrangement. Billing and invoice management. Documents collection. Month end reconciliation. Import/export related coordination and operation. Monitor shipping and import/export status for overseas supply delivery. Escalate any issues for on-time fulfillment. Capture market intelligence on supply chain related topics From daily interaction with customers and share with the business as appropriate, includes but not limited to: Provide best possible service to customers and promote the establi"
+      "description_preview": "Objectives of the Position This position aims to provide end-to-end delivery services by efficiently handling customer service and logistics management to maintain business continuity, enhance service level and safety continuity in business. Main Areas of Responsibilities and Key Activities Manage end-to-end daily...",
+      "detail_path": "data/jobs/135726.json"
     },
     {
       "job_id": "133935",
@@ -569,12 +473,9 @@
       "job_field": "Human Resources",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PP-P2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-21T09:04:19Z",
-      "description": "Objectives of the Position Seek to understand business needs and provide support, services and solution on payroll, HR data, HR systems and processes. Offer day-to-day support to service recipients on HR inquiries, work collaboratively with others and perform research on payroll and HR data practices by staying abreast of current and emerging market insights and legal legislations in local countries. Participate in process improvements, automation, and digitalization measures to offer best service delivery experience. Main Tasks Operational Excellence Ensure data quality and data integrity for Payroll and HR data processes. Receive, analyze, process and follow-up on personnel administration requests via multiple request channels, ensure accurate and timely interface to the respective internal/ external processing chains i.e. payroll, finance, data analytics, external service providers, local authorities etc. Manage entire termination workflow for all termination types which includes leaves calculations, information checks, letters preparation, systems updates, payment calculations and exit clearance. Responsible for time and attendance administrations, including manual calculations"
+      "description_preview": "Objectives of the Position Seek to understand business needs and provide support, services and solution on payroll, HR data, HR systems and processes. Offer day-to-day support to service recipients on HR inquiries, work collaboratively with others and perform research on payroll and HR data practices by staying...",
+      "detail_path": "data/jobs/133935.json"
     },
     {
       "job_id": "135719",
@@ -586,12 +487,9 @@
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "Toray BASF PBT Resin Sdn. Bhd.",
-      "department": "A-PMA/OB",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-20T09:39:09Z",
-      "description": "O bjectives of the Position Responsible in managing daily production operations to ensure timely, safe, and high-quality production of products, while also focusing on training production personnel, optimizing procedures, and ensuring compliance. Main Responsibilities Ensure all environmental, health and safety rules and guidelines are fully adhered and maintaining high safety standards for a safe working environment. Plan, organize, and manage daily production activities to ensure that production schedules and target quantities are met. Lead, mentor, and develop a team of Production Superintendent, Production Supervisors, Boardmen and technicians fostering a culture of teamwork and accountability. Conduct periodic training, performance evaluations, provide feedback, and identify training needs for team members (including succession planning for roles Boardman and above). Facilitate effective communication within the production team and across departments. Perform internal audits to support ISO9001, ISO14001 and ISO 50001 standards. Implement and uphold quality control measures to maintain product quality requirements and consistency within production team. Coordinate production tr"
+      "description_preview": "O bjectives of the Position Responsible in managing daily production operations to ensure timely, safe, and high-quality production of products, while also focusing on training production personnel, optimizing procedures, and ensuring compliance. Main Responsibilities Ensure all environmental, health and safety rules...",
+      "detail_path": "data/jobs/135719.json"
     },
     {
       "job_id": "134967",
@@ -603,12 +501,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/SO-R2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-03T10:35:03Z",
-      "description": "Objectives of the Position Design and optimize GB services (based on BU demands, legal requirements, M A, investments, strategic projects etc.) Conduct feasibility, impact and cost analysis of prospective new services in SC Service environment Identify any needs for optimization/process changes and lead the implementation drive Ensuring that all service models and service solution designs conform to strategic, architectural, governance and other corporate requirements. Main Tasks Identify required models, methods and tools for Service Design Structure, group and prioritizing business requirements Ensure usage of new information and communication technology to design or re-design supply chain services Evaluate options, make comparative studies and recommend appropriate approaches/models Develop new and extend existing services based on requirements from the business and align with service catalog Test new services prior to implementation Calculate cost of new service Deliver basis for technical concept in cooperation with Functional Experts Drive automation and digitalization of GB services e.g. paperless document flows Drive integration of new businesses into GB service structure e"
+      "description_preview": "Objectives of the Position Design and optimize GB services (based on BU demands, legal requirements, M A, investments, strategic projects etc.) Conduct feasibility, impact and cost analysis of prospective new services in SC Service environment Identify any needs for optimization/process changes and lead the...",
+      "detail_path": "data/jobs/134967.json"
     },
     {
       "job_id": "135240",
@@ -620,12 +515,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/ST-C Global Trade Compliance - Steering",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-03T08:44:40Z",
-      "description": "Objectives of the Position Global Cluster Lead: Own BASF Group’s Standard for Trade Compliance in the area of Chemicals Trade Control Global Topic Owner: Develop keep updated compliance concepts for your Topic(s), including necessary instruments to ensure business transactions are Compliant, documented and audit-ready. Main Tasks Global Cluster Lead Chemicals Trade Control Finalize and keep updated the Corporate Requirement on “Chemicals Trade Control” for BASF SE and all BASF Group companies Develop and maintain a roadmap for your cluster according to political context, including risk analysis for BASF group Actively act as a radar function, scanning for potential new trade restrictions in scope of your cluster* Collaborate with other cluster leads/ global topic owners on cross-cluster topics, defining guardrails and prerequisites for compliance Main liaison for internal stakeholders on Chemicals Trade Control, e.g. CLC/TC, Regional Trade Compliance teams, National Trade Compliance Officers (NTCOs), Business unit colleagues Coordinate Global Topic Owners within your cluster to optimize resources, avoid duplication maximize output. Support them in writing governance documents and d"
+      "description_preview": "Objectives of the Position Global Cluster Lead: Own BASF Group’s Standard for Trade Compliance in the area of Chemicals Trade Control Global Topic Owner: Develop keep updated compliance concepts for your Topic(s), including necessary instruments to ensure business transactions are Compliant, documented and...",
+      "detail_path": "data/jobs/135240.json"
     },
     {
       "job_id": "132670",
@@ -637,12 +529,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FP-P2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-31T04:58:20Z",
-      "description": "Objectives of the Position As part of the P2P team, you will be reporting to the Manager and support the team in managing projects and operation tasks. Main Areas of Responsibilities and Key Activities To support Request fulfilment activities in planning and administration. Depending on business needs, your day-to-day role will include any of the following: • Support in delivering automation effort across teams to simplify work processes • Participate in improvement initiatives discussion to work on improvement plans and timelines• Assist the team in tactical projects according to the objectives • Administrative management and coordination of P2P initiatives and activities • Prepare documentation and presentation slides for assigned initiatives and activities • Support in assisting unit’s operational task as and when is required Job Requirements Able to commit a minimum of 4-6 months internship Currently pursuing a Degree in Business Administration, Finance, Accounting, Business Administration, Linguistics, or any related disciplines A good team player with high level of maturity and independence Proficient in oral and written English"
+      "description_preview": "Objectives of the Position As part of the P2P team, you will be reporting to the Manager and support the team in managing projects and operation tasks. Main Areas of Responsibilities and Key Activities To support Request fulfilment activities in planning and administration. Depending on business needs, your day-to-day...",
+      "detail_path": "data/jobs/132670.json"
     },
     {
       "job_id": "134645",
@@ -654,12 +543,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBC Global Service Cluster Customer",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-30T14:45:57Z",
-      "description": "Objectives of the Position Provide end-to-end operational support for import and export shipments across APAC, ensuring on-time execution, documentation accuracy, and compliance with global trade regulations. Act as the coordination hub between suppliers, logistics service providers , Business Units, and customs brokers to deliver reliable, compliant, and cost-effective shipping operations. Managing and maintenance of import export and customs operations, handling relevant administrative activities, reporting, and documentation processes for the assigned countries Archiving all applicable documentation in accordance with company and regulatory guidelines Proactively escalate cases of deviations in transportation activities to bring shipment back on track in meeting defined and agreed delivery dates Meet defined service levels and any agreed qualitative requirements pertaining to core transportation and documentation scope of work Support monitoring and evaluation of service provider’s performance referring to agreed KPIs and conduct periodic quality reviews Main Areas of Responsibilities and Key Activities Responsible for logistics fulfilment processes (including SAP TM maintenance"
+      "description_preview": "Objectives of the Position Provide end-to-end operational support for import and export shipments across APAC, ensuring on-time execution, documentation accuracy, and compliance with global trade regulations. Act as the coordination hub between suppliers, logistics service providers , Business Units, and customs...",
+      "detail_path": "data/jobs/134645.json"
     },
     {
       "job_id": "134607",
@@ -671,12 +557,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GB/SE-G",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-29T15:03:49Z",
-      "description": "O bjectives of the Position We are looking for a motivated and detail-oriented intern to join our Global Operations Support department, supporting Maritime activities for EMEA Region. M ain Areas of Responsibilities and Key Activities Assist with administrative tasks to support the operations team Where needed, support certain units with daily troubleshooting tasks Generate reports to provide insights and support decision-making. Prepare documentation to support operational processes. Coordinate meetings, including scheduling, preparing agendas, and taking minutes. Manage and track pending operational tasks to ensure timely communication Job Requirements Currently pursuing Bachelors’ Degree in Supply Chain Management, Logistics, Business Administration, Business Information System, Information Technology or any related disciplines. Strong organizational and time management skills. Excellent written and verbal communication skills. Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint). Ability to work independently and as part of a team. Attention to detail and a proactive approach to problem-solving Good command of written and spoken English is necessity."
+      "description_preview": "O bjectives of the Position We are looking for a motivated and detail-oriented intern to join our Global Operations Support department, supporting Maritime activities for EMEA Region. M ain Areas of Responsibilities and Key Activities Assist with administrative tasks to support the operations team Where needed,...",
+      "detail_path": "data/jobs/134607.json"
     },
     {
       "job_id": "134796",
@@ -688,12 +571,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FA-S",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-25T13:57:29Z",
-      "description": "Objectives of the Position Overall in-charge of Financial Compliance and Reporting function for Malaysia and support Superior to ensure compliance with local and BASF requirements. Main Responsibilties Manage Month end, Quarter end and Year-end Closing Reporting Responsible for general accounting transactions performed and support the shared service organisation to close the books and report according to pre-determined schedule. Ensure that financial impact and reporting requirements of key business activities are being evaluated as period closing requirements and informed to the shared service organisation for processing. Manage end-to-end processes Support end-to-end request/transaction process together with local stakeholders and the shared service organisation. Provide insight to resolve operational problems, issues and queries. Initiate optimization and ensure effectiveness and efficiency of end-to-end processes with cross-functional teams while maintaining adequate internal controls. Compliance with country regulations and corporate requirements Liaise and work closely with internal and external auditors, relevant BASF personnel, tax advisors and relevant local authorities to"
+      "description_preview": "Objectives of the Position Overall in-charge of Financial Compliance and Reporting function for Malaysia and support Superior to ensure compliance with local and BASF requirements. Main Responsibilties Manage Month end, Quarter end and Year-end Closing Reporting Responsible for general accounting transactions...",
+      "detail_path": "data/jobs/134796.json"
     },
     {
       "job_id": "134475",
@@ -705,12 +585,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-ITC3",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-18T15:11:40Z",
-      "description": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of customer service to both internal and external stakeholders Performing other relevant support activities as and when require. About You: Currently pursuing Bachelor’s Degree in Accounting, Finance Business Able to commit 6 months internship. Proficient in oral and written English Proficient in Microsoft Excel and Power Point A good team player with high level of maturity and independence Willing to work at Mercu Aspire, Bangsar (next to Abdullah Hukum LRT station)"
+      "description_preview": "About The Role: Process Invoice to Cash (ITC) daily task and support prepare necessary ITC KPIs reporting Support in generate relevant audit documents or reports for Year-End and perform customer reconciliation per request from Auditor or customers and engagement with various business units Delivering high levels of...",
+      "detail_path": "data/jobs/134475.json"
     },
     {
       "job_id": "134312",
@@ -722,12 +599,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-RR",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-11T03:26:50Z",
-      "description": "Here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the Customer Credit Risk Management (CCRM). You will be able to explore digital technologies such as credit automation Collaborative and multicultural atmosphere where you are an essential team player to support colleagues and managers in a wide range projects and activities Guidance, coaching and feedback from supervisors on performance which help you learn and shape your working style Main Tasks To manage following credit management tasks: Perform review and support of order release management Prepare necessary reporting and monitoring of CCRM KPIs Obtain necessary information needed to perform risk assessment such as customer’s financials, rating, and other customer data Input customer data (include financial statement) in BASF system and perform financial analysis Ad-hoc support on ongoing CCRM projects such as smart credit optimizer and clean-ups Perform other credit management tasks if needed Requirements Able to commit a 6-month internship Students of bachelor’s degree or Mas"
+      "description_preview": "Here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the Customer Credit Risk Management (CCRM). You will be able to explore digital technologies such as credit...",
+      "detail_path": "data/jobs/134312.json"
     },
     {
       "job_id": "134175",
@@ -739,12 +613,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-RR",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-11T03:16:34Z",
-      "description": "Here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the Customer Credit Risk Management (CCRM). You will be able to explore digital technologies such as credit automation Collaborative and multicultural atmosphere where you are an essential team player to support colleagues and managers in a wide range projects and activities Guidance, coaching and feedback from supervisors on performance which help you learn and shape your working style Main Tasks To manage following credit management tasks: Perform and support order management task especially for prepayment customers Prepare necessary reporting and monitoring of CCRM KPIs Support other credit management tasks such as input customer data (include financial statement) in BASF system and perform financial analysis Ad-hoc support on ongoing CCRM projects such as smart credit optimizer and other improvement projects Requirements Able to commit a 6-month internship Students of bachelor’s degree or Master’s Degree in Finance, Business Administration or any related disciplines Proficient i"
+      "description_preview": "Here’s what you can expect A rewarding internship journey with tasks and projects that enable you to transfer your theoretical skills to a real business environment and gain exposure to diverse parts of the Customer Credit Risk Management (CCRM). You will be able to explore digital technologies such as credit...",
+      "detail_path": "data/jobs/134175.json"
     },
     {
       "job_id": "134412",
@@ -756,12 +627,9 @@
       "job_field": "Human Resources",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/PP-C",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-10T03:45:09Z",
-      "description": "Objectives of the Position • Understand business needs and provide best suited support on Compensation and Benefits for specific assigned Country in the APAC region. • Support respective countries assigned in the region by engaging with the stakeholders, from HRBPs to country C B teams in Compensation Benefits matters including data analysis and providing operational support. • Support in identifying and implementing process improvements and best practices in the C B space to ensure smooth implementation and engagement of best practice for respective countries. Main Areas of Responsibilities and Key Activities Operational Excellence • Responsible in preparation of data and analysis required to support any Compensation Benefits initiatives such as performance management, salary budgeting and merit increment cycle, annual benefit renewal program and market benchmarking exercise for countries in APAC region • Supports in collating economic indicators, external market practices and data analysis patterns and translates into meaningful indicators for development of any C B initiatives and proposals to maintain market competitiveness • Key person for job family matching and data submissi"
+      "description_preview": "Objectives of the Position • Understand business needs and provide best suited support on Compensation and Benefits for specific assigned Country in the APAC region. • Support respective countries assigned in the region by engaging with the stakeholders, from HRBPs to country C B teams in Compensation Benefits matters...",
+      "detail_path": "data/jobs/134412.json"
     },
     {
       "job_id": "133855",
@@ -773,12 +641,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Temporary",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FF-F2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-08T05:42:42Z",
-      "description": "​​​​​​ Objectives of the Position Independently in delivering Financial Reporting services to BSSCKL’s customers in accordance with established Financial Reporting processes and work procedures and in compliance with BASF policies guidelines, internal control requirements, local company legal and statutory requirements. Ensure that timelines and quality meet the agreed service levels and targets. To support and provide guidance to Analysts in performing Financial Reporting tasks. To back up, assist with and perform Financial Reporting tasks as required. Main Tasks Functional Tasks (including but not limited to): Independently provide Financial Reporting transaction processing support and ensuring delivery quality in terms of accuracy, completeness and timeliness on daily basis. Perform and analyse booking of accounting transactions, fixed asset transactions, master data maintenance and account reconciliation including account clearing. Perform analytical review of profit and loss accounts and balance sheet, trend analysis and transaction posting checks. Prepare and coordinate for month-end, quarter-end, year-end and statutory financial reports for BASF companies across Asia Pacific"
+      "description_preview": "​​​​​​ Objectives of the Position Independently in delivering Financial Reporting services to BSSCKL’s customers in accordance with established Financial Reporting processes and work procedures and in compliance with BASF policies guidelines, internal control requirements, local company legal and statutory...",
+      "detail_path": "data/jobs/133855.json"
     },
     {
       "job_id": "134240",
@@ -790,12 +655,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (Malaysia) Sdn. Bhd.",
-      "department": "A-CPA/ILC",
-      "business_unit": "Asia Pacific",
-      "hybrid": true,
       "date_posted": "2026-03-06T08:35:20Z",
-      "description": "Objectives of the Position This position aims to provide end-to-end delivery services by efficiently handling customer service and logistics management to maintain business continuity, enhance service level and safety continuity in business. Main Areas of Responsibilities and Key Activities Manage end-to-end daily order process and operation By collaborating with multiple functions (internal and external) including but not limited to customers, sales, GB, suppliers, finance, controlling. The operation includes but not limited to: Sales order creation PO transaction. Payment following up and order release. Delivery schedule coordination. Delivery order creation. Shipment creation. Transportation arrangement. Billing and invoice management. Documents collection. Month end reconciliation. Import/export related coordination and operation. Monitor shipping and import/export status for overseas supply delivery. Escalate any issues for on-time fulfillment. Capture market intelligence on supply chain related topics From daily interaction with customers and share with the business as appropriate, includes but not limited to: Provide best possible service to customers and promote the establi"
+      "description_preview": "Objectives of the Position This position aims to provide end-to-end delivery services by efficiently handling customer service and logistics management to maintain business continuity, enhance service level and safety continuity in business. Main Areas of Responsibilities and Key Activities Manage end-to-end daily...",
+      "detail_path": "data/jobs/134240.json"
     },
     {
       "job_id": "133620",
@@ -807,12 +669,9 @@
       "job_field": "Information Technology & Services",
       "job_level": "Student",
       "job_type": "Internship",
-      "company": "Toray BASF PBT Resin Sdn. Bhd.",
-      "department": "A-PMA/OS",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-03-04T03:08:21Z",
-      "description": "Main Tasks: 1. Involved in software development as well as maintenance and improvement of citizen development tools. i.e. Microsoft Power Apps, Power BI and other Microsoft products. 2. Engage, enable and collaborate with stakeholders. 3. Review current processes and identify opportunities for improvement. 4. Assist in administrative activities i.e. meeting minutes, meeting slides preparation, requirement documentation etc. Requirements: 1. Committed to a full-time 6-month internship 2. Students minimum Diploma's in IT or any related disciplines. 3. Knowledge on hardware, Microsoft Product (i.e. Power Apps, Power Automate, Power BI, Power Point, Excel). 3. Excellent time management, work prioritization and verbal communication skills. 4. Able to maintain a high level of confidentiality. 5. Able closely with stakeholder physically onsite in the office."
+      "description_preview": "Main Tasks: 1. Involved in software development as well as maintenance and improvement of citizen development tools. i.e. Microsoft Power Apps, Power BI and other Microsoft products. 2. Engage, enable and collaborate with stakeholders. 3. Review current processes and identify opportunities for improvement. 4. Assist...",
+      "detail_path": "data/jobs/133620.json"
     },
     {
       "job_id": "132183",
@@ -824,12 +683,9 @@
       "job_field": "Logistics & Supply Chain Management",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (Malaysia) Sdn. Bhd.",
-      "department": "A-CPA/ILC",
-      "business_unit": "Asia Pacific",
-      "hybrid": true,
       "date_posted": "2026-02-23T02:19:11Z",
-      "description": "Objectives of the Position This position aims to provide end-to-end delivery services by efficiently handling customer service and logistics management to maintain business continuity, enhance service level and safety continuity in south of China on acrylate business. Main Areas of Responsibilities and Key Activities OTC Delivery Plan Coordinator Lead regular meetings with sites and planners for delivery plan drafting. Develop and continuously optimize daily delivery plans to ensure on-time fulfillment of customer demand and maintain service reliability. Lead real-time adjustments to delivery plans in response to operational constraints ensuring minimal disruption. Collaborate with Sales teams to manage allocation priorities during supply issues. Serve as the central communication point with OTC, ensuring timely updates and alignment on revised delivery plans. Drive key strategic digital projects to enhance process efficiency and compliance. Dynamic business OTC Expert Streamline complex business scenarios into workable OTC process. Dynamic business OTC backup. Cross-functional Communication Act as a key liaison among Master/Finite Planners, Sales, OTC, Site Logistics, and Logistic"
+      "description_preview": "Objectives of the Position This position aims to provide end-to-end delivery services by efficiently handling customer service and logistics management to maintain business continuity, enhance service level and safety continuity in south of China on acrylate business. Main Areas of Responsibilities and Key Activities...",
+      "detail_path": "data/jobs/132183.json"
     },
     {
       "job_id": "132698",
@@ -841,12 +697,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-ITC2",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-01-31T15:48:03Z",
-      "description": "Objectives of the Position • Independently manage operational processing for Invoice-to-Cash (ITC) services, ensuring compliance with BASF requirements, Financial Reporting Compliance (FRC), and local statutory regulations • Act as reviewer and approver for daily and month-end tasks, ensuring accuracy and timeliness • Support Assistant Manager/Manager in service delivery, talent development, and process improvement initiatives • Drive continuous improvement, digitalisation, and harmonisation across countries in the Asia Pacific region Main Tasks Functional Tasks (Inclusive but not limited): • Process and review ITC workflows, including Accounts Receivable, Collections, Treasury Back Office and Intercompany Reconciliation activities • Supervise and mentor Analysts, ensuring adherence to predefined process description and service management framework • Troubleshoot and resolve queries from internal and external stakeholders promptly • Act as Area of Competency (AOC) member or topic owner for ITC-related processes • Monitor unallocated receipts, overdue accounts, and post-dunning activities; propose corrective actions • To perform other duties as and when delegated Project Management:"
+      "description_preview": "Objectives of the Position • Independently manage operational processing for Invoice-to-Cash (ITC) services, ensuring compliance with BASF requirements, Financial Reporting Compliance (FRC), and local statutory regulations • Act as reviewer and approver for daily and month-end tasks, ensuring accuracy and timeliness •...",
+      "detail_path": "data/jobs/132698.json"
     },
     {
       "job_id": "130993",
@@ -858,12 +711,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-ITC1",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2025-12-15T03:18:10Z",
-      "description": "Objectives of the Position • Independently manage operational processing for Invoice-to-Cash (ITC) services, ensuring compliance with BASF requirements, Financial Reporting Compliance (FRC), and local statutory regulations • Act as reviewer and approver for daily and month-end tasks, ensuring accuracy and timeliness • Support Assistant Manager/Manager in service delivery, talent development, and process improvement initiatives • Drive continuous improvement, digitalisation, and harmonisation across countries in the Asia Pacific region Functional Tasks (Inclusive but not limited): • Process and review ITC workflows, including Accounts Receivable, Collections, Treasury Back Office and Intercompany Reconciliation activities • Supervise and mentor Analysts, ensuring adherence to predefined process description and service management framework • Troubleshoot and resolve queries from internal and external stakeholders promptly • Act as Area of Competency (AOC) member or topic owner for ITC-related processes • Monitor unallocated receipts, overdue accounts, and post-dunning activities; propose corrective actions • To perform other duties as and when delegated Project Management: • Support "
+      "description_preview": "Objectives of the Position • Independently manage operational processing for Invoice-to-Cash (ITC) services, ensuring compliance with BASF requirements, Financial Reporting Compliance (FRC), and local statutory regulations • Act as reviewer and approver for daily and month-end tasks, ensuring accuracy and timeliness •...",
+      "detail_path": "data/jobs/130993.json"
     },
     {
       "job_id": "130757",
@@ -875,12 +725,9 @@
       "job_field": "Finance, Controlling & Audit",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
-      "department": "GBA/FO-RR",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2025-12-08T06:14:59Z",
-      "description": "Objectives of the Position Responsible for customer's credit risk management activities for the assigned market portfolio based on market principle and CCRM Services Hub Asia Pacific scope, following global and regional guidelines To ensure deliveries meeting requirements defined in service level agreements and KPIs for process efficiency, effectiveness and quality control Support Assistant Manager / Manager in day-to day service delivery and talent identification Main Tasks Functional Tasks (including but not limited to) Monitor customer master data creation and changes which relevant to CCRM (example payment terms) via SCO Checking regularly that customer portfolio is up-to-date, identifying inactive customers as well as carrying out deactivations Perform risk assessment, mitigation measures, recommendations and documentation by using CCRM tools Decide on internal risk rating, credit limit, order processing code (for medium and higher threshold of exposures applicable for Senior Analyst and Senior Specialist) or obtain necessary approval based on approval matrix Review and decide on the release of blocked orders or obtaining necessary approvals based on approval matrix and delega"
+      "description_preview": "Objectives of the Position Responsible for customer's credit risk management activities for the assigned market portfolio based on market principle and CCRM Services Hub Asia Pacific scope, following global and regional guidelines To ensure deliveries meeting requirements defined in service level agreements and KPIs...",
+      "detail_path": "data/jobs/130757.json"
     }
   ]
 }

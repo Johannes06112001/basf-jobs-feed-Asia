@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138870",
+    "title": "GDD/GD - Yard Management DevOps - Back-End (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138870/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/GD Yard Management Individual Solutions",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T17:47:00Z",
+    "description": "Yard Management DevOps – Back-End Role main activities. What is expected of you? End-to-End responsibility and accountability on building up a product that balances a good level of standardization and scalability with a reasonable level of customization. • Consultancy o Translates functional requirements into technical specifications o Leverage the business/process knowledge in the teams and define the best technical design of new functionalities o Drive for sustainable solutions o Leverages the use of standard functionalities to reduce non-standard development • Development o Customize a third-party ABAP–based solution o Develop new functionalities as add-ons for the Yard Management Standard Solution o Handle the interfaces with central systems like SAP ERP, TM or EWM. o Customization of SAP ERP, TM, eWM, etc. o Handle global as well as site specific releases according to pre-defined release management processes (SOLMAN) • Quality assurance o Perform Unit testing to ensure a high quality of the code delivered o Support PO’s with the functional testing and the UAT o Automate regression tests • Collaboration o Leverage multicultural and geographically distributed team to build up the best solution o Collaborate in a global team of technical and functional experts. o Drive innovation on how to keep enhancing the product o Active participation in designing a global yard logistics template for BASF Required skills, knowledge and experiences • SAP o Minimum 5+ years’ experience in working as ABAP developer or similar role. o Experience in SAP S/4HANA Transportation Management (TM) – configuration, enhancement, and technical architecture. o Strong ABAP development skills, including object-oriented ABAP (OO-ABAP), BAdIs, user exits, and enhancement framework. o Hands-on experience with SAP integration technologies: IDocs, BAPIs, Web Services (SOAP/REST), and SAP Integration Suite (CPI/API Management). o o Excellent judgement. Able to weigh several and often conflicting constraints and make rapid, logical decisions in a fast-moving company. • SAP S/4 Hana o Previous experience in R/3 to S/4 migration projects o Previous experience S/4 customization • Integrations • 5+ years of experience in system integrations with special attention to multi-ERP scenarios. • Learning o Bachelor’s Degree in Engineering, Mathematics, physics or related, from an accredited college or university • Soft skills o A growth mindset with a curiosity to learn and improve. o Team player..."
+  }
+}

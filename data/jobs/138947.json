@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138947",
+    "title": "GDE/DF - Integration engineer (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138947/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/DF Procurement Solutions",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T07:55:35Z",
+    "description": "Responsibilities: Shape BASF’s future ERP backend Architecture o Develop, maintain monitor interfaces for different on-premise and cloud integration scenarios o Manage Data Integration infrastructures and facilitate developments o Live end-to-end-responsibility, being able to adopt to new requirements and learning new technologies within a virtual global agile team o Recognize impediments within the team, identify root causes, promote discussions and drive solving the issue o Bring in new ideas / solutions and drive innovation within the Product Team o Mentor exchange with an individual about knowledge, skills/technologies and personal experiences with the aim of personal and professional development of the individual. Qualifications: Core technical profile with 4+ years S/4 and integration experience Application development experience in S/4HANA, Technical knowledge inCPI, APIs, OData services, data/event streaming like Kafka, SAP data msh Agile DevOps mindset with hands‑on experience in Scrum, self‑organized work, user stories, testing documentation. What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work environment where your ideas are valued, and your curiosity and ambition are encouraged. Benefit from flexible working models, international networking, and a strong sense of purpose as we enable our customers’ green transformation and lead the way in digital excellence. [to include specific local benefits]. Profession / Occupation / Studies: 'Completed university degree in Business IT, Business Economics, Information Science, Engineering, or Natural Science"
+  }
+}

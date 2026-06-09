@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138984",
+    "title": "Import & Export Operations MY (Executive)",
+    "url": "https://basf.jobs/job-invite/138984/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB/SA-M",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-26T08:55:49Z",
+    "description": "Objectives of the Position: Ensure effective execution of inbound and outbound transportation (Import Export) including documentation and system (SAP TM) processes Maintain accurate reporting, cost control, and compliance with company and regulatory requirements Drive timely issue resolution, escalation, and continuous improvement across logistics operations Support monitoring of service provider performance against defined KPIs Main Tasks: 1. Operations Management Manage end-to-end Import Export shipment processes (Air, LCL, FCL, ISO, tanker, parcel tanker) Coordinate shipment arrangements with LLP, LSP, warehouse, PPC, and stakeholders Prepare and validate shipping documentation and ensure proper system updates (SAP TM) Handle MDB block release and shipment readiness validation Troubleshoot system or operational issues impacting shipment execution 2. Reporting Analytics Prepare and manage operational reports including: LLP Rework Report LCL/Air KPI Report TCO Report Demurrage Detention Report Freight Cost Clean-up (weekly monthly) FCV bi-weekly updates Validate data with LLP/LSP and ensure submission within defined timelines Analyze deviations and drive corrective actions 3. Cost Control Billing Verify freight invoices and resolve discrepancies with FCV and LSP Manage trailer detention and demurrage/detention validation and approval Perform freight cost clean-up and ensure closure of open items Support PR issuance based on PO balance review and operational requirements 4. Claim Issue Management Manage Claim Billing and Non-Conformance Management (NCM) Act as coordinator for insurance claims involving Legal, warehouse, and service providers Investigate root causes and implement corrective actions for operational issues Maintain issue logs and ensure closure of all reported cases 5. Spot Rate Management Manage spot rate requests (FCL, LCL, Air, Flexi, ISO) when not covered under contracts Ensure proper approval prior to shipment execution Maintain spot rates and supporting documentation in systems and SharePoint 6. Compliance Audit Perform health checks on operations and documentation compliance Ensure all supporting documents are properly archived (SharePoint / TM / systems) Support internal and external audit requirements Ensure compliance with VGM (SOLAS) and other regulatory requirements 7. Knowledge Process Management Develop and maintain Work Instructions (WI), guidelines, and job aids Upload and maintain documents in KNOWIT and SharePoint Support..."
+  }
+}

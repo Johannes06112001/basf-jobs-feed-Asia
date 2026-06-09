@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "India",
   "job_field": "Research & Development",
   "total_active": 11,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "139489",
@@ -16,12 +16,9 @@
       "job_field": "Research & Development",
       "job_level": "Graduate",
       "job_type": "Permanent",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "department": "APR R&D Crop Protection",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-08T11:16:35Z",
-      "description": "Objectives of the position: Conduct Physchem samples Analysis – LogP, Thermodynamic water solubility, hydrolytic stability at 3 different pH, Photlytic stability and Photohydrolytic stability Representative Main tasks: Handling of UPLC, HPLC, Photochamber and pH meter Physchem LogP, Thermodynamic water solubility, hydrolytic stability at 3 different pH, Photlytic stability and Photohydrolytic stability EHS Task: Reporting of Near miss and Unsafe behavior as an observant while working in lab Maintain zero lost time incidences by working safe Working in the lab with all required PPEs and following safety guidelines Education Qualification: MSc chemistry Suggested Competencies: Analytical Chemistry Spectroscopy Organic Chemistry Calculations MS Office Inorganic Chemistry Physical Chemistry Laboratory Techniques Data Analysis Quality Control Instrumentation Research Methods Chemical Safety Problem-solving skills Communication skills Time management skills Teamwork and collaboration Critical thinking Presentation skill Size of Impact: Not Applicable Authority: Lab permits issuer, Participation in lab safety round. Responsibility: Chromatographic Techniques, Physchem Parameter, SOP prepa"
+      "description_preview": "Objectives of the position: Conduct Physchem samples Analysis – LogP, Thermodynamic water solubility, hydrolytic stability at 3 different pH, Photlytic stability and Photohydrolytic stability Representative Main tasks: Handling of UPLC, HPLC, Photochamber and pH meter Physchem LogP, Thermodynamic water solubility,...",
+      "detail_path": "data/jobs/139489.json"
     },
     {
       "job_id": "139468",
@@ -33,12 +30,9 @@
       "job_field": "Research & Development",
       "job_level": "Graduate",
       "job_type": "Permanent",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "department": "APR R&D Crop Protection",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-08T10:20:08Z",
-      "description": "Objectives of the position: Support to Physchem samples Analysis. Representative Main tasks: Handling of LCMS, UPLC HPLC LCMS (Waters Shimadzu): Ontime and Accurate LCMS analysis service support, solving queries for Discovery team. Managing (maintenance and troubleshooting of LCMS instrument.) EHS Task: Reporting of Near miss and Unsafe behavior as an observant while working in lab. Maintain zero lost time incidences by working safe. Working in the lab with all required PPEs and following safety guidelines Suggested Competencies: Analytical Chemistry Spectroscopy Organic Chemistry Calculations Ms Office Inorganic Chemistry Physical Chemistry Laboratory Techniques Data Analysis Quality Control Instrumentation Research Methods Chemical Safety Problem-solving skills Communication skills Time management skills Teamwork and collaboration Critical thinking Presentation skill Size of Impact: Not Applicable Authority: Lab permits issuer, Participation in lab safety round. Responsibility: LCMS, chromatographic Techniques, SOP preparation. Weekly check of safety shower and eye washer for lab."
+      "description_preview": "Objectives of the position: Support to Physchem samples Analysis. Representative Main tasks: Handling of LCMS, UPLC HPLC LCMS (Waters Shimadzu): Ontime and Accurate LCMS analysis service support, solving queries for Discovery team. Managing (maintenance and troubleshooting of LCMS instrument.) EHS Task: Reporting of...",
+      "detail_path": "data/jobs/139468.json"
     },
     {
       "job_id": "139411",
@@ -50,12 +44,9 @@
       "job_field": "Research & Development",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF India Limited",
-      "department": "A-EDA/MAA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-08T06:06:55Z",
-      "description": "Objectives of the position: Conduct experimental and theoretical research assignments under the guidance of research scientists. Support innovation processes and scientific work, contributing to continuous improvement in lab operations Main Areas of Responsibilities: Independently perform routine polymer synthesis and analytical tasks using standard techniques, procedures, and equipment. Summarize and document results in electronic lab journals; prepare technical reports. Interpret results and suggest next experimental plan accordingly. Support the innovation process scientific work by proactively proposing conclusions and making own suggestions, adapting and optimizing methods, procedures and workflow. Prepare, operate, and maintain lab facilities equipment (e.g., reactors, analytical instruments). Carry out laboratory trials to solve production problems, to modify selected products according to customers’ requirements, to improve production processes and to pre-test production procedures received from BASF Regional prior to up-scaling them into production scale. Perform general lab assignments such as raw material inventory review and lab housekeeping. Analyze raw materials and i"
+      "description_preview": "Objectives of the position: Conduct experimental and theoretical research assignments under the guidance of research scientists. Support innovation processes and scientific work, contributing to continuous improvement in lab operations Main Areas of Responsibilities: Independently perform routine polymer synthesis and...",
+      "detail_path": "data/jobs/139411.json"
     },
     {
       "job_id": "139239",
@@ -67,12 +58,9 @@
       "job_field": "Research & Development",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF India Coatings Private Limited",
-      "department": "G-ECO/DBP",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-04T03:55:10Z",
-      "description": "O bjectives of the Position Support the local Pigment Paste Owner in managing and executing pigment and paste-related activities in India. The role focuses on operational support, coordination, data transparency, and implementation of agreed actions across production, C-Labs, procurement, and suppliers, contributing to robust quality, cost competitiveness, and sustainable local operations. M ain Areas of Responsibilities and Key Activities Support to Pigment Paste Ownership Support the local Pigment Paste Owner in day-to-day pigment and paste activities in India including root causes investigation. Prepare analyses, reports, and documentation to support decision-making within the PSM framework Operational Cross ‑ functional Coordination Support alignment of Indian pigment and paste activities with global PSM processes and standards Coordinate with production, C-Labs, procurement, and suppliers on agreed activities and follow ‑ ups Follow action items, milestone related to pigment and paste topics Pigment Paste Localization optimization (Support Role) Support pigment paste localization projects, including testing coordination, data collection, and documentation Support implementatio"
+      "description_preview": "O bjectives of the Position Support the local Pigment Paste Owner in managing and executing pigment and paste-related activities in India. The role focuses on operational support, coordination, data transparency, and implementation of agreed actions across production, C-Labs, procurement, and suppliers, contributing...",
+      "detail_path": "data/jobs/139239.json"
     },
     {
       "job_id": "135301",
@@ -84,12 +72,9 @@
       "job_field": "Research & Development",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "department": "RGR/CD",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-06T19:10:19Z",
-      "description": "About The Role Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (chemical, physical and preparative). Planning, evaluating documenting experiments, preparing tech transfer documents such as lab development reports, support in tolling related activities Collaborating with cross functional project teams such as research, analytical, safety etc. Adhering to BASF Environmental Health Safety (EHS), HR policies and work practices What We Look For Postgraduate (M. Sc.) in organic chemistry with sound theoretical knowledge in organic synthesis Working experience of 5 to 8 years in chemical / pharmaceutical / agrochemical industry as a chemist Should possess adequate communication technical skills required to perform the job Work Location Navi Mumbai - HO (Innovation Campus"
+      "description_preview": "About The Role Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (chemical, physical...",
+      "detail_path": "data/jobs/135301.json"
     },
     {
       "job_id": "135300",
@@ -101,12 +86,9 @@
       "job_field": "Research & Development",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "department": "RGR/CD",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-04-06T19:01:01Z",
-      "description": "About The Role Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (chemical, physical and preparative). Planning, evaluating documenting experiments, preparing tech transfer documents such as lab development reports, support in tolling related activities Collaborating with cross functional project teams such as research, analytical, safety etc. Adhering to BASF Environmental Health Safety (EHS), HR policies and work practices What We Look For Postgraduate (M. Sc.) in organic chemistry with sound theoretical knowledge in organic synthesis Working experience of 5 to 8 years in chemical / pharmaceutical / agrochemical industry as a chemist Should possess adequate communication technical skills required to perform the job Work Location Navi Mumbai - HO (Innovation Campus)"
+      "description_preview": "About The Role Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (chemical, physical...",
+      "detail_path": "data/jobs/135300.json"
     },
     {
       "job_id": "131297",
@@ -118,12 +100,9 @@
       "job_field": "Research & Development",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "department": "RGR/CD",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-01-21T01:43:22Z",
-      "description": "MAIN TASKS Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (chemical, physical and preparative). Planning, evaluating documenting experiments, preparing tech transfer documents such as lab development reports, support in tolling related activities Collaborating with cross functional project teams such as research, analytical, safety etc. Adhering to BASF Environmental Health Safety (EHS), HR policies and work practices KNOWLEDGE EXPERIENCE Postgraduate (M. Sc.) in organic chemistry with sound theoretical knowledge in organic synthesis Working experience of 5 to 8 years in chemical / pharmaceutical / agrochemical industry as a chemist Should possess adequate communication technical skills required to perform the job"
+      "description_preview": "MAIN TASKS Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (chemical, physical and...",
+      "detail_path": "data/jobs/131297.json"
     },
     {
       "job_id": "131099",
@@ -135,12 +114,9 @@
       "job_field": "Research & Development",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "department": "RGR/CD",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-01-20T10:49:05Z",
-      "description": "Objective To lead a team of chemists and engineer for successful execution of research projects within specified timeline and budget while adhering to company EHS guidelines and policies. To create innovative projects and bring new know-how, technologies, products, and processes for the company. Main Task Be in charge of functional leadership of the lab team. Observes and validates market trends and competitor activities (products, patents, literature). Recommend for new products/projects/applications within the innovation flow in cooperation with the concerned project team. Defines initiates and leads market-/customer related projects and product developments. Monitor, validate and document progresses achievements of milestones, coordinate the transfer of results into pilot plant, production and other business units if necessary. B e in constant touch with scientific partners and operative units. Extend his own knowledge constantly. Works within the allocated budget. Organizes the workflow in the lab in cooperation with the lab team and coordinate activities in the pilot plant if necessary. Be responsible for compliance of working-. security- and environmental policies within his "
+      "description_preview": "Objective To lead a team of chemists and engineer for successful execution of research projects within specified timeline and budget while adhering to company EHS guidelines and policies. To create innovative projects and bring new know-how, technologies, products, and processes for the company. Main Task Be in charge...",
+      "detail_path": "data/jobs/131099.json"
     },
     {
       "job_id": "130205",
@@ -152,12 +128,9 @@
       "job_field": "Research & Development",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "department": "G-EMP/RA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-01-20T08:56:36Z",
-      "description": "(A) Core Purpose Be responsible for building up application technology competences in rinse-off areas, especially bar soap and hair conditioning e.g. hair oils and shampoo. Lead and develop regional marketing concepts, support key customer projects based on identified business needs in South Asia Be responsible for technical training and support for BASF products portfolio in rinse-off application in South Asia (B) Main Responsibilities, Tasks Deliverables Lead and conduct the lab experiment on application formulation development of rinse-off solutions, including new application solutions and performance evaluation Support and work with regional marketing team to develop new marketing concepts, launch data of new products and promotion kits with target BASF portfolio Be responsible for regional technical support of BASF ingredients for rinse-off application in South Asia Analyze and document results, prepare technical reports and summaries for rinse-off projects Communicate/exchange technical know-how within region Competitor analysis, performance evaluation comparing with competitors Transfer the new technology and new products from global launch to South Asia Support innovation c"
+      "description_preview": "(A) Core Purpose Be responsible for building up application technology competences in rinse-off areas, especially bar soap and hair conditioning e.g. hair oils and shampoo. Lead and develop regional marketing concepts, support key customer projects based on identified business needs in South Asia Be responsible for...",
+      "detail_path": "data/jobs/130205.json"
     },
     {
       "job_id": "130215",
@@ -169,12 +142,9 @@
       "job_field": "Research & Development",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "department": "G-EMP/RA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-01-20T07:47:24Z",
-      "description": "(A) Core Purpose Develop rinse-off application technology based on business needs and contribute to build up identified technical competences and the necessary know how for South Asia market and beyond. Contribute to regional technical support and preparation of promotion kits for rinse-off product portfolio. Implement key customer projects in rinse-off application (B) Main Responsibilities, Tasks Deliverables Be responsible for implementation of application technology development in rinse-off category. Carry out marketing concept and solutions development in collaboration with local and regional market development teams. Be responsible for rinse-off technical support and key customer projects implementation in South Asia Communicate/exchange application technical know-how within region. Transfer the new application technology and new products launch from global to local Support internal or external seminars / workshop / trainings and events Documentation and technical data maintenance and summaries. Comply with lab safety, health and environment. (C) Key Interfaces G-EMP/R Global Development Projects Leaders G-EMP Regional/Local Market Development Team Local Sales Team Analytical "
+      "description_preview": "(A) Core Purpose Develop rinse-off application technology based on business needs and contribute to build up identified technical competences and the necessary know how for South Asia market and beyond. Contribute to regional technical support and preparation of promotion kits for rinse-off product portfolio....",
+      "detail_path": "data/jobs/130215.json"
     },
     {
       "job_id": "97351",
@@ -186,12 +156,9 @@
       "job_field": "Research & Development",
       "job_level": "Other",
       "job_type": "Permanent",
-      "company": "BASF Chemicals India Pvt. Ltd.",
-      "department": "APR/FN",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2024-10-30T04:03:36Z",
-      "description": "QUALIFICATIONS Advanced knowledge in organic chemical synthesis with a PhD in chemistry, medicinal chemistry or related o Postdoc and experience abroad, as w ell as in crop protection or pharmaceutical research are all an advantage but not essential o good English language skills o creativity, curiosity and enthusiasm to drive innovations o interpersonal and communication skills to develop innovative solutions in a diverse team RESPONSIBILITIES In our team Fungicide Chemistry you will work on the identification and development of highly effective, innovative chemical crop protection active ingredients designed to meet global market needs. From day one, you will join a diverse, international and multi-disciplinary team. You will be trained on the job and be supported by experts as well as other newer team members to address challenging and exciting scientific targets. o You will lead an organic synthesis laboratory team. o Your responsibilities will also include the design of active ingredients, their synthesis with a laboratory team, the analysis of their biological activity and the use of structure-activity relationships to initiate new designs. o You will drive multiparameter opt"
+      "description_preview": "QUALIFICATIONS Advanced knowledge in organic chemical synthesis with a PhD in chemistry, medicinal chemistry or related o Postdoc and experience abroad, as w ell as in crop protection or pharmaceutical research are all an advantage but not essential o good English language skills o creativity, curiosity and enthusiasm...",
+      "detail_path": "data/jobs/97351.json"
     }
   ]
 }

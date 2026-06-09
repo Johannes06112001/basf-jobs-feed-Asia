@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "134645",
+    "title": "Import Export Asia Pacific (Executive)",
+    "url": "https://basf.jobs/job-invite/134645/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GBC Global Service Cluster Customer",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-03-30T14:45:57Z",
+    "description": "Objectives of the Position Provide end-to-end operational support for import and export shipments across APAC, ensuring on-time execution, documentation accuracy, and compliance with global trade regulations. Act as the coordination hub between suppliers, logistics service providers , Business Units, and customs brokers to deliver reliable, compliant, and cost-effective shipping operations. Managing and maintenance of import export and customs operations, handling relevant administrative activities, reporting, and documentation processes for the assigned countries Archiving all applicable documentation in accordance with company and regulatory guidelines Proactively escalate cases of deviations in transportation activities to bring shipment back on track in meeting defined and agreed delivery dates Meet defined service levels and any agreed qualitative requirements pertaining to core transportation and documentation scope of work Support monitoring and evaluation of service provider’s performance referring to agreed KPIs and conduct periodic quality reviews Main Areas of Responsibilities and Key Activities Responsible for logistics fulfilment processes (including SAP TM maintenance and process adherence) for all import and export shipments by working closely with the country import export customs teams and hub-based overseas delivery services community Responsible for analyzing issues and managing where possible, escalating to country and/or Hub import export customs teams for attention or improvements required Non-conformances management (NCM) and issue log maintenance and ensure reported issues are addressed with corrective action (if applicable) Consolidate, prepare and verify import export customs operational reports to management and other relevant stakeholders Participate in system and new process flow testing where required Initiate continuous improvement initiatives and issue resolution of supply chain issues pertaining inbound and outbound transportation management on behalf of assigned countries. Participation in import export community meetings / activities where required and support service provider management and service delivery performance in assigned countries from global services hub Other responsibilities All other tasks as assigned relevant to meeting BASF and the objectives as outlined above. Assumes back up responsibility for team member/line manager for service provider management and import export operations as required Requirements..."
+  }
+}

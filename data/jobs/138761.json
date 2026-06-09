@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138761",
+    "title": "GDE/MF - AI Engineer (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138761/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/MF",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-20T18:30:00Z",
+    "description": "Strong experience with Python for backend and AI development. Hands-on experience with FastAPI (or similar Python web frameworks). Practical experience with LLM frameworks such as: OpenAI Agents SDK LangChain Or equivalent agent orchestration frameworks Solid understanding of prompt engineering techniques. Experience with memory management and context strategies for GenAI applications. Experience deploying applications to Azure Cloud . Familiarity with Docker and containerized deployments. Experience using GitHub for version control and CI/CD pipelines . Ability to work closely with product teams and adapt to evolving requirements. Key Responsibilities Design, develop, and enhance Generative AI solutions integrated into our product ecosystem. Translate product and business requirements into robust GenAI features . Build and maintain backend services using FastAPI and Python. Develop and integrate LLM-powered agents using frameworks such as OpenAI Agents SDK, LangChain, or similar . Implement effective prompt engineering strategies , including prompt optimization and evaluation. Design and manage conversation memory and context handling for multi-turn and agent-based systems. Deploy and operate GenAI services in Azure Cloud environments. Containerize applications using Docker and contribute to scalable deployment architectures. Collaborate with product managers, engineers, and stakeholders to iteratively improve AI-driven features. Maintain high code quality through version control, testing, and CI/CD pipelines (GitHub) . Monitor, troubleshoot, and optimize performance, cost, and reliability of GenAI solutions."
+  }
+}

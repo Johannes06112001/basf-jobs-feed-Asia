@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138973",
+    "title": "GDB/XD - Senior Specialist Data Governance (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138973/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDB/AO Data & AI Office and Academy",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T10:55:05Z",
+    "description": "Senior Specialist Data Governance (m/f/d) Location: Hyderabad Unit: GDB/XD Contract: Permanent Job Grade: TBD Why this role matters Within the Data AI Office, we implement BASF’s Data AI Governance Framework. Your role is focused on implementing the data strategy and enabling efficient, secure and compliant use of data across the company. Our goal is to make data easy to find, easy to use and safe – while supporting business value, innovation and AI use cases. You play a key part in federated data governance: governance is coordinated centrally but implemented close to the business. You will help embed data governance into daily work without slowing teams down. Your responsibilities You will facilitate and operationalize data governance across BASF, with a strong focus on collaboration and value creation: • Coordinate data governance activities across different stakeholders • Support the execution of BASF-wide data principles and governance guidelines • Define, implement and continuously improve data roles and responsibilities (e.g. Data Owners, Data Product Owners, Data Domain Owners) • Promote and support the nomination and onboarding of data roles in business • Develop and share processes, templates and best practices for data governance across the organization • Create transparency on data governance maturity, risks and improvement areas • Facilitate data usage with clear and secure agreements integrated into the Data Catalog • Identify, assess, and manage data-related risks, especially for AI use cases • Support governance requirements such as data classification, ownership, quality, lineage and compliance-by-design • Act as a connector between business, IT, security and compliance stakeholders What you bring • Degree in business administration, science, IT or a comparable qualification • Several years of professional experience in data-related roles (e.g. data governance, data stewardship, data management) • Practical experience with governance topics, ideally in complex or federated organizations • Structured and pragmatic working style in complex environments • Initial experience in project or change initiatives is an advantage • Strong communication and facilitation skills • Ability to work with diverse stakeholders across business, IT and corporate functions • Strong user and value orientation – you focus on practical benefits, not bureaucracy"
+  }
+}

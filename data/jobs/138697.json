@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138697",
+    "title": "GDD/PH - Test Automation Engineer (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138697/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/PH",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-19T17:51:26Z",
+    "description": "Header Do not change / Filled by Hub Digital Hub Hyderabad attracts, grows, and develops passionate people who will meaningfully impact the digital future of BASF. Come join us and be a part of our digitalization journey. Objective of the position We are looking for a highly dynamic, motivated, and collaborative person to join our team. We are focused on the modernization of legacy systems and development of new capabilities of digital solutions in the Operational EHS domain. There is a growing global need within BASF to leverage digitalization to continue BASF’s journey of EHS excellence and continuously improving our capabilities especially through digitalization. In this role, you will work alongside a global development team to create and iteratively improve upon a global, internal full stack development solution for the occupational safety domain with a focus on an open source stack and a cloud-based platform. Main tasks As a test automation engineer for the Operational EHS Platform and Integration team, you will be part of a global, multidisciplinary team responsible for the development of an internal platform for daily use globally at BASF production facilities. You will develop programs that will test the accuracy and reliability of internally developed software solutions for each module during its initial development and on an ongoing basis, especially in advance of major updates/deployments. Drive automation coverage and quality for your modules (prioritization, maintainability, and reducing flaky tests). You will collaborate with members of the Operational EHS Solutions team to define test cases and ensure testing is comprehensive and accurate You will provide feedback to the full-stack developer team and provide recommendations for corrective approaches for any issues identified during the testing process. Own the test approach for your assigned modules, aligned with the globally defined strategy. Job Requirements minimum requirement to carry out the work – you might want to point out “additional plus/nice to have skills” that are not mandatory Edu c a t i o n Degree in Computer Science, Computer Engineering, informatics, business informatics or in a comparable field Work experience More than 5 + years as QA Automator for a large team More than 5 + years as Manual QA for a large team T e c hn i c a l P r o f e ss i o n a l Knowledge (mandatory) Experience in development and testing, with programming skills in JavaScript Experience in test..."
+  }
+}

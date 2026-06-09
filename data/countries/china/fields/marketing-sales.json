@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T07:39:43Z",
+  "last_updated": "2026-06-09T08:25:19Z",
   "scope": "country_field",
   "country": "China",
   "job_field": "Marketing & Sales",
   "total_active": 7,
-  "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
     {
       "job_id": "139180",
@@ -16,12 +16,9 @@
       "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (China) Company Ltd.",
-      "department": "A-PMA/EW",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-06-09T02:39:26Z",
-      "description": "How You Will Do It Sales Development - Fully responsible and accountable for profitable business growth for assigned customers - Develops sales plans; secures and expedites orders. - Supervises and consolidates the accurate sales forecast. Strategic Tasks and Implementation - Identifies key accounts and develops key account profiles. - Implements the sales and marketing directions per agreed directions Product/Industry/Business Development - Scouts for new business opportunities in the respective sales areas / key accounts and develops a business plan. - Suggests product developments and requirements to Sales Manager or LBM and support its implementation. Customer Management - Conducts field visits, seminars, presentations and attends to customers’ inquiries. - Provides prompt response related to quality, technical applications, inquiries, and other related issues; conducts customers’ assessments and analysis. - Aligns with Regional Business Unit and functions to solve customers’ issues. Credit Management - Monitors the growth of the customers’ business, reviews and coordinates with credit control to assure appropriate credit recommendations. - Follows up on payment collections and"
+      "description_preview": "How You Will Do It Sales Development - Fully responsible and accountable for profitable business growth for assigned customers - Develops sales plans; secures and expedites orders. - Supervises and consolidates the accurate sales forecast. Strategic Tasks and Implementation - Identifies key accounts and develops key...",
+      "detail_path": "data/jobs/139180.json"
     },
     {
       "job_id": "139185",
@@ -33,12 +30,9 @@
       "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (China) Company Ltd.",
-      "department": "G-EM/OA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-29T08:28:33Z",
-      "description": "About The Role • Manage sales and customers and achieve the sales and profit targets • Support business development by identifying sales potentials, new customers and applications • Research and update market intelligence to supervisor/team How You Will Do It 1. Sales customer management • Plan and manage EMO (Oleo Chemicals Alcohols) business including key accounts and direct accounts/dealers/distributors to meet sales target; ensure account strategies are exploited consistently including new opportunities. • Report all opportunities into Salesforce process at least one month in advance. • Maximize profitability by contributing to the full utilization of assets in Asia Pacific and not limited by local view • Enhance account relationships and meet sales targets for each assigned account and as per KPI’s via replacement or project activities including calling and visiting existing/prospective customers to fully understand and identify their needs to create a long-term customer supplier relationship. • Timely response to customer requests including product information, technical support via coordination with technical, customer services, logistics, Regional Pricing and Margin Managem"
+      "description_preview": "About The Role • Manage sales and customers and achieve the sales and profit targets • Support business development by identifying sales potentials, new customers and applications • Research and update market intelligence to supervisor/team How You Will Do It 1. Sales customer management • Plan and manage EMO (Oleo...",
+      "detail_path": "data/jobs/139185.json"
     },
     {
       "job_id": "139205",
@@ -50,12 +44,9 @@
       "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF (China) Company Ltd.",
-      "department": "A-PMA/EW",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-29T08:11:40Z",
-      "description": "How You Will Do Sales Development - Fully responsible and accountable for profitable business growth for assigned customers - Develops sales plans; secures and expedites orders. - Supervises and consolidates the accurate sales forecast. Strategic Tasks and Implementation - Identifies key accounts and develops key account profiles. - Implements the sales and marketing directions per agreed directions Product/Industry/Business Development - Scouts for new business opportunities in the respective sales areas / key accounts and develops a business plan. - Suggests product developments and requirements to Sales Manager or LBM and support its implementation. Customer Management - Conducts field visits, seminars, presentations and attends to customers’ inquiries. - Provides prompt response related to quality, technical applications, inquiries, and other related issues; conducts customers’ assessments and analysis. - Aligns with Regional Business Unit and functions to solve customers’ issues. Credit Management - Monitors the growth of the customers’ business, reviews and coordinates with credit control to assure appropriate credit recommendations. - Follows up on payment collections and en"
+      "description_preview": "How You Will Do Sales Development - Fully responsible and accountable for profitable business growth for assigned customers - Develops sales plans; secures and expedites orders. - Supervises and consolidates the accurate sales forecast. Strategic Tasks and Implementation - Identifies key accounts and develops key...",
+      "detail_path": "data/jobs/139205.json"
     },
     {
       "job_id": "139101",
@@ -67,12 +58,9 @@
       "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Polyurethane Specialties (China) Co. Ltd.",
-      "department": "G-PM/AAC",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
       "date_posted": "2026-05-29T04:27:22Z",
-      "description": "How You Will Do It Business Targets Achieving the annual targets for customer specific net sales, sales volume, and margins. Implementation of the key account strategy. Sales Acquisition Acquiring new business based on the target projects laid out in the Sales Funnel. Setting selling prices based on application and materials, market, and competition environment, aligned with the GKAM leader. Contract Management Prepare price quotations and cost breakdowns. Settle supply contracts with customers in cooperation with legal department and CRM team. Ensure compliance with internal standards for credit limit, payment terms, incoterms, and other requirements. Customer Relationship Establish, develop, and maintain business relationships with current and potential customers in the assigned customer group. Sales Forecast Through OMP, prepare/ oversee the monthly sales forecast on article level to ensure accurate demand planning, supply reliability and DIV targets. Project Management Collaborate with project managers to keep the developing project in safe launch or timely to start the agility process. What We Look For Possess at least a Bachelor's Degree in BusinessAdministration or equivalen"
+      "description_preview": "How You Will Do It Business Targets Achieving the annual targets for customer specific net sales, sales volume, and margins. Implementation of the key account strategy. Sales Acquisition Acquiring new business based on the target projects laid out in the Sales Funnel. Setting selling prices based on application and...",
+      "detail_path": "data/jobs/139101.json"
     },
     {
       "job_id": "339101",
@@ -82,11 +70,9 @@
       "city": "SHANGHAI",
       "state": "Unknown",
       "job_field": "Marketing & Sales",
-      "company": "BASF",
-      "department": "Marketing",
-      "hybrid": false,
       "date_posted": "2026-05-06T00:00:00Z",
-      "description": "Main Tasks • New Business Development: Identifying, develop, and realizing business opportunities based on customer/market needs including proactive project management from idea to final implementation at customer’s mass production. - Translation of technical customer needs & problems into BASF toolbox to solve customer needs; Provide technical support to customers and technical consultation including handling and follow-up complaints on technical related issues. - Generate selling story and assist commercial sales on achieving business results. - Optimize profitability of regional product portfolio to meet market demand incl. supply chain and local production topics. • Working together with global team to achieve business goals. • Establish close customer relationship for successful business development including product performance test on customers’ product lines and failure analysis of product performance issues at customer. • Provide competitive product performance information to verify competitiveness of own products and technologies. Requirements • Education: Bachelor’s degree in chemistry, physics or material science, Master or PhD is a plus • Experience: Oversea experience"
+      "description_preview": "Main Tasks • New Business Development: Identifying, develop, and realizing business opportunities based on customer/market needs including proactive project management from idea to final implementation at customer’s mass production. - Translation of technical customer needs & problems into BASF toolbox to solve...",
+      "detail_path": "data/jobs/339101.json"
     },
     {
       "job_id": "133203",
@@ -96,11 +82,9 @@
       "city": "SHANGHAI",
       "state": "Unknown",
       "job_field": "Marketing & Sales",
-      "company": "BASF",
-      "department": "Marketing",
-      "hybrid": false,
       "date_posted": "2026-01-27T00:00:00Z",
-      "description": "Main Tasks Support marketing team on communication projects. 1) support to edit WeChat post; 2)support to prepare product brochures; 3) support to organize public expos such as booth preparation, live stream etc. Main Requirements 1) good communication skills; 2) good English and Chinese writing skills; 3) good sense of designing; 4) basic knowledge of chemistry and chemical products 请时刻警惕任何可能的招聘欺诈行为！请注意，巴斯夫绝不会在任何情况下向候选人以任何形式收取任何费用。"
+      "description_preview": "Main Tasks Support marketing team on communication projects. 1) support to edit WeChat post; 2)support to prepare product brochures; 3) support to organize public expos such as booth preparation, live stream etc. Main Requirements 1) good communication skills; 2) good English and Chinese writing skills; 3) good sense...",
+      "detail_path": "data/jobs/133203.json"
     },
     {
       "job_id": "330401",
@@ -112,11 +96,9 @@
       "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF",
-      "department": "Marketing",
-      "hybrid": false,
       "date_posted": "2026-01-11T00:00:00Z",
-      "description": "Main Task 1. New business development - Scout business opportunities and identify technical requirements; cooperate with relevant teams for feasibility study - Execute and coordinate product promotion projects; includes hosting technical meetings, resource coordination/planning, sampling, product registration, internal qualification, piloting, improvement, scaling up until product ready for commercialization - Act the major interface between customer and product development team during product promotion process 2. Market intelligence management - Collect and analyze industry trend and customer technology roadmap to support product development direction - Scout and summarize competitor activities and competitive landscape to support product strategy and sustain company competitiveness Requirement 1. Education: Bachelor or Master degree in an engineering and scientific field, such as Materials Science, Chemistry, Electrical Engineering, Chemical Engineering, is preferred 2. Work Experience 3+ Years in the field of semiconductor industry. Experience in new business development project management in preferred Experience in technical sales or a customer-facing role is preferred Etch Mod"
+      "description_preview": "Main Task 1. New business development - Scout business opportunities and identify technical requirements; cooperate with relevant teams for feasibility study - Execute and coordinate product promotion projects; includes hosting technical meetings, resource coordination/planning, sampling, product registration,...",
+      "detail_path": "data/jobs/330401.json"
     }
   ]
 }

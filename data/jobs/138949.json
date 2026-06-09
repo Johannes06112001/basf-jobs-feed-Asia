@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138949",
+    "title": "GDE/DF - SAP Developer - ABAP (m/f/d)",
+    "url": "https://basf.jobs/job-invite/138949/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/DF Procurement Solutions",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-25T08:10:32Z",
+    "description": "Responsibilities: You will be responsible for ensuring the operation and project delivery across all phases - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will guide, coach and train other team members build competencies for the respective modules. - You will be assigned projects where you will have end to end responsibility for all deliverables Qualifications: Core technical profile with 4+ years SAP development and integration experience Application development experience in S/4HANA, Technical knowledge in OO ABAP, BAPI and CDS cloud compliant development Preferably with experiences / knowledge with, integration patterns (e.g. APIs) OData services, optional BTP/RAP Preferable functional knowledge of SAP S/4 MM an sourrounding modules like SD, TM and FI/CO What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work environment where your ideas are valued, and your curiosity and ambition are encouraged. Benefit from flexible working models, international networking, and a strong sense of purpose as we enable our customers’ green transformation and lead the way in digital excellence. [to include specific local benefits]. Profession / Occupation / Studies: 'Completed university degree in Business IT, Business Economics, Information Science, Engineering, or Natural Science"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "134607",
+    "title": "Intern, Global Operations Support",
+    "url": "https://basf.jobs/job-invite/134607/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Student",
+    "job_type": "Internship",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB/SE-G",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-03-29T15:03:49Z",
+    "description": "O bjectives of the Position We are looking for a motivated and detail-oriented intern to join our Global Operations Support department, supporting Maritime activities for EMEA Region. M ain Areas of Responsibilities and Key Activities Assist with administrative tasks to support the operations team Where needed, support certain units with daily troubleshooting tasks Generate reports to provide insights and support decision-making. Prepare documentation to support operational processes. Coordinate meetings, including scheduling, preparing agendas, and taking minutes. Manage and track pending operational tasks to ensure timely communication Job Requirements Currently pursuing Bachelors’ Degree in Supply Chain Management, Logistics, Business Administration, Business Information System, Information Technology or any related disciplines. Strong organizational and time management skills. Excellent written and verbal communication skills. Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint). Ability to work independently and as part of a team. Attention to detail and a proactive approach to problem-solving Good command of written and spoken English is necessity."
+  }
+}

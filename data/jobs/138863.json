@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138863",
+    "title": "GDE/FF - SAP Consultant (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138863/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDE/FF Business Partner & Finance Master Data",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-22T16:53:38Z",
+    "description": "SAP Consultant OrgCode: tbc Product Team: Business Partner Finance Master Data Responsibilities: \"You will be responsible for ensuring the operation and project delivery across all phases you will execute business requirements engineering and ensure provisioning of standard IT features - You will do error analysis and corrections of Incident and Problems (Provide 2nd and/or 3rd level support). - As part of our agile development team you will work on user stories, do the development and testing of new features. - With your extensive experience on the subject matter, you will guide, coach and train other team members build competencies for the respective modules. - You will be assigned projects where you will have end to end responsibility for all deliverables\" Qualifications: \"- Deep process and functional expertise in SAP MDG Business Partner, including configuration of the BP data model, business partner roles, relationships, and MDG UI (FPM/Fiori) to design fit‑for‑purpose business partner master data solutions.- Proven experience implementing BP creation and change processes in SAP MDG, including change request handling, duplicate detection, validations, as well as incident analysis and remediation.- Ability to translate business requirements for Business Partner data into executable validation and enrichment rules using BRFplus and standard MDG BP solutions.- Knowledge of integration technologies for SAP MDG, including web services, event/data streaming, and interfaces to internal and external systems.- Proven experience in Business Partner harmonization, cleansing, and migration activities, including source profiling, mapping and transformation of BP roles, addresses, and accounts, as well as reconciliation and post‑migration validation.\""
+  }
+}

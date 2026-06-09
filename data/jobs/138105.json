@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138105",
+    "title": "Order Management (Executive)",
+    "url": "https://basf.jobs/job-invite/138105/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Logistics & Supply Chain Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB Global Business Services",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-05-15T05:43:39Z",
+    "description": "Objectives of the Position The Executive, Order Management, will execute the customer order management processes with a consistent high level of service across ASEAN, Australia and New Zealand (ANZ), Taiwan for the Customer Service which is still with Global Business. Main Tasks Operations and Performance Execute the Customer Order Management processes set up in KL Hub with the different models interfaces Processing of sales and purchase orders from various customers in a timely manner Service contact for assigned countries – monitor order status and provide update information to the countries and customers Bill of Lading draft checking (for Letter of Credit orders, 3rd party supplier orders and key customer orders) Manage Insurance Certificate (if necessary) Follow up Bill of Lading receipt status based on Estimate Time of Delivery Collection of Original Bill of Lading and other documents from goods suppliers Provide full and accurate required documents to customers Upload / maintain documents in SAP for audit trail Support documents for internal and external audit purpose Register all and follow-up with all non-conformances in the NCM system to ensure a quick and efficient customer response Participate proactively in new workflow for on time accurate documents Ensure that delivery capability and reliability of all orders Ensure that a minimum internal cycle time of order processing is achieved by improving the process wherever possible Verifying pricing with Marketing and execute monitor all guidelines implemented Troubleshooting and problem solving Process debit and credit notes wherever applicable (Business Unit) Requirements Education Bachelor degree or High Diploma preferably in Business or Supply Chain Management Working Experience 2-4 years relevant experience in supply chain management, including hands-on experience in order management and shipping document handling Technical Professional Knowledge Supply Chain Management / process knowledge, SAP (Sales and Distributions module) experience, operational order management including shipping documentation, foreign documentary trade, good communication skills."
+  }
+}

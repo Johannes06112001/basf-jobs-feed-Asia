@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-09T08:25:19Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+  "job": {
+    "job_id": "138899",
+    "title": "GDD/BG - Senior Business Solution Consultant NCM (M/F/D)",
+    "url": "https://basf.jobs/job-invite/138899/?locale=en_US",
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "job_field": "Digitalization",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF Digital Solutions Private Limited",
+    "department": "GDD/BG",
+    "business_unit": "Asia Pacific",
+    "hybrid": true,
+    "date_posted": "2026-05-23T08:59:17Z",
+    "description": "Senior Business Solution Consultant NCM OrgCode: GDD/EC Product Team: Non-Conformance Management Responsibilities: - As a Business Solution Consultant Non-Conformance Management, you will play a central role in implementing and optimizing the BASF NCM process and applications for our users. - You will collaborate with cross-functional teams, including project managers, product owners, developers, and data scientists to improve our solution offering. - Your primary responsibilities will be understanding user requirements and translating them into IT requirements, providing comprehensive training and support the change management within the organization. - With your contribution you will help our Operational Divisions to achieve better customer service and quality and to comply to regulatory and legal requirements using our SAP, Reporting and Mobile applications. Qualifications: - Process knowledge in manufacturing or quality management - in best case in chemcial industry - SAP QM Experience - Experience with other Quality Management IT Solutions - Agile delivery methods such as Scrum - Knowledge of Azure DevOps - Process knowledge in manufacturing or quality management - Knowledge of ISO 9001 and ISO 10002 - Excellent problem solving and analytical skills. - The will and ability to drive change and an entrepreneurial spirit. - Hands-on mentality and focus on customer satisfaction. - Ability to work in a multicultural and virtual team. What we offer: Be part of a global leader in digital transformation, working in a vibrant Digital Hub that values innovation, agility, and cross-functional collaboration. Shape the future of BASF’s digital landscape, contributing to projects that drive sustainability and make a real impact. Thrive in a high-performance culture that supports your personal and professional growth, offering diverse learning opportunities and career development. Enjoy a modern, inclusive work environment where your ideas are valued, and your curiosity and ambition are encouraged. Benefit from flexible working models, international networking, and a strong sense of purpose as we enable our customers’ green transformation and lead the way in digital excellence. [to include specific local benefits]."
+  }
+}
