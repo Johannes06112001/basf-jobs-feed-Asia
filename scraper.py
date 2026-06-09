@@ -16,9 +16,13 @@ from playwright.async_api import async_playwright
 SEARCH_URL = "https://basf.jobs/?currentPage=1&pageSize=1000&addresses%2Fcountry=India"
 AZURE_URL = "https://searchui.search.windows.net/indexes/basf-prod/docs/search?api-version=2020-06-30"
 
-# Public GitHub Pages base URL used inside generated HTML/JSON.
+# Public GitHub Pages base URL used inside generated JSON.
 # Change this single value when the repository is moved to another account.
 BASE_URL = "https://johannes06112001.github.io/basf-jobs-feed-Asia"
+
+DESCRIPTION_PREVIEW_CHARS = 320
+DESCRIPTION_DETAIL_CHARS = 2500
+PAGE_SIZE = 1000
 
 ASIA_COUNTRIES = {
     "Afghanistan",
@@ -82,7 +86,6 @@ COUNTRY_ALIASES = {
 }
 
 PREFERRED_LOCALES = ["en_US", "en_IN", "en_SG", "en_MY", "en_CN", "en_JP", "de_DE", "de_AT", "de_CH"]
-PAGE_SIZE = 1000
 
 INVALID_URL_TOKENS = [
     "%E2%80%94",
@@ -103,6 +106,14 @@ def strip_html(text):
     text = html.unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
+
+
+def shorten(text, max_chars):
+    text = (text or "").strip()
+    if len(text) <= max_chars:
+        return text
+    cut = text[:max_chars].rsplit(" ", 1)[0].strip()
+    return f"{cut}..." if cut else text[:max_chars]
 
 
 def slugify(text):
@@ -170,7 +181,33 @@ def locale_rank(job):
     return PREFERRED_LOCALES.index(language) if language in PREFERRED_LOCALES else 999
 
 
-def slim_job(j, include_description=True):
+def job_detail_path(job):
+    return f"data/jobs/{slugify(job.get('job_id'))}.json"
+
+
+def compact_job(j, include_preview=True, include_detail_path=True):
+    entry = {
+        "job_id": j.get("job_id", ""),
+        "title": j.get("title", ""),
+        "url": j.get("url", ""),
+        "country": j.get("country", ""),
+        "city": j.get("city", ""),
+        "state": j.get("state", ""),
+        "job_field": j.get("job_field", ""),
+        "job_level": j.get("job_level", ""),
+        "job_type": j.get("job_type", ""),
+        "date_posted": j.get("date_posted", ""),
+    }
+    if include_preview:
+        preview = shorten(j.get("description", ""), DESCRIPTION_PREVIEW_CHARS)
+        if preview:
+            entry["description_preview"] = preview
+    if include_detail_path:
+        entry["detail_path"] = job_detail_path(j)
+    return {k: v for k, v in entry.items() if v not in ("", None, {})}
+
+
+def detail_job(j):
     entry = {
         "job_id": j.get("job_id", ""),
         "title": j.get("title", ""),
@@ -186,10 +223,33 @@ def slim_job(j, include_description=True):
         "business_unit": j.get("business_unit", ""),
         "hybrid": j.get("hybrid", False),
         "date_posted": j.get("date_posted", ""),
+        "description": shorten(j.get("description", ""), DESCRIPTION_DETAIL_CHARS),
     }
-    if include_description:
-        entry["description"] = j.get("description", "")
     return {k: v for k, v in entry.items() if v not in ("", None, {})}
+
+
+def search_index_job(j):
+    text_parts = [
+        j.get("title", ""),
+        j.get("country", ""),
+        j.get("city", ""),
+        j.get("state", ""),
+        j.get("job_field", ""),
+        j.get("job_level", ""),
+        j.get("job_type", ""),
+    ]
+    return {
+        "job_id": j.get("job_id", ""),
+        "title": j.get("title", ""),
+        "url": j.get("url", ""),
+        "country": j.get("country", ""),
+        "city": j.get("city", ""),
+        "job_field": j.get("job_field", ""),
+        "job_level": j.get("job_level", ""),
+        "date_posted": j.get("date_posted", ""),
+        "detail_path": job_detail_path(j),
+        "search_text": " | ".join(part for part in text_parts if part),
+    }
 
 
 def build_country_job_line(j):
@@ -208,7 +268,8 @@ def build_country_job_line(j):
         f'data-city="{city}" data-state="{state}">'
         f'{posted} – {field_tag}{level_tag}{type_tag}'
         f'<a href="{safe(j.get("url"))}">{safe(j.get("title"))}</a>'
-        f' — {city}, {state}</li>\n'
+        f' — {city}, {state} '
+        f'(<a href="../{safe(job_detail_path(j))}">detail JSON</a>)</li>\n'
     )
 
 
@@ -308,16 +369,6 @@ def transform_jobs(job_map):
 
         addr, country = first_asia_address(job)
 
-        recruiter_raw = job.get("recruiter") or {}
-        recruiter = {}
-        if recruiter_raw:
-            recruiter = {
-                "name": f"{recruiter_raw.get('firstName', '')} {recruiter_raw.get('lastName', '')}".strip(),
-                "email": recruiter_raw.get("email", ""),
-                "phone": recruiter_raw.get("phone", ""),
-            }
-            recruiter = {k: v for k, v in recruiter.items() if v}
-
         city = addr.get("city") or addr.get("locationCity") or "Unknown"
         state = addr.get("state") or "Unknown"
         description = strip_html(job.get("description") or "")
@@ -337,9 +388,7 @@ def transform_jobs(job_map):
             "job_type": job.get("jobType") or job.get("customfield5") or "",
             "hybrid": job.get("hybrid") or False,
             "date_posted": job.get("datePosted") or "",
-            # Keep details in country-specific JSON, not on the root HTML page.
-            "description": description[:1200],
-            "recruiter": recruiter if recruiter else None,
+            "description": description,
         }
         entry = {k: v for k, v in entry.items() if v is not None and v != "" and v != {}}
         jobs.append(entry)
@@ -359,6 +408,7 @@ def prepare_output_dirs():
 
     os.makedirs("countries", exist_ok=True)
     os.makedirs("data/countries", exist_ok=True)
+    os.makedirs("data/jobs", exist_ok=True)
 
 
 def field_counts(jobs):
@@ -368,8 +418,22 @@ def field_counts(jobs):
     return dict(sorted(counts.items(), key=lambda item: (-item[1], item[0].lower())))
 
 
+def write_detail_files(jobs, timestamp):
+    for job in jobs:
+        payload = {
+            "last_updated": timestamp,
+            "scope": "job_detail",
+            "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly; never construct job links.",
+            "job": detail_job(job),
+        }
+        path = job_detail_path(job)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(payload, f, ensure_ascii=False, indent=2)
+
+
 def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
     timestamp = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+    write_detail_files(jobs, timestamp)
 
     country_routes = []
     for country in sorted(grouped_by_country.keys(), key=country_sort_key):
@@ -384,6 +448,7 @@ def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
             field_dir = f"data/countries/{country_slug}/fields"
             os.makedirs(field_dir, exist_ok=True)
 
+            field_path = f"{field_dir}/{field_slug}.json"
             field_payload = {
                 "last_updated": timestamp,
                 "scope": "country_field",
@@ -392,11 +457,11 @@ def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
                 "total_active": len(field_jobs),
                 "llm_instruction": (
                     "Use this small file for country-and-function-specific matching. "
+                    "Descriptions are short previews. Fetch detail_path only for shortlisted roles. "
                     "Copy job URLs exactly. Never construct basf.jobs links."
                 ),
-                "jobs": [slim_job(job, include_description=True) for job in field_jobs],
+                "jobs": [compact_job(job, include_preview=True, include_detail_path=True) for job in field_jobs],
             }
-            field_path = f"{field_dir}/{field_slug}.json"
             with open(field_path, "w", encoding="utf-8") as f:
                 json.dump(field_payload, f, ensure_ascii=False, indent=2)
 
@@ -404,10 +469,12 @@ def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
                 {
                     "job_field": field,
                     "count": len(field_jobs),
+                    "json_path": field_path,
                     "json_url": f"{BASE_URL}/{field_path}",
                 }
             )
 
+        country_json_path = f"data/countries/{country_slug}.json"
         country_payload = {
             "last_updated": timestamp,
             "scope": "country",
@@ -416,14 +483,12 @@ def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
             "fields": fields,
             "llm_instruction": (
                 f"This file contains only BASF jobs in {country}. "
-                "Filter this file before loading wider Asia data. "
+                "Descriptions are short previews. Fetch detail_path only for shortlisted roles. "
                 "For role-specific searches, use the field JSON files when available. "
                 "Copy job URLs exactly and never generate basf.jobs links."
             ),
-            "jobs": [slim_job(job, include_description=True) for job in country_jobs],
+            "jobs": [compact_job(job, include_preview=True, include_detail_path=True) for job in country_jobs],
         }
-
-        country_json_path = f"data/countries/{country_slug}.json"
         with open(country_json_path, "w", encoding="utf-8") as f:
             json.dump(country_payload, f, ensure_ascii=False, indent=2)
 
@@ -431,7 +496,9 @@ def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
             {
                 "country": country,
                 "count": len(country_jobs),
+                "html_path": f"countries/{country_slug}.html",
                 "html_url": f"{BASE_URL}/countries/{country_slug}.html",
+                "json_path": country_json_path,
                 "json_url": f"{BASE_URL}/{country_json_path}",
                 "fields": field_routes,
             }
@@ -445,13 +512,18 @@ def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
             "Start here only to route the search. Do not load the full Asia dataset first. "
             "Pick the requested country, then fetch that country's JSON. "
             "If the user asks for a function, prefer the matching country/function JSON. "
-            "Default to India when no country is specified. "
-            "Use wider Asia/APAC only as fallback. Copy URLs exactly from source."
+            "Default to India when no country is specified. Use wider Asia/APAC only as fallback. "
+            "Use json_path for portable same-repository navigation; use json_url when an absolute URL is required. "
+            "Copy BASF job URLs exactly from source."
         ),
         "countries": country_routes,
     }
     with open("data/llm-routing.json", "w", encoding="utf-8") as f:
         json.dump(routing_payload, f, ensure_ascii=False, indent=2)
+
+    with open("data/search-index.jsonl", "w", encoding="utf-8") as f:
+        for job in jobs:
+            f.write(json.dumps(search_index_job(job), ensure_ascii=False) + "\n")
 
     # Backward-compatible aggregate file. Agents should prefer data/llm-routing.json.
     aggregate_payload = {
@@ -459,11 +531,11 @@ def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
         "scope": "Asia/APAC",
         "total_active": len(jobs),
         "llm_instruction": (
-            "Large aggregate file. Prefer data/llm-routing.json and country JSON files "
-            "to keep context small."
+            "Large aggregate file. Prefer data/llm-routing.json, country JSON files, "
+            "field JSON files, and job detail JSON files to keep context small."
         ),
         "countries": sorted(grouped_by_country.keys(), key=country_sort_key),
-        "jobs": [slim_job(job, include_description=True) for job in jobs],
+        "jobs": [compact_job(job, include_preview=False, include_detail_path=True) for job in jobs],
     }
     with open("jobs.json", "w", encoding="utf-8") as f:
         json.dump(aggregate_payload, f, ensure_ascii=False, indent=2)
@@ -480,8 +552,7 @@ def generate_country_pages(grouped_by_country, grouped_by_country_field):
             field_slug = slugify(field)
             field_nav += (
                 f'<li><a href="#field-{field_slug}">{safe(field)}</a> ({count}) '
-                f'| <a href="{BASE_URL}/data/countries/{country_slug}/fields/{field_slug}.json">'
-                f'JSON</a></li>\n'
+                f'| <a href="../data/countries/{country_slug}/fields/{field_slug}.json">JSON</a></li>\n'
             )
         field_nav += "</ul>\n"
 
@@ -502,16 +573,16 @@ def generate_country_pages(grouped_by_country, grouped_by_country_field):
   <title>BASF Jobs {safe(country)} – LLM Country Page</title>
 </head>
 <body>
-  <p><a href="{BASE_URL}/index_lite.html">← Asia/APAC country index</a></p>
+  <p><a href="../index_lite.html">← Asia/APAC country index</a></p>
   <h1>BASF Job Openings {safe(country)}</h1>
   <p>Total: {len(country_jobs)} active position(s).</p>
 
   <h2>LLM usage</h2>
   <p>This page contains ONLY jobs in {safe(country)}. Use it when the user explicitly asks for {safe(country)}, or when {safe(country)} is the India-first/default country.</p>
   <p>For a smaller context window, use the country JSON first:
-    <a href="{BASE_URL}/data/countries/{country_slug}.json">{BASE_URL}/data/countries/{country_slug}.json</a>
+    <a href="../data/countries/{country_slug}.json">../data/countries/{country_slug}.json</a>
   </p>
-  <p>For function-specific searches, use the matching field JSON below. Copy every BASF job URL exactly from the source. Never construct job links from titles or IDs.</p>
+  <p>For function-specific searches, use the matching field JSON below. Fetch detail JSON only for shortlisted roles. Copy every BASF job URL exactly from the source. Never construct job links from titles or IDs.</p>
 
   <h2>Fields in {safe(country)}</h2>
   {field_nav}
@@ -538,8 +609,8 @@ def generate_index_pages(jobs, grouped_by_country):
 
         rows += (
             f'<li><strong>{safe(country)}</strong> — {len(country_jobs)} position(s) '
-            f'| <a href="{BASE_URL}/countries/{country_slug}.html">HTML</a> '
-            f'| <a href="{BASE_URL}/data/countries/{country_slug}.json">JSON</a>'
+            f'| <a href="countries/{country_slug}.html">HTML</a> '
+            f'| <a href="data/countries/{country_slug}.json">JSON</a>'
         )
         if top_fields:
             rows += f"<br>Top fields: {safe(top_fields)}"
@@ -553,8 +624,10 @@ def generate_index_pages(jobs, grouped_by_country):
 
 <h2>LLM routing instruction</h2>
 <p>Do not load the full Asia job list into the context first. Start with the routing JSON, select the requested country, then fetch only that country or country/function file.</p>
-<p><strong>Routing JSON:</strong> <a href="{BASE_URL}/data/llm-routing.json">{BASE_URL}/data/llm-routing.json</a></p>
+<p><strong>Routing JSON:</strong> <a href="data/llm-routing.json">data/llm-routing.json</a></p>
+<p><strong>Search index:</strong> <a href="data/search-index.jsonl">data/search-index.jsonl</a></p>
 <p>Default behavior for the agent: India first when no country is specified. If the user names a country, use that country first. Wider Asia/APAC is fallback only.</p>
+<p>Links on this page are relative on purpose, so the site remains portable when the repository is copied to another GitHub account.</p>
 
 <h2>Country pages</h2>
 {rows}
@@ -607,7 +680,7 @@ async def scrape_jobs():
         grouped_by_country_field[(country, field)].append(job)
 
     write_json_files(jobs, grouped_by_country, grouped_by_country_field)
-    print("✅ JSON routing files generated!")
+    print("✅ JSON routing, search index, country, field, and detail files generated!")
     print(f"✅ jobs.json gespeichert — {len(jobs)} verified Asia/APAC Jobs!")
 
     generate_country_pages(grouped_by_country, grouped_by_country_field)
