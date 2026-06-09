@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T10:54:06Z",
+  "last_updated": "2026-06-09T14:30:40Z",
   "scope": "intent_map",
   "llm_instruction": "Use this file after data/agent-guide.json. Match the user's wording against aliases/title_keywords. Then fetch the smallest matching intent entrypoint. Do not load the full aggregate first. Application links must come only from job.url values. Never construct basf.jobs links.",
   "default_country_logic": "If no country is named, use the intent entrypoint india_first. If the user asks for other APAC countries, use non_india_apac. If the user names China, use china. If another country is named, use the country entrypoint when present.",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T10:54:06Z",
+  "last_updated": "2026-06-09T14:30:40Z",
   "scope": "agent_guide",
   "purpose": "Minimal retrieval instructions for an LLM job agent using this BASF Asia/APAC feed.",
   "active_source": "https://johannes06112001.github.io/basf-jobs-feed-Asia",

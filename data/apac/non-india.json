@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T10:54:06Z",
+  "last_updated": "2026-06-09T14:30:40Z",
   "scope": "non_india_apac",
   "total_active": 122,
   "llm_instruction": "Use this file when the user asks for APAC, other APAC countries, outside India, or non-India Asia roles. Filter by job_field/title/description locally. Copy each application link only from job.url. Never construct basf.jobs links.",
