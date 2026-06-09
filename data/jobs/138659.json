@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T14:30:40Z",
+  "last_updated": "2026-06-09T17:55:03Z",
   "scope": "job_detail",
   "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly from job.url; never construct job links.",
   "job": {
