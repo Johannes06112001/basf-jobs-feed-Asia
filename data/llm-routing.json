@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-08T21:46:33Z",
+  "last_updated": "2026-06-09T07:39:43Z",
   "scope": "Asia/APAC",
-  "total_active": 281,
+  "total_active": 280,
   "llm_instruction": "Start here only to route the search. Do not load the full Asia dataset first. Pick the requested country, then fetch that country's JSON. If the user asks for a function, prefer the matching country/function JSON. Default to India when no country is specified. Use wider Asia/APAC only as fallback. Copy URLs exactly from source.",
   "countries": [
     {
@@ -79,7 +79,7 @@
     },
     {
       "country": "China",
-      "count": 40,
+      "count": 39,
       "html_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/countries/china.html",
       "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china.json",
       "fields": [
@@ -89,19 +89,19 @@
           "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/research-development.json"
         },
         {
-          "job_field": "Digitalization",
-          "count": 6,
-          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"
-        },
-        {
           "job_field": "Marketing & Sales",
-          "count": 6,
+          "count": 7,
           "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/marketing-sales.json"
         },
         {
           "job_field": "Procurement",
           "count": 5,
           "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/procurement.json"
+        },
+        {
+          "job_field": "Digitalization",
+          "count": 4,
+          "json_url": "https://zr-jt.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"
         },
         {
           "job_field": "Production, Maintenance & Technical Services",

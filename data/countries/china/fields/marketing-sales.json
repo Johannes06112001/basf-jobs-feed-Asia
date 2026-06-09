@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-06-08T21:46:33Z",
+  "last_updated": "2026-06-09T07:39:43Z",
   "scope": "country_field",
   "country": "China",
   "job_field": "Marketing & Sales",
-  "total_active": 6,
+  "total_active": 7,
   "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
+    {
+      "job_id": "139180",
+      "title": "Assistant Manager, Sales - Engineering Plastic (Guangzhou)",
+      "url": "https://basf.jobs/job-invite/139180/?locale=en_US",
+      "country": "China",
+      "city": "Guangzhou",
+      "state": "Panyu",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF (China) Company Ltd.",
+      "department": "A-PMA/EW",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-06-09T02:39:26Z",
+      "description": "How You Will Do It Sales Development - Fully responsible and accountable for profitable business growth for assigned customers - Develops sales plans; secures and expedites orders. - Supervises and consolidates the accurate sales forecast. Strategic Tasks and Implementation - Identifies key accounts and develops key account profiles. - Implements the sales and marketing directions per agreed directions Product/Industry/Business Development - Scouts for new business opportunities in the respective sales areas / key accounts and develops a business plan. - Suggests product developments and requirements to Sales Manager or LBM and support its implementation. Customer Management - Conducts field visits, seminars, presentations and attends to customers’ inquiries. - Provides prompt response related to quality, technical applications, inquiries, and other related issues; conducts customers’ assessments and analysis. - Aligns with Regional Business Unit and functions to solve customers’ issues. Credit Management - Monitors the growth of the customers’ business, reviews and coordinates with credit control to assure appropriate credit recommendations. - Follows up on payment collections and"
+    },
     {
       "job_id": "139185",
       "title": "Supervisor, Sales, Standard Surfactants, South China",

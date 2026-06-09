@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-06-08T21:46:33Z",
+  "last_updated": "2026-06-09T07:39:43Z",
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Logistics & Supply Chain Management",
   "total_active": 22,
   "llm_instruction": "Use this small file for country-and-function-specific matching. Copy job URLs exactly. Never construct basf.jobs links.",
   "jobs": [
+    {
+      "job_id": "134802",
+      "title": "Transport Management (Executive)",
+      "url": "https://basf.jobs/job-invite/134802/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+      "department": "GB/SE-G",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-06-09T03:55:39Z",
+      "description": "O bjectives of the Position: Responsible for ensuring transport management for inbound or outbound (as assigned) are as per stipulated guidelines, procedures and requirements Support process improvement, knowledge and risk management as per overseas delivery services M ain Areas of Responsibilities and Key Activities: Outbound Processing transports for packaged deliveries with a focus on sea freight to our customers in compliance with the required customer deadlines at cost-optimal conditions Managing the loading planning consolidation/deconsolidation activities at the associated companies and external locations or sites, including monitoring of loading times. Legal, internal, safety-relevant and packaging-related regulations must be considered, and customer-specific service levels and other quality requirements must be met Monitoring of all necessary or relevant shipment milestones and ensuring prompt follow ups, updates and correspondences to all relevant stakeholders. Monitoring and assessing the quality of our service providers, transport reliability and feedback rates and tracking shipments vessels Preparation of all necessary transport documents, control of the proper filing "
+    },
     {
       "job_id": "138272",
       "title": "Import-Export Customs Operations Internship",
@@ -209,23 +226,6 @@
       "hybrid": false,
       "date_posted": "2026-05-15T05:43:39Z",
       "description": "Objectives of the Position The Executive, Order Management, will execute the customer order management processes with a consistent high level of service across ASEAN, Australia and New Zealand (ANZ), Taiwan for the Customer Service which is still with Global Business. Main Tasks Operations and Performance Execute the Customer Order Management processes set up in KL Hub with the different models interfaces Processing of sales and purchase orders from various customers in a timely manner Service contact for assigned countries – monitor order status and provide update information to the countries and customers Bill of Lading draft checking (for Letter of Credit orders, 3rd party supplier orders and key customer orders) Manage Insurance Certificate (if necessary) Follow up Bill of Lading receipt status based on Estimate Time of Delivery Collection of Original Bill of Lading and other documents from goods suppliers Provide full and accurate required documents to customers Upload / maintain documents in SAP for audit trail Support documents for internal and external audit purpose Register all and follow-up with all non-conformances in the NCM system to ensure a quick and efficient custom"
-    },
-    {
-      "job_id": "133787",
-      "title": "Supply Planner - Regional SCM (12 months leasing contract)",
-      "url": "https://basf.jobs/job-invite/133787/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Petaling Jaya",
-      "state": "Selangor",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "company": "BASF (Malaysia) Sdn. Bhd.",
-      "department": "A-APA/OPR",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
-      "date_posted": "2026-05-13T08:41:47Z",
-      "description": "O bjectives of the Position Act as the key interface between formulation and refilling/repacking planner, Supply Chain Operations (platform), tollers and supplier (formulants and packaging) Schedule formulation and/or filling packaging at tollers and deliveries of locally sourced materials from suppliers Ensure Bill of Material (BOM) are up to date, artwork and packaging instructions are complied Generate and review Toller and Supplier Performance reports Perform Order management of products produced at tollers in line with Procurement Guideline Responsibilities Supply Planning Execution: Liaise with tollers to agree on a daily production plan based on rough cut plan and schedule deliveries of locally sourced materials (formulants and/or packaging) for the next 6 months Liaise with tollers and supplies of locally sourced materials (formulants and/or packaging) on daily basis to ensure production execution and delivery of locally sourced materials are in line with daily production plan Liaise with tollers and GS teams to schedule and execute deliveries and dispatch of products (produced at tollers to customers Raise Purchase Requisition (PR) and/or Purchase Order (PO) in line with 4"
     },
     {
       "job_id": "134550",

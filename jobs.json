@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-08T21:46:33Z",
+  "last_updated": "2026-06-09T07:39:43Z",
   "scope": "Asia/APAC",
-  "total_active": 281,
+  "total_active": 280,
   "llm_instruction": "Large aggregate file. Prefer data/llm-routing.json and country JSON files to keep context small.",
   "countries": [
     "India",
@@ -19,6 +19,40 @@
     "Vietnam"
   ],
   "jobs": [
+    {
+      "job_id": "134802",
+      "title": "Transport Management (Executive)",
+      "url": "https://basf.jobs/job-invite/134802/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+      "department": "GB/SE-G",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-06-09T03:55:39Z",
+      "description": "O bjectives of the Position: Responsible for ensuring transport management for inbound or outbound (as assigned) are as per stipulated guidelines, procedures and requirements Support process improvement, knowledge and risk management as per overseas delivery services M ain Areas of Responsibilities and Key Activities: Outbound Processing transports for packaged deliveries with a focus on sea freight to our customers in compliance with the required customer deadlines at cost-optimal conditions Managing the loading planning consolidation/deconsolidation activities at the associated companies and external locations or sites, including monitoring of loading times. Legal, internal, safety-relevant and packaging-related regulations must be considered, and customer-specific service levels and other quality requirements must be met Monitoring of all necessary or relevant shipment milestones and ensuring prompt follow ups, updates and correspondences to all relevant stakeholders. Monitoring and assessing the quality of our service providers, transport reliability and feedback rates and tracking shipments vessels Preparation of all necessary transport documents, control of the proper filing "
+    },
+    {
+      "job_id": "139180",
+      "title": "Assistant Manager, Sales - Engineering Plastic (Guangzhou)",
+      "url": "https://basf.jobs/job-invite/139180/?locale=en_US",
+      "country": "China",
+      "city": "Guangzhou",
+      "state": "Panyu",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "company": "BASF (China) Company Ltd.",
+      "department": "A-PMA/EW",
+      "business_unit": "Asia Pacific",
+      "hybrid": false,
+      "date_posted": "2026-06-09T02:39:26Z",
+      "description": "How You Will Do It Sales Development - Fully responsible and accountable for profitable business growth for assigned customers - Develops sales plans; secures and expedites orders. - Supervises and consolidates the accurate sales forecast. Strategic Tasks and Implementation - Identifies key accounts and develops key account profiles. - Implements the sales and marketing directions per agreed directions Product/Industry/Business Development - Scouts for new business opportunities in the respective sales areas / key accounts and develops a business plan. - Suggests product developments and requirements to Sales Manager or LBM and support its implementation. Customer Management - Conducts field visits, seminars, presentations and attends to customers’ inquiries. - Provides prompt response related to quality, technical applications, inquiries, and other related issues; conducts customers’ assessments and analysis. - Aligns with Regional Business Unit and functions to solve customers’ issues. Credit Management - Monitors the growth of the customers’ business, reviews and coordinates with credit control to assure appropriate credit recommendations. - Follows up on payment collections and"
+    },
     {
       "job_id": "139489",
       "title": "Assistant Research Scientist I",
@@ -54,40 +88,6 @@
       "description": "Objectives of the position: Support to Physchem samples Analysis. Representative Main tasks: Handling of LCMS, UPLC HPLC LCMS (Waters Shimadzu): Ontime and Accurate LCMS analysis service support, solving queries for Discovery team. Managing (maintenance and troubleshooting of LCMS instrument.) EHS Task: Reporting of Near miss and Unsafe behavior as an observant while working in lab. Maintain zero lost time incidences by working safe. Working in the lab with all required PPEs and following safety guidelines Suggested Competencies: Analytical Chemistry Spectroscopy Organic Chemistry Calculations Ms Office Inorganic Chemistry Physical Chemistry Laboratory Techniques Data Analysis Quality Control Instrumentation Research Methods Chemical Safety Problem-solving skills Communication skills Time management skills Teamwork and collaboration Critical thinking Presentation skill Size of Impact: Not Applicable Authority: Lab permits issuer, Participation in lab safety round. Responsibility: LCMS, chromatographic Techniques, SOP preparation. Weekly check of safety shower and eye washer for lab."
     },
     {
-      "job_id": "139174",
-      "title": "Full Stack Developer, Coatings",
-      "url": "https://basf.jobs/job-invite/139174/?locale=en_US",
-      "country": "China",
-      "city": "Nanjing",
-      "state": "Unknown",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "G-ECR/ODA",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
-      "date_posted": "2026-06-08T09:51:31Z",
-      "description": "About The Role We are seeking a highly skilled and motivated Full Stack Developer to join our dynamic team. As a Full Stack Developer, you will be responsible for designing, developing, and implementing software solutions that meet the needs of our clients. You will work with a cross-functional team to ensure the successful delivery of high-quality products How You Will Do It - Develop and maintain web applications using Angular 12+, .Net Core. - Collaborate with the team to define and implement innovative solutions for complex business requirements. - Design and implement software architecture and ensure that it aligns with the overall system architecture. - Write clean, scalable, and efficient code following best practices and coding standards. - Troubleshoot and debug software defects and issues, ensuring timely resolution. - Collaborate with UI/UX designers to ensure the implementation of visually appealing and user-friendly interfaces. - Conduct code reviews to ensure code quality and adherence to architectural guidelines. - Stay up to date with emerging technologies and industry trends and apply them to enhance software development processes. - Collaborate with DevOps teams t"
-    },
-    {
-      "job_id": "139176",
-      "title": "QA Automation Engineer",
-      "url": "https://basf.jobs/job-invite/139176/?locale=en_US",
-      "country": "China",
-      "city": "Nanjing",
-      "state": "Unknown",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "G-ECR/ODQ Global Product Quality and Operations",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
-      "date_posted": "2026-06-08T09:14:31Z",
-      "description": "About The Role We are seeking a highly skilled and motivated Automation Engineer to join our dynamic team. As an Automation Engineer, you design, develop, and maintain automated testing frameworks to ensure product quality and release stability. You collaborate with cross-functional teams to integrate automation into CI/CD pipelines, validate functionality across platforms, and deliver high-quality products to customers How You Will Do It - Design, develop, and execute automated test scripts using Cypress and Postman to validate application functionality and performance - Demonstrate experience in application testing, along with current working knowledge of modern tools and testing methodologies; review, analyze, test, and communicate findings back to the development team to improve business-critical solutions - Apply strong test strategy and planning skills to develop well-defined test strategies, outline automation, and ensure overall test coverage within a digital landscape - Rely on knowledge and experience with DevOps methodology to promote a culture of automated integration and emphasize the crucial role of continuous testing. Collaborate with development teams in Agile metho"
-    },
-    {
       "job_id": "139386",
       "title": "Intern, Application Tester",
       "url": "https://basf.jobs/job-invite/139386/?locale=en_US",
@@ -119,7 +119,7 @@
       "business_unit": "Asia Pacific",
       "hybrid": false,
       "date_posted": "2026-06-08T06:36:01Z",
-      "description": "How You Will Do It Market Development • Supports in running projects efficiently and gets the active projects be commercialized. • Advocates in country and regional technical meetings. • Promotes and maintains Market Development through frequent updates on market development activities, and application technologies. • Tracks the competitive technology in the market. Initiates sample/performance and ensures broad technical knowledge of competition, including competitive literature. • Working closely with key strategy accounts and engaging with Customers and Strategic Key Accounts identifying material needs leading to material development through ‘PHASEGATE’ or ‘TOPIC’ closely with Country TD, Regional TD, KAM, Product Developer (R D). • Support material validation in the development material projects through processing and part testing to identify the properties gap for improvement toward product success. • Joint effort in product launch with Regional Tech Dev Team toward success. Segment strategy • Collaborates with marketing team to build the road map of each segment of consumer electronics, new energy and automotive, also implementing the road map to contribute the business devel"
+      "description": "Objectives of the Position • Provide Technical Advisory at respective region through the area of part design, processing, tooling and material in order to achieve manufacturing excellent part performance quality at customers in our Engineering Plastics business. • To optimize product/material processing under trouble shooting at customer location to target excellent part quality. • According to the agreed strategies, policies and practices, provides input and participates in business development and planning, product / processing development and modification, customer intimacy to support the implementation of sales strategies and policies in China at defined sales goal. • Support Application Development and Product Launch initiatives in South China for Engineering Plastics together with commercial team in Project Acquisition and Commercialization for sales Growth. How You Will Do It Market Development • Supports in running projects efficiently and gets the active projects be commercialized. • Advocates in country and regional technical meetings. • Promotes and maintains Market Development through frequent updates on market development activities, and application technologies. • Tra"
     },
     {
       "job_id": "139414",
@@ -582,7 +582,7 @@
     },
     {
       "job_id": "138645",
-      "title": "Production Operator 1",
+      "title": "DCS Operator",
       "url": "https://basf.jobs/job-invite/138645/?locale=en_US",
       "country": "Indonesia",
       "city": "Merak",
@@ -3318,23 +3318,6 @@
       "description": "About BASF At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility. Around 112,000 employees in the BASF Group contribute to the success of our customers in nearly all sectors and almost every country in the world. Our portfolio comprises six segments: Chemicals, Materials, Industrial Solutions, Surface Technologies, Nutrition Care and Agricultural Solutions. BASF generated sales of €65.3 billion in 2024. BASF shares are traded on the stock exchange in Frankfurt (BAS) and as American Depositary Receipts (BASFY) in the United States. Further information at www.basf.com . Objectives of the Position Develop, monitor and review the implementation of all logistics activities required for the timely and distribution of company products, equipment and materials according to relevant business strategies/ policies and procedures/ practices, corporate/company and government EHS regulations in handling product transportation and safeguard a reliable order processing and stock level. How You Will Do It Main Tasks 1. Planning According to sales forecast convert to material/package purchase plan/tolling plan. Put "
     },
     {
-      "job_id": "133787",
-      "title": "Supply Planner - Regional SCM (12 months leasing contract)",
-      "url": "https://basf.jobs/job-invite/133787/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Petaling Jaya",
-      "state": "Selangor",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "company": "BASF (Malaysia) Sdn. Bhd.",
-      "department": "A-APA/OPR",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
-      "date_posted": "2026-05-13T08:41:47Z",
-      "description": "O bjectives of the Position Act as the key interface between formulation and refilling/repacking planner, Supply Chain Operations (platform), tollers and supplier (formulants and packaging) Schedule formulation and/or filling packaging at tollers and deliveries of locally sourced materials from suppliers Ensure Bill of Material (BOM) are up to date, artwork and packaging instructions are complied Generate and review Toller and Supplier Performance reports Perform Order management of products produced at tollers in line with Procurement Guideline Responsibilities Supply Planning Execution: Liaise with tollers to agree on a daily production plan based on rough cut plan and schedule deliveries of locally sourced materials (formulants and/or packaging) for the next 6 months Liaise with tollers and supplies of locally sourced materials (formulants and/or packaging) on daily basis to ensure production execution and delivery of locally sourced materials are in line with daily production plan Liaise with tollers and GS teams to schedule and execute deliveries and dispatch of products (produced at tollers to customers Raise Purchase Requisition (PR) and/or Purchase Order (PO) in line with 4"
-    },
-    {
       "job_id": "138441",
       "title": "Regional Product Manager",
       "url": "https://basf.jobs/job-invite/138441/?locale=en_US",
@@ -4078,7 +4061,7 @@
     },
     {
       "job_id": "133855",
-      "title": "Financial Reporting (Senior Analyst) - Mandarin Speaker - 1 Year Contract",
+      "title": "Financial Reporting (Senior Analyst) - Mandarin Speaker",
       "url": "https://basf.jobs/job-invite/133855/?locale=en_US",
       "country": "Malaysia",
       "city": "Kuala Lumpur",

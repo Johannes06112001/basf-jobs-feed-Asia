@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-08T21:46:33Z",
+  "last_updated": "2026-06-09T07:39:43Z",
   "scope": "country",
   "country": "China",
-  "total_active": 40,
+  "total_active": 39,
   "fields": {
     "Research & Development": 9,
-    "Digitalization": 6,
-    "Marketing & Sales": 6,
+    "Marketing & Sales": 7,
     "Procurement": 5,
+    "Digitalization": 4,
     "Production, Maintenance & Technical Services": 4,
     "Environment, Health & Safety": 3,
     "Legal, Tax & Insurance": 2,
@@ -19,38 +19,21 @@
   "llm_instruction": "This file contains only BASF jobs in China. Filter this file before loading wider Asia data. For role-specific searches, use the field JSON files when available. Copy job URLs exactly and never generate basf.jobs links.",
   "jobs": [
     {
-      "job_id": "139174",
-      "title": "Full Stack Developer, Coatings",
-      "url": "https://basf.jobs/job-invite/139174/?locale=en_US",
+      "job_id": "139180",
+      "title": "Assistant Manager, Sales - Engineering Plastic (Guangzhou)",
+      "url": "https://basf.jobs/job-invite/139180/?locale=en_US",
       "country": "China",
-      "city": "Nanjing",
-      "state": "Unknown",
-      "job_field": "Digitalization",
+      "city": "Guangzhou",
+      "state": "Panyu",
+      "job_field": "Marketing & Sales",
       "job_level": "Professional",
       "job_type": "Permanent",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "G-ECR/ODA",
+      "company": "BASF (China) Company Ltd.",
+      "department": "A-PMA/EW",
       "business_unit": "Asia Pacific",
       "hybrid": false,
-      "date_posted": "2026-06-08T09:51:31Z",
-      "description": "About The Role We are seeking a highly skilled and motivated Full Stack Developer to join our dynamic team. As a Full Stack Developer, you will be responsible for designing, developing, and implementing software solutions that meet the needs of our clients. You will work with a cross-functional team to ensure the successful delivery of high-quality products How You Will Do It - Develop and maintain web applications using Angular 12+, .Net Core. - Collaborate with the team to define and implement innovative solutions for complex business requirements. - Design and implement software architecture and ensure that it aligns with the overall system architecture. - Write clean, scalable, and efficient code following best practices and coding standards. - Troubleshoot and debug software defects and issues, ensuring timely resolution. - Collaborate with UI/UX designers to ensure the implementation of visually appealing and user-friendly interfaces. - Conduct code reviews to ensure code quality and adherence to architectural guidelines. - Stay up to date with emerging technologies and industry trends and apply them to enhance software development processes. - Collaborate with DevOps teams t"
-    },
-    {
-      "job_id": "139176",
-      "title": "QA Automation Engineer",
-      "url": "https://basf.jobs/job-invite/139176/?locale=en_US",
-      "country": "China",
-      "city": "Nanjing",
-      "state": "Unknown",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "department": "G-ECR/ODQ Global Product Quality and Operations",
-      "business_unit": "Asia Pacific",
-      "hybrid": false,
-      "date_posted": "2026-06-08T09:14:31Z",
-      "description": "About The Role We are seeking a highly skilled and motivated Automation Engineer to join our dynamic team. As an Automation Engineer, you design, develop, and maintain automated testing frameworks to ensure product quality and release stability. You collaborate with cross-functional teams to integrate automation into CI/CD pipelines, validate functionality across platforms, and deliver high-quality products to customers How You Will Do It - Design, develop, and execute automated test scripts using Cypress and Postman to validate application functionality and performance - Demonstrate experience in application testing, along with current working knowledge of modern tools and testing methodologies; review, analyze, test, and communicate findings back to the development team to improve business-critical solutions - Apply strong test strategy and planning skills to develop well-defined test strategies, outline automation, and ensure overall test coverage within a digital landscape - Rely on knowledge and experience with DevOps methodology to promote a culture of automated integration and emphasize the crucial role of continuous testing. Collaborate with development teams in Agile metho"
+      "date_posted": "2026-06-09T02:39:26Z",
+      "description": "How You Will Do It Sales Development - Fully responsible and accountable for profitable business growth for assigned customers - Develops sales plans; secures and expedites orders. - Supervises and consolidates the accurate sales forecast. Strategic Tasks and Implementation - Identifies key accounts and develops key account profiles. - Implements the sales and marketing directions per agreed directions Product/Industry/Business Development - Scouts for new business opportunities in the respective sales areas / key accounts and develops a business plan. - Suggests product developments and requirements to Sales Manager or LBM and support its implementation. Customer Management - Conducts field visits, seminars, presentations and attends to customers’ inquiries. - Provides prompt response related to quality, technical applications, inquiries, and other related issues; conducts customers’ assessments and analysis. - Aligns with Regional Business Unit and functions to solve customers’ issues. Credit Management - Monitors the growth of the customers’ business, reviews and coordinates with credit control to assure appropriate credit recommendations. - Follows up on payment collections and"
     },
     {
       "job_id": "139386",
@@ -84,7 +67,7 @@
       "business_unit": "Asia Pacific",
       "hybrid": false,
       "date_posted": "2026-06-08T06:36:01Z",
-      "description": "How You Will Do It Market Development • Supports in running projects efficiently and gets the active projects be commercialized. • Advocates in country and regional technical meetings. • Promotes and maintains Market Development through frequent updates on market development activities, and application technologies. • Tracks the competitive technology in the market. Initiates sample/performance and ensures broad technical knowledge of competition, including competitive literature. • Working closely with key strategy accounts and engaging with Customers and Strategic Key Accounts identifying material needs leading to material development through ‘PHASEGATE’ or ‘TOPIC’ closely with Country TD, Regional TD, KAM, Product Developer (R D). • Support material validation in the development material projects through processing and part testing to identify the properties gap for improvement toward product success. • Joint effort in product launch with Regional Tech Dev Team toward success. Segment strategy • Collaborates with marketing team to build the road map of each segment of consumer electronics, new energy and automotive, also implementing the road map to contribute the business devel"
+      "description": "Objectives of the Position • Provide Technical Advisory at respective region through the area of part design, processing, tooling and material in order to achieve manufacturing excellent part performance quality at customers in our Engineering Plastics business. • To optimize product/material processing under trouble shooting at customer location to target excellent part quality. • According to the agreed strategies, policies and practices, provides input and participates in business development and planning, product / processing development and modification, customer intimacy to support the implementation of sales strategies and policies in China at defined sales goal. • Support Application Development and Product Launch initiatives in South China for Engineering Plastics together with commercial team in Project Acquisition and Commercialization for sales Growth. How You Will Do It Market Development • Supports in running projects efficiently and gets the active projects be commercialized. • Advocates in country and regional technical meetings. • Promotes and maintains Market Development through frequent updates on market development activities, and application technologies. • Tra"
     },
     {
       "job_id": "139414",
