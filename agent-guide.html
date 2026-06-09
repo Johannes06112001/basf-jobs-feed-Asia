@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BASF Jobs Asia/APAC – AI Agent Guide</title>
+</head>
+<body>
+  <h1>BASF Jobs Asia/APAC – AI Agent Guide</h1>
+
+  <p>This page explains how an AI job agent should use this feed efficiently and safely.</p>
+
+  <h2>Start here</h2>
+  <ol>
+    <li>Fetch <a href="data/agent-guide.json">data/agent-guide.json</a>.</li>
+    <li>Fetch <a href="data/intent-map.json">data/intent-map.json</a>.</li>
+    <li>Match the user's wording to an intent.</li>
+    <li>Load only the JSON sources listed in the selected intent entrypoint.</li>
+    <li>For job application links, copy only the exact <code>job.url</code> value from JSON.</li>
+  </ol>
+
+  <h2>Default search logic</h2>
+  <ul>
+    <li>If no country is named, search India first.</li>
+    <li>Do not ask whether the user means India or APAC.</li>
+    <li>If the user asks for other APAC countries or outside India, use the non-India APAC entrypoint.</li>
+    <li>If the user names China, use the China entrypoint.</li>
+    <li>If the user names another country, use the country entrypoint or the routing JSON.</li>
+  </ul>
+
+  <h2>Important link rule</h2>
+  <p><strong>Application links must come only from JSON <code>job.url</code>.</strong></p>
+  <p>Never construct BASF links from titles, locations, IDs, or visible text. Never use country pages as job application links. Never use third-party job boards.</p>
+
+  <h2>Recommended files</h2>
+  <ul>
+    <li><a href="data/agent-guide.json">Agent guide JSON</a></li>
+    <li><a href="data/intent-map.json">Intent map JSON</a></li>
+    <li><a href="data/llm-routing.json">Routing JSON</a></li>
+    <li><a href="data/countries/india/fields/digitalization.json">India Digitalization JSON</a></li>
+    <li><a href="data/countries/china/fields/digitalization.json">China Digitalization JSON</a></li>
+    <li><a href="data/countries/malaysia/fields/information-technology-services.json">Malaysia IT JSON</a></li>
+  </ul>
+
+  <h2>Example mappings</h2>
+  <ul>
+    <li>"I want to become a Software Engineer" → software-engineering → India first</li>
+    <li>"Do you have this in other APAC countries?" → reuse previous intent → non-India APAC</li>
+    <li>"Show me jobs in China" → current or inferred intent → China</li>
+    <li>"SAP or Business Applications" → sap-business-applications</li>
+    <li>"Wirtschaftsinformatiker" → business-informatics</li>
+  </ul>
+</body>
+</html>
