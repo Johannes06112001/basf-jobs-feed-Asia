@@ -1,0 +1,160 @@
+{
+  "last_updated": "2026-06-09T11:45:00Z",
+  "scope": "intent_map",
+  "llm_instruction": "Match the user's wording against aliases and title_keywords. Then fetch the JSON sources listed in the selected entrypoint. Application links must come only from job.url values. Never construct basf.jobs links.",
+  "default_country_logic": "If no country is named, use india_first. If the user asks for other APAC countries or outside India, use non_india_apac. If the user names China, use china. If another country is named, use the country entrypoint when present or the country JSON from data/llm-routing.json.",
+  "intents": [
+    {
+      "intent": "software-engineering",
+      "display_name": "Software Engineering / Developer / Full Stack",
+      "aliases": ["software engineer", "software developer", "developer", "full stack", "full-stack", "frontend", "front end", "backend", "back end", "application developer", "platform engineer", "cloud engineer", "data engineer", "software", "programmer", "entwickler", "softwareentwickler", "software engineer werden"],
+      "primary_fields": ["Digitalization", "Information Technology & Services"],
+      "adjacent_fields": ["Applications Technology", "Engineering"],
+      "title_keywords": ["software", "developer", "full stack", "backend", "frontend", "application", "platform", "cloud", "engineer", "scrum", "product owner"],
+      "entrypoints": {
+        "india_first": {
+          "use_when": "No country is named. Search India first.",
+          "sources": [
+            {"label": "India Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/digitalization.json"},
+            {"label": "India Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/information-technology-services.json"}
+          ]
+        },
+        "non_india_apac": {
+          "use_when": "User asks for other APAC countries or outside India after a software/IT request.",
+          "sources": [
+            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
+            {"label": "Malaysia Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/information-technology-services.json"},
+            {"label": "Malaysia Applications Technology", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/applications-technology.json"}
+          ],
+          "exclude_country": "India"
+        },
+        "china": {
+          "use_when": "User names China or asks for Chinese software/IT roles.",
+          "sources": [
+            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
+            {"label": "China country fallback", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china.json"}
+          ],
+          "required_country": "China"
+        }
+      }
+    },
+    {
+      "intent": "backend-engineering",
+      "display_name": "Backend Engineering",
+      "aliases": ["backend", "back end", "backend engineer", "backend developer", "api developer", "server side", "erstes", "first one"],
+      "primary_fields": ["Digitalization", "Information Technology & Services"],
+      "adjacent_fields": ["Applications Technology", "Engineering"],
+      "title_keywords": ["backend", "back end", "developer", "software", "application", "platform", "engineer", "api"],
+      "entrypoints": {
+        "india_first": {
+          "sources": [
+            {"label": "India Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/digitalization.json"},
+            {"label": "India Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/information-technology-services.json"}
+          ]
+        },
+        "non_india_apac": {
+          "sources": [
+            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"}
+          ],
+          "exclude_country": "India"
+        },
+        "china": {
+          "sources": [
+            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"}
+          ],
+          "required_country": "China"
+        }
+      }
+    },
+    {
+      "intent": "sap-business-applications",
+      "display_name": "SAP / Business Applications",
+      "aliases": ["sap", "business applications", "business application", "s/4hana", "s4 hana", "abap", "sap consultant", "sap developer", "order-to-cash", "order to cash", "order-to-invoice", "mm", "atp"],
+      "primary_fields": ["Digitalization", "Information Technology & Services"],
+      "adjacent_fields": ["Applications Technology", "Logistics & Supply Chain Management"],
+      "title_keywords": ["sap", "s/4", "s4", "abap", "business application", "consultant", "developer", "order", "mm", "atp"],
+      "entrypoints": {
+        "india_first": {
+          "sources": [
+            {"label": "India Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/digitalization.json"},
+            {"label": "India Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/information-technology-services.json"},
+            {"label": "India Applications Technology", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/applications-technology.json"}
+          ]
+        },
+        "non_india_apac": {
+          "sources": [
+            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
+            {"label": "Malaysia Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/information-technology-services.json"},
+            {"label": "Malaysia Applications Technology", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/applications-technology.json"}
+          ],
+          "exclude_country": "India"
+        },
+        "china": {
+          "sources": [
+            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
+            {"label": "China country fallback", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china.json"}
+          ],
+          "required_country": "China"
+        }
+      }
+    },
+    {
+      "intent": "business-informatics",
+      "display_name": "Business Informatics / Wirtschaftsinformatik",
+      "aliases": ["wirtschaftsinformatiker", "wirtschaftsinformatik", "business informatics", "business it", "it project", "product owner", "portfolio", "scrum", "data", "sap"],
+      "primary_fields": ["Digitalization", "Information Technology & Services"],
+      "adjacent_fields": ["Finance, Controlling & Audit", "Logistics & Supply Chain Management", "Applications Technology"],
+      "title_keywords": ["digital", "data", "sap", "software", "scrum", "product", "portfolio", "application", "business", "solution"],
+      "entrypoints": {
+        "india_first": {
+          "sources": [
+            {"label": "India Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/digitalization.json"},
+            {"label": "India Information Technology & Services", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/information-technology-services.json"},
+            {"label": "India Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/finance-controlling-audit.json"},
+            {"label": "India Supply Chain", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/logistics-supply-chain-management.json"}
+          ]
+        },
+        "non_india_apac": {
+          "sources": [
+            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
+            {"label": "Malaysia IT", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/information-technology-services.json"},
+            {"label": "Malaysia Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/finance-controlling-audit.json"}
+          ],
+          "exclude_country": "India"
+        },
+        "china": {
+          "sources": [
+            {"label": "China Digitalization", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/digitalization.json"},
+            {"label": "China Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/finance-controlling-audit.json"}
+          ],
+          "required_country": "China"
+        }
+      }
+    },
+    {
+      "intent": "finance",
+      "display_name": "Finance / Controlling / Audit",
+      "aliases": ["finance", "controlling", "audit", "accounting", "tax", "treasury", "reporting", "mis", "controller"],
+      "primary_fields": ["Finance, Controlling & Audit"],
+      "title_keywords": ["finance", "controlling", "audit", "account", "tax", "treasury", "reporting", "mis", "controller"],
+      "entrypoints": {
+        "india_first": {"sources": [{"label": "India Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/finance-controlling-audit.json"}]},
+        "non_india_apac": {"sources": [{"label": "Malaysia Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/finance-controlling-audit.json"}, {"label": "China Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/finance-controlling-audit.json"}, {"label": "Hong Kong Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/hong-kong/fields/finance-controlling-audit.json"}], "exclude_country": "India"},
+        "china": {"sources": [{"label": "China Finance", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/finance-controlling-audit.json"}], "required_country": "China"}
+      }
+    },
+    {
+      "intent": "procurement",
+      "display_name": "Procurement / Purchasing",
+      "aliases": ["procurement", "purchasing", "buyer", "sourcing", "category manager", "supplier", "vendor"],
+      "primary_fields": ["Procurement"],
+      "title_keywords": ["procurement", "purchasing", "buyer", "sourcing", "category", "supplier", "vendor"],
+      "entrypoints": {
+        "india_first": {"sources": [{"label": "India Procurement", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/procurement.json"}]},
+        "non_india_apac": {"sources": [{"label": "China Procurement", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/procurement.json"}, {"label": "Japan Procurement", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/japan/fields/procurement.json"}], "exclude_country": "India"},
+        "china": {"sources": [{"label": "China Procurement", "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/china/fields/procurement.json"}], "required_country": "China"}
+      }
+    }
+  ],
+  "country_fallback": "For other countries or functions, use data/llm-routing.json to find the matching country json_url and field json_url."
+}
