@@ -442,6 +442,11 @@ def sorted_intent_jobs(jobs, intent, country=None, non_india=False):
 
 
 async def capture_api_key():
+    env_api_key = os.getenv("BASF_SEARCH_API_KEY", "").strip()
+    if env_api_key:
+        print("✅ BASF Search API key loaded from BASF_SEARCH_API_KEY")
+        return env_api_key
+
     api_key = None
     async with async_playwright() as p:
         browser = await p.chromium.launch(args=["--no-sandbox", "--disable-dev-shm-usage"])
@@ -1127,9 +1132,10 @@ def generate_index_pages(jobs, grouped_by_country):
 async def scrape_jobs():
     api_key = await capture_api_key()
     if not api_key:
-        raise RuntimeError("No BASF Search API key found. The feed was not updated.")
+        print("⚠️ No BASF Search API key found. Skipping scrape and keeping existing feed files unchanged.")
+        return
 
-    print("✅ API Key gefunden")
+    print("✅ API Key found")
     raw_jobs = await fetch_raw_jobs(api_key)
     print(f"Rohdaten: {len(raw_jobs)} Jobs aus allen Ländern und Locales")
 

@@ -29,6 +29,8 @@ jobs:
           playwright install-deps chromium
 
       - name: Scraper ausfuehren
+        env:
+          BASF_SEARCH_API_KEY: ${{ secrets.BASF_SEARCH_API_KEY }}
         run: python scraper.py
 
       - name: Dateien committen
