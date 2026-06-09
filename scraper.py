@@ -1135,7 +1135,7 @@ async def scrape_jobs():
         print("⚠️ No BASF Search API key found. Skipping scrape and keeping existing feed files unchanged.")
         return
 
-    print("✅ API Key gefunden")
+    print("✅ API Key found")
     raw_jobs = await fetch_raw_jobs(api_key)
     print(f"Rohdaten: {len(raw_jobs)} Jobs aus allen Ländern und Locales")
 
