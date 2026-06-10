@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T17:55:03Z",
+  "last_updated": "2026-06-10T02:37:43Z",
   "scope": "intent_country",
   "intent": "finance",
   "display_name": "Finance / Controlling / Audit",
@@ -35,7 +35,7 @@
     "mis",
     "controller"
   ],
-  "total_active": 44,
+  "total_active": 43,
   "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
   "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
   "jobs": [
@@ -52,20 +52,6 @@
       "date_posted": "2026-05-25T08:06:26Z",
       "description_preview": "Objective We are looking for a motivated Controlling Analyst to support financial controlling activities within a defined scope. This is an excellent opportunity for fresh graduates to build a career in finance and controlling. Responsibilities Perform operational controlling tasks, including: Contract reviews Monthly...",
       "detail_path": "data/jobs/138784.json"
-    },
-    {
-      "job_id": "134796",
-      "title": "Financial Accountant (12 months leasing contract)",
-      "url": "https://basf.jobs/job-invite/134796/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Petaling Jaya",
-      "state": "Selangor",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "date_posted": "2026-03-25T13:57:29Z",
-      "description_preview": "Objectives of the Position Overall in-charge of Financial Compliance and Reporting function for Malaysia and support Superior to ensure compliance with local and BASF requirements. Main Responsibilties Manage Month end, Quarter end and Year-end Closing Reporting Responsible for general accounting transactions...",
-      "detail_path": "data/jobs/134796.json"
     },
     {
       "job_id": "133855",

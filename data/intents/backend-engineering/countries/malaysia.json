@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T17:55:03Z",
+  "last_updated": "2026-06-10T02:37:43Z",
   "scope": "intent_country",
   "intent": "backend-engineering",
   "display_name": "Backend Engineering",
@@ -30,7 +30,7 @@
     "engineer",
     "api"
   ],
-  "total_active": 22,
+  "total_active": 21,
   "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
   "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
   "jobs": [
@@ -299,20 +299,6 @@
       "date_posted": "2026-03-30T14:45:57Z",
       "description_preview": "Objectives of the Position Provide end-to-end operational support for import and export shipments across APAC, ensuring on-time execution, documentation accuracy, and compliance with global trade regulations. Act as the coordination hub between suppliers, logistics service providers , Business Units, and customs...",
       "detail_path": "data/jobs/134645.json"
-    },
-    {
-      "job_id": "134796",
-      "title": "Financial Accountant (12 months leasing contract)",
-      "url": "https://basf.jobs/job-invite/134796/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Petaling Jaya",
-      "state": "Selangor",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "date_posted": "2026-03-25T13:57:29Z",
-      "description_preview": "Objectives of the Position Overall in-charge of Financial Compliance and Reporting function for Malaysia and support Superior to ensure compliance with local and BASF requirements. Main Responsibilties Manage Month end, Quarter end and Year-end Closing Reporting Responsible for general accounting transactions...",
-      "detail_path": "data/jobs/134796.json"
     },
     {
       "job_id": "134412",

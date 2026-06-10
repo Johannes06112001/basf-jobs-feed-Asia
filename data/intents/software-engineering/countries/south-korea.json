@@ -1,0 +1,67 @@
+{
+  "last_updated": "2026-06-10T02:37:43Z",
+  "scope": "intent_country",
+  "intent": "software-engineering",
+  "display_name": "Software Engineering / Developer / Full Stack",
+  "aliases": [
+    "software engineer",
+    "software developer",
+    "developer",
+    "full stack",
+    "full-stack",
+    "frontend",
+    "front end",
+    "backend",
+    "back end",
+    "application developer",
+    "platform engineer",
+    "cloud engineer",
+    "data engineer",
+    "software",
+    "programmer",
+    "entwickler",
+    "softwareentwickler",
+    "software engineer werden"
+  ],
+  "primary_fields": [
+    "Digitalization",
+    "Information Technology & Services"
+  ],
+  "adjacent_fields": [
+    "Applications Technology",
+    "Engineering"
+  ],
+  "title_keywords": [
+    "software",
+    "developer",
+    "full stack",
+    "backend",
+    "frontend",
+    "application",
+    "platform",
+    "cloud",
+    "engineer",
+    "scrum",
+    "product owner"
+  ],
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
+  "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
+  "jobs": [
+    {
+      "job_id": "139461",
+      "title": "G-EDM Lab Intern",
+      "url": "https://basf.jobs/job-invite/139461/?locale=en_US",
+      "country": "South Korea",
+      "city": "Ansan",
+      "state": "Gyeonggi-do",
+      "job_field": "Research & Development",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-06-10T01:45:57Z",
+      "description_preview": "1. Position summary: Interns will be trained mainly about chemical and wafer surface analysis after etching, cleaning, or electroplating test by G-EDM Lab. 인턴십 기간 : 13 July 2026 - 31 Dec 2026, 내부 사정상 근무기간은 변경이 있을 수 있습니다. 2. Main Tasks training: 1) Surface analysis training (eg. XRF, AFM, LSM, ion milling, and so on) -...",
+      "detail_path": "data/jobs/139461.json"
+    }
+  ],
+  "country": "South Korea"
+}

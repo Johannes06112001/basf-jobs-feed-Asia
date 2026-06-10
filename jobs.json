@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T17:55:03Z",
+  "last_updated": "2026-06-10T02:37:43Z",
   "scope": "Asia/APAC",
   "total_active": 281,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
@@ -20,6 +20,19 @@
     "Vietnam"
   ],
   "jobs": [
+    {
+      "job_id": "139461",
+      "title": "G-EDM Lab Intern",
+      "url": "https://basf.jobs/job-invite/139461/?locale=en_US",
+      "country": "South Korea",
+      "city": "Ansan",
+      "state": "Gyeonggi-do",
+      "job_field": "Research & Development",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-06-10T01:45:57Z",
+      "detail_path": "data/jobs/139461.json"
+    },
     {
       "job_id": "132786",
       "title": "Intern, Environmental, Health, and Safety",
@@ -3046,19 +3059,6 @@
       "job_type": "Permanent",
       "date_posted": "2026-03-27T03:36:16Z",
       "detail_path": "data/jobs/134245.json"
-    },
-    {
-      "job_id": "134796",
-      "title": "Financial Accountant (12 months leasing contract)",
-      "url": "https://basf.jobs/job-invite/134796/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Petaling Jaya",
-      "state": "Selangor",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "date_posted": "2026-03-25T13:57:29Z",
-      "detail_path": "data/jobs/134796.json"
     },
     {
       "job_id": "134475",

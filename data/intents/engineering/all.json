@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T17:55:03Z",
+  "last_updated": "2026-06-10T02:37:43Z",
   "scope": "intent_all_asia_apac",
   "intent": "engineering",
   "display_name": "Engineering / Technical Services",
@@ -1139,6 +1139,20 @@
       "date_posted": "2026-01-11T00:00:00Z",
       "description_preview": "Main Task 1. New business development - Scout business opportunities and identify technical requirements; cooperate with relevant teams for feasibility study - Execute and coordinate product promotion projects; includes hosting technical meetings, resource coordination/planning, sampling, product registration,...",
       "detail_path": "data/jobs/330401.json"
+    },
+    {
+      "job_id": "139461",
+      "title": "G-EDM Lab Intern",
+      "url": "https://basf.jobs/job-invite/139461/?locale=en_US",
+      "country": "South Korea",
+      "city": "Ansan",
+      "state": "Gyeonggi-do",
+      "job_field": "Research & Development",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "date_posted": "2026-06-10T01:45:57Z",
+      "description_preview": "1. Position summary: Interns will be trained mainly about chemical and wafer surface analysis after etching, cleaning, or electroplating test by G-EDM Lab. 인턴십 기간 : 13 July 2026 - 31 Dec 2026, 내부 사정상 근무기간은 변경이 있을 수 있습니다. 2. Main Tasks training: 1) Surface analysis training (eg. XRF, AFM, LSM, ion milling, and so on) -...",
+      "detail_path": "data/jobs/139461.json"
     },
     {
       "job_id": "132786",
@@ -3571,20 +3585,6 @@
       "date_posted": "2026-03-29T15:03:49Z",
       "description_preview": "O bjectives of the Position We are looking for a motivated and detail-oriented intern to join our Global Operations Support department, supporting Maritime activities for EMEA Region. M ain Areas of Responsibilities and Key Activities Assist with administrative tasks to support the operations team Where needed,...",
       "detail_path": "data/jobs/134607.json"
-    },
-    {
-      "job_id": "134796",
-      "title": "Financial Accountant (12 months leasing contract)",
-      "url": "https://basf.jobs/job-invite/134796/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Petaling Jaya",
-      "state": "Selangor",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "date_posted": "2026-03-25T13:57:29Z",
-      "description_preview": "Objectives of the Position Overall in-charge of Financial Compliance and Reporting function for Malaysia and support Superior to ensure compliance with local and BASF requirements. Main Responsibilties Manage Month end, Quarter end and Year-end Closing Reporting Responsible for general accounting transactions...",
-      "detail_path": "data/jobs/134796.json"
     },
     {
       "job_id": "134475",

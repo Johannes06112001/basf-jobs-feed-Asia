@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T17:55:03Z",
+  "last_updated": "2026-06-10T02:37:43Z",
   "scope": "intent_non_india_apac",
   "intent": "procurement",
   "display_name": "Procurement / Purchasing",
@@ -28,7 +28,7 @@
     "supplier",
     "vendor"
   ],
-  "total_active": 68,
+  "total_active": 67,
   "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
   "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
   "jobs": [
@@ -619,20 +619,6 @@
       "date_posted": "2026-03-29T15:03:49Z",
       "description_preview": "O bjectives of the Position We are looking for a motivated and detail-oriented intern to join our Global Operations Support department, supporting Maritime activities for EMEA Region. M ain Areas of Responsibilities and Key Activities Assist with administrative tasks to support the operations team Where needed,...",
       "detail_path": "data/jobs/134607.json"
-    },
-    {
-      "job_id": "134796",
-      "title": "Financial Accountant (12 months leasing contract)",
-      "url": "https://basf.jobs/job-invite/134796/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Petaling Jaya",
-      "state": "Selangor",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "date_posted": "2026-03-25T13:57:29Z",
-      "description_preview": "Objectives of the Position Overall in-charge of Financial Compliance and Reporting function for Malaysia and support Superior to ensure compliance with local and BASF requirements. Main Responsibilties Manage Month end, Quarter end and Year-end Closing Reporting Responsible for general accounting transactions...",
-      "detail_path": "data/jobs/134796.json"
     },
     {
       "job_id": "134475",

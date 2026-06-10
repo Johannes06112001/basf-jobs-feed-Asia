@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-09T17:55:03Z",
+  "last_updated": "2026-06-10T02:37:43Z",
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Finance, Controlling & Audit",
-  "total_active": 15,
+  "total_active": 14,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
   "jobs": [
@@ -104,20 +104,6 @@
       "date_posted": "2026-03-31T04:58:20Z",
       "description_preview": "Objectives of the Position As part of the P2P team, you will be reporting to the Manager and support the team in managing projects and operation tasks. Main Areas of Responsibilities and Key Activities To support Request fulfilment activities in planning and administration. Depending on business needs, your day-to-day...",
       "detail_path": "data/jobs/132670.json"
-    },
-    {
-      "job_id": "134796",
-      "title": "Financial Accountant (12 months leasing contract)",
-      "url": "https://basf.jobs/job-invite/134796/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Petaling Jaya",
-      "state": "Selangor",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "date_posted": "2026-03-25T13:57:29Z",
-      "description_preview": "Objectives of the Position Overall in-charge of Financial Compliance and Reporting function for Malaysia and support Superior to ensure compliance with local and BASF requirements. Main Responsibilties Manage Month end, Quarter end and Year-end Closing Reporting Responsible for general accounting transactions...",
-      "detail_path": "data/jobs/134796.json"
     },
     {
       "job_id": "134475",

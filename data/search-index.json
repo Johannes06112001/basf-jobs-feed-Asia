@@ -1,8 +1,20 @@
 {
-  "last_updated": "2026-06-09T17:55:03Z",
+  "last_updated": "2026-06-10T02:37:43Z",
   "scope": "search_index",
   "llm_instruction": "Use this compact array only as a fallback keyword index. Application links still must come from url exactly.",
   "jobs": [
+    {
+      "job_id": "139461",
+      "title": "G-EDM Lab Intern",
+      "url": "https://basf.jobs/job-invite/139461/?locale=en_US",
+      "country": "South Korea",
+      "city": "Ansan",
+      "job_field": "Research & Development",
+      "job_level": "Student",
+      "date_posted": "2026-06-10T01:45:57Z",
+      "detail_path": "data/jobs/139461.json",
+      "search_text": "G-EDM Lab Intern | South Korea | Ansan | Gyeonggi-do | Research & Development | Student | Internship"
+    },
     {
       "job_id": "132786",
       "title": "Intern, Environmental, Health, and Safety",
@@ -2798,18 +2810,6 @@
       "date_posted": "2026-03-27T03:36:16Z",
       "detail_path": "data/jobs/134245.json",
       "search_text": "Technician, Production | Taiwan | Kaohsiung City | Kaohsiung | Production, Maintenance & Technical Services | Professional | Permanent"
-    },
-    {
-      "job_id": "134796",
-      "title": "Financial Accountant (12 months leasing contract)",
-      "url": "https://basf.jobs/job-invite/134796/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Petaling Jaya",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "date_posted": "2026-03-25T13:57:29Z",
-      "detail_path": "data/jobs/134796.json",
-      "search_text": "Financial Accountant (12 months leasing contract) | Malaysia | Petaling Jaya | Selangor | Finance, Controlling & Audit | Professional | Temporary"
     },
     {
       "job_id": "134475",

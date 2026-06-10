@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T17:55:03Z",
+  "last_updated": "2026-06-10T02:37:43Z",
   "scope": "intent_map",
   "llm_instruction": "Use this file after data/agent-guide.json. Match the user's wording against aliases/title_keywords. Then fetch the smallest matching intent entrypoint. Do not load the full aggregate first. Application links must come only from job.url values. Never construct basf.jobs links.",
   "default_country_logic": "If no country is named, use the intent entrypoint india_first. If the user asks for other APAC countries, use non_india_apac. If the user names China, use china. If another country is named, use the country entrypoint when present.",
@@ -101,7 +101,7 @@
           },
           {
             "country": "Malaysia",
-            "count": 22,
+            "count": 21,
             "json_path": "data/intents/software-engineering/countries/malaysia.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/malaysia.json"
           },
@@ -116,6 +116,12 @@
             "count": 1,
             "json_path": "data/intents/software-engineering/countries/singapore.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/singapore.json"
+          },
+          {
+            "country": "South Korea",
+            "count": 1,
+            "json_path": "data/intents/software-engineering/countries/south-korea.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/software-engineering/countries/south-korea.json"
           },
           {
             "country": "Taiwan",
@@ -221,7 +227,7 @@
           },
           {
             "country": "Malaysia",
-            "count": 22,
+            "count": 21,
             "json_path": "data/intents/backend-engineering/countries/malaysia.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/malaysia.json"
           },
@@ -236,6 +242,12 @@
             "count": 1,
             "json_path": "data/intents/backend-engineering/countries/singapore.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/singapore.json"
+          },
+          {
+            "country": "South Korea",
+            "count": 1,
+            "json_path": "data/intents/backend-engineering/countries/south-korea.json",
+            "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/backend-engineering/countries/south-korea.json"
           },
           {
             "country": "Taiwan",
@@ -349,7 +361,7 @@
           },
           {
             "country": "Malaysia",
-            "count": 53,
+            "count": 52,
             "json_path": "data/intents/sap-business-applications/countries/malaysia.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/malaysia.json"
           },
@@ -367,7 +379,7 @@
           },
           {
             "country": "South Korea",
-            "count": 1,
+            "count": 2,
             "json_path": "data/intents/sap-business-applications/countries/south-korea.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sap-business-applications/countries/south-korea.json"
           },
@@ -487,7 +499,7 @@
           },
           {
             "country": "Malaysia",
-            "count": 53,
+            "count": 52,
             "json_path": "data/intents/business-informatics/countries/malaysia.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/malaysia.json"
           },
@@ -505,7 +517,7 @@
           },
           {
             "country": "South Korea",
-            "count": 1,
+            "count": 2,
             "json_path": "data/intents/business-informatics/countries/south-korea.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/business-informatics/countries/south-korea.json"
           },
@@ -632,7 +644,7 @@
           },
           {
             "country": "Malaysia",
-            "count": 53,
+            "count": 52,
             "json_path": "data/intents/digitalization/countries/malaysia.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/malaysia.json"
           },
@@ -650,7 +662,7 @@
           },
           {
             "country": "South Korea",
-            "count": 1,
+            "count": 2,
             "json_path": "data/intents/digitalization/countries/south-korea.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/digitalization/countries/south-korea.json"
           },
@@ -775,7 +787,7 @@
           },
           {
             "country": "Malaysia",
-            "count": 44,
+            "count": 43,
             "json_path": "data/intents/finance/countries/malaysia.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/malaysia.json"
           },
@@ -793,7 +805,7 @@
           },
           {
             "country": "South Korea",
-            "count": 1,
+            "count": 2,
             "json_path": "data/intents/finance/countries/south-korea.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/finance/countries/south-korea.json"
           },
@@ -991,7 +1003,7 @@
         "supplier",
         "vendor"
       ],
-      "total_active": 102,
+      "total_active": 101,
       "entrypoints": {
         "india_first": {
           "json_path": "data/intents/procurement/india.json",
@@ -1002,7 +1014,7 @@
         "non_india_apac": {
           "json_path": "data/intents/procurement/non-india-apac.json",
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/non-india-apac.json",
-          "count": 68,
+          "count": 67,
           "use_when": "User asks for APAC, other APAC countries, or outside India."
         },
         "china": {
@@ -1014,7 +1026,7 @@
         "all_asia_apac": {
           "json_path": "data/intents/procurement/all.json",
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/all.json",
-          "count": 102,
+          "count": 101,
           "use_when": "Only when the user explicitly asks for all Asia/APAC results or country routing is insufficient."
         },
         "countries": [
@@ -1050,7 +1062,7 @@
           },
           {
             "country": "Malaysia",
-            "count": 43,
+            "count": 42,
             "json_path": "data/intents/procurement/countries/malaysia.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/procurement/countries/malaysia.json"
           },
@@ -1178,7 +1190,7 @@
           },
           {
             "country": "Malaysia",
-            "count": 51,
+            "count": 50,
             "json_path": "data/intents/engineering/countries/malaysia.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/malaysia.json"
           },
@@ -1196,7 +1208,7 @@
           },
           {
             "country": "South Korea",
-            "count": 1,
+            "count": 2,
             "json_path": "data/intents/engineering/countries/south-korea.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/engineering/countries/south-korea.json"
           },
@@ -1316,7 +1328,7 @@
           },
           {
             "country": "Malaysia",
-            "count": 37,
+            "count": 36,
             "json_path": "data/intents/sales-marketing/countries/malaysia.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/malaysia.json"
           },
@@ -1334,7 +1346,7 @@
           },
           {
             "country": "South Korea",
-            "count": 1,
+            "count": 2,
             "json_path": "data/intents/sales-marketing/countries/south-korea.json",
             "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/intents/sales-marketing/countries/south-korea.json"
           },

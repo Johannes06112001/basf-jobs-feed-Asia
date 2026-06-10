@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T17:55:03Z",
+  "last_updated": "2026-06-10T02:37:43Z",
   "scope": "Asia/APAC",
   "total_active": 281,
   "link_rule": "Application links must be copied only from job.url in JSON. Never construct basf.jobs links.",
@@ -243,7 +243,7 @@
     },
     {
       "country": "Malaysia",
-      "count": 53,
+      "count": 52,
       "html_path": "countries/malaysia.html",
       "html_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/countries/malaysia.html",
       "json_path": "data/countries/malaysia.json",
@@ -257,7 +257,7 @@
         },
         {
           "job_field": "Finance, Controlling & Audit",
-          "count": 15,
+          "count": 14,
           "json_path": "data/countries/malaysia/fields/finance-controlling-audit.json",
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/finance-controlling-audit.json"
         },
@@ -339,7 +339,7 @@
     },
     {
       "country": "South Korea",
-      "count": 1,
+      "count": 2,
       "html_path": "countries/south-korea.html",
       "html_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/countries/south-korea.html",
       "json_path": "data/countries/south-korea.json",
@@ -350,6 +350,12 @@
           "count": 1,
           "json_path": "data/countries/south-korea/fields/administration-office-support.json",
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/south-korea/fields/administration-office-support.json"
+        },
+        {
+          "job_field": "Research & Development",
+          "count": 1,
+          "json_path": "data/countries/south-korea/fields/research-development.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/south-korea/fields/research-development.json"
         }
       ]
     },
