@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-10T02:37:43Z",
+  "last_updated": "2026-06-10T08:02:03Z",
   "scope": "job_detail",
   "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly from job.url; never construct job links.",
   "job": {
     "job_id": "139464",
-    "title": "Assistant Manager, Technical Development",
+    "title": "Assistant Manager, Technical Development (Guangzhou)",
     "url": "https://basf.jobs/job-invite/139464/?locale=en_US",
     "country": "China",
     "city": "Guangzhou",

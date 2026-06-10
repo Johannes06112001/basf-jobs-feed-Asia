@@ -1,0 +1,25 @@
+{
+  "last_updated": "2026-06-10T08:02:03Z",
+  "scope": "country_field",
+  "country": "India",
+  "job_field": "General Management",
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139200",
+      "title": "Supplier Quality Engineer",
+      "url": "https://basf.jobs/job-invite/139200/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "General Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-10T02:30:23Z",
+      "description_preview": "About The Role Ensure all QM rules in accordance with ISO9001 / IATF16949 / ISO14001 / ISO 45001 / VDA / AIAG procedures Address and resolve quality issues, providing technical input and guidance on process enhancements and improvements at suppliers Drive pro-active QM mindset in BU How You Will Do It Cooperate with...",
+      "detail_path": "data/jobs/139200.json"
+    }
+  ]
+}

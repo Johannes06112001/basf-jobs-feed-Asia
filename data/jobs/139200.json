@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-10T08:02:03Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly from job.url; never construct job links.",
+  "job": {
+    "job_id": "139200",
+    "title": "Supplier Quality Engineer",
+    "url": "https://basf.jobs/job-invite/139200/?locale=en_US",
+    "country": "India",
+    "city": "Godrej One - Mumbai",
+    "state": "Maharashtra",
+    "job_field": "General Management",
+    "job_level": "Professional",
+    "job_type": "Permanent",
+    "company": "BASF India Limited",
+    "department": "G-PM/AQS",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-10T02:30:23Z",
+    "description": "About The Role Ensure all QM rules in accordance with ISO9001 / IATF16949 / ISO14001 / ISO 45001 / VDA / AIAG procedures Address and resolve quality issues, providing technical input and guidance on process enhancements and improvements at suppliers Drive pro-active QM mindset in BU How You Will Do It Cooperate with Sales and Engineer team on product development and jointly define process parameters and criteria to ensure supplier process capability is effective to meet product and process requirements (Focus on critical products, critical processes or critical suppliers) Work with global team to improve Supplier Quality Management system Drive “Quality Assurance Agreements” (QSV) with Suppliers and execute accordingly Supplier evaluation is based on historical performance together with purchasing and release score to supplier regularly. Supplier audit, including potential supplier audit, annual audit, product and process audit and assess their practices and procedures and identify areas for improvement Take responsibility for the overall quality activities concerning quality assurance of purchased parts, monitor supplier performance, validate supplier 8D report and collect failure cost to support procurement for compensation Project supplier nomination procedure engagement based on supplier quality and capacity assessment. Check and approve product drawing and release to supplier Project APQP support for supplier part, regarding OTS and PPAP work, project audit for supplier. Support on supplier development based on customer and business requirements. Apply quality tools e.g. Cp/Cpk, SPC, R R, 8D to analyze and improve supplier quality performance Supplier changes are managed and approved based on quality, cost savings, and customer requirements. Cooperate with the other QM functions to improve customer satisfaction Work together with delegated procurement to transfer customer CSR to supplier. Assist in maintaining Quality Management (QM) documents in accordance with ISO 9001-2015 and IATF 16949-2016 standards. This involves ensuring compliance with the quality management system by keeping all necessary documentation and records up to date and accurate. QMS Audit Records: Maintain comprehensive records of both external and internal quality management system audits to demonstrate compliance and facilitate continuous improvement. Assist in compiling customer-specific QMS requirements, including supporting the implementation and maintenance of customer..."
+  }
+}

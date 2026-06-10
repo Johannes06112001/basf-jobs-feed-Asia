@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T02:37:43Z",
+  "last_updated": "2026-06-10T08:02:03Z",
   "scope": "intent_country",
   "intent": "sap-business-applications",
   "display_name": "SAP / Business Applications",
@@ -38,7 +38,7 @@
     "mm",
     "atp"
   ],
-  "total_active": 52,
+  "total_active": 54,
   "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
   "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
   "jobs": [
@@ -167,6 +167,20 @@
       "date_posted": "2026-03-04T03:08:21Z",
       "description_preview": "Main Tasks: 1. Involved in software development as well as maintenance and improvement of citizen development tools. i.e. Microsoft Power Apps, Power BI and other Microsoft products. 2. Engage, enable and collaborate with stakeholders. 3. Review current processes and identify opportunities for improvement. 4. Assist...",
       "detail_path": "data/jobs/133620.json"
+    },
+    {
+      "job_id": "139418",
+      "title": "Trade Compliance Operations AP (Senior Executive)",
+      "url": "https://basf.jobs/job-invite/139418/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-10T06:18:39Z",
+      "description_preview": "Objectives of the Position • Support BASF group companies to meet all legal and regulatory requirements related to trade compliance. • Protect BASF’s license to operate by ensuring adherence to Import and export control, domestic regulations, sanctions, and screening obligations. Main Areas of Responsibilities and Key...",
+      "detail_path": "data/jobs/139418.json"
     },
     {
       "job_id": "134802",
@@ -407,6 +421,20 @@
       "detail_path": "data/jobs/134607.json"
     },
     {
+      "job_id": "139463",
+      "title": "Talent Acquisition Analyst (Mandarin Speaker) - 6 months contract",
+      "url": "https://basf.jobs/job-invite/139463/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Other",
+      "date_posted": "2026-06-10T06:25:58Z",
+      "description_preview": "Objectives Supervise and provide guidance to recruitment team members on day-to-day recruitment service delivery for China, Hong Kong and Taiwan. Support team members by resolving critical operational issues and enquiries and manage the escalation of complex operational issues according to escalation process. Work...",
+      "detail_path": "data/jobs/139463.json"
+    },
+    {
       "job_id": "132786",
       "title": "Intern, Environmental, Health, and Safety",
       "url": "https://basf.jobs/job-invite/132786/?locale=en_US",
@@ -422,7 +450,7 @@
     },
     {
       "job_id": "139469",
-      "title": "Purchase-to-Pay Freight Cost (Associate Analyst) - Leasing 1",
+      "title": "Purchase-to-Pay Freight Cost (Associate Analyst) - Contract",
       "url": "https://basf.jobs/job-invite/139469/?locale=en_US",
       "country": "Malaysia",
       "city": "Kuala Lumpur",

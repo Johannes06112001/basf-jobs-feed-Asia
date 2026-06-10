@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-06-10T02:37:43Z",
+  "last_updated": "2026-06-10T08:02:03Z",
   "scope": "Asia/APAC",
-  "total_active": 281,
+  "total_active": 285,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Large aggregate file. Prefer data/agent-guide.json, data/intent-map.json, country JSON files, field JSON files, and job detail JSON files to keep context small.",
   "countries": [
     "India",
+    "Bangladesh",
     "China",
     "Hong Kong",
     "Indonesia",
@@ -20,6 +21,58 @@
     "Vietnam"
   ],
   "jobs": [
+    {
+      "job_id": "139463",
+      "title": "Talent Acquisition Analyst (Mandarin Speaker) - 6 months contract",
+      "url": "https://basf.jobs/job-invite/139463/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Other",
+      "date_posted": "2026-06-10T06:25:58Z",
+      "detail_path": "data/jobs/139463.json"
+    },
+    {
+      "job_id": "139418",
+      "title": "Trade Compliance Operations AP (Senior Executive)",
+      "url": "https://basf.jobs/job-invite/139418/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-10T06:18:39Z",
+      "detail_path": "data/jobs/139418.json"
+    },
+    {
+      "job_id": "139481",
+      "title": "Deputy Manager, Business Development",
+      "url": "https://basf.jobs/job-invite/139481/?locale=en_US",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "state": "Unknown",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-10T03:54:50Z",
+      "detail_path": "data/jobs/139481.json"
+    },
+    {
+      "job_id": "139200",
+      "title": "Supplier Quality Engineer",
+      "url": "https://basf.jobs/job-invite/139200/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "General Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-10T02:30:23Z",
+      "detail_path": "data/jobs/139200.json"
+    },
     {
       "job_id": "139461",
       "title": "G-EDM Lab Intern",
@@ -48,7 +101,7 @@
     },
     {
       "job_id": "139469",
-      "title": "Purchase-to-Pay Freight Cost (Associate Analyst) - Leasing 1",
+      "title": "Purchase-to-Pay Freight Cost (Associate Analyst) - Contract",
       "url": "https://basf.jobs/job-invite/139469/?locale=en_US",
       "country": "Malaysia",
       "city": "Kuala Lumpur",
@@ -126,7 +179,7 @@
     },
     {
       "job_id": "139464",
-      "title": "Assistant Manager, Technical Development",
+      "title": "Assistant Manager, Technical Development (Guangzhou)",
       "url": "https://basf.jobs/job-invite/139464/?locale=en_US",
       "country": "China",
       "city": "Guangzhou",

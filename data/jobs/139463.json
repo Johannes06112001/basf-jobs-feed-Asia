@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-06-10T08:02:03Z",
+  "scope": "job_detail",
+  "llm_instruction": "Use this file only after a candidate job was selected. Copy the BASF URL exactly from job.url; never construct job links.",
+  "job": {
+    "job_id": "139463",
+    "title": "Talent Acquisition Analyst (Mandarin Speaker) - 6 months contract",
+    "url": "https://basf.jobs/job-invite/139463/?locale=en_US",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "job_field": "Human Resources",
+    "job_level": "Professional",
+    "job_type": "Other",
+    "company": "BASF Asia-Pacific Service Centre Sdn. Bhd.",
+    "department": "GB/H TALENT ACQUISITION & TALENT DEVELOPMENT",
+    "business_unit": "Asia Pacific",
+    "hybrid": false,
+    "date_posted": "2026-06-10T06:25:58Z",
+    "description": "Objectives Supervise and provide guidance to recruitment team members on day-to-day recruitment service delivery for China, Hong Kong and Taiwan. Support team members by resolving critical operational issues and enquiries and manage the escalation of complex operational issues according to escalation process. Work with manager to manage customers’ expectations, drive process standardization, harmonization, and process improvements through resolution of operational related issues and enquiries. Assist manager in resource planning and monitoring to ensure zero interruption to operations. Main Tasks Service Organization Work with manager in attending to relevant feedback received during country discussion, operations review meeting and other forms of Customer Feedback. Discuss with manager and team to take actions and implement appropriate solutions which contribute to improvement of customer satisfaction level. Collaborate with other related BASF and BSSCKL teams to ensure quality and customer-oriented service are delivered for HR areas, and at the same time compliance to standard operation procedures (SOP). Operational Excellence Cost Efficiency Support, guide and coach team member to ensure the recruitment service deliverables in scopes are meeting agreed service level agreement. Guide and coach team members in handling complex or critical operation issue or cases, work with relevant parties for resolution, manage the issues' escalation when necessary in timely manner. Identify trends of issue occur in operations. Highlight, discuss and propose solutions to manager to handle issues accordingly. Vendor management which includes service provider scouting, selection, negotiation, contract management, onboarding and performance monitoring. Collaborate with other team members to establish and maintain a confidential and sensitive work environment, focusing on customer services by handling all customer requests in a professional manner to resolve operational issues. Assist manager in resource planning and workload arrangements to ensure sufficient resources to attend daily task in order to meet SLA and no interruption in operations. Actively work with team member to identify improvement areas on daily operational processes, support and participate to implement these Improvement initiatives which brings impact to the operation's productivity, efficiency, standardization and harmonization. Act as a back-up to the other Team Lead or Team member on managing..."
+  }
+}

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-06-10T02:37:43Z",
+  "last_updated": "2026-06-10T08:02:03Z",
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Human Resources",
-  "total_active": 6,
+  "total_active": 7,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
   "jobs": [
+    {
+      "job_id": "139463",
+      "title": "Talent Acquisition Analyst (Mandarin Speaker) - 6 months contract",
+      "url": "https://basf.jobs/job-invite/139463/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Other",
+      "date_posted": "2026-06-10T06:25:58Z",
+      "description_preview": "Objectives Supervise and provide guidance to recruitment team members on day-to-day recruitment service delivery for China, Hong Kong and Taiwan. Support team members by resolving critical operational issues and enquiries and manage the escalation of complex operational issues according to escalation process. Work...",
+      "detail_path": "data/jobs/139463.json"
+    },
     {
       "job_id": "138986",
       "title": "Payroll & People Data Analyst - Mandarin Speaker (Leasing, 9 month contract)",

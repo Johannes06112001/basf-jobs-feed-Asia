@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T02:37:43Z",
+  "last_updated": "2026-06-10T08:02:03Z",
   "scope": "intent_india",
   "intent": "sap-business-applications",
   "display_name": "SAP / Business Applications",
@@ -38,7 +38,7 @@
     "mm",
     "atp"
   ],
-  "total_active": 152,
+  "total_active": 153,
   "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
   "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
   "jobs": [
@@ -1679,6 +1679,20 @@
       "date_posted": "2026-05-12T10:14:23Z",
       "description_preview": "O bjecti v es of t h e P osi t ion: To lead a customization team for 2-Wheeler customers and achieve set goals by organization M ain Areas of Responsibilities and Key Activities: Responsible for Works on development of new products and adaptation of existing products and tests the same to ascertain conformance to...",
       "detail_path": "data/jobs/117761.json"
+    },
+    {
+      "job_id": "139200",
+      "title": "Supplier Quality Engineer",
+      "url": "https://basf.jobs/job-invite/139200/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "General Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-10T02:30:23Z",
+      "description_preview": "About The Role Ensure all QM rules in accordance with ISO9001 / IATF16949 / ISO14001 / ISO 45001 / VDA / AIAG procedures Address and resolve quality issues, providing technical input and guidance on process enhancements and improvements at suppliers Drive pro-active QM mindset in BU How You Will Do It Cooperate with...",
+      "detail_path": "data/jobs/139200.json"
     },
     {
       "job_id": "139489",

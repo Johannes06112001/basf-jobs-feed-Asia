@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T02:37:43Z",
+  "last_updated": "2026-06-10T08:02:03Z",
   "scope": "intent_all_asia_apac",
   "intent": "software-engineering",
   "display_name": "Software Engineering / Developer / Full Stack",
@@ -44,7 +44,7 @@
     "scrum",
     "product owner"
   ],
-  "total_active": 214,
+  "total_active": 216,
   "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
   "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
   "jobs": [
@@ -1659,6 +1659,20 @@
       "detail_path": "data/jobs/132997.json"
     },
     {
+      "job_id": "139200",
+      "title": "Supplier Quality Engineer",
+      "url": "https://basf.jobs/job-invite/139200/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "General Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-10T02:30:23Z",
+      "description_preview": "About The Role Ensure all QM rules in accordance with ISO9001 / IATF16949 / ISO14001 / ISO 45001 / VDA / AIAG procedures Address and resolve quality issues, providing technical input and guidance on process enhancements and improvements at suppliers Drive pro-active QM mindset in BU How You Will Do It Cooperate with...",
+      "detail_path": "data/jobs/139200.json"
+    },
+    {
       "job_id": "139180",
       "title": "Assistant Manager, Sales - Engineering Plastic (Guangzhou)",
       "url": "https://basf.jobs/job-invite/139180/?locale=en_US",
@@ -1981,6 +1995,20 @@
       "detail_path": "data/jobs/135123.json"
     },
     {
+      "job_id": "139463",
+      "title": "Talent Acquisition Analyst (Mandarin Speaker) - 6 months contract",
+      "url": "https://basf.jobs/job-invite/139463/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Other",
+      "date_posted": "2026-06-10T06:25:58Z",
+      "description_preview": "Objectives Supervise and provide guidance to recruitment team members on day-to-day recruitment service delivery for China, Hong Kong and Taiwan. Support team members by resolving critical operational issues and enquiries and manage the escalation of complex operational issues according to escalation process. Work...",
+      "detail_path": "data/jobs/139463.json"
+    },
+    {
       "job_id": "139461",
       "title": "G-EDM Lab Intern",
       "url": "https://basf.jobs/job-invite/139461/?locale=en_US",
@@ -1996,7 +2024,7 @@
     },
     {
       "job_id": "139464",
-      "title": "Assistant Manager, Technical Development",
+      "title": "Assistant Manager, Technical Development (Guangzhou)",
       "url": "https://basf.jobs/job-invite/139464/?locale=en_US",
       "country": "China",
       "city": "Guangzhou",

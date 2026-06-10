@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-10T02:37:43Z",
+  "last_updated": "2026-06-10T08:02:03Z",
   "scope": "Asia/APAC",
-  "total_active": 281,
+  "total_active": 285,
   "link_rule": "Application links must be copied only from job.url in JSON. Never construct basf.jobs links.",
   "llm_instruction": "For most role searches, start with data/agent-guide.json and data/intent-map.json. Use this routing file when a country or field is not covered by an intent entrypoint. Default to India when no country is specified. Use wider Asia/APAC only as fallback or when explicitly requested. Copy BASF job URLs exactly from job.url.",
   "countries": [
     {
       "country": "India",
-      "count": 159,
+      "count": 160,
       "html_path": "countries/india.html",
       "html_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/countries/india.html",
       "json_path": "data/countries/india.json",
@@ -68,6 +68,12 @@
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/applications-technology.json"
         },
         {
+          "job_field": "General Management",
+          "count": 1,
+          "json_path": "data/countries/india/fields/general-management.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/general-management.json"
+        },
+        {
           "job_field": "Human Resources",
           "count": 1,
           "json_path": "data/countries/india/fields/human-resources.json",
@@ -90,6 +96,22 @@
           "count": 1,
           "json_path": "data/countries/india/fields/quality-management.json",
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/india/fields/quality-management.json"
+        }
+      ]
+    },
+    {
+      "country": "Bangladesh",
+      "count": 1,
+      "html_path": "countries/bangladesh.html",
+      "html_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/countries/bangladesh.html",
+      "json_path": "data/countries/bangladesh.json",
+      "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/bangladesh.json",
+      "fields": [
+        {
+          "job_field": "Marketing & Sales",
+          "count": 1,
+          "json_path": "data/countries/bangladesh/fields/marketing-sales.json",
+          "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/bangladesh/fields/marketing-sales.json"
         }
       ]
     },
@@ -243,7 +265,7 @@
     },
     {
       "country": "Malaysia",
-      "count": 52,
+      "count": 54,
       "html_path": "countries/malaysia.html",
       "html_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/countries/malaysia.html",
       "json_path": "data/countries/malaysia.json",
@@ -251,7 +273,7 @@
       "fields": [
         {
           "job_field": "Logistics & Supply Chain Management",
-          "count": 22,
+          "count": 23,
           "json_path": "data/countries/malaysia/fields/logistics-supply-chain-management.json",
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/logistics-supply-chain-management.json"
         },
@@ -263,7 +285,7 @@
         },
         {
           "job_field": "Human Resources",
-          "count": 6,
+          "count": 7,
           "json_path": "data/countries/malaysia/fields/human-resources.json",
           "json_url": "https://johannes06112001.github.io/basf-jobs-feed-Asia/data/countries/malaysia/fields/human-resources.json"
         },

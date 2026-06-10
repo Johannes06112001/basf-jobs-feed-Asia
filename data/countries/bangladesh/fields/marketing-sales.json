@@ -1,0 +1,25 @@
+{
+  "last_updated": "2026-06-10T08:02:03Z",
+  "scope": "country_field",
+  "country": "Bangladesh",
+  "job_field": "Marketing & Sales",
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139481",
+      "title": "Deputy Manager, Business Development",
+      "url": "https://basf.jobs/job-invite/139481/?locale=en_US",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "state": "Unknown",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-10T03:54:50Z",
+      "description_preview": "We are looking for a dynamic and commercially driven Deputy Manager – Business Development to lead market expansion, customer engagement, and product development initiatives in Bangladesh’s vegetable seeds business. This role is ideal for professionals passionate about agriculture, sales strategy, dealer development,...",
+      "detail_path": "data/jobs/139481.json"
+    }
+  ]
+}

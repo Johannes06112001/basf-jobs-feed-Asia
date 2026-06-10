@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T02:37:43Z",
+  "last_updated": "2026-06-10T08:02:03Z",
   "scope": "intent_india",
   "intent": "finance",
   "display_name": "Finance / Controlling / Audit",
@@ -35,7 +35,7 @@
     "mis",
     "controller"
   ],
-  "total_active": 101,
+  "total_active": 102,
   "link_rule": "Application links must be copied only from job.url. Never construct, repair, shorten, or guess basf.jobs links.",
   "llm_instruction": "Use this intent-specific file when the user's request matches one of the aliases or keywords. Default to India first unless the user names another country or asks for other APAC countries. For details, fetch detail_path only for shortlisted roles.",
   "jobs": [
@@ -262,6 +262,20 @@
       "date_posted": "2026-05-19T01:11:06Z",
       "description_preview": "We are seeking a Frontend Engineer (JavaScript / React) to design and build intuitive, high-quality user interfaces for our applications. In this role, you will be responsible for developing responsive and maintainable frontend solutions, working closely with backend engineers, designers, and other stakeholders to...",
       "detail_path": "data/jobs/138544.json"
+    },
+    {
+      "job_id": "139200",
+      "title": "Supplier Quality Engineer",
+      "url": "https://basf.jobs/job-invite/139200/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "General Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-10T02:30:23Z",
+      "description_preview": "About The Role Ensure all QM rules in accordance with ISO9001 / IATF16949 / ISO14001 / ISO 45001 / VDA / AIAG procedures Address and resolve quality issues, providing technical input and guidance on process enhancements and improvements at suppliers Drive pro-active QM mindset in BU How You Will Do It Cooperate with...",
+      "detail_path": "data/jobs/139200.json"
     },
     {
       "job_id": "139489",

@@ -1,8 +1,56 @@
 {
-  "last_updated": "2026-06-10T02:37:43Z",
+  "last_updated": "2026-06-10T08:02:03Z",
   "scope": "search_index",
   "llm_instruction": "Use this compact array only as a fallback keyword index. Application links still must come from url exactly.",
   "jobs": [
+    {
+      "job_id": "139463",
+      "title": "Talent Acquisition Analyst (Mandarin Speaker) - 6 months contract",
+      "url": "https://basf.jobs/job-invite/139463/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "date_posted": "2026-06-10T06:25:58Z",
+      "detail_path": "data/jobs/139463.json",
+      "search_text": "Talent Acquisition Analyst (Mandarin Speaker) - 6 months contract | Malaysia | Kuala Lumpur | Wilayah Persekutuan Kuala Lumpur | Human Resources | Professional | Other"
+    },
+    {
+      "job_id": "139418",
+      "title": "Trade Compliance Operations AP (Senior Executive)",
+      "url": "https://basf.jobs/job-invite/139418/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "date_posted": "2026-06-10T06:18:39Z",
+      "detail_path": "data/jobs/139418.json",
+      "search_text": "Trade Compliance Operations AP (Senior Executive) | Malaysia | Kuala Lumpur | Wilayah Persekutuan Kuala Lumpur | Logistics & Supply Chain Management | Professional | Permanent"
+    },
+    {
+      "job_id": "139481",
+      "title": "Deputy Manager, Business Development",
+      "url": "https://basf.jobs/job-invite/139481/?locale=en_US",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "date_posted": "2026-06-10T03:54:50Z",
+      "detail_path": "data/jobs/139481.json",
+      "search_text": "Deputy Manager, Business Development | Bangladesh | Dhaka | Unknown | Marketing & Sales | Professional | Permanent"
+    },
+    {
+      "job_id": "139200",
+      "title": "Supplier Quality Engineer",
+      "url": "https://basf.jobs/job-invite/139200/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "job_field": "General Management",
+      "job_level": "Professional",
+      "date_posted": "2026-06-10T02:30:23Z",
+      "detail_path": "data/jobs/139200.json",
+      "search_text": "Supplier Quality Engineer | India | Godrej One - Mumbai | Maharashtra | General Management | Professional | Permanent"
+    },
     {
       "job_id": "139461",
       "title": "G-EDM Lab Intern",
@@ -29,7 +77,7 @@
     },
     {
       "job_id": "139469",
-      "title": "Purchase-to-Pay Freight Cost (Associate Analyst) - Leasing 1",
+      "title": "Purchase-to-Pay Freight Cost (Associate Analyst) - Contract",
       "url": "https://basf.jobs/job-invite/139469/?locale=en_US",
       "country": "Malaysia",
       "city": "Kuala Lumpur",
@@ -37,7 +85,7 @@
       "job_level": "Professional",
       "date_posted": "2026-06-09T08:44:03Z",
       "detail_path": "data/jobs/139469.json",
-      "search_text": "Purchase-to-Pay Freight Cost (Associate Analyst) - Leasing 1 | Malaysia | Kuala Lumpur | Wilayah Persekutuan Kuala Lumpur | Finance, Controlling & Audit | Professional | Temporary"
+      "search_text": "Purchase-to-Pay Freight Cost (Associate Analyst) - Contract | Malaysia | Kuala Lumpur | Wilayah Persekutuan Kuala Lumpur | Finance, Controlling & Audit | Professional | Temporary"
     },
     {
       "job_id": "134802",
@@ -101,7 +149,7 @@
     },
     {
       "job_id": "139464",
-      "title": "Assistant Manager, Technical Development",
+      "title": "Assistant Manager, Technical Development (Guangzhou)",
       "url": "https://basf.jobs/job-invite/139464/?locale=en_US",
       "country": "China",
       "city": "Guangzhou",
@@ -109,7 +157,7 @@
       "job_level": "Professional",
       "date_posted": "2026-06-08T06:36:01Z",
       "detail_path": "data/jobs/139464.json",
-      "search_text": "Assistant Manager, Technical Development | China | Guangzhou | Panyu | Research & Development | Professional | Permanent"
+      "search_text": "Assistant Manager, Technical Development (Guangzhou) | China | Guangzhou | Panyu | Research & Development | Professional | Permanent"
     },
     {
       "job_id": "139414",

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-06-10T02:37:43Z",
+  "last_updated": "2026-06-10T08:02:03Z",
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Logistics & Supply Chain Management",
-  "total_active": 22,
+  "total_active": 23,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
   "jobs": [
+    {
+      "job_id": "139418",
+      "title": "Trade Compliance Operations AP (Senior Executive)",
+      "url": "https://basf.jobs/job-invite/139418/?locale=en_US",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "state": "Wilayah Persekutuan Kuala Lumpur",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-10T06:18:39Z",
+      "description_preview": "Objectives of the Position • Support BASF group companies to meet all legal and regulatory requirements related to trade compliance. • Protect BASF’s license to operate by ensuring adherence to Import and export control, domestic regulations, sanctions, and screening obligations. Main Areas of Responsibilities and Key...",
+      "detail_path": "data/jobs/139418.json"
+    },
     {
       "job_id": "134802",
       "title": "Transport Management (Executive)",
